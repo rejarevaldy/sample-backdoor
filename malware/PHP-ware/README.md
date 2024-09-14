@@ -1,0 +1,19 @@
+# PHP malware 🤭
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+From Backdoors, bruteforce, Defacement payloads, Spyware ---
+To Mphak and Massma malware families....All here!!
+
+If the zip requests a password...
+  type 'infected'.....without the quotation marks, Offcourse... 
+  
+These:
+
+    👉 Randomly collected in the wild,
+    👉 Shared by victims or other malware researchers (vx-underground + Mandiant + crowdstrike)
+    👉 A lot coded by me
+    👉 A lot retrieved by triaging
+    👉 crewcorp is reverse engineered. The rest is barely obfuscated.
+    
+    Careful yo!😋
+
