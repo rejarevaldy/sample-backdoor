@@ -1,0 +1,2436 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2023.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-03 08:24+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/ojs/locale/"
+"az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "common.software"
+msgstr "Açıq Jurnal sistemləri"
+
+msgid "common.confirmComplete"
+msgstr ""
+"Bu vəzifəni bitdi kimi işarələmək istədiyinizdən əminsinizmi? Sonradan "
+"dəyişiklik etməyiniz mümkün olmaya bilər."
+
+msgid "common.payment"
+msgstr "Ödəniş"
+
+msgid "common.payments"
+msgstr "Ödənişlər"
+
+msgid "common.homePageHeader.altText"
+msgstr "Ana səhifə başlığı"
+
+msgid "article.file"
+msgstr "Fayl"
+
+msgid "article.submission"
+msgstr "Müraciət"
+
+msgid "article.submissions"
+msgstr "Müraciətlər"
+
+msgid "article.details"
+msgstr "Təfərrüatlar"
+
+msgid "article.commentsToEditor"
+msgstr "Müəllif şərhləri"
+
+msgid "article.comments.sectionDefault"
+msgstr "Defolt"
+
+msgid "article.fontSize.small.altText"
+msgstr "Kiçik"
+
+msgid "article.accessLogoOpen.altText"
+msgstr "Açıq giriş"
+
+msgid "article.accessLogoRestricted.altText"
+msgstr "Məhdud giriş"
+
+msgid "article.comments.disable"
+msgstr "Passivləşdir"
+
+msgid "article.comments.enable"
+msgstr "Aktivləşdir"
+
+msgid "article.fontSize"
+msgstr "Şrift ölçüsü"
+
+msgid "submission.submissionEditing"
+msgstr "Məqalə redaktə"
+
+msgid "submission.sent"
+msgstr "Məqalə"
+
+msgid "article.return"
+msgstr "Məqalə detalına qayıt"
+
+msgid "submission.changeSection"
+msgstr "Dəyişiklik edin"
+
+msgid "article.fontSize.large.altText"
+msgstr "Böyük"
+
+msgid "doi.issue.incorrectStaleStatus"
+msgstr ""
+"Nömrə üçün DOI yaradıla bilmədi: {$itemTitle}. DOI-nin \"qeydiyyatdan "
+"keçmiş\" və ya \"göndərilmiş\" statusu olmalıdır."
+
+msgid "subscriptions.status.other"
+msgstr "Digər, qeydlərə baxın"
+
+msgid "subscriptions.status.awaitingOnlinePayment"
+msgstr "Onlayn ödəniş gözlənilir"
+
+msgid "subscriptions.status.noSubscription"
+msgstr "Aktiv bir abunəliyiniz yoxdur."
+
+msgid "subscriptions.individualDescription"
+msgstr "Fərdi abunəlik məzmuna çatmaq üçün daxil olmağı tələb edir."
+
+msgid "subscriptionManager.subscriptionManagement"
+msgstr "Abunə idarəetmə"
+
+msgid "subscriptionManager.individualSubscriptions"
+msgstr "Fərdi abunəlik"
+
+msgid "subscriptionManager.institutionalSubscriptions"
+msgstr "Korporativ abunəlik"
+
+msgid "admin.overwriteConfigFileInstructions"
+msgstr ""
+"<h4>NOT!</h4>\n"
+"<p>Sistem avtomatik olaraq sturukturlaşma faylının üzərinə yaza bilməz. "
+"Sturukturlaşma dəyişikliklərini tətbiq edə bilmək üçün <tt>config.inc.php</"
+"tt> faylını uyğun bir yazı tənzimləyicidə açmaq və məzmununu aşağıda yazı "
+"sahəsində qeyd olunan məzmunla dəyişdirməyiniz lazımdır. </p>"
+
+msgid "plugins.categories.viewableFiles"
+msgstr "Məqalə dizayn qoşması"
+
+msgid "plugins.categories.viewableFiles.description"
+msgstr ""
+"Məqalə dizayn qoşmaları, məqalə əsasları kimi fərqli sənəd növlərini açmaq "
+"üçün dəstək verir."
+
+msgid "plugins.categories.auth.description"
+msgstr ""
+"ADS səlahiyyətvermə qoşmaları, LDAP serverləri kimi digər sistemlərə "
+"istifadəçi kimlik təsdiqi üçün icazə verir."
+
+msgid "manager.setup.basicEditorialStepsDescription"
+msgstr ""
+"Addımlar: Müraciət növbəsi &gt; Müraciət dəyərləndirilməsi &gt; Yazıların "
+"tənzimlənməsi &gt; Nəşr gözləmə növbəsi &gt; İçindekiler.<br /><br />\n"
+"Redaksiya prosesində bu addımların necə işləyəcəyi xüsusunda bir model "
+"seçin. (İdarəçi redaktor, bölmə redaktoru təyin etmək üçün Jurnal "
+"İdarəsindəki Redaktorlar gölməsinə gedin.)"
+
+msgid "manager.people.confirmDisable"
+msgstr ""
+"Bu abunəni passivləşdir. Sistemə girən abunəni rədd edəcək.\n"
+"\n"
+"Sərbəst hesabları deaktiv etmək üçün səbəb göstərərək istifadəçini "
+"passivləşdir."
+
+msgid "manager.people.noAdministrativeRights"
+msgstr ""
+"Təəssüf edirik, bu istifadəçi üzərində idari haqqınız yoxdur. Bunun səbəbi:\n"
+" <ul>\n"
+" <li>İsitfadəçi sayt idarəçisidir</li>\n"
+" <li>İstifadəçi idarə etmədiyiniz Jurnallarda aktivdir</li>\n"
+" </ul>\n"
+"Bu vəzifə sayt idarəçisi tərəfindən yerinə yetirilməlidi\n"
+"\t"
+
+msgid "editor.submissionEditing.notes"
+msgstr ""
+"\n"
+"\t<ol>\n"
+" <li>Aşağıda göstərilən işarəli elementlər bir redaktor tərəfindən prosesdən "
+"keçirilməsi gərəkdiyini göstərir:\n"
+" <ul>\n"
+" <li class=\"highlightCopyediting\">Çap hazırlığı mərhələsində bir proses "
+"lazımdır.</li>\n"
+" <li class=\"highlightLayoutEditing\">Tərtibat mərhələsində bir proses "
+"gərəklidir.</li>\n"
+" <li class=\"higlightProofreading\">Son oxuma mərhələsində bir proses "
+"gərəklidir.</li>\n"
+" </ul>\n"
+" </li>\n"
+"</ol>"
+
+msgid "copyeditor.article.fileToCopyedit"
+msgstr "S/D-yə fayl"
+
+msgid "copyeditor.article.copyeditorFile"
+msgstr "Səhifə redaktoru faylı"
+
+msgid "copyeditor.article.copyeditorFinalFile"
+msgstr "Səhifə redaktoru son faylı"
+
+msgid "proofreader.noProofreadingAssignments"
+msgstr "Korrektor təyinatı edilməyib"
+
+msgid "submission.copyedit.finalCopyedit"
+msgstr "Son səhifə tərtibatı"
+
+msgid "submission.copyedit.instructions"
+msgstr "Səhifə tərtibatı təlimatı"
+
+msgid "submission.layout.noLayoutFile"
+msgstr ""
+"Heç biri (Tələb göndərməzdən əvvəl sonra kopya tənzimləmə versiyasını "
+"tərtibat versiyası kimi yüklə)"
+
+msgid "submission.comments.forEditor"
+msgstr "Redaktor üçün"
+
+msgid "user.subscriptions.form.institutionMailingAddress"
+msgstr "Fayl adresi"
+
+msgid "user.subscriptions.form.domain"
+msgstr "Sahə"
+
+msgid "user.subscriptions.form.ipRange"
+msgstr "IP aralığı"
+
+msgid "article.pageTitle"
+msgstr "{$title} görünüşü"
+
+msgid "about.subscriptionTypes.name"
+msgstr "Ad"
+
+msgid "payment.membership.renewMembership"
+msgstr "Fərdi abunə yenilənməsi"
+
+msgid "payment.subscription.purchase"
+msgstr "Abunəlik alın"
+
+msgid "payment.membership.ends"
+msgstr "Sona çatır"
+
+msgid "payment.subscription.expires"
+msgstr "Başa çatır"
+
+msgid "installer.installApplication"
+msgstr "Açıq Jurnal sistemlərini qur"
+
+msgid "navigation.subscriptions"
+msgstr "Abunəliklər"
+
+msgid "catalog.sortBy"
+msgstr "Məqalələri sırala"
+
+msgid "editor.issues.futureIssues"
+msgstr "Gələcək nömrələr"
+
+msgid "context.current"
+msgstr "Cari jurnal:"
+
+msgid "navigation.categories"
+msgstr "Kateqoriyalar"
+
+msgid "navigation.categories.browse"
+msgstr "Siyahı tut"
+
+msgid "reviewer.submission.reviewFormResponse.form.responseRequired"
+msgstr "Zəhmət olmasa lazimi yerləri doldurun."
+
+msgid "common.journalHomepageImage.altText"
+msgstr "Jurnal ana səhifə şəkli"
+
+msgid "doi.manager.settings.publications"
+msgstr "Məqalələr"
+
+msgid "navigation.browseByIssue"
+msgstr "Nömrələrə görə"
+
+msgid "common.queue.short.active"
+msgstr "Aktiv"
+
+msgid "common.queue.long.completed"
+msgstr "Arxiv"
+
+msgid "common.queue.short.completed"
+msgstr "Arxiv"
+
+msgid "common.queue.long.submissionsInEditing"
+msgstr "Tənzimləmədəki Məqalələr"
+
+msgid "common.queue.short.submissionsInEditing"
+msgstr "Nəticələnənlər"
+
+msgid "common.queue.long.submissionsArchives"
+msgstr "Arxivlənənlər"
+
+msgid "common.queue.long.submissionsUnassigned"
+msgstr "Yeni müraciətlər"
+
+msgid "common.queue.short.submissionsUnassigned"
+msgstr "Yeni müraciətlər"
+
+msgid "article.submissionId"
+msgstr "Fayl ID-si"
+
+msgid "section.section"
+msgstr "Bölmə"
+
+msgid "section.sections"
+msgstr "Jurnal bölmələri"
+
+msgid "article.authors"
+msgstr "Müəlliflər"
+
+msgid "article.journalSection"
+msgstr "Jurnal bölməsi"
+
+msgid "article.metadata"
+msgstr "Üst data"
+
+msgid "article.language"
+msgstr "Dil"
+
+msgid "article.sectionEditor"
+msgstr "BE"
+
+msgid "article.abstract"
+msgstr "Xülasə"
+
+msgid "article.fontSize.medium.altText"
+msgstr "Orta"
+
+msgid "submission.editorReview"
+msgstr "Redaktor dəyərləndirməsi"
+
+msgid "submission.notifyEditor"
+msgstr "Redaktora məlumat verin"
+
+msgid "submission.notifyAuthor"
+msgstr "Müəllifə məlumat verin"
+
+msgid "submission.round"
+msgstr "&nbsp; {$round}. Tur"
+
+msgid "submission.proofreading"
+msgstr "Dizayn düzəltmə"
+
+msgid "submissions.initial"
+msgstr "Prioritet"
+
+msgid "submission.scheduledIn.tba"
+msgstr "(Bildiriləcək)"
+
+msgid "submissions.queuedReview"
+msgstr "Dəyərləndirmədə"
+
+msgid "submissions.proofread"
+msgstr "Dizayn düzəltmə"
+
+msgid "submissions.initialProof"
+msgstr "İlk dizayn"
+
+msgid "submissions.reviewRound"
+msgstr "Dəyərləndirmə turu"
+
+msgid "submission.eventLog"
+msgstr "Qeydiyyat dəftəri"
+
+msgid "submissions.postAuthor"
+msgstr "Müəllifdən sonra"
+
+msgid "submissions.proof"
+msgstr "Dizayn düzəltmə"
+
+msgid "context.contexts"
+msgstr "Jurnallar"
+
+msgid "journal.path"
+msgstr "Yol"
+
+msgid "context.context"
+msgstr "Jurnal"
+
+msgid "journal.issn"
+msgstr "ISSN"
+
+msgid "journal.currentIssue"
+msgstr "Yeni nömrə"
+
+msgid "user.registerForOtherJournals"
+msgstr "Digər jurnallar üçün müraciət edin"
+
+msgid "user.showAllJournals"
+msgstr "Jurnallarımı göstərin"
+
+msgid "user.reviewerPrompt"
+msgstr "Bu jurnala göndərilənləri görmək istəyərsinizmi?"
+
+msgid "user.reviewerPrompt.userGroup"
+msgstr "Bəli, {$userGroup} rolunu tələb edin."
+
+msgid "user.reviewerPrompt.optin"
+msgstr ""
+"Bəli, bu jurnala göndərilən müraciətlərə rəyçilik tələb edənlərlə əlaqə "
+"qurmaq istəyirəm."
+
+msgid "user.manageMySubscriptions"
+msgstr "Abunəliklərimi idarə et"
+
+msgid "user.noRoles.submitArticle"
+msgstr "Bir təklif göndər"
+
+msgid "user.noRoles.regReviewer"
+msgstr "Rəyçi kimi qeydiyyatdan keçin"
+
+msgid "user.role.manager"
+msgstr "Jurnal idarəçisi"
+
+msgid "user.role.subscriptionManager"
+msgstr "Abunə idarəçisi"
+
+msgid "user.role.managers"
+msgstr "Jurnal idarəçiləri"
+
+msgid "user.role.subEditor"
+msgstr "Bölmə redaktor"
+
+msgid "issue.volume"
+msgstr "Cild"
+
+msgid "issue.vol"
+msgstr "Cild."
+
+msgid "issue.issue"
+msgstr "Nömrə"
+
+msgid "issue.issues"
+msgstr "Nömrələr"
+
+msgid "issue.number"
+msgstr "Nömrə"
+
+msgid "issue.year"
+msgstr "İl"
+
+msgid "issue.viewIssue"
+msgstr "Nömrəni göstərin"
+
+msgid "subscriptionTypes.currency"
+msgstr "Valyuta vahidi"
+
+msgid "subscriptionTypes.nonExpiring"
+msgstr "Müddətsiz"
+
+msgid "subscriptionTypes.year"
+msgstr "il"
+
+msgid "subscriptionTypes.years"
+msgstr "illər"
+
+msgid "subscriptionTypes.month"
+msgstr "ay"
+
+msgid "subscriptionTypes.format"
+msgstr "Format"
+
+msgid "subscriptionTypes.format.online"
+msgstr "Onlayn"
+
+msgid "subscriptions.inactive"
+msgstr "Passiv"
+
+msgid "subscriptions.status.active"
+msgstr "Aktiv"
+
+msgid "subscriptions.status"
+msgstr "Vəziyyət"
+
+msgid "subscriptions.status.awaitingManualPayment"
+msgstr "Əllə ödəniş gözlənilir"
+
+msgid "submission.event.general.defaultEvent"
+msgstr "Məqalə vəziyyəti"
+
+msgid "submission.event.editor.editorAssigned"
+msgstr "Məqaləyə redaktor təyin edildi"
+
+msgid "submission.event.editor.editorUnassigned"
+msgstr "Redaktor məqalə vəzifəsindən azad edildi"
+
+msgid "submission.event.editor.submissionRestored"
+msgstr "Məqalə arxivdən geri çəkildi"
+
+msgid "submission.event.copyedit.copyeditorUnassigned"
+msgstr "Səhifə tənzimləyici fayl vəzifəsindən azad edildi"
+
+msgid "submission.event.proofread.proofreaderAssigned"
+msgstr "Məqalə üçün korrektor təyin edildi"
+
+msgid "submission.event.proofread.proofreaderUnassigned"
+msgstr "Məqalənin korrektor vəzifəsi ləğv edildi"
+
+msgid "reader.subscriptionAccess"
+msgstr "Abunə giriş"
+
+msgid "reader.subscriptionRequiredLoginText"
+msgstr ""
+"Elementə çatmaq üçün abunəlik tələb olunur. Abunəliyinizi təsdiqləmək üçün, "
+"jurnala daxil olun."
+
+msgid "reader.purchasePrice"
+msgstr "({$price} {$currency})"
+
+msgid "comments.authenticated"
+msgstr ""
+"<a href=\"{$publicProfileUrl}\" target=\"_parent\">{$userName}</a> tərəfindən"
+
+msgid "search.results.orderBy.author"
+msgstr "Müəllif"
+
+msgid "search.results.orderBy.issue"
+msgstr "Nömrə"
+
+msgid "search.results.orderDir.asc"
+msgstr "Azalan"
+
+msgid "search.results.orderDir.desc"
+msgstr "Azalan"
+
+msgid "search.results.orderBy.popularityMonth"
+msgstr "Populyarlıq (keçən ay)"
+
+msgid "search.results.similarDocuments"
+msgstr "Oxşar sənədlər"
+
+msgid "subscriptionManager.subscriptionTypes"
+msgstr "Abunəlik növləri"
+
+msgid "search.results.orderBy.relevance"
+msgstr "Əlaqə"
+
+msgid "sectionEditor.completedEditorialAssignments"
+msgstr "Tamamlanmış redaksiya təyinatları"
+
+msgid "sectionEditor.regrets.breadcrumb"
+msgstr "Etirazlar"
+
+msgid "sectionEditor.regrets"
+msgstr "Etirazlar"
+
+msgid "sectionEditor.regrets.regret"
+msgstr "Etiraz"
+
+msgid "sectionEditor.regrets.result"
+msgstr "Nəticə"
+
+msgid "sectionEditor.regrets.decisionRound"
+msgstr "Redaktor rəyi, Tur {$round}"
+
+msgid "reviewer.averageQuality"
+msgstr "Reytinq"
+
+msgid "reviewer.pendingReviews"
+msgstr "Dəyərləndirmə gözləyən məqalələr"
+
+msgid "reviewer.article.submissionEditor"
+msgstr "Məqalə redaktoru"
+
+msgid "reviewer.article.automatic"
+msgstr "(Avtomatik)"
+
+msgid "reviewer.article.recommendation"
+msgstr "Təklif"
+
+msgid "reviewer.article.editorToEnter"
+msgstr "Redaktorun girişi üçün"
+
+msgid "reviewer.article.submitReview"
+msgstr "Dəyərləndirməni redaktora Göndər"
+
+msgid "reviewer.article.reviewerComments"
+msgstr "Şərhlər"
+
+msgid "reviewer.article.schedule.request"
+msgstr "Redaktorun tələbi"
+
+msgid "reviewer.article.schedule.due"
+msgstr "Dəyərləndirmə müddəti"
+
+msgid "reviewer.article.schedule.submitted"
+msgstr "Dəyərləndirmə göndərildi"
+
+msgid "reviewer.article.schedule"
+msgstr "Zaman qrafiki"
+
+msgid "reviewer.article.decision.decline"
+msgstr "Dərc edilə bilməz"
+
+msgid "reviewer.article.reviewSchedule"
+msgstr "Dəyərləndirmə qrafiki"
+
+msgid "reviewer.article.submissionToBeReviewed"
+msgstr "Dəyərləndiriləcək müraciətlər"
+
+msgid "reviewer.article.notifyEditorA"
+msgstr "Məqalə redaktorunu məlumatlandırın"
+
+msgid "reviewer.competingInterests"
+msgstr "Maraqların ziddiyyəti"
+
+msgid "reviewer.article.selectRecommendation.byEditor"
+msgstr "Gözdən keçirmə təklifini incələyin və ya tənzimləyin"
+
+msgid "submission.copyedit.selectCopyeditor"
+msgstr "Səhifə redaktoru təyin edin"
+
+msgid "submission.copyedit.useFile"
+msgstr "Fayl istifadə edin"
+
+msgid "submission.logType.article"
+msgstr "Məqalə"
+
+msgid "submission.logType.editor"
+msgstr "Redaktor"
+
+msgid "submission.logType.layout"
+msgstr "Tərtibat"
+
+msgid "submission.logType.proofread"
+msgstr "Dizayn kontrolu"
+
+msgid "submission.logType.copyedit"
+msgstr "Səhifə tərtibatı"
+
+msgid "user.register.noJournals"
+msgstr "Bu saytda qeydiyyatdan keçə biləcəyiniz bir Jurnal yoxdur"
+
+msgid "submission.proofreadingComments"
+msgstr "Korrektor şərhləri"
+
+msgid "user.register.privacyStatement"
+msgstr "Məxfilik bildirişi"
+
+msgid "user.register.form.passwordLengthTooShort"
+msgstr "Daxil etdiyiniz şifrə kifayət qədər uzun deyil."
+
+msgid "submission.logType.author"
+msgstr "Müəllif"
+
+msgid "submission.comments.editorAuthorCorrespondence"
+msgstr "Redaktor / Müəllif əlaqəsi"
+
+msgid "submission.logType.review"
+msgstr "Fikirlərinizi yazmaq üçün simvolu klikləyin"
+
+msgid "submission.comments.canShareWithAuthor"
+msgstr "Müəllif və redaktor üçün"
+
+msgid "submission.comments.cannotShareWithAuthor"
+msgstr "Redaktor üçün"
+
+msgid "submission.comments.forAuthorEditor"
+msgstr "Müəllif və redaktor üçün"
+
+msgid "user.register.selectContext"
+msgstr "Qeydiyyatdan keçmək üçün bir Jurnal seçin:"
+
+msgid "submission.proofread.corrections"
+msgstr "Korrektor tövsiyələri"
+
+msgid "submission.comments.saveAndEmailEditor"
+msgstr "Yadda saxla və redaktora email göndər"
+
+msgid "submission.comments.saveAndEmailAuthor"
+msgstr "Yadda saxla və müəllifə email göndər"
+
+msgid "submission.layout.referenceLinking"
+msgstr "İstinad bağlama"
+
+msgid "user.subscriptions.mySubscriptions"
+msgstr "Abunəlikləri"
+
+msgid "user.subscriptions.subscriptionStatus"
+msgstr "Abunəlik statusu"
+
+msgid "user.register.form.emailConsentAllContexts"
+msgstr ""
+"Bəli, qeyd etdiyim bütün jurnallar üçün yeni nəşrlər və elanlardan xəbərdar "
+"olmaq istəyirəm"
+
+msgid "user.register.form.missingContextConsent"
+msgstr ""
+"Qeydiyyatdan keçdiyiniz bütün jurnallar üçün məxfilik bildirişini qəbul "
+"etməlisiniz"
+
+msgid "user.subscriptions.status"
+msgstr "Status"
+
+msgid "user.subscriptions.status.needsApprovalDescription"
+msgstr "Abunəlik aktivləşdirilməzdən əvvəl gözdən keçirilməlidi"
+
+msgid "user.subscriptions.individualSubscriptions"
+msgstr "Fərdi abunəlik"
+
+msgid "user.subscriptions.institutionalSubscriptions"
+msgstr "Korporativ abunəlik"
+
+msgid "user.subscriptions.renew"
+msgstr "Yenilə"
+
+msgid "user.subscriptions.purchase"
+msgstr "Almaq"
+
+msgid "user.subscriptions.expires"
+msgstr "Bitmə tarixi: {$date}"
+
+msgid "user.subscriptions.expired"
+msgstr "Son tarix: {$date}"
+
+msgid "user.subscriptions.viewSubscriptionTypes"
+msgstr "Mövcud abunə növlərinə baxın"
+
+msgid "user.subscriptions.form.typeId"
+msgstr "Abunəlik növü"
+
+msgid "user.subscriptions.form.ipRangeItem"
+msgstr "&#8226;"
+
+msgid "user.subscriptions.form.institutionName"
+msgstr "Təşkilat ad"
+
+msgid "user.subscriptions.form.deleteIpRange"
+msgstr "Sil"
+
+msgid "user.subscriptions.form.addIpRange"
+msgstr "Əlavə et"
+
+msgid "article.nonpdf.title"
+msgstr "Məqalə endirin"
+
+msgid "search.allJournals"
+msgstr "Bütün Jurnallar"
+
+msgid "search.authorIndex"
+msgstr "Müəllif indeksi"
+
+msgid "search.withinJournal"
+msgstr "İçində"
+
+msgid "site.journalRegister"
+msgstr "Qeydiyyat"
+
+msgid "site.noJournals"
+msgstr "İstifadə edilə bilən Jurnal yoxdur."
+
+msgid "current.current"
+msgstr "Son nömrə"
+
+msgid "current.noCurrentIssue"
+msgstr "Güncəl nömrə yoxdur"
+
+msgid "archive.archives"
+msgstr "Arxiv"
+
+msgid "archive.archivesPageNumber"
+msgstr "Arxivlər - Səhifə: {$pageNumber}"
+
+msgid "about.statistics"
+msgstr "Statistikalar"
+
+msgid "about.contact"
+msgstr "Əlaqə"
+
+msgid "about.history"
+msgstr "Jurnal tarixi"
+
+msgid "about.editorialTeam"
+msgstr "Redaksiya heyəti"
+
+msgid "about.focusAndScope"
+msgstr "Fokus və əhatə dairəsi"
+
+msgid "about.editorialPolicies"
+msgstr "Nəşr siyasəti"
+
+msgid "about.submissions"
+msgstr "Fayllar"
+
+msgid "about.onlineSubmissions.login"
+msgstr "Daxil olun"
+
+msgid "about.onlineSubmissions.register"
+msgstr "Qeydiyyat"
+
+msgid "about.onlineSubmissions.submissionActions"
+msgstr "{$newSubmission} və ya {$viewSubmissions}"
+
+msgid "about.submissionPreparationChecklist"
+msgstr "Müraciət nəzarət siyahısı"
+
+msgid "about.authorGuidelines"
+msgstr "Müəllif bələdçisi"
+
+msgid "about.onlineSubmissions.newSubmission"
+msgstr "Yeni bir məqalə göndərin"
+
+msgid "about.onlineSubmissions.viewSubmissions"
+msgstr "Gözləyən məqalələrinizə baxın"
+
+msgid "about.onlineSubmissions.registrationRequired"
+msgstr "Bir məqalə göndərmək üçün {$login} və ya {$register} edin"
+
+msgid "about.privacyStatement"
+msgstr "Məxfilik Bəyannaməsi"
+
+msgid "about.peerReviewProcess"
+msgstr "Dəyərləndirmə prosesi"
+
+msgid "about.subscriptions"
+msgstr "Abunəlik"
+
+msgid "about.subscriptions.individual"
+msgstr "Fərdi abunəlik"
+
+msgid "about.publicationFrequency"
+msgstr "Yayımın tezliyi"
+
+msgid "about.archiving"
+msgstr "Arxivləşdirmə"
+
+msgid "about.subscriptions.institutional"
+msgstr "Korporativ abunəlik"
+
+msgid "about.subscriptionsContact"
+msgstr "Abunəlik əlaqəsi"
+
+msgid "about.subscriptionTypes.format"
+msgstr "Format"
+
+msgid "about.subscriptionTypes.cost"
+msgstr "Qiymət"
+
+msgid "about.aboutThisPublishingSystem.altText"
+msgstr "ADS redaksiya və yayımlama prosesi"
+
+msgid "about.subscriptionTypes.duration"
+msgstr "Müddət"
+
+msgid "about.availableSubscriptionTypes"
+msgstr "Abunəlik növləri"
+
+msgid "about.aboutThisPublishingSystem"
+msgstr "Jurnal İdarəetmə Sistemi haqqında."
+
+msgid "about.memberships"
+msgstr "Üzvlüklər"
+
+msgid "help.ojsHelpAbbrev"
+msgstr "ADS Yardımı"
+
+msgid "donations.thankYou"
+msgstr "Təşəkkürlər"
+
+msgid "help.goToEditPage"
+msgstr "{$sectionTitle} bölməsini düzlədin"
+
+msgid "payment.loginRequired"
+msgstr "Ödəniş edə bilmək üçün daxil olmanız tələb olunur."
+
+msgid "payment.type.membership"
+msgstr "Fərdi abunə qiyməti"
+
+msgid "payment.type.subscription"
+msgstr "Abunəlik qiyməti"
+
+msgid "payment.unpaid"
+msgstr "Ödənməyib"
+
+msgid "payment.alreadyPaid"
+msgstr "Ödənib"
+
+msgid "payment.paid"
+msgstr "Ödəniş"
+
+msgid "payment.type.submission"
+msgstr "Məqalə ödənişləri"
+
+msgid "payment.type.publication"
+msgstr "Nəşr ödənişləri"
+
+msgid "payment.type.purchaseArticle"
+msgstr "Məqalə ödənişi"
+
+msgid "payment.type.purchaseIssue"
+msgstr "Nəşr ödənişi"
+
+msgid "payment.authorFees"
+msgstr "Müəllif ödənişləri"
+
+msgid "payment.waive"
+msgstr "İmtina et"
+
+msgid "payment.payNow"
+msgstr "İndi ödə"
+
+msgid "payment.subscription.renew"
+msgstr "Abunə yeniləmə"
+
+msgid "installer.ojsUpgrade"
+msgstr "OJS təkmilləşdirmə"
+
+msgid "metadata.pkp.peerReviewed"
+msgstr "Dəyərləndirmədən keçmiş məqalə"
+
+msgid "installer.allowFileUploads"
+msgstr ""
+"Serveriniz fayl yükləmələrə icazə verir: <strong>{$allowFileUploads}</strong>"
+
+msgid "payment.requestPublicationFee"
+msgstr "Nəşr ödənişi: ( {$feeAmount}"
+
+msgid "installer.maxFileUploadSize"
+msgstr ""
+"Serverinizin icazə verdiyi ən böyük fayl ölçüsü: "
+"<strong>{$maxFileUploadSize}</strong>"
+
+msgid "payment.submission.paySubmission"
+msgstr "Məqalə üçün ödəniş"
+
+msgid "payment.publication.payPublication"
+msgstr "Nəşr üçün ödəniş"
+
+msgid "payment.type.donation"
+msgstr "İanələr"
+
+msgid "payment.donation.makeDonation"
+msgstr "İanə edin"
+
+msgid "notification.type.editing"
+msgstr "Tənzimləmə vəziyyətləri"
+
+msgid "notification.type.reviewing"
+msgstr "Dəyərləndirmə vəziyyətləri"
+
+msgid "notification.type.site"
+msgstr "Sayt vəziyyətləri"
+
+msgid "notification.type.submissions"
+msgstr "Məqalə vəziyyətləri"
+
+msgid "grid.catalogEntry.availableRepresentation.approved"
+msgstr "Təsdiqlədi"
+
+msgid "grid.catalogEntry.approvedRepresentation.title"
+msgstr "Sətir təsdiqlənməsi"
+
+msgid "search.cli.rebuildIndex.indexing"
+msgstr "\"{$journalName}\" indekslənir"
+
+msgid "grid.action.createContext"
+msgstr "Yeni bir jurnal yaradın"
+
+msgid "user.profile.form.showOtherContexts"
+msgstr "Digər jurnallarda qeydiyyatdan keçin."
+
+msgid "notification.type.submissionComment"
+msgstr "\"{$title}\" başlıqlı məqalə haqqında bir redaktor şərt etdi."
+
+msgid "notification.type.userComment"
+msgstr "\"{$title}\" başlıqlı məqalə haqqında bir oxucu şərh etdi."
+
+msgid "editor.navigation.issues"
+msgstr "Nömrələr"
+
+msgid "grid.catalogEntry.availableRepresentation.notApproved"
+msgstr "Təsdiq gözlənilir"
+
+msgid "user.authorization.invalidIssue"
+msgstr "Etibarsız nömrə tələb edildi."
+
+msgid "editor.issues.backIssues"
+msgstr "Əvvəlki nömrələr"
+
+msgid "notification.type.public"
+msgstr "Ümumi elanlar"
+
+msgid "user.authorization.journalDoesNotPublish"
+msgstr "Bu jurnal onlayn yayımlanmır."
+
+msgid "navigation.journalHelp"
+msgstr "Yardım"
+
+msgid "section.abbreviation"
+msgstr "Qısaltma"
+
+msgid "submission.editorVersion"
+msgstr "Redaktor versiyası"
+
+msgid "submissions.step1"
+msgstr "Addım 1"
+
+msgid "submissions.step3"
+msgstr "Addım 3"
+
+msgid "submissions.published"
+msgstr "Yayımlanıb"
+
+msgid "article.title"
+msgstr "Başlıq"
+
+msgid "submission.scheduling"
+msgstr "Yayım planlaşdırma"
+
+msgid "submission.editorDecision"
+msgstr "Redaktor qərarı"
+
+msgid "submission.postReviewVersion"
+msgstr "Dəyərləndirmə sonrası fayl versiyası"
+
+msgid "submission.authorVersion"
+msgstr "Müəllif versiyası"
+
+msgid "article.indexingInformation"
+msgstr "İndeks məlumatı"
+
+msgid "article.coverPage.altText"
+msgstr "Üzqabığı Şəkili"
+
+msgid "submission.editorAuthorRecord"
+msgstr "Redaktor/Müəllif email qeydiyyatı"
+
+msgid "submission.copyedit"
+msgstr "Çapa hazırlıq"
+
+msgid "submission.copyediting"
+msgstr "Çap hazırlığı"
+
+msgid "submissions.editorDecision"
+msgstr "Redaktor qərarı"
+
+msgid "submissions.layoutComplete"
+msgstr "Tərtibat tamamlandı"
+
+msgid "submissions.copyeditComplete"
+msgstr "Çap hazırlığı tamamlanıb"
+
+msgid "user.myJournals"
+msgstr "Jurnallarım"
+
+msgid "user.noRoles.submitArticleRegClosed"
+msgstr "Bir məqalə göndər: Müəllif qeydiyyatı bu halda aktiv deyil."
+
+msgid "issue.title"
+msgstr "Başlıq"
+
+msgid "issue.viewIssueIdentification"
+msgstr "{$identification} baxış"
+
+msgid "user.role.subEditors"
+msgstr "Bölmə redaktorları"
+
+msgid "issue.return"
+msgstr "Nömrə detallarına qayıdın"
+
+msgid "subscriptionTypes.months"
+msgstr "aylıq"
+
+msgid "submission.event.editor.editorDecision"
+msgstr "Redaktor qərarı göndərildi"
+
+msgid "submission.event.copyedit.copyeditRevision"
+msgstr "Səhifə tənzimləyici faylı yeniləndi"
+
+msgid "submission.event.copyedit.copyeditFinalCompleted"
+msgstr "Səhifə tənzimi tamamlandı"
+
+msgid "submission.event.copyedit.copyeditSetFile"
+msgstr "Səhifə tənzimi faylı yeniləndi"
+
+msgid "submission.event.proofread.proofreadCompleted"
+msgstr "Korrektor əməliyyatı tamamlandı"
+
+msgid "submission.event.layout.layoutGalleyCreated"
+msgstr "Tərtibat dizaynı yeniləndi"
+
+msgid "submission.event.layout.layoutComplete"
+msgstr "Tərtibat təyinatı tamamlandı"
+
+msgid "search.results.orderBy.article"
+msgstr "Məqalə adı"
+
+msgid "search.results.orderBy.popularityAll"
+msgstr "Populyarlıq (bütün dövrlər)"
+
+msgid "sectionEditor.copyedit.confirmRenotify"
+msgstr ""
+"Bu bildirişlər səhifə redaktoru təyinatları yenidən başlayacaqdır. Bunu "
+"etmək istədiyinizdən əminsinizmi?"
+
+msgid "reviewer.completedReviews"
+msgstr "Tamamlanıb"
+
+msgid "reviewer.article.schedule.response"
+msgstr "Cavabınız"
+
+msgid "reviewer.article.notifyTheEditor"
+msgstr "Redaktoru məlumatlandırın"
+
+msgid "layoutEditor.activeEditorialAssignments"
+msgstr "Aktiv redaksiya təyinatları"
+
+msgid "sectionEditor.proofreader.confirmRenotify"
+msgstr ""
+"Bu bildirişlə korrektor təyinatları yenidən başlayacaqdır. Bunu etmək "
+"istədiyinizdən əminsinizmi?"
+
+msgid "layoutEditor.completedEditorialAssignments"
+msgstr "Tamamlanmış redaksiya təyinatları"
+
+msgid "layoutEditor.galley.uploadGalleyFormat"
+msgstr "Dizayn formatını yükləyin"
+
+msgid "sectionEditor.regrets.link"
+msgstr "Etiraz, ləğv və əvvəlki addımlar"
+
+msgid "layoutEditor.galley.uploadSuppFile"
+msgstr "Əlavə faylı yükləyin"
+
+msgid "layoutEditor.noActiveAssignments"
+msgstr "Aktiv redaktor təyinatı yoxdur."
+
+msgid "submission.layout.galley.remotelyHostedContent"
+msgstr "Bu dizayn başqa bir veb saytında mövcud olacaq."
+
+msgid "reviewer.article.reviewSteps"
+msgstr "Dəyərləndirmə addımları"
+
+msgid "reviewer.article.decision.resubmitHere"
+msgstr "Düzəlişlərdən sonra incələnməsi lazımdır"
+
+msgid "reviewer.article.enterCompetingInterests"
+msgstr ""
+"Bu araşdırma ilə bağlı rəqabət şərtlərini qəbul edib etmədiyinizi xəbər "
+"verin. (bxn. <a target=\"_new\" class=\"action\" href=\""
+"{$competingInterestGuidelinesUrl}\">CI&nbsp;Politikası</a>)"
+
+msgid "reviewer.article.decision.resubmitElsewhere"
+msgstr "Dərc olunmaması daha uyğundur"
+
+msgid "submission.copyedit.editorsCopyedit"
+msgstr "Redaktorun səhifə tərtibatı"
+
+msgid "submission.copyedit.copyeditVersion"
+msgstr "S/D versiyası"
+
+msgid "reviewer.article.confirmDecision"
+msgstr ""
+"Qərarınızı yadda saxladıqdan sonra bu dəyərləndirmədə başqa bir dəyişiklik "
+"edə bilməzsiniz! Davam etmək istəyirsinizmi?"
+
+msgid "submission.copyedit.copyeditComments"
+msgstr "Səhifə tərtibatı şərhləri"
+
+msgid "submission.copyedit.editorAuthorReview"
+msgstr "Müəllif səhifə tərtibatı"
+
+msgid "submission.copyedit.initialCopyedit"
+msgstr "Başlanğıc səhifə tərtibatı"
+
+msgid "submission.review.mustUploadFileForReview"
+msgstr "Dəyərləndirmə versiyası hazırlanmamış tələb emaili göndərilə bilməz"
+
+msgid "submission.layout.galleyPublicIdentificationExists"
+msgstr "Yerli dizayn kimliyi artıq var"
+
+msgid "submission.layout.instructions"
+msgstr "Tərtibat təlimatı"
+
+msgid "submission.proofread.instructions"
+msgstr "Korrektor təlimatı"
+
+msgid "submission.layout.assignLayoutEditor"
+msgstr "Tərtibatçı təyin edin"
+
+msgid "submission.comments.copyeditComments"
+msgstr "Səhifə tərtibatı şərhləri"
+
+msgid "user.register.form.privacyConsentThisContext"
+msgstr ""
+"Bəli, jurnalın<a href=\"{$privacyUrl}\" target=\"_blank\">məxfilik "
+"anlaşmasını</a> qəbul edirəm"
+
+msgid "user.register.form.missingSiteConsent"
+msgstr "Bu saytın məxfilik bildirişini qəbul etməlisiniz"
+
+msgid "user.register.readerDescription"
+msgstr "Jurnalın nömrəsi nəşr edildiyində email ilə xəbər veriləcək."
+
+msgid "user.register.authorDescription"
+msgstr "Hazırlanmış yazılar jurnala göndərilə bilər"
+
+msgid "user.subscriptions.status.needsInformationDescription"
+msgstr "Abunəlik aktiv edilməzdən əvvəl əlavə məlumata ehtiyac vardı"
+
+msgid "user.subscriptions.purchaseNewSubscription"
+msgstr "Yeni abunəliyi başladın"
+
+msgid "user.subscriptions.purchaseIndividualSubscription"
+msgstr "Fərdi abunəliyi başladın"
+
+msgid "user.subscriptions.purchaseInstitutionalSubscription"
+msgstr "Korporativ abunəliyi başladın"
+
+msgid "user.subscriptions.form.institutionNameRequired"
+msgstr "Təşkilat adı tələb olunur."
+
+msgid "user.subscriptions.status.awaitingOnlinePaymentDescription"
+msgstr "Onlayn ödəniş başladıldı ancaq ləğv edilmədi ya da tamamlanmadı"
+
+msgid "user.subscriptions.status.awaitingManualPaymentDescription"
+msgstr "Əllə ödəniş başladıldı ancaq hələ alınmadı"
+
+msgid "site.journalsHosted"
+msgstr "Bu saytdakı Jurnallar"
+
+msgid "site.journalView"
+msgstr "Jurnala baxın"
+
+msgid "about.aboutContext"
+msgstr "Jurnal haqqında"
+
+msgid "user.subscriptions.form.domainValid"
+msgstr "Zəhmət olmasa etibarlı bir sahə adı daxil edin."
+
+msgid "user.subscriptions.form.ipRangeValid"
+msgstr "Zəhmət olmasa etibarlı bir IP adresi daxil edin."
+
+msgid "search.searchFor"
+msgstr "Məqalələrdə axtarın"
+
+msgid "article.download"
+msgstr "Bu PDF faylını endirin"
+
+msgid "article.pdf.title"
+msgstr "Daşına bilən sənəd formatı (PDF)"
+
+msgid "search.authorDetails"
+msgstr "Müəllif təfərrüatları"
+
+msgid "user.subscriptions.form.ipRangeInstructions"
+msgstr ""
+"Buraya IP aralıqları girilərsə, təsir sahəsi istəyə bağlıdır.<br />Etibarlı "
+"dəyərlər arasında bir IP adresi (məs. 142.58.103.1), IP aralığı (məs. "
+"142.58.103.1 - 142.58.103.4), '*' joker xarakterli IP aralığı (məs. 142.58. *"
+". *) Və CIDR-ın daxil olduğu bir IP aralığı (məs. 142.58.100.0/24)."
+
+msgid "archive.browse"
+msgstr "Əvvəlki nömrələrə baxın"
+
+msgid "about.sectionPolicies"
+msgstr "Bölmə politikası"
+
+msgid "about.aboutSoftware"
+msgstr "Açıq Jurnal sistemləri haqqında"
+
+msgid "about.openAccessPolicy"
+msgstr "Açıq giriş politikası"
+
+msgid "about.delayedOpenAccessDescription1"
+msgstr "Bu Jurnalın məzmunu"
+
+msgid "about.delayedOpenAccess"
+msgstr "Gecikmiş açıq giriş"
+
+msgid "about.copyrightNotice"
+msgstr "Müəllif hüquqları tənzimlənməsi"
+
+msgid "about.authorFees"
+msgstr "Müəllif qonorarı"
+
+msgid "about.authorFeesMessage"
+msgstr "Bu Jurnal aşağıdakı müəllif ödənişini tətbiq edir"
+
+msgid "help.ojsHelp"
+msgstr "Açıq Jurnal Sistemləri Yardımı"
+
+msgid "help.searchReturnResults"
+msgstr "Axtarış nəticələrinə qayıdın"
+
+msgid "payment.membership.buyMembership"
+msgstr "Fərdi abunəlik alın"
+
+msgid "user.profile.form.hideOtherContexts"
+msgstr "Digər jurnalları gizlədin"
+
+msgid "installer.appInstallation"
+msgstr "OJS quraşdırılması"
+
+msgid "notification.type.editorDecisionComment"
+msgstr "\"{$title}\" başlıqlı məqalə haqqında redaktor şərh etdi"
+
+msgid "notification.type.galleyModified"
+msgstr "\" {$title} \" başlıqlı məqalə yeniləndi"
+
+msgid "payment.waived"
+msgstr "Ödənişdən azaddır"
+
+msgid "payment.paymentReceived"
+msgstr "Ödəniş alındı"
+
+msgid "grid.catalogEntry.approvedRepresentation.removeMessage"
+msgstr "<p>Bu dizaynın təsdiqini ləğv edin.</p>"
+
+msgid "payment.requestPublicationFee.notEnabled"
+msgstr "Yayım ödənişi aktiv deyil."
+
+msgid "payment.publication.publicationPaid"
+msgstr "Nəşr haqqı ödənildi"
+
+msgid "payment.type.fastTrack"
+msgstr "Sürətləndirilmiş baxış ödənişi"
+
+msgid "payment.paymentSent"
+msgstr "Ödəniş artıq göndərilib"
+
+msgid "navigation.infoForAuthors"
+msgstr "Müəlliflər üçün"
+
+msgid "reviewer.article.restrictedFileAccess"
+msgstr "Rəyçi dəyərləndirməni qəbul edərsə Məqalə əldə edilə bilən olacaq"
+
+msgid "navigation.infoForLibrarians"
+msgstr "Kitabxanaçılar üçün"
+
+msgid "archive.issueUnavailable"
+msgstr "Nömrə əlçatan deyil"
+
+msgid "user.role.journalAssistant"
+msgstr "Jurnal köməkçisi"
+
+msgid "about.onlineSubmissions.submitToSection"
+msgstr "<a href=\"{$url}\">{$name}</a> bölməsi üçün Məqalə Göndər"
+
+msgid "submission.reviewersVersion"
+msgstr "Rəyçi qeydləri olan fayl versiyası"
+
+msgid "navigation.infoForLibrarians.long"
+msgstr "Kitabxanaçılar üçün məlumat"
+
+msgid "navigation.skip.about"
+msgstr "Jurnal haqqında bölməsini keç"
+
+msgid "submission.event.layout.layoutEditorAssigned"
+msgstr "Məqaləyə tərtibatçı təyin edildi"
+
+msgid "submission.event.layout.layoutEditorUnassigned"
+msgstr "Tərtibatçı müraciət vəzifəsindən azad edildi"
+
+msgid "sectionEditor.regrets.regretsAndCancels"
+msgstr "Rəyçi etirazları & ləğvlər"
+
+msgid "reviewer.article.enterReviewA"
+msgstr ""
+"Məqalə ilə bağlı fikir və şərhlərinizi redaktora göndərmək üçün işarəyə "
+"klikləyin"
+
+msgid "reviewer.article.reviewersAnnotatedVersionDescription"
+msgstr ""
+"(Faylla bağlı redaktora açıqlama verəcəksəniz, öz kompüterinizə yükləyin və "
+"Siyahıya alın/Yüklə seçimini istifadə edin.)"
+
+msgid "submission.copyedit.mustUploadFileForInitialCopyedit"
+msgstr ""
+"Dəyərləndirmə səhifəsi, Redaktor qərarında səhifə tərtibatı üçün fayl "
+"seçilənə qədər tələb emaili göndərilə bilməz"
+
+msgid "user.register.registrationDisabled"
+msgstr "Bu Jurnal hazırda istifadəçi qeydiyyatlarını qəbul etmir"
+
+msgid "user.register.reviewerDescriptionNoInterests"
+msgstr "Jurnala göndərilən məqalələrə rəyçi olmağa hazırdır."
+
+msgid "user.register.reviewerInterests"
+msgstr ""
+"Maraq/ixtisas sahələriniz (İxtisas sahəsi terminlərini açılan menyudan "
+"seçin):"
+
+msgid "user.subscriptions.statusDescription"
+msgstr "Açıqlama"
+
+msgid "user.subscriptions.form.subscriptionExists"
+msgstr "Bu istifadəçi hesabı hazırda fərdi abunədir."
+
+msgid "user.subscriptions.form.typeIdValid"
+msgstr "Zəhmət olmasa etibarlı bir abunəlik növü seçin"
+
+msgid "current.noCurrentIssueDesc"
+msgstr "Bu jurnal hələ heç bir nömrə yayımlamadı."
+
+msgid "user.subscriptions.form.membershipInstructions"
+msgstr "Seçilən abunəlik növü üçün üzvlük məlumatları tələb olunur"
+
+msgid "about.delayedOpenAccessDescription2"
+msgstr "Ay sonra açıq giriş formatında əlçatan olacaq."
+
+msgid "payment.loginRequired.forIssue"
+msgstr ""
+"Elementə çatmaq üçün abunə olmaq və ya almaq lazımdır. Abunəliyi təsdiq "
+"etmək, əvvəlki alma əməliyyatına çatmaq və ya alma sayına çatmaq üçün "
+"jurnala daxil olun"
+
+msgid "payment.loginRequired.forDonation"
+msgstr "İanə etmək üçün oturum açmanız tələb olunur."
+
+msgid "grid.catalogEntry.approvedRepresentation.message"
+msgstr "<p>Nəşr üçün bu dizaynı təsdiqləyin</p>"
+
+msgid "user.authorization.invalidCopyditorSubmission"
+msgstr ""
+"Yanlış səhifə tərtibatçı göndərməsi və ya səhifə tərtibatçısı göndərmə "
+"tələbi yoxdur"
+
+msgid "context.select"
+msgstr "Başqa bir jurnal seçin:"
+
+msgid "search.results.orderBy.journal"
+msgstr "Jurnal Başlığı"
+
+msgid "subscriptionTypes.format.print"
+msgstr "Çap edilmiş"
+
+msgid "reviewer.article.reviewersAnnotatedVersion"
+msgstr "Rəyçi tərəfindən yüklənmiş versiya"
+
+msgid "reader.openAccess"
+msgstr "Açıq giriş"
+
+msgid "submission.event.layout.layoutInitiated"
+msgstr "Tərtibatçı təyinatı başladıldı"
+
+msgid "submission.layout.replaceLayoutEditor"
+msgstr "Tərtibatçını dəyişdirin"
+
+msgid "submission.layout.layoutComments"
+msgstr "Tərtibatçı şərhləri"
+
+msgid "user.register.openAccessNotificationDescription"
+msgstr "Jurnalın açıq girişə verilən nömrəsi email ilə xəbər veriləcək."
+
+msgid "about.aboutOJSSite"
+msgstr ""
+"Bu sayt açıq məndə kodlu bir Jurnal hazırlama və yayımlama proqramı olan "
+"Açıq Jurnal Sistemləri (Open Journal Systems) proqramı {$ojsVersion} "
+"versiyasını istifadə edir. ADS olaraq qısaldılan bu proqram <a href=\"http"
+"://pkp.sfu.ca/\">Public Knowledge Project</a> tərəfindən inkişaf "
+"etdirilmişdir və (GNU General Public License) lisenziyası ilə pulsuz paylanır"
+
+msgid "installer.upgradeApplication"
+msgstr "Açıq Jurnal sistemlərini təkmilləşdirin"
+
+msgid "payment.loginRequired.forArticle"
+msgstr ""
+"Abunə olmaq və ya məqalə almaq üçün giriş elementi tələb olunur. Abunəliyi "
+"təsdiqləmək üçün daha əvvəl alma və ya məqalə alışındakı Jurnal oturumunu "
+"açın."
+
+msgid "payment.type.publication.required"
+msgstr "Ödəniş yayım haqqı üçündür. ."
+
+msgid "notification.type.reviewerFormComment"
+msgstr "\"{$title}\" başlıqlı məqalə üçün dəyərləndirmə formu göndərildi"
+
+msgid "navigation.otherJournals"
+msgstr "Digər Jurnallar"
+
+msgid "common.queue.short.submissionsArchives"
+msgstr "Arxivlənənlər"
+
+msgid "common.queue.long.active"
+msgstr "Aktiv məqalələr"
+
+msgid "navigation.competingInterestGuidelines"
+msgstr "Mənfəət ziddiyyət bələdçisi"
+
+msgid "common.queue.short.submissionsInReview"
+msgstr "Rəyçidəkilər"
+
+msgid "article.article"
+msgstr "Məqalə"
+
+msgid "article.articles"
+msgstr "Məqalələr"
+
+msgid "common.publication"
+msgstr "Məqalə"
+
+msgid "common.publications"
+msgstr "Məqalələr"
+
+msgid "submissionGroup.assignedSubEditors"
+msgstr "Təyin edilmiş redaktorlar"
+
+msgid "navigation.current"
+msgstr "Son nömrə"
+
+msgid "navigation.skip.issue"
+msgstr "Cari nömrəni keçin"
+
+msgid "section.policy"
+msgstr "Bölmə siyasəti"
+
+msgid "section.abbreviation.example"
+msgstr "(Məsələn, məqalələr = MƏQ)"
+
+msgid "article.suppFile"
+msgstr "Əlavə fayl"
+
+msgid "article.suppFiles"
+msgstr "Əlavə fayl(lar)"
+
+msgid "submissions.proofreadingComplete"
+msgstr "Dizayn təsdiq edilib"
+
+msgid "user.profile.profileImage"
+msgstr "Profil şəkili"
+
+msgid "issue.coverPage.altText"
+msgstr "Qabaq səhifəsi"
+
+msgid "subscriptions.status.needsInformation"
+msgstr "Məlumat tələb olunur"
+
+msgid "subscriptions.status.needsApproval"
+msgstr "Təsdiq tələb olunur"
+
+msgid "submission.event.copyedit.copyeditorAssigned"
+msgstr "Məqaləyə səhifə tənzimləyici təyin edildi"
+
+msgid "submissions.editorRuling"
+msgstr "Redaktor düzəlişi"
+
+msgid "article.discipline"
+msgstr "Akademik bölmə və alt-bölmələr"
+
+msgid "article.subject"
+msgstr "Açar sözlər"
+
+msgid "article.type"
+msgstr "Növ, metod və ya yanaşma"
+
+msgid "issue.no"
+msgstr "Nömrə."
+
+msgid "article.suppFilesAbbrev"
+msgstr "Əlavə fayllar"
+
+msgid "article.coverage"
+msgstr "Əhatə"
+
+msgid "subscriptionTypes.format.printOnline"
+msgstr "Çapı edilmiş və onlayn"
+
+msgid "submission.event.editor.submissionArchived"
+msgstr "Məqalə arxivləşdirildi"
+
+msgid "search.results.orderBy.date"
+msgstr "Nəşr tarixi"
+
+msgid "reviewer.article.fileToBeReviewed"
+msgstr "Dəyərləndiriləcək fayl"
+
+msgid "reviewer.article.canDoReview"
+msgstr "Dəyərləndirəcəyəm"
+
+msgid "reviewer.article.cannotDoReview"
+msgstr "Dəyərləndirməyəcəm"
+
+msgid "reviewer.article.sendReminder"
+msgstr "Xəbərdarlıq Göndər"
+
+msgid "sectionEditor.regrets.reviewRound"
+msgstr "Rəyçinin dəyərləndirilməsi, Tur {$round}"
+
+msgid "reviewer.article.reviewerGuidelines"
+msgstr "Rəyçi bələdçisi"
+
+msgid "reviewer.article.decision.accept"
+msgstr "Nəşrə uyğundur"
+
+msgid "reviewer.article.decision.seeComments"
+msgstr "Başqa bir rəyçiyə göndər"
+
+msgid "submission.search"
+msgstr "Məqalə axtarışı"
+
+msgid "submission.event.general.articlePublished"
+msgstr "Məqalə yayımlandı"
+
+msgid "submission.event.editor.editorFile"
+msgstr "Redaktor faylı yeniləndi"
+
+msgid "sectionEditor.activeEditorialAssignments"
+msgstr "Aktiv redaksiya təyinatları"
+
+msgid "section.title"
+msgstr "Bölmə başlığı"
+
+msgid "user.authorization.representationNotFound"
+msgstr "İstədiyiniz dizayn tapılmadı."
+
+msgid "user.register.otherContextRoles"
+msgstr "Aşağıdakı rolları tələb edin."
+
+msgid "reader.subscribersOnly"
+msgstr "Yalnız abunəçilər"
+
+msgid "submission.event.copyedit.copyeditInitiated"
+msgstr "Səhifə tənzimləyici təyinatı başladı"
+
+msgid "submission.event.proofread.proofreadInitiated"
+msgstr "Korrektor təyinatı başladı"
+
+msgid "submission.event.proofread.proofreadRevision"
+msgstr "Korrektor dəyişiklik faylı yeniləndi"
+
+msgid "reader.subscriptionOrFeeAccess"
+msgstr "Abunə və ya giriş haqqı"
+
+msgid "comments.commentsOnArticle"
+msgstr "Bu məqalədə haqqındakı şərhlər"
+
+msgid "layoutEditor.galley.replaceGalley"
+msgstr "Faylı dəyişdirin"
+
+msgid "user.register.contextsPrompt"
+msgstr "Bu saytdakı hansı jurnallara qeydiyyatdan keçmək istəyərsiniz?"
+
+msgid "user.role.subscriptionManagers"
+msgstr "Abunə idarəçiləri"
+
+msgid "user.noRoles.selectUsersWithoutRoles"
+msgstr "Bu jurnalda rolları olmayan istifadəçiləri daxil edin."
+
+msgid "user.noRoles.chooseJournal"
+msgstr ""
+"Hesabınız bu halda hər hansı bir jurnalda aktiv deyil. Zəhmət olmasa bir "
+"Jurnal seçin:"
+
+msgid "user.register.noContextReviewerInterests"
+msgstr ""
+"Hər hansı bir jurnalda rəyçi olmaq istəyirsinizsə, zəhmət olmazsa maraqlı "
+"olduğunuz sahələri daxil edin."
+
+msgid "user.noRoles.regReviewerClosed"
+msgstr "Rəyçi kimi qeydiyyatdan keçin: rəyçi qeydiyyatı bu halda aktiv deyil."
+
+msgid "sectionEditor.review.createReviewer"
+msgstr "Yeni bir rəyçi yaradın"
+
+msgid "layoutEditor.layoutEditingAssignments"
+msgstr "Tərtibatçı təyinatları"
+
+msgid "submission.layout.galley.remoteURL"
+msgstr "Uzaqdan giriş məzmununun URL adresi"
+
+msgid "common.queue.long.submissionsInReview"
+msgstr "Rəyçi baxışında olanlar"
+
+msgid "sectionEditor.layout.confirmRenotify"
+msgstr ""
+"Bu bildirişlə tərtibatçı təyinatları yenidən başlayacaqdır. Bunu etmək "
+"istədiyinizdən əminsinizmi?"
+
+msgid "reviewer.article.reviewerCommentsDescription"
+msgstr "Rəyçi şərhlərini buraya yazın və ya yapışdırın"
+
+msgid "sectionEditor.regrets.title"
+msgstr "#{$submissionId} rəyçi etirazları, ləğvlər və əvvəlki addımlar"
+
+msgid "user.noRoles.noRolesForJournal"
+msgstr ""
+"Bu jurnalda hesabınız aktiv deyil və hər hansı bir səlahiyyətiniz yoxdur. "
+"Zəhmət olmasa aşağıdakı seçimlərdən birini seçin:"
+
+msgid "reviewer.article.downloadSubmission"
+msgstr ""
+"Məqaləni və əgər varsa əlavələri görüntüləmək və ya çıxarmaq üçün faylın "
+"adına klikləyin"
+
+msgid "subscriptions.institutionalDescription"
+msgstr ""
+"Korporativ abunəlikdə giriş tələb olunmur. Korporativ abunə istifadəçiləri "
+"sahə və/və ya IP adresi nəzarətində məzmuna çata bilərlər."
+
+msgid "subscriptions.institutionalOnlinePaymentDescription"
+msgstr ""
+"<strong>Not:</strong> Onlayn korporativ abunəliklərdə abunəlik "
+"aktivləşdirməsindən əvvəl sahə və IP aralığının təsdiq edilməsi tələb olunur."
+
+msgid "reviewer.article.consultGuidelines"
+msgstr ""
+"Dəyərləndirməni edəcəksinizsə, aşağıdakı rəyçi bələdçisinə nəzər yetirin"
+
+msgid "reviewer.article.notifyEditorB"
+msgstr ""
+"Dəyərləndirməni qəbul edib-etmədiyinizi avtomatik olaraq yaradılacaq email "
+"vasitəsilə redaktora göndərmək üçün zəhmət olmasa uyğun işarəni klikləyin"
+
+msgid "reviewer.article.reviewGuidelinesDescription"
+msgstr ""
+"Rəyçi bələdçisi jurnalda nəşr edilmək üçün edilən məqalələrin uyğunluğunu "
+"yoxlamaq üçün hazırlanan meyarları və dəyərləndirməyə köməklik edən aydın "
+"bəzi təlimatları ehtiva etməlidir. Dəyərləndirmə əsnasında rəyçiyə iki "
+"açılan bilən qutu təqdim olunur. Bunlardan birincisi \"Müəllif və redaktora\""
+" ikincisi ilə sadəcə \"redaktora\" şərh və mesaj göndərmək üçündür. "
+"Alternativ kimi Jurnal İdarəçisi Dəyərləndirmə Formları altında xüsusi bir "
+"dəyərləndirmə formu yarada bilər. Redaktorlar hər halda dəyərləndirmə daxil "
+"bütün seçimlərə sahib olacaqdırlar. ."
+
+msgid "search.browseAuthorIndex"
+msgstr "Müəllif indeksi"
+
+msgid "about.editorialTeam.biography"
+msgstr "Tərcümeyi-hal"
+
+msgid "submission.copyedit.mustUploadFileForCopyedit"
+msgstr "Fayl səhifə tərtibatı üçün yüklənməmiş tələb emaili göndərilə bilməz"
+
+msgid "reviewer.article.uploadFile"
+msgstr ""
+"İstəkdən asılı olaraq, redaktoru və/və ya müəllifi məlumatlandırmaq üçün "
+"rəylərinizi, düzəlişlərinizi ehtiva edən fayl/faylları yükləyə bilərsiniz"
+
+msgid "user.subscriptions.form.membershipRequired"
+msgstr "Seçilmiş abunəlik növləri üzvlük məlumatı tələb edir."
+
+msgid "user.register.reviewerDescription"
+msgstr ""
+"jurnala göndərilən məqalələrə rəyçi olma arzusu. Əlaqəli sahələrinizi tərif "
+"edin (müstəqil sahələr və araşdırma metodları)"
+
+msgid "article.pluginMissing"
+msgstr ""
+"<p>Veb brauzerinizdə bir PDF oxucu qoşması yüklüdürsə (məsələn, <a href="
+"\"https://get.adobe.com/reader/\">Adobe Acrobat Reader</a>'ın son bir "
+"versiyası varsa) seçdiyiniz PDF faylı yüklənər.</p>"
+
+msgid "reviewer.article.enterReviewForm"
+msgstr "Dəyərləndirmə formunu doldurmaq üçün işarəyə kliklərin."
+
+msgid "navigation.infoForAuthors.long"
+msgstr "Müəlliflər üçün məlumat"
+
+msgid "issue.toc"
+msgstr "Mündəricat"
+
+msgid "issue.abstract"
+msgstr "Xülasə"
+
+msgid "submission.event.general.authorRevision"
+msgstr "Müəllif düzəliş faylları yeniləndi"
+
+msgid "reviewer.article.uploadedFile"
+msgstr "Yüklənmiş fayllar"
+
+msgid "reviewer.article.decision.pendingRevisions"
+msgstr "Düzəlişlər edildikdən sonra nəşr edilə bilər"
+
+msgid "submission.authorsRevisedVersion"
+msgstr "Müəllif tərəfindən düzəldilmiş fayl versiyası"
+
+msgid "sectionEditor.noneAssigned"
+msgstr "Müraciət təyinatı edilməyib."
+
+msgid "installer.updatingInstructions"
+msgstr ""
+"Mövcud bir ADS quraşdırmasını təkmilləşdirirsinizsə, davam etmək üçün bura "
+"<a href=\"{$upgradeUrl}\">klikləyin</a>. ."
+
+msgid "navigation.browseByAuthor"
+msgstr "Müəlliflərə görə"
+
+msgid "payment.notFound"
+msgstr ""
+"Bir ödəniş tələb edildi, ancaq tələb müddəti başa çatdı. Detallar üçün "
+"Jurnal İdarəçisinə müraciət edin"
+
+msgid "sectionEditor.review.enrollReviewer"
+msgstr "Üzvü rəyçi kimi qeyd et"
+
+msgid "sectionEditor.author.confirmRenotify"
+msgstr ""
+"Bu bildirişlər müəllif təyinatları yenidən başlayacaqdır. Bunu etmək "
+"istədiyinizdən əminsinizmi?"
+
+msgid "doi.issue.incorrectContext"
+msgstr ""
+"Nömrə üçün DOI yaradıla bilmədi: {$itemTitle}. Nömrə bu jurnala daxil deyil."
+
+msgid "plugins.categories.generic.description"
+msgstr ""
+"Ümumi qoşmalar, digər qoşma kateqoriyaları tərəfindən dəstəklənməyən "
+"müxtəlif yollarla Açıq Jurnal Sistemləri istifadəsini genişləndirmək üçün "
+"istifadə edilir."
+
+msgid "user.subscriptions.form.domainInstructions"
+msgstr ""
+"Bura bir sahə adı yazılacaqsa IP aralığı istəyə bağlıdır. <br />Etibarlı "
+"sahə adları (məs. kutuphane.dogus.edu.tr)"
+
+msgid "submission.event.copyedit.copyeditInitialCompleted"
+msgstr "Başlanğıc səhifə tənzimi tamamlandı"
+
+msgid "reviewer.article.mustSelectDecision"
+msgstr ""
+"Müraciətin qəbulu ilə bağlı bir təklif vermədiniz. Prosesin tamamlanması "
+"üçün bir təklif verməniz lazımdır. ."
+
+msgid "user.subscriptions.form.domainIPRangeRequired"
+msgstr ""
+"Seçilən abunəlik növü, abunəlik kimlik təsdiqi üçün bir təsir sahəsi və/və "
+"ya bir IP aralığı tələb edir"
+
+msgid "about.aboutOJSJournal"
+msgstr ""
+"Bu jurnal açıq mənbə kodlu bir Jurnal idarə proqramı olan Açıq Jurnal "
+"Sistemləri (Open Journal Systems) {$ojsVersion} versiyasını istifadə edir. "
+"ADS kimi qısaldılan bu proqram <a href=\"http://pkp.sfu.ca/\">Public "
+"Knowledge Project</a> tərəfindən inkişaf etdirilmişdir ve (GNU General "
+"Public License) lisenziyası ilə pulsuz paylanır. Jurnal və namizəd "
+"məqalələriniz ilə bağlı suallarını üçün zəhmət olmazsa birbaşa <a href=\""
+"{$contactUrl}\">Jurnal ilə əlaqə</a> saxlayın"
+
+msgid "about.submissionPreparationChecklist.description"
+msgstr ""
+"Müraciət prosesində müəlliflər müraciətlərinin aşağıdakı siyahıdakı bütün "
+"maddələrə uyğunluğuna nəzarət etməlidirlər, bu bələdçiyə uyğun olmayan "
+"müraciətlər müəlliflərə geri qaytarılır. ."
+
+msgid "site.journalCurrent"
+msgstr "Son nömrə"
+
+msgid "issue.noIssues"
+msgstr "Nömrə yoxdur"
+
+msgid "user.role.journalAssistants"
+msgstr "Jurnal köməkçiləri"
+
+msgid "issue.fullIssue"
+msgstr "Tam nömrə"
+
+msgid "issue.nonpdf.title"
+msgstr "Nömrəni endirin"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Məqalə göndərildi"
+
+msgid "submission.event.general.issueScheduled"
+msgstr "Fayl nömrə zamanlama növbəsinə göndərildi"
+
+msgid "submission.event.general.issueAssigned"
+msgstr "Fayl nömrəyə əlavə edildi"
+
+msgid "submission.scheduledIn"
+msgstr "{$issueName} nömrəsində yayımlanacaq."
+
+msgid "submission.comments.blindCcReviewers"
+msgstr ""
+"Redaktor qərarı göndərildikdə rəyçilərə göndərmək üçün adsız bir surəti (BCC)"
+" tənzimləmək üçün formalaşdırın"
+
+msgid "journal.viewAllIssues"
+msgstr "Bütün nömrələri göstərin"
+
+msgid "submission.event.author.authorRevision"
+msgstr "Müəllif düzəlişləri göndərildi"
+
+msgid "reviewer.article.selectRecommendation"
+msgstr ""
+"Altdakı qərar seçimlərinin aktiv olması üçün dördüncü addımdakı prosesin "
+"tamamlanması lazımdır. Dəyərləndirmənin redaktora forvard edilə bilməsi üçün "
+"\"rəyçi Qərarı\" qutusundakı seçimlərdən uğun olanının seçilməsi və qeyd "
+"edilməsi lazımdır"
+
+msgid "user.subscriptions.statusInformation"
+msgstr ""
+"Aktiv və müddəti bitmiş abunəlikləri sona çatma tarixi ilə birlikdə aşağıda "
+"görüntülənir. Buna əlavə olaraq, aşağıdakı vəziyyət məlumatları hər abunəlik "
+"ilə birlikdə gələ bilər"
+
+msgid "article.nonpdf.note"
+msgstr ""
+"Seçdiyiniz fayl avtomatik olaraq endirilməyə başlanacaqdır. Əgər endirmə "
+"avtomatik olaraq başlamazsa aşağıdakı linki klikləyin. Bu faylın görünə "
+"bilməsi üçün xüsusi bir görüntüləyici və ya linkə ehtiyac ola bilər. <br /"
+"><br />Əgər məqalə avtomatik olaraq endirilməzsə <a href=\"{$url}\">bura "
+"klikləyin</a>. ."
+
+msgid "user.subscriptions.form.membership"
+msgstr "Üzvlük"
+
+msgid "search.results.orderBy"
+msgstr "Nəticələri aşağıdakı kimi sırala"
+
+msgid "manager.setup.copyrightNotice.sample"
+msgstr ""
+"<h3>Təklif edilən Creative Commons Müəllif Hüququ Bildirişləri</h3>\n"
+"<h4>1. Açıq giriş təqdim edən jurnallar üçün təklif edilən politika</h4>\n"
+"Bu jurnalda məqalə nəşr edən müəlliflər aşağıdakı şərtləri qəbul edər:\n"
+"<ol type=\"a\">\n"
+" <li>Authors retain copyright and grant the journal right of first "
+"publication with the work simultaneously licensed under a <a target=\"_new\" "
+"href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons "
+"Attribution License</a> that allows others to share the work with an "
+"acknowledgement of the work's authorship and initial publication in this "
+"journal.</li>\n"
+" <li>Authors are able to enter into separate, additional contractual "
+"arrangements for the non-exclusive distribution of the journal's published "
+"version of the work (e.g., post it to an institutional repository or publish "
+"it in a book), with an acknowledgement of its initial publication in this "
+"journal.</li>\n"
+" <li>Authors are permitted and encouraged to post their work online (e.g., "
+"in institutional repositories or on their website) prior to and during the "
+"submission process, as it can lead to productive exchanges, as well as "
+"earlier and greater citation of published work (See <a target=\"_new\" href="
+"\"http://opcit.eprints.org/oacitation-biblio.html\">The Effect of Open "
+"Access</a>).</li>\n"
+"</ol>\n"
+"\n"
+"<h4>2. Sonradan Açıq giriş təqdim edən jurnallar üçün təklif edilən "
+"politika</h4>\n"
+"Bu jurnalda məqalə nəşr edən Müəlliflər aşağıdakı şərtləri qəbul edər:\n"
+"<ol type=\"a\">\n"
+" <li>Authors retain copyright and grant the journal right of first "
+"publication, with the work [SPECIFY PERIOD OF TIME] after publication "
+"simultaneously licensed under a <a target=\"_new\" href=\"http"
+"://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution "
+"License</a> that allows others to share the work with an acknowledgement of "
+"the work's authorship and initial publication in this journal.</li>\n"
+" <li>Authors are able to enter into separate, additional contractual "
+"arrangements for the non-exclusive distribution of the journal's published "
+"version of the work (e.g., post it to an institutional repository or publish "
+"it in a book), with an acknowledgement of its initial publication in this "
+"journal.</li>\n"
+" <li>Authors are permitted and encouraged to post their work online (e.g., "
+"in institutional repositories or on their website) prior to and during the "
+"submission process, as it can lead to productive exchanges, as well as "
+"earlier and greater citation of published work (See <a target=\"_new\" href="
+"\"http://opcit.eprints.org/oacitation-biblio.html\"> The Effect of Open "
+"Access</a>).</li>\n"
+"</ol>"
+
+msgid "manager.setup.referenceLinkingDescription"
+msgstr ""
+"<p>Oxucuların bir Müəllif tərəfindən istinad edilən onlayn bir çalışmanın "
+"versiyalarını tapması üçün aşağıdakı seçimləri aktivləşdirilə bilər. </p>\n"
+"\n"
+"<ol>\n"
+" <li><strong>Oxuma Aləti Əlavə et</strong><p>Jurnal idarəçisi yayımlanmış "
+"elementlərə müşaiyət edən Oxuma Alətləri üçün İstinad Tapma\"\" əlavə edə "
+"bilər. İstinad edilən çalışmaların istinad başlıqlarının yapışdırılması "
+"yoluyla ön seçimli akademik data bazasında araşdırılması üçün oxucular "
+"aktivləşdirilə bilər.</p></li>\n"
+" <li><strong>İsitnadlara Link Əlavə et</strong><p>Tərtibatçı aşağıdakı "
+"təlimatları (tənzimlənə bilər) istifadə edərək onlayn tapıla bilən bir link "
+"əlavə edə bilər..</p></li>\n"
+"</ol>"
+
+msgid "editor.submissionReview.notes"
+msgstr ""
+"\n"
+"\t<ol>\n"
+" <li>Aşağıda qeyd olunan elementlər redaktor prosesi gözləyir:\n"
+" <ul>\n"
+" <li class=\"highlightReviewerNotNotified\">Bir rəyçi təyin edildi ancaq "
+"email ilə məlumatlandırılmadı</li>\n"
+" <li class=\"highlightNoDecision\">Bütün rəyçilər şərhlərini göndərdi, ancaq "
+"heç bir qərar qeyd edilmədi</li>\n"
+" <li class=\"highlightRevisedCopyUploaded\">Müəllif gözdən keçirilmiş "
+"məqaləni yüklədi</li>\n"
+" <li class=\"highlightReviewerConfirmationOverdue\">rəyçi dəyərləndirmə "
+"dəvətini təsdiq etmək üçün gecikib</li>\n"
+" <li class=\"highlightReviewerCompletionOverdue\">rəyçi dəyərləndirməni "
+"tamamlamaq üçün gecikib</li>\n"
+" </ul>\n"
+" </li>\n"
+" <li>\"Son tarix\" rəyçilər dəyərləndirməni qəbul etdiklərində doldurulur; "
+"rəyçilərə verilən dəyərləndirmə müddətinin həftə sayını siyahıya alar və (-) "
+"ilə qeyd edilən gecikmiş həftə sayıdır.</li>\n"
+" </ol>"
+
+msgid "submission.layout.imageInvalid"
+msgstr "Yanlış şəkil formatı. Etibarlı formatlar: .gif, .jpg ve .png."
+
+msgid "doi.issue.notPublished"
+msgstr ""
+"DOI yaradıla bilmədi: {$pubObjectTitle}. Nömrə status yenilənmədən əvvəl "
+"yayımlanmalıdır."
+
+msgid "submission.comments.viewableDescription"
+msgstr ""
+"Bu şərhlər müəlliflərlə bölüşülə bilər.<br />\n"
+"(Yadda saxladıqdan sonra yeni şərhlər əlavə edilə bilər.)"
+
+msgid "donations.thankYouMessage"
+msgstr "Qatqılarınızdan doalyı təşəkkür edirik. Qatqılarınız çox dəyərlidir."
+
+msgid "payment.alreadyPaidMessage"
+msgstr ""
+"Məqalə prosesini tamamlamaq üçün ödəməni jurnala göndərmisinizsə bu qutunu "
+"seçin. Məqalə, ödəmə gələnə qədər incələnməyəcəkdir. Ödəmə təlimatılarını "
+"görmək üçün yuxarıdakı Ödəmə’ni klikləyin."
+
+msgid "installer.preInstallationInstructions"
+msgstr ""
+"\n"
+"<h4>Yükləmədən əvvəlki addımlar</h4>\n"
+"\n"
+"\n"
+"<p>1. Aşağıdakı fayllar və indekslər (və məzmunlar) yazıla bilən "
+"olmalıdır:</p>\n"
+"<ul>\n"
+" <li><tt>config.inc.php</tt> yazıla bilər (istəyə bağlıdır): "
+"{$writable_config}</li>\n"
+" <li><tt>public/</tt> yazıla bilər: {$writable_public}</li>\n"
+" <li><tt>cache/</tt> yazıla bilər: {$writable_cache}</li>\n"
+" <li><tt>cache/t_cache/</tt> yazıla bilər: {$writable_templates_cache}</li>\n"
+" <li><tt>cache/t_compile/</tt> yazıla bilər: "
+"{$writable_templates_compile}</li>\n"
+" <li><tt>cache/_db</tt> yazıla bilər: {$writable_db_cache}</li>\n"
+"</ul>\n"
+"\n"
+"<p>2. Yüklənən faylların depolanması üçün bir indeks yaradılmalı və yazıla "
+"bilən edilməlidir (aşağıdakı \"\"Fayl Tənzimləri\"\" bölməsinə baxın).</p>"
+
+msgid "installer.upgradeInstructions"
+msgstr ""
+"<h4>ADS Versiyası {$version}</h4>\n"
+"\n"
+"<p>İctimai Məlumat Layihələrindən (PKP) <strong>Açık Dergi Sistemleri</"
+"strong>ni yüklədiyiniz üçün təşəkkür edirik. İrəliləmədən əvvəl zəhmət "
+"olmasa bu proqramın içindəki <a href=\"\"{$baseUrl}/docs/README\"\">MƏNİ OXU "
+"(README) </a> ve <a href=\"\"{$baseUrl}/docs/UPGRADE\"\">YENİLƏ (UPGRADE) </"
+"a>  fayllarını oxuyun. İctimai Məlumatlandırma Layihəsi və onun içindəki "
+"proqram üçün zəhmət olmasa <a href=\"\"http://pkp.sfu.ca/\"\" target=\""
+"\"_blank\"\">PKP internet saytını</a> ziyarət edin. Açıq Jurnal Sistemləri "
+"haqqında virus hesabatları və ya texniki dəstək suallarınız varsa,  <a href="
+"\"\"http://pkp.sfu.ca/support/forum\"\">destek forumuna</a> və ya PKP <a "
+"href=\"\"http://pkp.sfu.ca/bugzilla/\"\" target=\"\"_blank\"\">virus "
+"bildiriş sisteminə</a> baxın. Dəstək forumu seçən əlaqə qurma metodu olmaqla "
+"birlikdə, proqram təminatı komandası ilə email vasitəsilə də əlaqə qura "
+"bilərsiniz: <a href=\"\"mailto:pkp.contact@gmail.com\"\">pkp.contact@gmail."
+"com</a>.</p>\n"
+"<p>Davam etməzdən əvvəl data bazanızın, fayl indeksi və ADS yükləmə indeksi "
+"ehtiyatını görməyinizi <strong>şiddətlə tövsiyə edirik</strong>.</p>\n"
+"<p>Eğer <a href=\"\"http://www.php.net/features.safe-mode\"\" target=\""
+"\"_blank\"\">PHP təhlükəsiz modda</a> çalışırsınızsa, zəhmət olmasa \"\"php."
+"ini\"\" konfiqurasiya faylınızda maksimum tətbiqat zamanı üçün ən yüksək "
+"limiti tənzimləyin. Bu və ya başqa bir zaman limitinə (Apache'nin vaxt "
+"aşımı' seçimi kimi) çatıldığında yeniləmə prosesinə fasilə verilir və "
+"tamamlamaq üçün manuel cəhd lazımdır.</p>"
+
+msgid "installer.reinstallAfterDatabaseError"
+msgstr ""
+"<strong>Xəbərdarlıq:</strong>Əgər yükləmə, data bazasının yüklənməsi "
+"vasitəsilə uğursuz olubsa, yenidən yükləməyə cəhd etmədən əvvəl ADS data "
+"bazasını və ya data baza cədvəllərini atmalı (drop) ola bilərsiniz."
+
+msgid "log.author.documentRevised"
+msgstr ""
+"{$authorName} {$submissionId} nömrəli məqaləsini dəyişdirdi. Yeni fayl ID-si:"
+" {$fileId}."
+
+msgid "log.review.reviewInitiated"
+msgstr ""
+"{$submissionId} nömrəli Məqalənin {$round}. Dəyərləndirmə turu "
+"{$reviewerName} tərəfindən başladıldı."
+
+msgid "author.submit.uploadInstructions"
+msgstr ""
+"\n"
+"<p>jurnala məqalə göndərmək üçün aşağıdakı addımları tamamlayın.</p>\n"
+"<ol>\n"
+"<li>Bu səhifədə fayl seçimi pəncərəsini açaraq öz kompüterinizin sabit "
+"sürücüsündə olan faylı tapmanıza kömək edəcək Gözat/Browse'a klikləyin. </li>"
+"\n"
+"<li>Müraciət faylınızın yerini təyin edib işarələyin.</li>\n"
+"<li>Fayl seçimi pəncərəsində Aç/Open’ə klikləyin, bu proses fayl yolunu "
+"səhifə üzərinə yerləşdirəcəkdir. </li>\n"
+"<li>Fayl Göndər düyməsini klikləyin, faylı öz kompüterinizdən Jurnalın "
+"saytına yükləyin, faylınızın adı Jurnal qaydalarına uyğun olaraq "
+"dəyişdiriləcək.</li>\n"
+"<li>Müraciət yükləndikdən sonra, səhifənin alt qismində olan Qeydet və Davam "
+"et-ə klikləyin.</li>\n"
+"</ol>"
+
+msgid "search.syntaxInstructions"
+msgstr ""
+"Axtarış İpucları: <ul>\n"
+"<li>Axtarış terminlərində kiçik və böyük hərf fərqi yoxdur.</li>\n"
+"<li>Sıx istifadə edilən kəlmələr nəzərdən qaçırılmışdır.</li>\n"
+"<li>Axtarış nəticəsində sadəcə sorğudakı bütün terminlərin daxil olduğu "
+"məqalələri siyahıya alır.</li>\n"
+"<li>İki sözün daxil olduğu məqalələri tapmaq üçün kəlmələri <strong>və ya</"
+"strong> ilə birləşdirin; məs., <em>təhsil və ya araşdırma</em></li>\n"
+"<li>Daha mürəkkəb sorğular üçün mötərizə istifadə edin; məs., arxiv "
+"menecment VƏYA idarəet) siyasi deyil)</li>\n"
+"<li>Doğru deyimi araşdırmaq üçün dırnaq işarəsi istifadə edin; məs., <em>\""
+"\"əldəetməyə açıq nəşr\"\"</em></li>\n"
+"<li>Bir kəlməni xaric tutmaq üçün önünə<strong>-</strong> işarə qoyun; məs. "
+"<em>kompüterlə işləyən- politika</em></li>\n"
+"<li>Bir kəlmə içində ardıcıl xarakterləri ifadə etmək üçün <strong>*</"
+"strong>simvolunu istifadə edin; məs., <em>Türk*</em> = \"\"Türkiyə\"\", \""
+"\"Türklər\"\", \"\"Türklərin\"\" vb. terminlərinin tapılmasını təmin "
+"edər</li>\n"
+"</ul>"
+
+msgid "installer.installationInstructions"
+msgstr ""
+"<h4>OJS Versiya {$version}</h4>\n"
+"\n"
+"<p>İctimai Məlumat Layihəsi (PKP) <strong>OJS (Açıq Jurnal Sistemləri)</"
+"strong>'ni yüklədiyiniz üçün təşəkkür edirik. Davam etmək üçün zəhmət olmasa "
+"bu proqramın içində olan<a href=\"\"{$baseUrl}/docs/README.md\"\">README "
+"(BENİOKU)</a> faylını oxuyun. İctimai Məlumat Layihəsi (PKP) və PKP'nin "
+"proqram layihələri haqqında daha çox məlumlat almaq üçün zəhmət olmasa <a "
+"href=\"\"http://pkp.sfu.ca/\"\" target=\"\"_blank\"\">PKP web sitesi</a>ni "
+"ziyarət edin. If you have bug reports or technical support inquiries about "
+"Open Journal Systems, see the <a href=\"\"http://forum.pkp.sfu.ca\"\" target="
+"\"\"_blank\"\">support forum</a> or visit PKP's online <a href=\"\"https"
+"://github.com/pkp/pkp-lib#issues\"\" target=\"\"_blank\"\">bug reporting "
+"system</a>. Although the support forum is the preferred method of contact, "
+"you can also email the team at <a href=\"\"mailto:pkp.contact@gmail.com\"\""
+">pkp.contact@gmail.com</a>.</p>\n"
+"\n"
+"<h4>Təkmilləşdirmə</h4>\n"
+"\n"
+"<p>If you are upgrading an existing installation of OJS, <a href=\"\""
+"{$upgradeUrl}\"\">click here</a> to proceed.</p>\n"
+"\n"
+"<h4>Təklif edilən sistem ehtiyacları</h4>\n"
+"\n"
+"<ul>\n"
+" <li><a href=\"\"http://www.php.net/\"\" target=\"\"_blank\"\">PHP</a> >= "
+"{$phpRequiredVersion}; you are currently using PHP "
+"{$phpVersion}{$wrongPhpText}</li>\n"
+" <li><a href=\"\"http://www.mysql.com/\"\" target=\"\"_blank\"\">MySQL</a> "
+">= 4.1 or <a href=\"\"http://www.postgresql.org/\"\" target=\"\"_blank\"\""
+">PostgreSQL</a> >= 9.1.5</li>\n"
+" <li><a href=\"\"http://httpd.apache.org/\"\" target=\"\"_blank\"\">Apache</"
+"a> >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6</li>\n"
+" <li>Operating system: Any OS that supports the above software, including <a "
+"href=\"\"http://www.linux.org/\"\" target=\"\"_blank\"\">Linux</a>, <a href="
+"\"\"http://www.bsd.org/\"\" target=\"\"_blank\"\">BSD</a>, <a href=\"\"http"
+"://www.oracle.com/sun/\"\" target=\"\"_blank\"\">Solaris</a>, <a href=\""
+"\"http://www.apple.com/\"\" target=\"\"_blank\"\">Mac OS X</a>, <a href=\""
+"\"http://www.microsoft.com/\"\">Windows</a></li>\n"
+"</ul>\n"
+"\n"
+"<p>As PKP does not have the resources to test every possible combination of "
+"software versions and platforms, no guarantee of correct operation or "
+"support is implied.</p>\n"
+"\n"
+"<p>Changes to these settings can be made after installation by editing the "
+"file <tt>config.inc.php</tt> in the base OJS directory, or using the site "
+"administration web interface.</p>\n"
+"\n"
+"<h4>Dəstəklənən databaza sistemləri</h4>\n"
+"\n"
+"<p>OJS has currently only been tested on MySQL and PostgreSQL, although "
+"other database management systems supported by <a href=\"\"http://adodb."
+"sourceforge.net/\"\" target=\"\"_blank\"\">ADOdb</a> may work (in full or "
+"partially). Compatibility reports and/or code patches for alternative DBMSs "
+"can be sent to the OJS team.</p>\n"
+
+msgid "installer.localeSettingsInstructions"
+msgstr ""
+"Tam Unicode (UTF-8) dəstəyi üçün PHP-nin <a href=\"http://www.php.net/"
+"mbstring\" target=\"_blank\">mbstring</a> kitabxanasını tələb etdiyini "
+"unutmayın (ən son PHP quraşdırmalarında defolt olaraq aktivdir).\n"
+"<br />\\<br />\n"
+"Serveriniz hazırda mbstring-i dəstəkləyir: "
+"<strong>{$supportsMBString}</strong>"
+
+msgid "installer.localeInstructions"
+msgstr ""
+"Bu sistem üçün istifadə ediləcək ilkin dil. Burada qeyd edilməyən dillər "
+"üçün dəstək almaq istəyirsinizsə zəhmət olmasa OJS yardım sənədlərinə baxın."
+
+msgid "installer.filesDirInstructions"
+msgstr ""
+"Yüklənən faylların saxlanacağı bir indeksin tam giriş yolunu yazın. Bu "
+"indeks birbaşa veb girişinə açıq olmaya bilər. <strong>Zəhmət olmasa "
+"yükləmədən əvvəl bu indeksin var olduğundan və yazıla bilən olmasından əmin "
+"olun.</strong> Əlaqə sistemi Windows isə nümunədəki kimi bir yol istifadə "
+"edin. Məsələn: \"C:/eJurnal/fayllar\"."
+
+msgid "installer.databaseSettingsInstructions"
+msgstr ""
+"ADS dataları depolamaq üçün SQL data bazası girişi tələb edir. Dəstəklənən "
+"data bazalarının bir siyahısı üçün yuxarıdakı sistem ehtiyaclarına baxın. "
+"Aşağıdakı sahələr data bazası ilə əlaqə qurmaq üçün istifadə ediləcək "
+"tənzimləri formalaşdırır."
+
+msgid "installer.overwriteConfigFileInstructions"
+msgstr ""
+"<h4>ÖNƏMLİ!</h4>\n"
+"<p>Yükləmə əmri konfiqurasiya faylını avtomatik olaraq yazmaz. Sistemi "
+"istifadə etməyə cəhd etməzdən əvvəl <tt>config.inc.php</tt> faylını uyğun "
+"bir mətn redaktorundan açın və məzmunlarını aşağıdakı mətn sahəsinin "
+"məzmunlarına uyğun olaraq dəyişdirin.</p>"
+
+msgid "installer.installationComplete"
+msgstr ""
+"<p>ADS yükləməsi uğurla başa çatdı.</p>\n"
+"<p>Sistemi istifadə etməyə başlamaq üçün əvvəlki səhifədə daxil edilən "
+"istifadəçi adı və şifrə ilə <a href=\"{$loginUrl}\">üzv girişi </a>edin.</p>"
+"\n"
+"<p>Əgər yenilənmələr və proqramla bağlı xəbərləri əldə etmək istəyirsinizsə: "
+"</p>\n"
+"<ol>\n"
+" <li>Jurnal, konfrans, uyğunlaşdırma ilə yenilənmə əldə etmə, proqram "
+"yeniləmə, təhlükəsizlik yamaqları və daha artığı üçün <a href=\"http://pkp."
+"sfu.ca/ojs/register\" target=\"_new\">Qeydiyyatdan</a> keçin.</li>\n"
+" <li>OJS, OCS, Harvester, Lemon8-XML, OMP və bütün yuxarıdakılar üçün <a "
+"href=\"https://forum.pkp.sfu.ca\" target=\"_new\">müzakirə siyahımıza</"
+"a>qoşula bilərsiniz.</li>\n"
+" <li><a href=\"http://pkp.sfu.ca/blog\" target=\"_new\">PKP blog</a> <a href="
+"\"https://forum.pkp.sfu.ca\" target=\"_new\">RSS dəstəyinə</a> üzv ola "
+"bilərsiniz.</li>\n"
+"</ol>\n"
+"<p>Sual və şərhləriniz üçün zəhmət olmasa <a href=\"http://pkp.sfu.ca/"
+"support/forum\" target=\"_new\">dəstk formunu</a> istifadə edin.</p>"
+
+msgid "installer.upgradeComplete"
+msgstr ""
+"<p>ADS-nin versiya {$version} yenilənməsi uğurla başa çatdı.</p>\n"
+"<p> \"\"config.inc.php\"\" konfiqurasiya faylındakı \"\"quraşdırıldı "
+"(installed)\"\" tənzimini<em>On</em> lokasiyasına gətirməyi unutmayın.</p>\n"
+"<p>Əgər yenilənmələr və proqramla bağlı xəbərləri təqib etmək üçün üzv "
+"olmamısınızsa, <strong>lütfen <a href=\"\"http://pkp.sfu.ca/ojs/register\"\" "
+"target=\"\"_new\"\">http://pkp.sfu.ca/ojs/register</a> səhifəsində "
+"qeydiyyatdan keçin</strong> Sual və şərhləriniz üçün zəhmət olmasa <a href=\""
+"\"http://pkp.sfu.ca/support/forum\"\" target=\"\"_new\"\">dəstək forumunu</"
+"a> istifadə edin.</p>"
+
+msgid "site.upgradeAvailable.admin"
+msgstr ""
+"ADS-nin istifadə edilə bilir yeni versiyası var! Bu halda ADS-nin "
+"{$currentVersion} versiyasını istifadə edirsiniz. {$latestVersion} ADS-nin "
+"daha güncəl versiyasıdır. Güncəl versiyasını endirmək və yeniləmə "
+"təlimatları tapmaq üçün zəhmət olmasa <a href=\"http://pkp.sfu.ca/"
+"ojs_download\" target=\"_new\">bu sayfayı</a> ziyarət edin."
+
+msgid "site.upgradeAvailable.manager"
+msgstr ""
+"ADS-nin istifadə edilə bilir yeni versiyası var! Bu halda ADS-nin "
+"{$currentVersion} versiyasını istifadə edirsiniz. {$latestVersion} ADS-nin "
+"daha güncəl versiyasıdır. Yeni versiyandan xəbərdar etmək üçün Sayt "
+"idarəçiniz ({$siteAdminName} <a href=\"mailto:{$siteAdminEmail}\""
+">{$siteAdminEmail}</a>) ilə əlaqə saxlayın. Daha çox məlumat əldə etmək "
+"üçün<a href=\"http://pkp.sfu.ca/ojs_download\" target=\"_new\">buranı</a> "
+"klikləyin."
+
+msgid "log.review.reviewerUnassigned"
+msgstr ""
+"{$reviewerName} {$submissionId} nömrəli məqaləni dəyərləndirmə vəzifəsindən "
+"çıxdı({$round}. Dəyərləndirmə turu)."
+
+msgid "log.review.resubmit"
+msgstr "{$submissionId} nömrəli məqalə yenidən dəyərləndirilməyə təqdim olundu."
+
+msgid "log.review.reviewDeclined"
+msgstr ""
+"{$reviewerName} {$submissionId} nömrəli məqalənin {$round}. turdakı "
+"dəyərləndirməsində məqaləni rədd etdi."
+
+msgid "log.review.reviewAccepted"
+msgstr ""
+"{$reviewerName} {$submissionId} nömrəli məqalənin {$round}. Turdakı "
+"dəyərləndirməsində məqaləni qəbul etdi."
+
+msgid "log.review.reviewAcceptedByProxy"
+msgstr ""
+"{$userName} {$submissionId} ilə tərif edilən müraciətin {$round} nömrəli "
+"dəyərləndirməsini {$reviewerName} adına qəbul etdi."
+
+msgid "log.review.reviewerFile"
+msgstr "Bir rəyçi dəyərləndirmə faylı yüklənib."
+
+msgid "log.editor.decision"
+msgstr ""
+"{$submissionId} məqaləsi üçün {$editorName} tərəfindən redaktor qərarı "
+"({$decision}) kimi qeyd edib."
+
+msgid "log.editor.recommendation"
+msgstr ""
+"{$submissionId} üçün bir redaktor tövsiyəsi ({$decision}), {$editorName} "
+"tərəfindən qeyd edildi."
+
+msgid "log.copyedit.initiate"
+msgstr ""
+"{$submissionId} ilə müəyyən olunmuş müraciətin səhifə tərtibatı "
+"{$copyeditorName} tərəfindən qəbul edilib."
+
+msgid "log.copyedit.copyeditFileSet"
+msgstr "Əvvəlcədən müəyyən edilmiş səhifə tərtibatı faylı seçilib."
+
+msgid "log.copyedit.finalEditComplete"
+msgstr ""
+"{$copyeditorName} {$submissionId} ilə müəyyən edilmiş müraciətin son səhifə "
+"tərtibatını tamamlayıb."
+
+msgid "log.copyedit.copyeditorAssigned"
+msgstr ""
+"{$copyeditorName} {$submissionId} ilə müəyyən edilmiş müraciətin səhifə "
+"tərtibatı üçün təyin edilib."
+
+msgid "log.copyedit.copyeditorFile"
+msgstr "Müraciət faylının səhifə tərtibatı versiyası sistemə göndərilib."
+
+msgid "log.layout.layoutEditorAssigned"
+msgstr ""
+"{$editorName} {$submissionId} ilə müəyyən edilmiş müraciətin tərtibatçısı "
+"kimi təyin edilib."
+
+msgid "log.layout.layoutEditComplete"
+msgstr ""
+"{$editorName} {$submissionId} ilə müəyyən edilmiş müraciətin tərtibatını "
+"tamamlayıb."
+
+msgid "log.editor.metadataModified"
+msgstr "{$editorName} bu məqalənin meta datasını dəyişdirib."
+
+msgid "log.editor.editorFile"
+msgstr "Müraciət faylının redaktor versiyası sistemə göndərilib."
+
+msgid "log.editor.archived"
+msgstr "{$submissionId} nömrəli məqalə arxivləşdirildi."
+
+msgid "log.editor.restored"
+msgstr "{$submissionId} nömrəli məqalə növbəyə alındı."
+
+msgid "log.proofread.assign"
+msgstr ""
+"{$assignerName} {$submissionId} nömrəli məqalə üçün korrektor kimi "
+"{$proofreaderName} tövsiyə edilir."
+
+msgid "log.proofread.complete"
+msgstr "{$proofreaderName} {$submissionId} nömrəli məqalə nəşr üçün göndərildi."
+
+msgid "log.imported"
+msgstr "{$userName} {$submissionId} nömrəli məqaləni sistemə yüklədi."
+
+msgid "notification.type.submissionSubmitted"
+msgstr "Yeni bir məqalə, \"{$title}\" göndərildi."
+
+msgid "notification.type.issuePublished"
+msgstr "Yeni nömrə dərc edilmişdir."
+
+msgid "notification.type.newAnnouncement"
+msgstr "Yeni elan yaradıldı."
+
+msgid "notification.type.openAccess"
+msgstr "Nömrə açıq girişə verildi."
+
+msgid "notification.savedIssueMetadata"
+msgstr "Nömrə üst dataları yadda saxlandı."
+
+msgid "notification.type.editorAssignmentTask"
+msgstr "Redaktorun təyin edilməsi gərəkən yeni bir məqalə göndərildi."
+
+msgid "notification.type.assignProductionUser"
+msgstr ""
+"İştirakçılar siyahısındakı Təyinat linkini istifadə edərək bir istifadəçi "
+"yaratmaq üçün bir istifadəçi təyin edin."
+
+msgid "notification.type.awaitingRepresentations"
+msgstr "Çaplar gözləyir."
+
+msgid "user.authorization.copyeditorAssignmentMissing"
+msgstr "Giriş rədd edildi. Bu məqaləyə nəşr redaktoru kimi təyin edilməmisiniz."
+
+msgid "user.authorization.noContext"
+msgstr "Tələbinizə uyğun gələn bir jurnal tapılmadı."
+
+msgid "user.authorization.sectionAssignment"
+msgstr "Əldə etməyə cəhd etdiyiniz məqalə siz aid bir bölmənin hissəsi deyil."
+
+msgid "notification.type.approveSubmission"
+msgstr "Bu məqalənin nömrədə görünməsi üçün təsdiq tələb olunur."
+
+msgid "notification.type.approveSubmissionTitle"
+msgstr "Gözlənilən təsdiq."
+
+msgid "article.view.interstitial"
+msgstr "Zəhmət olmasa endirmək üçün bir məqalə faylı seçin."
+
+msgid "search.cli.rebuildIndex.unknownJournal"
+msgstr "Verilen gündəlik yolu \"{$journalPath}\" bu Jurnal üçün həll edilmədi."
+
+msgid "log.editor.submissionExpedited"
+msgstr ""
+"{$editorName}, {$submissionId} məqaləsi üçün tənzimləmə prosesini bitirdi."
+
+msgid "catalog.sortBy.categoryDescription"
+msgstr "Bu kateqoriyadakı məqalələri necə sıralayacağınızı seçin."
+
+msgid "log.review.reviewerRated"
+msgstr ""
+"{$reviewerName}, {$submissionId} nömrəli məqalə üçün {$round}. tur "
+"deyərləndirməsi ilə dərəcələndirildi."
+
+msgid "log.review.reviewDueDateSet"
+msgstr ""
+"{$reviewerName} adlı rəyçiyə {$submissionId} nömrəli məqalənin {$round}. "
+"Turdakı dəyərləndirməsi üçün son tarix {$dueDate} olaraq müəyyənləşdirildi."
+
+msgid "log.review.reviewRecommendationSet"
+msgstr ""
+"{$reviewerName} adlı rəyçiyə {$submissionId} nömrəli məqalənin {$round}. "
+"turdakı dəyərləndirməsi üçün təklif göndərildi."
+
+msgid "log.review.reviewRecommendationSetByProxy"
+msgstr ""
+"Redaktor {$editorName}, {$submissionId} nömrəli məqalənin {$round}. turdakı "
+"dəyərləndirməsi üçün {$reviewerName} adlı rəyçini tövsiyə etdi."
+
+msgid "log.review.reviewDeclinedByProxy"
+msgstr ""
+"{$userName} istifadəçi adlı {$reviewerName} adlı rəyçi {$submissionId} "
+"nömrəli məqalənin {$round}. tur dəyərləndirmə tələbini rədd etdi."
+
+msgid "log.review.reviewFileByProxy"
+msgstr ""
+"Redaktor, {$userName}, {$submissionId} ilə müəyyənləşdirilmiş müraciətin "
+"{$round} nömrəli dəyərləndirməsi nəticəsində {$reviewerName} adına bir "
+"dəyərləndirmə faylı yükləndi."
+
+msgid "log.copyedit.initialEditComplete"
+msgstr ""
+"{$copyeditorName} {$submissionId} ilə müəyyən edilmiş müraciətin ilk səhifə "
+"tərtibatını tamamlayıb."
+
+msgid "log.copyedit.authorFile"
+msgstr ""
+"Müraciət faylının müəllif səhifə tərtibatı versiyası müəllif tərəfindən "
+"sistemə göndərilib."
+
+msgid "log.layout.layoutEditorUnassigned"
+msgstr ""
+"{$editorName} {$submissionId} ilə müəyyən edilmiş müraciətin "
+"tərtibatçılığından azad edilib."
+
+msgid "log.editor.editorAssigned"
+msgstr ""
+"{$editorName} {$submissionId} nömrəli məqalə üçün redaktor təyin edilib."
