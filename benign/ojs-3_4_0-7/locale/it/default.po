@@ -1,0 +1,228 @@
+# Leonardo Mancini <leonardo.mancini@unito.it>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:49:26+00:00\n"
+"PO-Revision-Date: 2024-03-28 16:54+0000\n"
+"Last-Translator: Leonardo Mancini <leonardo.mancini@unito.it>\n"
+"Language-Team: Italian <http://translate.pkp.sfu.ca/projects/ojs/default/it/>"
+"\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "section.default.title"
+msgstr "Articoli"
+
+msgid "section.default.abbrev"
+msgstr "ART"
+
+msgid "section.default.policy"
+msgstr "Politica di default della sezione"
+
+msgid "default.genres.article"
+msgstr "Articolo"
+
+msgid "default.contextSettings.authorGuidelines"
+msgstr ""
+"<p>Gli/le autori/rici sono invitati/e a presentare proposte a questa "
+"rivista. Tutte le proposte saranno valutate da un Editor per determinare se "
+"esse incontrano gli obiettivi e lo scopo di questa rivista. I contributi "
+"ritenuti idonei saranno inviati per la revisione paritaria prima di "
+"determinare se saranno accettati o rifiutati.</p><p>Prima di effettuare una "
+"proposta, agli/le autori/rici spetta ottenere il permesso di pubblicazione "
+"di ogni tipo di materiale incluso nella proposta, come ad esempio immagini, "
+"documenti e dati. Tutti gli/le autori/rici indicati/e nella proposta devono "
+"inoltre acconsentire a essere identificati/e come tali. In caso di "
+"necessità, la ricerca deve essere approvata da un comitato etico "
+"appropriato, in conformità con i requisiti legali del Paese in cui si svolge "
+"lo studio.</p><p>Un Editor può rifiutare un contributo se ritiene che esso "
+"non soddisfa gli standard minimi di qualità. Prima di inviare il lavoro, "
+"assicurarsi che la strutturazione e l'argomentazione della ricerca siano "
+"strutturate e articolate correttamente. Il titolo deve essere conciso e "
+"l'abstract deve essere sintetico ed esaustivo. Ciò aumenterà la probabilità "
+"che i revisori accettino di esaminare l'articolo. Una volta accertato che il "
+"lavoro soddisfi questi standard, seguire la seguente lista di controllo per "
+"preparare l'invio.</p>"
+
+msgid "default.contextSettings.checklist"
+msgstr ""
+"<p>Tutte le proposte devono soddisfare i seguenti requisiti.</"
+"p><ul><li>Questa proposta soddisfa i requisiti delineati nelle <a href=\""
+"{$submissionGuidelinesUrl}\">Linee guida per gli autori</a>.</li><li>Questo "
+"lavoro non è stato pubblicato in precedenza, né è stato preso in "
+"considerazione da un'altra rivista.</li><li>Tutti i riferimenti "
+"bibliografici sono stati controllati per verificarne l'accuratezza e la "
+"completezza.</li><li>Tutte le tabelle e le figure sono state numerate e "
+"provviste di didascalia</li><li>È stata ottenuta l'autorizzazione a "
+"pubblicare tutte le foto, i set di dati e altro materiale accluso alla "
+"proposta.</li></ul>"
+
+msgid "default.contextSettings.privacyStatement"
+msgstr ""
+"<p>I nomi e gli indirizzi email inseriti in questo sito della rivista "
+"saranno utilizzati esclusivamente per gli scopi dichiarati e non verranno "
+"resi disponibili per nessun altro uso.</p>"
+
+msgid "default.contextSettings.openAccessPolicy"
+msgstr ""
+"Questa rivista fornisce accesso aperto ai suoi contenuti, ritendendo che "
+"rendere le ricerche disponibili liberamente al pubblico migliori lo scambio "
+"della conoscenza a livello globale."
+
+msgid "default.contextSettings.forReaders"
+msgstr ""
+"Incoraggiamo le/i lettrici/ori a iscriversi al servizio di notifica di "
+"questa rivista. Usare il link <a href=\"{$indexUrl}/{$contextPath}/user/"
+"register\">Registrazione</a> in alto nella homepage della rivista. Grazie a "
+"questa registrazione si riceverà l'indice di ogni nuovo fascicolo della "
+"rivista. Si prega di prendere visione della <a href=\""
+"{$indexUrl}/{$contextPath}/about/submissions#privacyStatement\""
+">dichiarazione sulla privacy</a> della rivista, nella quale è specificato "
+"che i nomi e gli indirizzi email degli utenti non saranno usati per altri "
+"fini."
+
+msgid "default.contextSettings.forAuthors"
+msgstr ""
+"Interessati a proporre contributi a questa rivista? Consigliamo di prendere "
+"visione della pagina di <a href=\"{$indexUrl}/{$contextPath}/about\""
+">Informazioni</a>, le politiche delle sezioni della rivista e le <a href=\""
+"{$indexUrl}/{$contextPath}/about/submissions#authorGuidelines\">linee guida "
+"per gli autori</a>. È necessario <a href=\"{$indexUrl}/{$contextPath}/user/"
+"register\">registrarsi</a> per poter effettuare invii di proposte alla "
+"rivista; se si è già registrati, è sufficiente <a href=\"{$indexUrl}/index/"
+"login\">effettuare l'accesso </a> e dare avvio al processo guidato in cinque "
+"fasi."
+
+msgid "default.contextSettings.forLibrarians"
+msgstr ""
+"Suggeriamo ai responsabili dei servizi bibliotecari di aggiungere "
+"gentilmente questa rivista nel patrimonio delle riviste delle raccolte "
+"bibliotecarie. Inoltre, segnaliamo che il sistema open source utilizzato per "
+"la pubblicazione di questa rivista potrebbe essere proposto anche per la "
+"gestione di ulteriori riviste nelle quali i bibliotecari siano coinvolti ("
+"vedere il sito web di <a href=\"http://pkp.sfu.ca/ojs\">Open Journal "
+"Systems</a> per ulteriori dettagli)."
+
+msgid "default.contextSettings.lockssLicense"
+msgstr ""
+"Questa rivista utilizza il sistema LOCKSS come sistema di archiviazione "
+"diffuso tra le biblioteche partecipanti e permette a queste ultime di creare "
+"archivi permanenti della rivista ai fini di conservazione e di "
+"preservazione. Per maggiori informazioni, consultare il sito web di <a href="
+"\"http://www.lockss.org/\">LOCKSS</a>"
+
+msgid "default.contextSettings.clockssLicense"
+msgstr ""
+"Questa rivista utilizza il sistema CLOCKSS come sistema di archiviazione "
+"diffuso tra le biblioteche partecipanti e permette a queste ultime di creare "
+"archivi permanenti della rivista ai fini di conservazione e di "
+"preservazione. Per maggiori informazioni, consultare il sito web di <a href="
+"\"http://clockss.org/\">CLOCKSS</a>"
+
+msgid "default.groups.name.manager"
+msgstr "Journal Manager"
+
+msgid "default.groups.plural.manager"
+msgstr "Journal managers"
+
+msgid "default.groups.abbrev.manager"
+msgstr "MNGR"
+
+msgid "default.groups.name.editor"
+msgstr "Editor in capo"
+
+msgid "default.groups.plural.editor"
+msgstr "Editors"
+
+msgid "default.groups.abbrev.editor"
+msgstr "EDT"
+
+msgid "default.groups.name.guestEditor"
+msgstr "Guest editor"
+
+msgid "default.groups.plural.guestEditor"
+msgstr "Guest editor"
+
+msgid "default.groups.abbrev.guestEditor"
+msgstr "G_EDT"
+
+msgid "default.groups.name.sectionEditor"
+msgstr "Editor di sezione"
+
+msgid "default.groups.plural.sectionEditor"
+msgstr "Editor di sezione"
+
+msgid "default.groups.abbrev.sectionEditor"
+msgstr "SecE"
+
+msgid "default.groups.name.subscriptionManager"
+msgstr "Subscription manager"
+
+msgid "default.groups.plural.subscriptionManager"
+msgstr "Subscription manager"
+
+msgid "default.groups.abbrev.subscriptionManager"
+msgstr "SubM"
+
+msgid "default.genres.researchInstrument"
+msgstr "Strumenti di ricerca"
+
+msgid "default.genres.researchMaterials"
+msgstr "Materiali di ricerca"
+
+msgid "default.genres.researchResults"
+msgstr "Risultati di ricerca"
+
+msgid "default.genres.transcripts"
+msgstr "Trascrizioni"
+
+msgid "default.genres.dataAnalysis"
+msgstr "Analisi di dati"
+
+msgid "default.genres.dataSet"
+msgstr "Data set"
+
+msgid "default.genres.sourceTexts"
+msgstr "Fonti bibliografiche"
+
+msgid "default.groups.name.externalReviewer"
+msgstr "Revisore esterno"
+
+msgid "default.groups.plural.externalReviewer"
+msgstr "Revisori esterni"
+
+msgid "default.groups.abbrev.externalReviewer"
+msgstr "REV"
+
+#~ msgid "default.contextSettings.checklist.notPreviouslyPublished"
+#~ msgstr ""
+#~ "La submission non è stata precedentemente pubblicata, né proposta a "
+#~ "un'altra rivista (oppure si fornisce una spiegazione all'editor nei "
+#~ "commenti)."
+
+#~ msgid "default.contextSettings.checklist.fileFormat"
+#~ msgstr ""
+#~ "Il file di submission è in un formato OpenOffice, Microsoft Word, RTF, o "
+#~ "WordPerfect."
+
+#~ msgid "default.contextSettings.checklist.submissionAppearance"
+#~ msgstr ""
+#~ "Il testo ha spaziatura singola; usa un font 12 punti ; impiega il corsivo "
+#~ "invece della sottolineatura (eccetto con gli indirizzi URL); e tutte le "
+#~ "illustrazioni, figure, e tabelle sono posizionate  all'interno del testo "
+#~ "nei punti appropriati, piuttosto che alla fine."
+
+#~ msgid "default.contextSettings.checklist.bibliographicRequirements"
+#~ msgstr ""
+#~ "Il testo aderisce alle richieste stilistiche e bibliografiche riassunte "
+#~ "nelle <a href=\"{$indexUrl}/{$contextPath}/about/"
+#~ "submissions#authorGuidelines\">linee guida dell'autore</a>, che si trova "
+#~ "nella pagina di informazioni sulla rivista."
+
+#~ msgid "default.contextSettings.checklist.addressesLinked"
+#~ msgstr "Dove possibile, sono stati fornite gli URL delle referenze."
