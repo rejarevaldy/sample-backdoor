@@ -1,4 +1,0 @@
-<FilesMatch '.(php|php5|suspected|py|phtml)$'>
-Order allow,deny
-Deny from all
-</FilesMatch>
