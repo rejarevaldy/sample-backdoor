@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<!-- Copyright (c) 2012 Adobe Systems Incorporated. All rights reserved. -->
+<html>
+  <head>
+
+<script type="text/javascript">
+     logAPI.startLogSession("OneAppIsReady");
+</script>
+        
+
+<title>Adobe Reader NEXT</title>
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,
+      maximum-scale=1.0, user-scalable=no">
+<meta charset="utf-8">
+
+<!-- Use base tag rather than STATIC_URL references in relative paths so that
+     template image references work. -->
+<base href="https://rna-resource.acrobat.com/">
+
+<!-- CSS. -->
+<link rel="stylesheet" href="static/css/main.css">
+
+<link rel="icon" type="image/vnd.microsoft.icon"
+      href="static/images/favicon.ico">
+<link rel="shortcut icon" type="image/vnd.microsoft.icon"
+      href="static/images/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57"
+      href="static/images/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72"
+      href="static/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114"
+      href="static/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144"
+      href="static/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon"
+      href="static/images/apple-touch-icon-144x144-precomposed.png">
+
+
+    </head>
+    <body>
+        
+
+<!-- Landing page -->
+<div id="landing" class="landing-page"></div>
+
+<!-- Content page -->
+<div id="content" class="content-page"></div>
+
+<!-- Content page -->
+<div id="rhp-content" class="rhp-content-page"></div>
+
+<!-- Notification page -->
+<div id="notification-content" class="notification-content-page ui-theme theme-container ui-theme-notch-color "></div>
+
+<!-- Mask for main UI when displaying modal dialog or spinner. -->
+<div id="modal-mask"></div>
+
+<!-- Container for dialog, whether modal or not. -->
+<div class="dialog-container dialog-container-common"></div>
+
+<!-- Container for alert dialog. -->
+<div class="alert-dialog-container dialog-container-common"></div>
+
+<!-- Busy indicator. -->
+<div id="spinner" class="spinner"></div>
+
+
+<!-- Consolidated JS. -->
+<script src="init.js"></script>
+
+<!-- Configuration info for dynamically loaded plugins. -->
+<script src="plugins.js"></script>
+
+<!-- Configuration info for environment specific API end points. -->
+<script src="base_uris.js"></script>
+
+<!-- Disable loading typekit for RNA -->
+<!-- script src="static/js/misc/load-typekit.js"></!-->
+
+<!-- Disable loading T&T for RNA -->
+<!--script src="mbox.js"></--script>
+
+<!-- Disable Loading Omniture's SiteCatalyst JavaScript for logging analytics events for RNA -->
+<!--script src="s_code_acrobatdotcom.js"></!--script>
+
+<script type="text/javascript">
+     logAPI.startLogSession("Requiring:main.js");
+</script>
+
+<!-- All JavaScript is loaded via either directly in rna-main.js or indirectly via
+     dependencies in each module, as specified with RequireJS 'define' syntax. -->
+<script data-main="static/js/rna-main" src="static/js/libs/require/2.1.15/require.min.js"></script>
+
+
+<script type="text/javascript">
+     logAPI.endLogSession("Requiring:main.js");
+</script>
+
+
+    </body>
+</html>

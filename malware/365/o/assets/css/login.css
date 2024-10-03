@@ -1,0 +1,101 @@
+body {
+    background: url('../images/background.jpg') no-repeat fixed center;
+}
+.row {
+    height: 100vh;
+}
+.card {
+    padding: 25px;
+    border-radius: 0;
+}
+.card-body > img,
+.card-body > h4 {
+    margin-bottom: 20px;
+}
+.form-control {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: unset;
+    border-bottom: 1px solid rgba(0,0,0,.6);
+    padding-left: 0;
+    transition: 0.2s ease all; 
+    -moz-transition: 0.2s ease all; 
+    -webkit-transition: 0.2s ease all;
+}
+.form-control:focus {
+    box-shadow: unset;
+}
+.form-control::placeholder {
+    color: rgba(0,0,0,.6);
+    font-size: 16px;
+}
+input:invalid {
+    box-shadow: none;
+    -moz-box-shadow: none;
+}
+.form-group > p {
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 70px;
+}
+.form-group > p > a {
+    text-decoration: none;
+}
+.btn {
+    width: 120px;
+    background: #0067b8;
+    color: #fff;
+    border-radius: 0;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    overflow: visible;
+    z-index: 99;
+    clear: both;
+    background-color: rgba(0,0,0,.6);
+}
+.footer > p {
+    float: right;
+    display: inline;
+    color: #fff;
+    font-size: 12px;
+    margin: 0;
+    padding: 5px;
+}
+.footer > p:not(:first-child) {     
+    margin-right: 20px;
+}.footer > p:not(:first-child):hover {     
+    cursor: pointer;
+    text-decoration: underline;
+}
+.footer > p:first-child {
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-image: unset;
+    }
+    .col-md-4 {
+        padding: 0;
+        margin: 0;
+        background-image: unset;
+    }
+    .card {    
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        border: none;
+        box-shadow: unset !important;
+    }
+    .card-body {
+        padding: 20px;
+    }
+    .footer,
+    .footer > p { 
+        display: none;
+    }
+}

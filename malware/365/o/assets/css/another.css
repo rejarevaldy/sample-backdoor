@@ -1,0 +1,98 @@
+body {
+    background: url('../images/background.jpg') no-repeat fixed center;
+}
+
+.row {
+    height: 100vh;
+}
+
+.card {
+    border-radius: 0;
+}
+
+.card-body {
+    padding-bottom: 50px;
+}
+
+.list-group-item {
+    border: 0;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: 10px;
+    border-top: 1px dotted transparent;
+    border-bottom: 1px dotted transparent;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+    background: #ccc;
+}
+
+.list-group-item:active {
+    background: #ccc;
+    border-top: 1px dotted #000;
+    border-bottom: 1px dotted #000;
+}
+
+.list-group-item > img:first-child {
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    overflow: visible;
+    z-index: 99;
+    clear: both;
+    background-color: rgba(0,0,0,.6);
+}
+.footer > p {
+    float: right;
+    display: inline;
+    color: #fff;
+    font-size: 12px;
+    margin: 0;
+    padding: 5px;
+}
+.footer > p:not(:first-child) {     
+    margin-right: 20px;
+}
+.footer > p:not(:first-child):hover {     
+    cursor: pointer;
+    text-decoration: underline;
+}
+.footer > p:first-child {
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-image: unset;
+    }
+    .col-lg-3 {
+        padding: 0;
+        margin: 0;
+        background-image: unset;
+    }
+    .card {    
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        border: none;
+        box-shadow: unset !important;
+    }
+    .card-body {
+        padding: 20px;
+    }
+    .footer,
+    .footer > p { 
+        display: none;
+    }
+}
