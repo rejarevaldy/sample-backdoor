@@ -1,0 +1,768 @@
+# Hüseyin Körpeoğlu <yoruyenturk@hotmail.com>, 2022, 2023, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:50:08+00:00\n"
+"PO-Revision-Date: 2024-03-31 01:25+0000\n"
+"Last-Translator: Hüseyin Körpeoğlu <yoruyenturk@hotmail.com>\n"
+"Language-Team: Turkish <http://translate.pkp.sfu.ca/projects/pkp-lib/user/tr/"
+">\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.accountInformation"
+msgstr "Hesap Bilgisi"
+
+msgid "user.affiliation"
+msgstr "Kurum"
+
+msgid "user.affiliation.description"
+msgstr "(Kurumunuz: \"Üniversite, Fakülte, Bölüm\" şeklinde veriniz.)"
+
+msgid "user.affiliations"
+msgstr "Kurumlar"
+
+msgid "user.authorization.accessDenied"
+msgstr "Erişim engellendi."
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "İşlem kimlik belirteci eksik veya geçersiz."
+
+msgid "user.authorization.contextRequired"
+msgstr "Bir kaynak olmadan bu işlemi çağıramazsınız (dergi, konferans, vb.)."
+
+msgid "user.authorization.loginRequired"
+msgstr "Üye girişi gerekli."
+
+msgid "user.authorization.privateOperation"
+msgstr "Yapmak istediğiniz işlem özel veya mevcut değil."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr "Erişiminiz engellendi. Bu sayfaya giriş sınırlandırılmıştır."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "Mevcut yetkiniz bu işlemi gerçekleştirmek için yeterli değildir."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr ""
+"Bu gönderiye, bu işleme erişmeye izin verilen bir role sahip değilsiniz."
+
+msgid "user.authorization.userGroupRequired"
+msgstr ""
+"Bu işlemi gerçekleştirebilmek için geçerli bir kullanıcı grubu "
+"belirlemelisiniz."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"Devam etmeden önce aşağıda Baskı Yöneticisi rolüne sahip bir kullanıcı "
+"atanmalıdır (Örneğin; baskı veya üretim editörü)."
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr "Şu anda iş akışının bu aşamasına erişiminiz yok."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "Herhangi bir iş akışı aşaması belirtilmemiş."
+
+msgid "user.authorization.pluginRequired"
+msgstr "Bir eklenti belirtilmemiş; ancak eklenti gerekli."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "Bu hakemlik görevine erişim izniniz yoktur."
+
+msgid "user.authorization.submissionQuery"
+msgstr "Bu tartışmaya erişim izniniz yok."
+
+msgid "user.biography"
+msgstr "Öz Geçmiş"
+
+msgid "user.changeMyPassword"
+msgstr "Şifremi Değiştir"
+
+msgid "user.changePassword"
+msgstr "Şifre Değiştir"
+
+msgid "user.dateLastLogin"
+msgstr "Son giriş"
+
+msgid "user.dateRegistered"
+msgstr "Kayıt tarihi"
+
+msgid "user.editMyProfile"
+msgstr "Profilimi Düzenle"
+
+msgid "user.email"
+msgstr "E-posta"
+
+msgid "user.givenName"
+msgstr "İsim"
+
+msgid "user.interests"
+msgstr "Uzmanlık Alanı"
+
+msgid "user.gossip"
+msgstr "Özel notlar"
+
+msgid "user.gossip.description"
+msgstr ""
+"Buraya girilen notlar yalnızca yöneticiler, dergi yöneticileri, editörler ve "
+"yardımcı editörler tarafından görülebilir."
+
+msgid "user.group"
+msgstr "Üye Grubu"
+
+msgid "user.familyName"
+msgstr "Soyad"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"Hatalı görsel formatı ya da büyük görsel. Görseller .gif, .jpg veya .png "
+"biçimlerinden biri olmalıdır ve boyutları en fazla 150X150 ebadında "
+"olmamalıdır."
+
+msgid "user.login.accountDisabledWithReason"
+msgstr ""
+"Hesabınız aşağıda belirtilen nedenden dolayı pasifleştirilmiştir: {$reason}"
+
+msgid "user.login.accountDisabled"
+msgstr ""
+"Hesabınız pasifleştirilmiştir. Daha fazla bilgi için lütfen yönetici ile "
+"temasa geçiniz."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"Size {$email} adresinden bir onay e-postası gönderildi. Yeni hesabınızı "
+"etkinleştirmek için lütfen bu e-postadaki talimatları izleyin. Bir e-posta "
+"almadıysanız, e-postanın spam klasörünüze düşüp-düşmediğini kontrol edin."
+
+msgid "user.login.activate"
+msgstr "Hesap Etkinleştirme"
+
+msgid "user.login.activated"
+msgstr ""
+"Hesabınızı etkinleştirdiğiniz için teşekkür ederiz. Şimdi hesabınızı "
+"oluştururken size verilen kimlik bilgilerini kullanarak giriş yapabilirsiniz."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"Siteye girmek için öncelikle yeni bir şifre belirlemeniz gerekmektedir. <br /"
+"><br />Şifrenizi değiştirmek için lütfen kullanıcı adınızı, mevcut şifrenizi "
+"ve yeni şifrenizi giriniz."
+
+msgid "user.login.forgotPassword"
+msgstr "Şifrenizi mi unuttunuz?"
+
+msgid "user.login.loginError"
+msgstr "Kullanıcı adı veya şifre hatalı girildi. Lütfen yeniden deneyiniz."
+
+msgid "user.login"
+msgstr "Giriş"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"E-posta adresinize bir doğrulama mesajı gönderilmiştir. Şifrenizi yenilemek "
+"için bu e-postadaki yönlendirmeleri takip ediniz."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"Üzgünüz, tıklamış olduğunuz bağlantı geçerli değildir. Şifrenizi yenilemek "
+"için tekrar deneyiniz."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"E-posta adresinize yeni şifreniz gönderilmiştir. Yeni şifrenizi kullanarak "
+"siteme bağlanabilirsiniz."
+
+msgid "user.login.registeredEmail"
+msgstr "Kayıtlı kullanıcının e-posta adresi"
+
+msgid "user.login.registrationComplete"
+msgstr "Kayıt tamamlandı"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "Kayıt olduğunuz için teşekkürler! Bundan sonra ne yapmak istersiniz?"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Gönderileri Görüntüle"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Yeni Bir Gönderi Yap"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "Listelemeye Devam Et"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "Onay bekleyen kayıt"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "Oturumumu açık tut"
+
+msgid "user.login.resetPassword"
+msgstr "Şifreyi Sıfırla"
+
+msgid "user.logOut"
+msgstr "Çıkış"
+
+msgid "user.logOutAs"
+msgstr "{$username} adına çıkış"
+
+msgid "user.hello"
+msgstr "Merhaba, "
+
+msgid "user.mailingAddress"
+msgstr "Posta Adresi"
+
+msgid "user.myAccount"
+msgstr "Hesabım"
+
+msgid "user.name"
+msgstr "Ad"
+
+msgid "user.password"
+msgstr "Şifre"
+
+msgid "user.repeatPassword"
+msgstr "Şifre tekrarı"
+
+msgid "user.phone"
+msgstr "Tel"
+
+msgid "user.preferredPublicName"
+msgstr "Tercih Edilen Genel Ad"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"Yazarın yayınlanmış çalışmada belirtilmesi gerektiğinden lütfen tam adı "
+"belirtin. Örnek: Dr. Alan P. Mwandenga"
+
+msgid "user.profile.changePasswordInstructions"
+msgstr ""
+"Kullancı hesabınızın şifresini değiştirmek için mevcut ve yeni şifrenizi "
+"giriniz."
+
+msgid "user.profile.editProfile"
+msgstr "Profil Düzenle"
+
+msgid "user.profile.form.countryRequired"
+msgstr "Bir ülke gerekli."
+
+msgid "user.profile.form.emailRequired"
+msgstr "Geçerli bir e-posta adresi gerekli."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "Belirli bir ad gerekli."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"Belirtilen adın eksik olduğu bir dil için bir soyadı eklediniz. Lütfen bu "
+"dil için belirli bir ad ekleyin."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "Bir e-posta adresi gerekli."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "Yeni şifrenizi girmeniz gerekli."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "Girdiğiniz şifre hatalı."
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "Açık erişim e-posta bildirimleri"
+
+msgid "user.profile.form.passwordRequired"
+msgstr "Şifre gerekli."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "Yeni şifreniz eski şifrenizle aynıdır."
+
+msgid "user.profile.form.profileImage"
+msgstr "Profil resmi"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "Yayılanmış yeni sayıyı e-posta uyarısı"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"Belirtilen URL geçerli değil. Lütfen URL adresni kontrol ederek tekrar "
+"deneyin. (İpucu: URL başına http:// eklemeyi deneyin.)"
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "Bir üye grubu gerekli."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "Kullanıcı adı girmeniz gerekli."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr "Gizlilik beyanı şartlarını kabul etmelisiniz."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr "Mevcut şifreyle devam etmek için şifre alanını boş bırakınız."
+
+msgid "user.profile.newPassword"
+msgstr "Yeni şifre"
+
+msgid "user.profile.oldPassword"
+msgstr "Mevcut şifre"
+
+msgid "user.profile"
+msgstr "Profil"
+
+msgid "user.profile.publicProfile"
+msgstr "Üye profili"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "Yeni şifreyi tekrar et"
+
+msgid "user.login.registerNewAccount"
+msgstr "Kayıt"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"Hesabınızın e-posta adresini aşağıya girmeniz halinde şifrenizi nasıl "
+"sıfırlayacağınızla ilgili talimatlar içeren bir e-posta gönderilecektir."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"Evet, bana ait bilgilerin <a href=\"{$privacyUrl}\" target=\"_blank"
+"\">Politika Bildirimi</a>ne göre toplanmasını ve saklanmasını kabul ediyorum."
+
+msgid "user.register.form.emailConsent"
+msgstr "Evet, yeni yayınlardan ve duyurulardan haberdar olmak istiyorum."
+
+msgid "user.register.form.emailExists"
+msgstr ""
+"Seçmiş olduğunuz e-posta adresi halihazırda başka bir kullanıcı tarafından "
+"kullanılmaktadır."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "Şifreler uyumlu değildir."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "E-posta adresi alanları eşleşmedi."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"Kullanıcı adı yalnızca küçük harfli alfanümerik karakterler, alt çizgi ve "
+"tire içerebilir ve bir alfanümerik karakterle başlayıp bitmelidir."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "En az bir rol seçilmelidir."
+
+msgid "user.register.form.usernameExists"
+msgstr ""
+"Seçtiğiniz kullanıcı adı zaten başka bir kullanıcı tarafından kullanılıyor."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "Şifre en az {$length} karakter olmalıdır."
+
+msgid "user.register.registerAs"
+msgstr "{$contextName} şeklinde kaydol..."
+
+msgid "user.register"
+msgstr "Kayıt"
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"Kullanıcı adı sadece küçük harfleri, sayıları, tire işareti ve alt çizi "
+"karakterleri içermelidir."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"Başarıyla kaydoldunuz. Profilinizi tamamlamak için <a href="
+"\"{$profileUrl}\">buraya tıklayın</a>."
+
+msgid "user.role.assistant"
+msgstr "Yardımcı"
+
+msgid "user.role.author"
+msgstr "Yazar"
+
+msgid "user.role.author_s"
+msgstr "Yazar(lar)"
+
+msgid "user.role.authors"
+msgstr "Yazarlar"
+
+msgid "user.role.editor"
+msgstr "Editör"
+
+msgid "user.role.editors"
+msgstr "Editörler"
+
+msgid "user.role.reader"
+msgstr "Okuyucu"
+
+msgid "user.role.readers"
+msgstr "Okuyucular"
+
+msgid "user.role.reviewer"
+msgstr "Hakem"
+
+msgid "user.role.reviewers"
+msgstr "Hakemler"
+
+msgid "user.role.siteAdmin"
+msgstr "Site Yöneticisi"
+
+msgid "user.role.siteAdmins"
+msgstr "Site Yöneticileri"
+
+msgid "user.role.copyeditor"
+msgstr "Redaktör"
+
+msgid "user.role.copyeditors"
+msgstr "Redaktörler"
+
+msgid "user.role.proofreader"
+msgstr "Düzeltmen"
+
+msgid "user.role.proofreaders"
+msgstr "Düzeltmenler"
+
+msgid "user.role.layoutEditor"
+msgstr "Tasarım Editörü"
+
+msgid "user.role.layoutEditors"
+msgstr "Tasarım Editörleri"
+
+msgid "user.roles"
+msgstr "Roller"
+
+msgid "user.sendPassword"
+msgstr "Doğrulama"
+
+msgid "user.sendPassword.description"
+msgstr "Kullanıcı adı ve şifremi içeren bir doğrulama e-postası gönder"
+
+msgid "user.signature"
+msgstr "İmza (kurum ve iletişim bilgisi)"
+
+msgid "user.title"
+msgstr "Başlık"
+
+msgid "user.url"
+msgstr "Web adresi"
+
+msgid "user.userHome"
+msgstr "Üye Sayfası"
+
+msgid "user.username"
+msgstr "Kullanıcı Adı"
+
+msgid "user.workingLanguages"
+msgstr "Çalışama Dilleri"
+
+msgid "user.orcid"
+msgstr "ORCID ID"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"Belirttiğiniz ORCID id geçerli değil. Lütfen tam URI'yi ekleyin (Ör. "
+"\"https://orcid.org/0000-0002-1825-0097\")."
+
+msgid "user.profile.identity"
+msgstr "Kimlik"
+
+msgid "user.profile.contact"
+msgstr "İletişim"
+
+msgid "user.profile.public"
+msgstr "Genel"
+
+msgid "user.apiKey"
+msgstr "API Anahtarı"
+
+msgid "user.apiKeyEnabled"
+msgstr ""
+"Bu hesaba erişmek için API anahtarıyla harici uygulamaları etkinleştirin"
+
+msgid "user.apiKey.generate"
+msgstr "Yeni bir API oluştur"
+
+msgid "user.apiKey.remove"
+msgstr "Sil"
+
+msgid "user.apiKey.generateWarning"
+msgstr ""
+"Yeni bir API anahtarı oluşturmak, bu kullanıcı için mevcut olan herhangi bir "
+"anahtarı geçersiz kılar."
+
+msgid "user.apiKey.removeWarning"
+msgstr "Bir anahtarın silinmesi, onu kullanan uygulamalara erişimi iptal eder."
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "Bu API anahtarını silmek istediğinizden emin misiniz?"
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"Bir API anahtarı oluşturmadan önce, site yöneticinizin yapılandırma "
+"dosyasında (\"api_key_secret\") bir gizlilik ayarlaması gerekir."
+
+msgid "user.privacyLink"
+msgstr ""
+"Şahsi bilgileriniz <a href=\"{$privacyUrl}\" target=\"_blank\">gizlilik "
+"bildirimimize</a> uygun olarak saklanır."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr "Belirtilen e-posta adresine sahip bir kullanıcı yok."
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr "{$reason} nedeniyle şifre sıfırlama isteği yapılamıyor."
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr "Oturum açma parolasını güncellemek için yeni parolayı girin."
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr "Şifre başarıyla güncellendi. Lütfen güncel şifre ile giriş yapın."
+
+#~ msgid "user.firstName"
+#~ msgstr "İlk Adı"
+
+#~ msgid "user.initialsExample"
+#~ msgstr "Aytuğ Sefa ÇELİK = ASÇ"
+
+#~ msgid "user.initials"
+#~ msgstr "İlk Harfler"
+
+#~ msgid "user.lastName"
+#~ msgstr "Soyad"
+
+#~ msgid "user.middleName"
+#~ msgstr "İkinci adı"
+
+#~ msgid "user.profile.form.firstNameRequired"
+#~ msgstr "İlk isimi girmeniz gerekli."
+
+#~ msgid "user.profile.form.lastNameRequired"
+#~ msgstr "Soyadı girmeniz gerekli."
+
+#~ msgid "user.salutation"
+#~ msgstr "Ünvan"
+
+#~ msgid "user.suffix"
+#~ msgstr "Son Ek"
+
+msgid "user.usernameOrEmail"
+msgstr "Kullanıcı adı veya E-posta"
+
+msgid "orcid.displayName"
+msgstr "ORCID Profil Eklentisi"
+
+msgid "orcid.description"
+msgstr "ORCID'den kullanıcı profili bilgilerinin içe aktarılmasına izin verir."
+
+msgid "orcid.instructions"
+msgstr "ORCID profilinizdeki bilgileri bu forma otomatik aktarabilirsiniz. ORCID profili ile ilişkili e-posta adresini veya ORC ID'yi girin, ardından \"Gönder\" seçeneğini tıklayın."
+
+msgid "orcid.noData"
+msgstr "ORCID'de herhangi bir veri bulunamadı."
+
+msgid "orcid.emailOrOrcid"
+msgstr "E-posta adresi veya ORCID:"
+
+msgid "orcid.manager.orcidProfileSettings"
+msgstr "ORCID Profil Ayarları"
+
+msgid "orcid.manager.settings.description"
+msgstr "ORCID profili bilgilerinin kullanıcı profiline çekilmesi için ORCID API'sini yapılandırın."
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "ORCID API"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "Genel"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "Genel Sandbox"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "Üye"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "Üye Sandbox"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "Müşteri ID"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "Müşteri Gizliliği"
+
+msgid "orcid.author.submission"
+msgstr "ORC ID'den Bilgi İsteği"
+
+msgid "orcid.author.submission.success"
+msgstr "İsteğiniz, ORC ID'nizle başarıyla ilişkilendirildi."
+
+msgid "orcid.author.submission.failure"
+msgstr "İsteğiniz, ORC ID'nizle başarılı bir şekilde ilişkilendirilemedi. Lütfen dergi sorumlusu ile adınız, ORC ID ve isteğinizin ayrıntıları için iletişime geçin."
+
+msgid "orcid.authFailure"
+msgstr "OJS, ORCID hizmeti ile iletişim kuramadı. Lütfen dergi sorumlusu ile adınızı, ORCID  ve isteğinizin ayrıntıları için iletişime geçiniz."
+
+msgid "orcid.fieldset"
+msgstr "ORCID"
+
+msgid "orcid.connect"
+msgstr "ORC ID'nizi oluşturun veya bağlayın"
+
+msgid "orcid.verify.title"
+msgstr "ORCID Yetkilendirmesi"
+
+msgid "orcid.author.deleteORCID"
+msgstr "ORCID iD ve erişim anahtarını Sil!"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "Hatalar"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "Tümü"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "E-posta Ayarları"
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr "ORCID API genel olarak yapılandırıldı. Aşağıdaki bilgiler kaydedildi."
+
+msgid "orcid.manager.settings.hidden"
+msgstr "gizli"
+
+msgid "orcid.manager.settings.title"
+msgstr "ORCID API Ayarları"
+
+msgid "orcid.about.howAndWhyPublicAPI"
+msgstr ""
+"Bu dergi ORCID iD'nizi toplar. Böylece [Üye API'sı ve Herkese Açık API "
+"arasında amaç ekleyebilir ve ayırt edebiliriz].\n"
+"ORCID açılır penceresindeki \"Yetkilendir\" düğmesini tıkladığınızda, "
+"kimliği doğrulanmış bir işlem kullanarak iD'nizi paylaşmanızı isteyeceğiz: <"
+"a href=\"https://support.orcid.org/hc/en-us/articles/360006897454\">ORCID "
+"iD'ye kaydolma</a> veya zaten varsa <a href=\"https://support.orcid.org/hc/"
+"en-us/categories/360000661673\">ORCID hesabınızda oturum açmanız</a>, "
+"ardından ORCID iD'nizi almamız için bize izin verin. Bunu, doğru bir şekilde "
+"tanımlandığınızdan ve ORCID iD'nizi güvenli bir şekilde bağladığınızdan emin "
+"olmak için yapıyoruz.\n"
+"\"Oturum açma hakkında <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">bu kadar özel olan konu\"</a> bölümünde "
+"daha fazla bilgi edinebilirsiniz."
+
+msgid "orcid.about.display"
+msgstr ""
+"ID'nizi kullandığınızı ve doğrulandığını kabul etmek için, gönderinizin "
+"makale sayfasında ve genel kullanıcı profilinizde adınızın yanında ORCID iD "
+"simgesini <img src=\"https://info.orcid.org/wp-content/uploads/2020/12/"
+"ORCIDiD_icon16x16.png\" alt=\"iD icon\" width=\"16\" height=\"16\" border=\""
+"0\"> gösteririz. <br />\n"
+"       <a href=\"https://info.orcid.org/how-should-an-orcid-id-be-displayed/"
+"\">Bir ORCID iD nasıl görüntülenmelidir</a> bölümünde daha fazla bilgi "
+"edinebilirsiniz"
+
+msgid "orcid.about.display.title"
+msgstr "ORCID iD'leri nerede görüntülenir?"
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "ORCID iD'lerini nasıl ve neden topluyoruz?"
+
+msgid "orcid.about.orcidExplanation"
+msgstr ""
+"ORCID, sizi diğer araştırmacılardan ayıran kalıcı bir tanımlayıcı ve "
+"araştırma çıktılarınızı ve faaliyetlerinizi iD'nize bağlamak için bir "
+"mekanizma sağlayan, kar amacı gütmeyen bağımsız bir kuruluştur. ORCID, "
+"yayıncılar, fon sağlayıcılar, kurumlar ve araştırmayla ilgili diğer "
+"hizmetler tarafından kullanılan birçok sisteme entegre edilmiştir.  Daha "
+"fazla bilgi için <a href=\"https://orcid.org\">orcid.org</a> adresini "
+"ziyaret edin."
+
+msgid "orcid.about.title"
+msgstr "ORCID nedir?"
+
+msgid "orcid.authorise"
+msgstr "ORCID iD'nizi yetkilendirin ve bağlayın"
+
+msgid "orcid.failure.contact"
+msgstr ""
+"Lütfen adınız, ORCID iD'niz ve gönderi bilgilerinizle birlikte dergi "
+"yöneticisine başvurun."
+
+msgid "orcid.verify.denied"
+msgstr "ORCID kaydınıza erişimi engellediniz."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "Bu gönderi için bir ORCID iD zaten mevcut."
+
+msgid "orcid.verify.failure"
+msgstr "ORCID iD'niz doğrulanamadı. Bağlantı geçerli değil."
+
+msgid "orcid.verify.success"
+msgstr "ORCID iD'niz doğrulandı ve gönderi ile başarıyla ilişkilendirildi."
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr "Gönderi, yayınlama sırasında ORCID kaydınıza eklenecektir."
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr "Gönderi, ORCID kaydınıza eklenemedi."
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "Gönderi, ORCID kaydınıza eklendi."
+
+msgid "orcid.author.unauthenticated"
+msgstr ""
+"ORCID iD kimliği doğrulanmadı! Lütfen katkıda bulunandan kimlik doğrulaması "
+"isteyin."
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "Kimliği doğrulanmış ORCID iD istemek için aşağıya bakın"
+
+msgid "orcid.author.requestAuthorization"
+msgstr "Katkıda bulunandan ORCID yetkilendirmesi istemek için e-posta gönderin"
+
+msgid "orcid.author.accessTokenStored"
+msgstr ""
+"{$orcidAccessScope} kapsamıyla verilen ORCID kayıt erişimi, şu tarihe kadar "
+"geçerlidir"
+
+msgid "orcid.author.accessDenied"
+msgstr "ORCID erişimi reddedildi"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "Eklenti tarafından yazılan günlük çıktısının miktarını seçin"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "ORCID istek günlüğü"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"Bir makale kabul edildiğinde yazarlardan ORCID yetkisi istemek için e-posta "
+"gönderin. Ör: kopya düzenlemeye gönderildi"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "Profil Erişim Kapsamı"
+
+msgid "orcid.about.howAndWhyMemberAPI"
+msgstr ""
+"Bu dergi ORCID iD kimliğinizi topluyor, bu sayede doğru tanımlama ve diğer "
+"yayınlarınızın bağlantılı olmasını sağlıyor. Bu, tüm bilimsel "
+"çalışmalarınızın bağlantılı kalmasını sağlayacaktır.\n"
+"ORCID açılır penceresindeki \"Yetkilendir\" düğmesini tıkladığınızda, "
+"kimliği doğrulanarak dergi sistemine profil bilgilerini aktarmanızı "
+"isteyeceğiz - bir ORCID için kayıt yaptırarak veya zaten varsa, ORCID "
+"hesabınızda oturum açarak yetkilendiriniz. Bunu, doğru şekilde "
+"tanımlanmanızı ve ORCID kimliğinize güvenli bir şekilde bağlanmanızı "
+"sağlamak için yapıyoruz.\n"
+"ORCID ile oturum açmanın önemi hakkında detaylı bilgi için <a href=\""
+"https://info.orcid.org/whats-so-special-about-signing-in/\">tıklayınız.</a>\n"
+"Bu dergi ORCID bilgilerini profil ve makale sayfalarında isteyecek ve "
+"görüntüleyecektir. Ayrıca, yayımlanmış makale üst verileri otomatik olarak "
+"yazar ORCID kayıtlarına aktarılacak ve bu da kaydınızı güvenilir bilgilerle "
+"güncel tutmanıza yardımcı olabilmemizi sağlayacaktır. <a href=\""
+"https://info.orcid.org/six-ways-to-make-your-orcid-id-work-for-you/\">ORCID "
+"iD'nizi sizin için çalıştırmanın altı yolu!</a>\n"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "Geçersiz istemci sırrı"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "Geçersiz istemci kimliği"

@@ -1,0 +1,33 @@
+<?php
+
+/**
+ * @defgroup pages_user User Pages
+ */
+
+/**
+ * @file lib/pkp/pages/user/index.php
+ *
+ * Copyright (c) 2014-2021 Simon Fraser University
+ * Copyright (c) 2003-2021 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @ingroup pages_user
+ *
+ * @brief Handle requests for user functions.
+ *
+ */
+
+switch ($op) {
+    //
+    // Profiles
+    //
+    case 'profile':
+        return new PKP\pages\user\ProfileHandler();
+        //
+        // Registration
+        //
+    case 'register':
+    case 'registerUser':
+    case 'activateUser':
+        return new PKP\pages\user\RegistrationHandler();
+}

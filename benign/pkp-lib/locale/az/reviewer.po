@@ -1,0 +1,137 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2023.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-03 08:38+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"reviewer/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "reviewer.step1.requestBoilerplate"
+msgstr ""
+"Aşağıdakı məqalənin potensial rəyçini olaraq seçildiniz. Aşağıda, bu "
+"rəyçilik istəyinin zaman şkalası ilə birlikdə dəyərləndirmə üçün ümumi bir "
+"məlumatlandırma da təqdim olunur. Dəyərləndirməni qəbul edəcəyinizi ümid "
+"edirik."
+
+msgid "reviewer.submission.declineReviewMessage"
+msgstr ""
+"Aşağıdakı sahədə bu tələbi rədd etmə səbəbinizi redaktora deyə bilərsiniz."
+
+msgid "reviewer.submission.enterCompetingInterests"
+msgstr ""
+"Bu naşir rəyçilərdən potensial mənfəət münaqişəsi izahatı üçün bir "
+"politikaya sahibdir. Zəhmət olmasa bu politikanı gözdən keçirmək üçün bir "
+"dəqiqənizi sərf edin."
+
+msgid "reviewer.submission.competingInterests"
+msgstr "Maraqların toqquşması"
+
+msgid "reviewer.submission.noGuidelines"
+msgstr "Bu naşir rəyçi bələdçiləri üçün heç bir tənzimləmə etmədi."
+
+msgid "reviewer.submission.downloadDescription"
+msgstr ""
+"Bu məqalə ilə bağlı faylları endirmək üçün aşağıdakı fayl adlarını klikləyin."
+
+msgid "reviewer.submission.reviewDescription"
+msgstr ""
+"Bu məqalə ilə bağlı dəyərləndirmənizi aşağıdakı forma daxil edin (və ya "
+"yapışdırın)."
+
+msgid "reviewer.submission.uploadDescription"
+msgstr ""
+"Orijinal incələmə faylının/fayllarının gözdən keçirilmiş versiyaları da "
+"daxil olmaqla redaktor və/və ya Müəllifin incələməsini istədiyiniz faylları "
+"yükləyin."
+
+msgid "reviewer.aboutDueDates"
+msgstr "Son tarixlər haqqında"
+
+msgid "reviewer.aboutDueDates.text"
+msgstr ""
+"Redaktor, dəyərləndirmə son tarixindən əvvəl incələməni qəbul etdiyinizi və "
+"ya rədd etdiyinizi və dəyərləndirmə son tarixinə qədər dəyərləndirməni "
+"bitirməyinizi gözləyir."
+
+msgid "submission.comments.sendToReviewers"
+msgstr "Rəyçilərə Göndər"
+
+msgid "submission.comments.sendCopyToReviewers"
+msgstr ""
+"Bu email bildirişinin bir surətini BCC ilə aşağıdakı rəyçilərə də Göndər."
+
+msgid "user.authorization.submissionReviewer"
+msgstr "Mövcud istifadəçi tələb olunan sənəd üçün rəyçi kimi təyin edilmədi."
+
+msgid "reviewer.reviewSteps.request"
+msgstr "1. Tələb"
+
+msgid "reviewer.reviewSteps.guidelines"
+msgstr "2. bələdçilər"
+
+msgid "reviewer.reviewSteps.download"
+msgstr "3. Endirmə və Baxışlar"
+
+msgid "reviewer.reviewSteps.completion"
+msgstr "4. Tamamlama"
+
+msgid "reviewer.step1.request"
+msgstr "Dəyərləndirmə tələbi"
+
+msgid "reviewer.step1.viewAllDetails"
+msgstr "Bütün namizəd məqalələrin təfərrüatlarına baxın"
+
+msgid "reviewer.submission.reviewerFiles"
+msgstr "Dəyərləndirmə faylları"
+
+msgid "reviewer.submission.declineReview"
+msgstr "Dəyərləndirmə tələbini rədd edin"
+
+msgid "reviewer.submission.acceptReview"
+msgstr "Addım # 2-yə keçə bilmək üçün dəyərləndirməni qəbul et"
+
+msgid "reviewer.submission.continueToStepThree"
+msgstr "Addım #3 üçün davam edin"
+
+msgid "reviewer.submission.submitReview"
+msgstr "Dəyərləndirməni göndər"
+
+msgid "reviewer.submission.saveReviewForLater"
+msgstr "Sonra üçün saxlayın"
+
+msgid "reviewer.submission.reviewerGuidelines"
+msgstr "rəyçi bələdçiləri"
+
+msgid "reviewer.submission.noCompetingInterests"
+msgstr "hər hansı bir mənfəət münaqişəm yoxdur"
+
+msgid "reviewer.submission.hasCompetingInterests"
+msgstr "Rəqabət edə bilən mənfəət münaqişələrim ola bilər (Aşağıda qeyd edin)"
+
+msgid "reviewer.submission.guidelines"
+msgstr "Rəyçi bələdçiləri"
+
+msgid "reviewer.complete"
+msgstr "Dəyərləndirmə göndərildi"
+
+msgid "reviewer.confirmSubmit"
+msgstr "Bu dəyərləndirməni göndərmək istədiyinizdən əminsinizmi?"
+
+msgid "submission.comments.canShareWithAuthor"
+msgstr "Redaktor və Müəllif üçün"
+
+msgid "submission.comments.cannotShareWithAuthor"
+msgstr "Sadəcə redaktor üçün"
+
+msgid "reviewer.complete.whatNext"
+msgstr ""
+"Bu məqalənin dəyərləndirməsini bitirdiyiniz üçün təşəkkür edirik. "
+"Dəyərləndirməniz uğurla göndərildi. Jurnalımızın keyfiyyətinə qatqınız üçün "
+"təşəkkür edirik; redaktor, lazım gələrsə daha çox məlumat üçün sizinlə "
+"yenidən əlaqə saxlaya bilər."

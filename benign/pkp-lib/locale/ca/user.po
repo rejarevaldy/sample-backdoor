@@ -1,0 +1,808 @@
+# Jordi LC <jordi.lacruz@uab.cat>, 2021, 2022, 2023, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:49:40+00:00\n"
+"PO-Revision-Date: 2024-03-02 04:59+0000\n"
+"Last-Translator: Jordi LC <jordi.lacruz@uab.cat>\n"
+"Language-Team: Catalan <http://translate.pkp.sfu.ca/projects/pkp-lib/user/ca/"
+">\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.accountInformation"
+msgstr "Informació del compte"
+
+msgid "user.affiliation"
+msgstr "Institució/Empresa"
+
+msgid "user.affiliation.description"
+msgstr ""
+"(La institució en què esteu adscrit, p. ex. «Universitat Autònoma de "
+"Barcelona»)"
+
+msgid "user.affiliations"
+msgstr "Filiacions"
+
+msgid "user.authorization.accessDenied"
+msgstr "Accés denegat."
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "El testimoni (token) d’autenticació del procés no hi és o no és vàlid."
+
+msgid "user.authorization.contextRequired"
+msgstr ""
+"No podeu dur a terme aquesta operació sense un context (premsa, revista, "
+"conferència, etc.)."
+
+msgid "user.authorization.loginRequired"
+msgstr "Inici de sessió obligatori."
+
+msgid "user.authorization.privateOperation"
+msgstr "L’operació a la qual heu intentat accedir és privada o no existeix."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr ""
+"Teniu l'accés denegat. Actualment, l'accés a aquest lloc web està restringit."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "El rol actual no té accés a aquesta operació."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr ""
+"El rol que teniu assignat per a aquesta tramesa no us permet accedir a "
+"aquesta operació."
+
+msgid "user.authorization.userGroupRequired"
+msgstr ""
+"Cal que configureu un grup d’usuari/ària vàlid per accedir a l’operació."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"Un usuari/ària amb el rol d'administrador/a (p. ex., editor/a de producció) "
+"ha d'estar assignat a la fase abans de continuar."
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr "Actualment no té accés a aquesta fase del flux de treball."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "No s'ha especificat cap fase del flux de treball."
+
+msgid "user.authorization.pluginRequired"
+msgstr "És obligatori especificar un mòdul."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "No teniu permís per accedir a aquesta assignació de revisió."
+
+msgid "user.authorization.submissionQuery"
+msgstr "No teniu permís per accedir a aquesta discussió."
+
+msgid "user.biography"
+msgstr "Resum biogràfic"
+
+msgid "user.changeMyPassword"
+msgstr "Canvia la meva contrasenya"
+
+msgid "user.changePassword"
+msgstr "Canvia la contrasenya"
+
+msgid "user.dateLastLogin"
+msgstr "Darrer inici de sessió"
+
+msgid "user.dateRegistered"
+msgstr "Data de registre"
+
+msgid "user.editMyProfile"
+msgstr "Edita el meu perfil"
+
+msgid "user.email"
+msgstr "Adreça electrònica"
+
+msgid "user.givenName"
+msgstr "Nom"
+
+msgid "user.interests"
+msgstr "Interessos de revisió"
+
+msgid "user.gossip"
+msgstr "Notes privades"
+
+msgid "user.gossip.description"
+msgstr ""
+"Registreu les notes sobre aquest revisor/a que us agradaria que fossin "
+"visibles per a altres administradors/ores, gestors/es i tots els editors/es. "
+"Les notes seran visibles en futures assignacions de revisió."
+
+msgid "user.group"
+msgstr "Grup d'usuaris/àries"
+
+msgid "user.familyName"
+msgstr "Cognoms"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"El format de la imatge del perfil no és vàlid o la imatge és massa gran. Els "
+"formats admesos són .gif, .jpg i .png. i la imatge no ha de superar els "
+"150x150 píxels."
+
+msgid "user.login.accountDisabledWithReason"
+msgstr "El vostre compte s'ha inhabilitat pel motiu següent: {$reason}"
+
+msgid "user.login.accountDisabled"
+msgstr ""
+"El vostre compte s'ha inhabilitat. Per obtenir més informació, poseu-vos en "
+"contacte amb l'administrador/a."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"Li hem enviat un correu electrònic de confirmació a {$email}. Segueixi les "
+"instruccions d'aquest correu per activar el seu nou compte. Si no troba "
+"aquest correu electrònic, comprovi que no hagi anat a parar a la carpeta de "
+"correu brossa."
+
+msgid "user.login.activate"
+msgstr "Activa el compte"
+
+msgid "user.login.activated"
+msgstr ""
+"Gràcies per activar el compte. Ara ja podeu iniciar la sessió amb les dades "
+"que heu indicat en crear el compte."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"Heu de triar una nova contrasenya abans d'iniciar sessió.<br /><br /"
+">Introduïu el vostre nom d'usuari i les vostres contrasenyes nova i antiga a "
+"continuació per canviar la contrasenya del vostre compte."
+
+msgid "user.login.forgotPassword"
+msgstr "Heu oblidat la contrasenya?"
+
+msgid "user.login.loginError"
+msgstr ""
+"El nom d'usuari/ària, el correu o la contrasenya no són vàlids. Torneu-ho a "
+"provar."
+
+msgid "user.login"
+msgstr "Inici de la sessió"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"Si es troba un compte que coincideixi se us enviarà un missatge de "
+"confirmació a la vostra adreça electrònica. Seguiu les instruccions del "
+"correu electrònic per restablir la contrasenya."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"L'enllaç que heu seleccionat ha vençut o bé no és vàlid. Intenteu restablir "
+"la contrasenya de nou."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"S'ha enviat una nova contrasenya a la vostra adreça electrònica. Ja podeu "
+"iniciar la sessió amb aquesta contrasenya."
+
+msgid "user.login.registeredEmail"
+msgstr "Adreça electrònica de l’usuari/usuària registrat"
+
+msgid "user.login.registrationComplete"
+msgstr "Registre complet"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "Gràcies per registrar-se! Què voleu fer ara?"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Veure trameses"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Fer una tramesa nova"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "Continuar navegant"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "Registre pendent de verificació"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "Mantenir-me connectat"
+
+msgid "user.login.resetPassword"
+msgstr "Reinicieu la contrasenya"
+
+msgid "user.logOut"
+msgstr "Surt de la sessió"
+
+msgid "user.logOutAs"
+msgstr "Tancar sessió com a {$username}"
+
+msgid "user.hello"
+msgstr "Hola, "
+
+msgid "user.mailingAddress"
+msgstr "Adreça postal"
+
+msgid "user.myAccount"
+msgstr "El meu compte"
+
+msgid "user.name"
+msgstr "Nom"
+
+msgid "user.password"
+msgstr "Contrasenya"
+
+msgid "user.repeatPassword"
+msgstr "Repetiu la contrasenya"
+
+msgid "user.phone"
+msgstr "Telèfon"
+
+msgid "user.preferredPublicName"
+msgstr "Nom públic preferit"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"Proporcioneu el nom complet tal com l'autor/a hauria de ser identificat en "
+"l'obra publicada. Exemple: Dr. Alan P. Mwandenga"
+
+msgid "user.profile.changePasswordInstructions"
+msgstr ""
+"Introduïu la contrasenya actual i la contrasenya nova per a canviar la "
+"contrasenya del vostre compte."
+
+msgid "user.profile.editProfile"
+msgstr "Edició del perfil"
+
+msgid "user.profile.form.countryRequired"
+msgstr "Cal que introduïu un país."
+
+msgid "user.profile.form.emailRequired"
+msgstr "Heu d’introduir una adreça electrònica vàlida."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "El nom es obligatori."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"Heu afegit un cognom per a un idioma en què falta el nom. Afegiu el nom per "
+"a aquest idioma."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "Cal que introduïu un correu electrònic vàlid."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "Heu d’introduir la contrasenya nova."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "La contrasenya actual que heu introduït és incorrecta."
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "Notificacions per correu electrònic de l’accés lliure per a un número"
+
+msgid "user.profile.form.passwordRequired"
+msgstr "Heu d’introduir una contrasenya."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "La vostra contrasenya nova coincideix amb l'anterior."
+
+msgid "user.profile.form.profileImage"
+msgstr "Imatge del perfil"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "Notificacions per correu electrònic de la publicació d’un número nou"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"L'URL especificat no és vàlid. Comproveu l'enllaç URL i torneu-ho a provar. "
+"(Consell: proveu d'afegir \"http://\" al principi de l'URL.)"
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "Cal que introduïu un grup d'usuaris/àries."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "Heu d’introduir un nom d’usuari."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr "Heu d'acceptar els termes de la declaració de privacitat."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr ""
+"No empleneu els camps de contrasenya si voleu mantenir la contrasenya actual."
+
+msgid "user.profile.newPassword"
+msgstr "Contrasenya nova"
+
+msgid "user.profile.oldPassword"
+msgstr "Contrasenya actual"
+
+msgid "user.profile"
+msgstr "Perfil"
+
+msgid "user.profile.publicProfile"
+msgstr "Perfil d’usuari"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "Repetiu la contrasenya nova"
+
+msgid "user.login.registerNewAccount"
+msgstr "Registrar-se"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"Per motius de seguretat, aquest sistema envia un missatge de restabliment de "
+"contrasenya als usuaris registrats, en lloc de tornar-ho a intentar amb la "
+"contrasenya actual.<br /><br />Introduïu la vostra adreça electrònica al "
+"camp següent per restablir la vostra contrasenya. S'enviarà un missatge de "
+"confirmació a la vostra adreça electrònica."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"Sí, estic d'acord que les meves dades es recopilin i emmagatzemin segons la "
+"<a href=\"{$privacyUrl}\" target=\"_blank\">declaració de privacitat</a>."
+
+msgid "user.register.form.emailConsent"
+msgstr "Sí, vull que em notifiquin les publicacions noves i els avisos."
+
+msgid "user.register.form.emailExists"
+msgstr ""
+"Ja hi ha un altre usuari/usuària que utilitza l’adreça electrònica "
+"seleccionada."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "Les contrasenyes no coincideixen."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "Els camps de correu electrònic no coincideixen."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"El nom d'usuari/ària només pot contenir caràcters alfanumèrics en minúscula, "
+"guions i guions baixos, i ha de començar i acabar amb un caràcter "
+"alfanumèric."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "S'ha de seleccionar un rol com a mínim."
+
+msgid "user.register.form.usernameExists"
+msgstr ""
+"Ja hi ha un altre usuari/usuària que utilitza el nom d’usuari seleccionat."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "La contrasenya ha de tenir almenys {$length} caràcters."
+
+msgid "user.register.registerAs"
+msgstr "Registrar-se en {$contextName} com a..."
+
+msgid "user.register"
+msgstr "Registre"
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"El nom d’usuari només pot contenir lletres minúscules, nombres, guionets i "
+"ratlles baixes."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"S'ha registrat correctament. Faci <a href=\"{$profileUrl}\">clic aquí</a> "
+"per completar el seu perfil d'usuari/ària."
+
+msgid "user.role.assistant"
+msgstr "Ajudant de producció"
+
+msgid "user.role.author"
+msgstr "Autor/a"
+
+msgid "user.role.author_s"
+msgstr "Autors/ores"
+
+msgid "user.role.authors"
+msgstr "Autors/ores"
+
+msgid "user.role.editor"
+msgstr "Editor/a"
+
+msgid "user.role.editors"
+msgstr "Editors/ores"
+
+msgid "user.role.reader"
+msgstr "Lector/a"
+
+msgid "user.role.readers"
+msgstr "Lectors/es"
+
+msgid "user.role.reviewer"
+msgstr "Revisor/a"
+
+msgid "user.role.reviewers"
+msgstr "Revisors/es"
+
+msgid "user.role.siteAdmin"
+msgstr "Administrador/a del lloc web"
+
+msgid "user.role.siteAdmins"
+msgstr "Administradors/es de llocs web"
+
+msgid "user.role.copyeditor"
+msgstr "Corrector/a d’originals"
+
+msgid "user.role.copyeditors"
+msgstr "Correctors/ores d’originals"
+
+msgid "user.role.proofreader"
+msgstr "Corrector/a de proves"
+
+msgid "user.role.proofreaders"
+msgstr "Correctors/ores de proves"
+
+msgid "user.role.layoutEditor"
+msgstr "Maquetista"
+
+msgid "user.role.layoutEditors"
+msgstr "Maquetistes"
+
+msgid "user.roles"
+msgstr "Rols"
+
+msgid "user.sendPassword"
+msgstr "Confirmació"
+
+msgid "user.sendPassword.description"
+msgstr ""
+"Envieu-me un correu electrònic de confirmació amb el meu nom d’usuari/ària i "
+"la contrasenya"
+
+msgid "user.signature"
+msgstr "Signatura"
+
+msgid "user.title"
+msgstr "Títol"
+
+msgid "user.url"
+msgstr "URL"
+
+msgid "user.userHome"
+msgstr "Pàgina inicial de l’usuari/usuària"
+
+msgid "user.username"
+msgstr "Nom d’usuari"
+
+msgid "user.workingLanguages"
+msgstr "Llengües de treball"
+
+msgid "user.orcid"
+msgstr "Identificador ORCID"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"L'identificador ORCID especificat no es vàlid. Inclogui el URI complet (p. "
+"ex.: \"https://orcid.org/0000-0002-1825-0097\"), si us plau."
+
+msgid "user.profile.identity"
+msgstr "Identitat"
+
+msgid "user.profile.contact"
+msgstr "Contacte"
+
+msgid "user.profile.public"
+msgstr "Públic"
+
+msgid "user.apiKey"
+msgstr "Clau API"
+
+msgid "user.apiKeyEnabled"
+msgstr ""
+"Habilitar l'accés a aquest compte a aplicacions externes amb la clau API"
+
+msgid "user.apiKey.generate"
+msgstr "Generar una clau API nova"
+
+msgid "user.apiKey.remove"
+msgstr "Eliminar"
+
+msgid "user.apiKey.generateWarning"
+msgstr ""
+"Generar una clau API nova invalidarà qualsevol clau existent d'aquest usuari/"
+"ària."
+
+msgid "user.apiKey.removeWarning"
+msgstr ""
+"Eliminar una clau revocarà l'accés a totes les aplicacions que la facin "
+"servir."
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "Segur que voleu eliminar aquesta clau API?"
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"Abans de generar una clau API, l'administrador/a del lloc ha d'establir una "
+"clau secreta en l'arxiu de configuració (\"api_key_secret\")."
+
+msgid "user.privacyLink"
+msgstr ""
+"Les vostres dades s'emmagatzemen d'acord amb la nostra <a href="
+"\"{$privacyUrl}\" target=\"_blank\">declaració de privacitat</a>."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr ""
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr ""
+"No s'ha pogut completar el restabliment de la contrasenya perquè {$reason}."
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr "Introduïu la contrasenya nova per actualitzar l'inici de sessió."
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr ""
+"La contrasenya s'ha actualitzat correctament. Ja podeu iniciar la sessió amb "
+"la contrasenya nova."
+
+#~ msgid "user.register.passwordLengthRestriction"
+#~ msgstr "La contrasenya ha de tenir {$length} caràcters com a mínim."
+
+#~ msgid "user.register.completeForm"
+#~ msgstr "Empleneu aquest formulari per registrar-vos en aquesta revista."
+
+msgid "user.usernameOrEmail"
+msgstr "Nom d'usuari/ària o adreça electrónica"
+
+msgid "orcid.about.display.title"
+msgstr "On es mostren els identificadors ORCID?"
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "Com i per què recopilem identificadors ORCID?"
+
+msgid "orcid.about.title"
+msgstr "Què és ORCID?"
+
+msgid "orcid.authorise"
+msgstr "Autoritzeu i connecteu el vostre identificador ORCID"
+
+msgid "orcid.connect"
+msgstr "Creeu o connecteu el vostre identificador ORCID"
+
+msgid "orcid.fieldset"
+msgstr "ORCID"
+
+msgid "orcid.failure.contact"
+msgstr ""
+"Contacteu amb l'administrador/a de la revista indicant el vostre nom, "
+"l'identificador ORCID i els detalls de la tramesa."
+
+msgid "orcid.authFailure"
+msgstr ""
+"L'enllaç d'autorització d'ORCID ja s'ha utilitzat anteriorment o no és vàlid."
+
+msgid "orcid.verify.denied"
+msgstr "Heu denegat l'accés al vostre registre ORCID."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "Ja s'ha emmagatzemat un identificador ORCID per a aquesta tramesa."
+
+msgid "orcid.verify.failure"
+msgstr ""
+"No s'ha pogut verificar el vostre identificador ORCID. L'enllaç ja no és "
+"vàlid."
+
+msgid "orcid.verify.success"
+msgstr ""
+"El vostre identificador ORCID s'ha verificat i s'ha associat correctament "
+"amb la tramesa."
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr ""
+"La tramesa serà incorporada en el vostre registre ORCID durant la publicació."
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr "La tramesa no ha pogut ser incorporada en el vostre registre ORCID."
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "La tramesa ha estat incorporada en el vostre registre ORCID."
+
+msgid "orcid.verify.title"
+msgstr "Autorització ORCID"
+
+msgid "orcid.author.unauthenticated"
+msgstr ""
+"Identificador ORCID no autenticat! Demaneu autenticació del col·laborador."
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "Vegeu a continuació per sol·licitar un identificador ORCID autenticat"
+
+msgid "orcid.author.deleteORCID"
+msgstr "Eliminar identificador ORCID i credencials d'accés!"
+
+msgid "orcid.author.requestAuthorization"
+msgstr ""
+"Enviar correu electrònic per sol·licitar autorització ORCID del col·laborador"
+
+msgid "orcid.author.accessTokenStored"
+msgstr ""
+"S'ha concedit accés al registre ORCID amb abast {$orcidAccessScope}, vàlid "
+"fins a"
+
+msgid "orcid.author.accessDenied"
+msgstr "S'ha denegat l'accés ORCID a"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "Tot"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "Errors"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "Seleccioneu la quantitat de registres de sortida generats pel mòdul"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "Registre de sol·licituds ORCID"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"Enviar un correu electrònic per sol·licitar autorització ORCID dels autors/"
+"es quan un article sigui acceptat, és a dir, enviat a correcció"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "Configuració de correu electrònic"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "Abast d'accés del perfil"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "Clau del client"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "Id. del client"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "Entorn segur de l'usuari/ària"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "Membre"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "Entorn segur públic"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "Públic"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "API ORCID"
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr ""
+"L'API d'ORCID ha estat configurada globalment per l'amfitrió. Les següents "
+"credencials s'han guardat."
+
+msgid "orcid.manager.settings.description"
+msgstr ""
+"Configureu l'accés de l'API d'ORCID per importar la informació del perfil "
+"ORCID en els perfils d'usuari/ària i d'autor/a i per actualitzar els "
+"registres ORCID connectats amb les noves publicacions (només per a membres "
+"ORCID)."
+
+msgid "orcid.manager.settings.hidden"
+msgstr "ocult"
+
+msgid "orcid.manager.settings.title"
+msgstr "Configuració de l'API d'ORCID"
+
+msgid "orcid.emailOrOrcid"
+msgstr "Correu electrònic o identificador ORCID:"
+
+msgid "orcid.noData"
+msgstr "No s'han trobat dades d'ORCID."
+
+msgid "orcid.instructions"
+msgstr ""
+"Podeu emplenar aquest formulari amb informació procedent d'un perfil ORCID. "
+"Introduïu el correu electrònic o l'identificador ORCID associat amb el "
+"perfil ORCID i feu clic a \"Enviar\"."
+
+msgid "orcid.description"
+msgstr "Permet la importació del perfil d'usuari/ària des d'ORCID."
+
+msgid "orcid.displayName"
+msgstr "Mòdul de perfil ORCID"
+
+msgid "orcid.about.howAndWhyPublicAPI"
+msgstr ""
+"Aquesta revista recopila el vostre ORCID iD per tal que tant nosaltres com "
+"la comunitat en general estiguem segurs que esteu correctament identificats "
+"i connectats amb les vostres publicacions. Això garanteix que la connexió "
+"amb totes les vostres obres es mantindrà al llarg de tota la vostra "
+"carrera.<br>\n"
+"\tQuan feu clic en el botó “Autoritzar” de la finestra emergent d'ORCID us "
+"demanarem que compartiu la vostra iD mitjançant un procés d'autenticació, ja "
+"sigui registrant un iD d'ORCID o, si ja en teniu un, iniciant la sessió en "
+"el vostre compte d'ORCID i donant-nos permís per obtenir el vostre iD "
+"d'ORCID. Això ho fem per assegurar-nos que us identifiqueu correctament i "
+"que us connecteu de forma segura al vostre iD d'ORCID.<br>\n"
+"\tPodeu obtenir més informació a <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">What’s so special about signing "
+"in.</a><br>\n"
+"\tAquesta revista recopilarà i mostrarà els identificadors autenticats d'"
+"autors/ores i coautors/ores en el perfil d'OJS i en la pàgina de l'article."
+
+msgid "orcid.about.orcidExplanation"
+msgstr ""
+"ORCID és una organització independent sense afany de lucre que proporciona "
+"un identificador persistent —iD ORCID— que us permet diferenciar-vos "
+"d'altres investigadors/ores i també és un mecanisme per connectar els "
+"resultats i activitats de la vostra recerca amb el vostre iD. ORCID "
+"s'integra en molts sistemes utilitzats per editorials, inversors/ores, "
+"institucions i altres serveis relacionats amb la recerca. Visiteu <a href=\""
+"https://orcid.org\">orcid.org</a> per saber-ne més."
+
+msgid "orcid.about.display"
+msgstr ""
+"Per reconèixer que heu utilitzat el vostre iD i que aquest ha estat "
+"autenticat, mostrem la icona de iD d'ORCID <img src=\"https://info.orcid.org/"
+"wp-content/uploads/2020/12/ORCIDiD_icon16x16.png\" alt=\"iD icon\" width=\""
+"16\" height=\"16\" border=\"0\"> al costat del vostre nom en la pàgina "
+"d'article de la tramesa i en el vostre perfil d'usuari/ària públic.<br>\n"
+"\t\tMés informació a <a href=\"https://info.orcid.org/"
+"how-should-an-orcid-id-be-displayed/\">How should an ORCID iD be "
+"displayed.</a>"
+
+msgid "orcid.about.howAndWhyMemberAPI"
+msgstr ""
+"Aquesta revista recopila el vostre ORCID iD per tal que tant nosaltres com "
+"la comunitat en general estiguem segurs que esteu correctament identificats "
+"i connectats amb les vostres publicacions. Això garanteix que la connexió "
+"amb totes les vostres obres es mantindrà al llarg de tota la vostra "
+"carrera.<br>\n"
+"\tQuan feu clic en el botó “Autoritzar” de la finestra emergent d'ORCID us "
+"demanarem que compartiu la vostra iD mitjançant un procés d'autenticació, ja "
+"sigui registrant un iD d'ORCID o, si ja en teniu un, iniciant la sessió en "
+"el vostre compte d'ORCID i donant-nos permís per obtenir el vostre iD "
+"d'ORCID. Això ho fem per assegurar-nos que us identifiqueu correctament i "
+"que us connecteu de forma segura al vostre iD d'ORCID.<br>\n"
+"\tPodeu obtenir més informació a <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">What’s so special about signing "
+"in.</a><br>\n"
+"\tAquesta revista recopilarà i mostrarà els identificadors autenticats d'"
+"autors/ores i coautors/ores en el perfil d'OJS i en la pàgina de l'article. "
+"A més, les metadades dels articles s'afegiran automàticament en el vostre "
+"registre ORCID, cosa que ens permet ajudar-vos a mantenir el vostre registre "
+"actualitzat amb informació verificable. Teniu més informació a <a href=\""
+"https://info.orcid.org/six-ways-to-make-your-orcid-id-work-for-you/\">Six "
+"ways to make your ORCID iD work for you!</a>\n"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "Contrasenya de client invàlida"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "ID de client invàlida"
+
+msgid "orcid.manager.settings.saved"
+msgstr "Configuració guardada"
+
+msgid "orcid.manager.settings.city"
+msgstr "Ciutat"
+
+msgid "orcid.invalidClient"
+msgstr "Credencials de client invàlides"
+
+msgid "orcid.manager.status.configuration.journal"
+msgstr "Configurat en relació amb la revista"
+
+msgid "orcid.manager.status.configuration.clientIdValid"
+msgstr "L'identificador de client és vàlid"
+
+msgid "orcid.manager.status.configuration.clientSecretValid"
+msgstr "Client Secret és vàlid"
+
+msgid "orcid.manager.status.configuration.clientSecretInvalid"
+msgstr "Client Secret no és vàlid, comproveu les vostres credencials"
+
+msgid "orcid.manager.status.configuration.clientIdInvalid"
+msgstr "L'identificador de client no és vàlid, comproveu les dades introduïdes"
+
+msgid "orcid.verify.duplicateOrcidAuthor"
+msgstr "S'han detectat ORCID duplicats en els col·laboradors/ores."
+
+msgid "orcid.verify.hasUnauthenticatedOrcid"
+msgstr "S'han detectat ORCID no autenticats en els col·laboradors/ores."

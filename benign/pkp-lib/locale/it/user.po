@@ -1,0 +1,747 @@
+# Gabriele Raimondi <gabriele.raimondi5@unibo.it>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:49:53+00:00\n"
+"PO-Revision-Date: 2024-08-23 14:45+0000\n"
+"Last-Translator: Gabriele Raimondi <gabriele.raimondi5@unibo.it>\n"
+"Language-Team: Italian <http://translate.pkp.sfu.ca/projects/pkp-lib/user/it/"
+">\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.accountInformation"
+msgstr "Informazioni account"
+
+msgid "user.affiliation"
+msgstr "Affiliazione"
+
+msgid "user.affiliation.description"
+msgstr "(La tua istituzione, es. \"Università La Sapienza di Roma\")"
+
+msgid "user.affiliations"
+msgstr "Affiliazioni"
+
+msgid "user.authorization.accessDenied"
+msgstr "Accesso negato."
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "Il token di autenticazione è assente o non valido."
+
+msgid "user.authorization.contextRequired"
+msgstr ""
+"Non puoi eseguire questa operazione senza un contesto (editore, rivista, "
+"convegno, etc.)."
+
+msgid "user.authorization.loginRequired"
+msgstr "Autenticazione necessaria."
+
+msgid "user.authorization.privateOperation"
+msgstr ""
+"L'operazione che hai cercato di effettuare è privata oppure non esiste."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr "Accesso negato. L'accesso a questo sito è ristretto."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "Con il corrente ruolo non si ha accesso a questa operazione."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr ""
+"Non ti è stato assegnato un ruolo per questa proposta che ti permetta di "
+"fare questa operazione."
+
+msgid "user.authorization.userGroupRequired"
+msgstr ""
+"Devi selezionare un gruppo di utenti valido per accedere a questa operazione."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"Prima di procedere è necessario assegnare un utente con ruolo di Manager di "
+"stampa (ad es. Editor di stampa o di produzione)."
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr ""
+"Non hai i permessi necessari per accedere a questa fase del flusso di lavoro."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "Fase del flusso di lavoro non specificata."
+
+msgid "user.authorization.pluginRequired"
+msgstr "Un plugin non è stato indicato ma è necessario."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "Non hai il permesso di accedere a questa revisione."
+
+msgid "user.authorization.submissionQuery"
+msgstr "Non hai il permesso di accedere a questa discussione."
+
+msgid "user.biography"
+msgstr "Note biografiche"
+
+msgid "user.changeMyPassword"
+msgstr "Modifica la mia password"
+
+msgid "user.changePassword"
+msgstr "Modifica password"
+
+msgid "user.dateLastLogin"
+msgstr "Ultimo login"
+
+msgid "user.dateRegistered"
+msgstr "Data di iscrizione"
+
+msgid "user.editMyProfile"
+msgstr "Modifica il mio profilo"
+
+msgid "user.email"
+msgstr "Email"
+
+msgid "user.givenName"
+msgstr "Nome"
+
+msgid "user.interests"
+msgstr "Argomenti di interesse per le revisioni"
+
+msgid "user.gossip"
+msgstr "Note private"
+
+msgid "user.gossip.description"
+msgstr ""
+"Le note inserite in questa area saranno visibili agli amministratori, ai "
+"journal managers, e a tutti gli editor."
+
+msgid "user.group"
+msgstr "Gruppo utenti"
+
+msgid "user.familyName"
+msgstr "Cognome"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"Formato non valido o immagine troppo grande. I formati accettati sono .gif, ."
+"jpg, or .png, e le immagini devono essere grandi 150x150 pixel al massimo."
+
+msgid "user.login.accountDisabledWithReason"
+msgstr "Il tuo account è stato disattivato per la seguente ragione: {$reason}"
+
+msgid "user.login.accountDisabled"
+msgstr ""
+"Il tuo account è stato disattivato. Contatta l'amministratore per maggiori "
+"informazioni."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"Abbiamo mandato una mail di conferma a {$email}. Per favore controlla la tua "
+"email e segui le istruzioni fornite. Se non hai ricevuto una email, potresti "
+"aver bisogno di contattare l'amministratore del sito per assistenza."
+
+msgid "user.login.activate"
+msgstr "Attiva l'account"
+
+msgid "user.login.activated"
+msgstr ""
+"Grazie per aver attivato il tuo account. Ora puoi effettuare il log in "
+"usando le credenziali che hai fornito quando hai creato il tuo account."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"Devi scegliere una nuova password prima di entrare in questo sito.<br /><br /"
+">Inserisci sotto il tuo username e la tua password attuale e la nuova "
+"password che vuoi utilizzare."
+
+msgid "user.login.forgotPassword"
+msgstr "Password dimenticata?"
+
+msgid "user.login.loginError"
+msgstr "Username o password non valida. Riprova."
+
+msgid "user.login"
+msgstr "Entra"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"La conferma è stata mandata al tuo indirizzo email. Si prega di seguire le "
+"istruzioni nella email per resettare la password."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"Il link utilizzato è scaduto o non è valido. Prova a rigenerare nuovamente "
+"la password."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"Una nuova password è stata inviata la tuo indirizzo email. Puoi fare il "
+"login con la tua nuova password."
+
+msgid "user.login.registeredEmail"
+msgstr "Email dell'utente registrato"
+
+msgid "user.login.registrationComplete"
+msgstr "Registrazione completa"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "Grazie per esserti registrato. Cosa vuoi fare ora?"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Vedi proposte"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Fai una nuova proposta"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "Continua a guardare in giro"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "La registrazione aspetta la verifica"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "Ricordami"
+
+msgid "user.login.resetPassword"
+msgstr "Reimposta la password"
+
+msgid "user.logOut"
+msgstr "Esci"
+
+msgid "user.logOutAs"
+msgstr "Logout come"
+
+msgid "user.hello"
+msgstr "Salve, "
+
+msgid "user.mailingAddress"
+msgstr "Indirizzo postale"
+
+msgid "user.myAccount"
+msgstr "Il mio account"
+
+msgid "user.name"
+msgstr "Nome"
+
+msgid "user.password"
+msgstr "Password"
+
+msgid "user.repeatPassword"
+msgstr "Ripeti la password"
+
+msgid "user.phone"
+msgstr "Telefono"
+
+msgid "user.preferredPublicName"
+msgstr "Nome pubblico"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"Come preferisci essere salutato? Se desideri puoi aggiungere il tuo titolo, "
+"secondi nomi, suffissi, etc."
+
+msgid "user.profile.changePasswordInstructions"
+msgstr ""
+"Per cambiare la password del tuo account, inserisci qui sotto la tua vecchia "
+"password e poi quella nuova."
+
+msgid "user.profile.editProfile"
+msgstr "Modifica il profilo"
+
+msgid "user.profile.form.countryRequired"
+msgstr "Inserire un Paese."
+
+msgid "user.profile.form.emailRequired"
+msgstr "Inserire un indirizzo email valido."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "Un nome di persona è richiesto."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"Puoi aggiungere un nome di famiglia per una lingua in cui mancano i nomi "
+"propri. Devi immettere un nome nel campo."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "E' obbligatorio un indirizzo di posta elettronica."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "Inserire la nuova password."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "La password inserita non è corretta."
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "Notifica email di nuove uscite open access"
+
+msgid "user.profile.form.passwordRequired"
+msgstr "Inserire la password."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "La nuova password è identica alla vecchia."
+
+msgid "user.profile.form.profileImage"
+msgstr "Immagine del profilo"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "Notifica email della pubblicazione di nuovi fascicoli"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"L'URL specificata non è valida. Per favore ricontrolla la URL e riprova. "
+"(Suggerimento: Prova aggiungendo http:// all'inizio della URL)"
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "E' obbligatorio un gruppo utenti."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "Inserisci una username."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr "Devi accettare i termini dell'informativa sulla privacy."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr "Lascia il campo password vuoto per mantenere la password corrente."
+
+msgid "user.profile.newPassword"
+msgstr "Nuova password"
+
+msgid "user.profile.oldPassword"
+msgstr "Vecchia password"
+
+msgid "user.profile"
+msgstr "Profilo"
+
+msgid "user.profile.publicProfile"
+msgstr "Profilo utente"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "Ripeti la nuova password"
+
+msgid "user.login.registerNewAccount"
+msgstr "Registrati"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"Inserisci l'email collegato al tuo username e una email ti verrà inviata con "
+"le istruzioni su come fare una nuova password."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"Sì, dò il mio consenso che i miei dati vengano raccolti e registrati secondo "
+"questa <a href=\"{$privacyUrl}\" target=\"_blank\">Informativa sulla "
+"privacy</a>."
+
+msgid "user.register.form.emailConsent"
+msgstr "Si, voglio ricevere gli annunci e notizie sulle nuove pubblicazioni."
+
+msgid "user.register.form.emailExists"
+msgstr "L'indirizzo email selezionato è  già in uso da un altro utente."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "Le password non combaciano."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "Le email inserite non corrispondono."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"Lo usename può contenere solo lettere minuscole, numeri, underscore e "
+"trattini e deve inziare con una lettera o un numero."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "Selezionare  almeno un ruolo."
+
+msgid "user.register.form.usernameExists"
+msgstr "La username selezionata è già in uso da un altro utente."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "La password deve essere lunga almeno {$length} caratteri."
+
+msgid "user.register.registerAs"
+msgstr "Registrati in {$contextName} come ..."
+
+msgid "user.register"
+msgstr "Registrazione"
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"La username deve contenere solo lettere minuscole, numeri, e trattini/"
+"underscores."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"Sei stato registrato correttamente. <a href=\"{$profileUrl}\">Clicca qui</a> "
+"per completare la tua registrazione."
+
+msgid "user.role.assistant"
+msgstr "Assistente"
+
+msgid "user.role.author"
+msgstr "Autore"
+
+msgid "user.role.author_s"
+msgstr "Autore/i"
+
+msgid "user.role.authors"
+msgstr "Autori"
+
+msgid "user.role.editor"
+msgstr "Editor"
+
+msgid "user.role.editors"
+msgstr "Editor"
+
+msgid "user.role.reader"
+msgstr "Lettore"
+
+msgid "user.role.readers"
+msgstr "Lettori"
+
+msgid "user.role.reviewer"
+msgstr "Revisore"
+
+msgid "user.role.reviewers"
+msgstr "Revisori"
+
+msgid "user.role.siteAdmin"
+msgstr "Amministratore del sito"
+
+msgid "user.role.siteAdmins"
+msgstr "Amministratori del sito"
+
+msgid "user.role.copyeditor"
+msgstr "Copyeditor"
+
+msgid "user.role.copyeditors"
+msgstr "Copyeditor"
+
+msgid "user.role.proofreader"
+msgstr "Correttore di bozze"
+
+msgid "user.role.proofreaders"
+msgstr "Correttori di bozze"
+
+msgid "user.role.layoutEditor"
+msgstr "Impaginatore"
+
+msgid "user.role.layoutEditors"
+msgstr "Impaginatori"
+
+msgid "user.roles"
+msgstr "Ruoli"
+
+msgid "user.sendPassword"
+msgstr "Conferma"
+
+msgid "user.sendPassword.description"
+msgstr "Inviami un'email di conferma con il mio nome utente e password"
+
+msgid "user.signature"
+msgstr "Firma"
+
+msgid "user.title"
+msgstr "Titolo"
+
+msgid "user.url"
+msgstr "URL"
+
+msgid "user.userHome"
+msgstr "Cruscotto"
+
+msgid "user.username"
+msgstr "Nome utente"
+
+msgid "user.workingLanguages"
+msgstr "Lingue conosciute"
+
+msgid "user.orcid"
+msgstr "ORCID iD"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"L'ORCID ID che hai specificato non è valido. Per favore includi un URI "
+"completo (ad es. \"https://orcid.org/0000-0002-1825-0097\")."
+
+msgid "user.profile.identity"
+msgstr "Identità"
+
+msgid "user.profile.contact"
+msgstr "Contatti"
+
+msgid "user.profile.public"
+msgstr "Pubblico"
+
+msgid "user.apiKey"
+msgstr "API key"
+
+msgid "user.apiKeyEnabled"
+msgstr ""
+"Permetti ad applicazioni esterne che usano l' API key di accedere a questo "
+"account"
+
+msgid "user.apiKey.generate"
+msgstr "Genera una nuova APi key"
+
+msgid "user.apiKey.remove"
+msgstr ""
+
+msgid "user.apiKey.generateWarning"
+msgstr ""
+"Attenzione: generare una nuova API key invalida quelle già esistenti per "
+"questo utente."
+
+msgid "user.apiKey.removeWarning"
+msgstr ""
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr ""
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"Prima di creare un'API key, l'amministratore del sito deve aver inserito un "
+"valore segreto nel file di configurazione in \"api_key_secret\"."
+
+msgid "user.privacyLink"
+msgstr ""
+"I tuoi dati sono registrati in accordo con questa <a href=\"{$privacyUrl}\" "
+"target=\"_blank\">informativa sulla privacy</a>."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr ""
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr ""
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr ""
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr ""
+
+msgid "orcid.displayName"
+msgstr "Plugin per il profilo ORCID"
+
+msgid "orcid.description"
+msgstr "Consente di importare informazioni del profilo dell'utente da ORCID."
+
+msgid "orcid.instructions"
+msgstr "È possibile pre-compilare questo form con le informazioni del proprio profilo ORCID. Inserici l'indirizzo email o l'ORCID iD associato al profilo ORCID e clicca su \"Invia\"."
+
+msgid "orcid.noData"
+msgstr "Non sono stati trovati dati su ORCID."
+
+msgid "orcid.emailOrOrcid"
+msgstr "Indirizzo email o ORCID iD:"
+
+msgid "orcid.manager.orcidProfileSettings"
+msgstr "Impostazioni del profilo ORCID"
+
+msgid "orcid.manager.settings.description"
+msgstr "Configura la API ORCID per utilizzarla per l'inserimento di informazioni del profilo ORCID nel profilo utente."
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "ORCID API"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "Public"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "Sandbox pubblica"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "Membro"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "Membro Sandbox"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "Client ID"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "Client segreto"
+
+msgid "orcid.author.submission"
+msgstr "Submission ORCID"
+
+msgid "orcid.author.submission.success"
+msgstr "La tua proposta è stata associata al tuo ORCID iD."
+
+msgid "orcid.author.submission.failure"
+msgstr "Non è stato possibile associare la tua proposta al tuo ORCID iD. Contatta il Direttore della rivista e segnala il tuo nome, ORCID iD e i dettagli della tua proposta."
+
+msgid "orcid.authFailure"
+msgstr "OJS non è riuscita a comunicare con il servizio ORCID. Contatta il Direttore della rivista e segnala il tuo nome, ORCID iD e i dettagli della tua proposta."
+
+msgid "orcid.fieldset"
+msgstr "ORCID"
+
+msgid "orcid.connect"
+msgstr "Crea o connettti il tuo ID ORCID"
+
+msgid "orcid.about.display"
+msgstr ""
+"Per confermare che il tuo ORCID ID è stato confermato ed è stato utilizzato "
+"noi visualizziamo l'icona ORCID <img src=\"https://info.orcid.org/wp-content/"
+"uploads/2020/12/ORCIDiD_icon16x16.png\" alt=\"iD icon\" width=\"16\" height="
+"\"16\" border=\"0\"> vicino al tuo nome nella pagina di dettaglio del "
+"manoscritto e sul tuo profilo pubblico. <br>\n"
+"Per maggiori informazioni visita <a href=\"https://info.orcid.org/"
+"how-should-an-orcid-id-be-displayed/\">Come deve essere visualizzato un iD "
+"ORCID.</a>"
+
+msgid "orcid.about.display.title"
+msgstr "Dove vengono visualizzati gli ORCID ID?"
+
+msgid "orcid.about.howAndWhyPublicAPI"
+msgstr ""
+"Questa rivista raccoglie il tuo iD ORCID in modo che noi e la comunità in "
+"generale possiamo essere sicuri che sia correttamente identificato e "
+"collegato alle tue pubblicazioni. Ciò garantirà che il collegamento con "
+"tutto il tuo lavoro rimanga per tutta la tua carriera. <br>\n"
+"Quando clicchi sul pulsante \"Autorizza\" nel popup ORCID, ti chiederemo di "
+"condividere il tuo iD utilizzando un processo di autenticazione: "
+"registrandoti per un iD ORCID o, se ne hai già uno, accedendo al tuo account "
+"ORCID e concedendoci il permesso di ottenere il tuo iD ORCID. Facciamo ciò "
+"per assicurare che tu sia identificato correttamente e connesso in maniera "
+"sicura al tuo iD ORCID.\n"
+"Per saperne di più visita <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">Cosa c'è di così speciale "
+"nell'accedere.</a><br>\n"
+"Questa rivista raccoglierà e visualizzerà gli iD degli autori e dei coautori "
+"autenticati sul profilo OJS e sulla pagina dell'articolo."
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "Come e perché registriamo iD ORCID?"
+
+msgid "orcid.about.orcidExplanation"
+msgstr ""
+"ORCID è un ente indipendente senza scopo di lucro che attribuisce un "
+"identificativo univoco - ORCID ID - ad ogni utente. Offre inoltre la "
+"possibilità di collegare il lavoro di ricerca al proprio ORCID ID. ORCID è "
+"integrato in numerosi sistemi utilizzati da publishers, enti di "
+"finanziamento sto, istituzioni ed altri servizi collegati al mondo della "
+"ricerca scientifica. Per saperne di più visitare il sito <a href=\"https"
+"://orcid.org\">orcid.org</a>."
+
+msgid "orcid.about.title"
+msgstr "Che cos'è ORCID?"
+
+msgid "orcid.authorise"
+msgstr "Autorizza e collega il tuo ID ORCID"
+
+msgid "orcid.failure.contact"
+msgstr ""
+"Contattare il journal manager con il tuo nome, ID ORCID e dettagli del "
+"manoscritto."
+
+msgid "orcid.verify.denied"
+msgstr "Non hai consentito accesso al tuo ID ORCID."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "Un ID ORCID è già stato salvato per questo manoscritto."
+
+msgid "orcid.verify.failure"
+msgstr ""
+"Non è stato possibile verificare il tuo ORCID ID. Il link non è più valido."
+
+msgid "orcid.verify.success"
+msgstr "It tuo record ORCID è stato autenticato e associato al manoscritto."
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr ""
+"Questo manoscritto sarà aggiunto al tuo record ORICD in fase di "
+"pubblicazione."
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr ""
+"Non è stato possibile aggiungere questo manoscritto al tuo record ORCID."
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "Questo manoscritto è stato aggiunto al tuo record ORCID."
+
+msgid "orcid.verify.title"
+msgstr "Autorizzazione ORCID"
+
+msgid "orcid.author.unauthenticated"
+msgstr "ORCID ID non è stato autenticato! Richiedere autenticazione all'autore."
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "Vedi sotto per richiedere ORCID iD autenticato"
+
+msgid "orcid.author.deleteORCID"
+msgstr "Cancella ID ORCID e token d'accesso!"
+
+msgid "orcid.author.requestAuthorization"
+msgstr "Invia email per richiedere autorizzazione ORCID all'autore"
+
+msgid "orcid.author.accessTokenStored"
+msgstr ""
+"Accesso al record ORCID consentito con finalità {$orcidAccessScope}, fino al"
+
+msgid "orcid.author.accessDenied"
+msgstr "Accesso ad ORCID è stato negato da"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "Tutti"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "Errori"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "Definire la quantità di dati di registrazione scritti dal plugin"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "Registro richiesta ORCID"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"Invia una mail agli autori all'accettazione del lavoro per richiedere "
+"l'accesso a ORCID"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "Configurazioni e-mail"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "Finalità del profilo di accesso"
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr ""
+"l'API ORCID è stata configurata dall'host. Le seguenti credenziali sono "
+"state salvate."
+
+msgid "orcid.manager.settings.hidden"
+msgstr "Non visibile"
+
+msgid "orcid.manager.settings.title"
+msgstr "Configurazione ORCID API"
+
+msgid "orcid.about.howAndWhyMemberAPI"
+msgstr ""
+"Questa rivista raccoglie il tuo iD ORCID in modo che noi e la comunità in "
+"generale possiamo essere sicuri che sia correttamente identificato e "
+"collegato alle tue pubblicazioni. Ciò garantirà che il collegamento con "
+"tutto il tuo lavoro rimanga per tutta la tua carriera. <br>\n"
+"Quando clicchi sul pulsante \"Autorizza\" nel popup ORCID, ti chiederemo di "
+"condividere il tuo iD utilizzando un processo di autenticazione: "
+"registrandoti per un iD ORCID o, se ne hai già uno, accedendo al tuo account "
+"ORCID e concedendoci il permesso di ottenere il tuo iD ORCID. Facciamo ciò "
+"per assicurare che tu sia identificato correttamente e connesso in maniera "
+"sicura al tuo iD ORCID.\n"
+"Per saperne di più visita <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">Cosa c'è di così speciale "
+"nell'accedere.</a><br>\n"
+"Questa rivista raccoglierà e visualizzerà gli iD degli autori e dei coautori "
+"autenticati sul profilo OJS e sulla pagina dell'articolo. In aggiunta, i "
+"metadati degli articoli saranno automaticamente inviati al vostro record "
+"ORCID, consentendoci di aiutarvi a mantenere il vostro record aggiornato con "
+"informazioni attendibili. Per saperne di più, consultate il sito <a href="
+"\"https://info.orcid.org/six-ways-to-make-your-orcid-id-work-for-you/\">Sei "
+"modi per far lavorare il vostro iD ORCID per voi!</a>\n"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "Client segreto non valido"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "Client ID non valido"

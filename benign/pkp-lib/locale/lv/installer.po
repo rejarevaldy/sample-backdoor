@@ -1,0 +1,238 @@
+# Ieva Tiltina <pastala@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-16 20:22+0000\n"
+"Last-Translator: Ieva Tiltina <pastala@gmail.com>\n"
+"Language-Team: Latvian <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"installer/lv/>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
+"19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "installer.additionalLocales"
+msgstr "Papildu lokalizācijas"
+
+msgid "installer.administratorAccount"
+msgstr "Administratora konts"
+
+msgid "installer.administratorAccountInstructions"
+msgstr ""
+"Šis lietotājkonts kļūs par vietnes administratoru, un tam būs pilnīga "
+"piekļuve sistēmai. Pēc instalēšanas var izveidot papildu lietotāju kontus."
+
+msgid "installer.checkNo"
+msgstr "<span class=\"pkp_form_error formError\">NĒ</span>"
+
+msgid "installer.checkYes"
+msgstr "Jā"
+
+msgid "installer.connectionCharset"
+msgstr "Pieslēguma rakstzīmju kopa"
+
+msgid "installer.contentsOfConfigFile"
+msgstr "Konfigurācijas faila saturs"
+
+msgid "installer.databaseDriver"
+msgstr "Datubāzes draiveris"
+
+msgid "installer.configFileError"
+msgstr "Konfigurācijas fails <tt>config.inc.php</tt> nepastāv vai nav nolasāms."
+
+msgid "installer.form.clientCharsetRequired"
+msgstr "Jāizvēlas klienta rakstzīmju kopa."
+
+msgid "installer.form.databaseDriverRequired"
+msgstr "Jāizvēlas datubāzes draiveris."
+
+msgid "installer.form.databaseNameRequired"
+msgstr "Nepieciešams datubāzes nosaukums."
+
+msgid "installer.form.emailRequired"
+msgstr "Administratora kontam ir nepieciešama derīga e-pasta adrese."
+
+msgid "installer.form.filesDirRequired"
+msgstr ""
+"Nepieciešama direktorija, kas tiks izmantota augšupielādēto failu glabāšanai."
+
+msgid "installer.form.localeRequired"
+msgstr "Jāizvēlas lokālā valoda."
+
+msgid "installer.form.passwordsDoNotMatch"
+msgstr "Administratora paroles nesakrīt."
+
+msgid "installer.form.separateMultiple"
+msgstr "Vairākas vērtības atdaliet ar komatiem"
+
+msgid "installer.form.usernameRequired"
+msgstr "Ir nepieciešams administratora konta lietotājvārds."
+
+msgid "installer.form.timeZoneRequired"
+msgstr "Jāizvēlas laika josla."
+
+msgid "installer.form.passwordRequired"
+msgstr "Ir nepieciešama administratora konta parole."
+
+msgid "installer.form.usernameAlphaNumeric"
+msgstr ""
+"Administratora lietotājvārds var saturēt tikai burtu un ciparu rakstzīmes, "
+"pasvītrojumus un defisi, un tam jāsākas un jābeidzas ar burtu un ciparu "
+"rakstzīmēm."
+
+msgid "installer.installationWrongPhp"
+msgstr ""
+"<br/><strong>BRĪDINĀJUMS: Jūsu pašreizējā PHP versija neatbilst minimālajām "
+"instalēšanas prasībām. Ieteicams atjaunināt PHP versiju uz jaunāku.</strong>"
+
+msgid "installer.installErrorsOccurred"
+msgstr "Instalēšanas laikā radās kļūdas"
+
+msgid "installer.installerSQLStatements"
+msgstr "SQL paziņojumi uzstādīšanai"
+
+msgid "installer.installFileError"
+msgstr ""
+"Instalācijas fails <tt>dbscripts/xml/install.xml</tt> nepastāv vai nav "
+"nolasāms."
+
+msgid "installer.installFilesDirError"
+msgstr ""
+"Katalogs, kas norādīts augšupielādētajiem failiem, neeksistē vai nav "
+"rakstāms."
+
+msgid "installer.installParseDBFileError"
+msgstr "Kļūda datubāzes instalācijas faila <tt>{$file}</tt> analizēšanā."
+
+msgid "installer.databaseDriverInstructions"
+msgstr ""
+"<strong>Pašlaik sistēma atbalsta MySQL un PostgreSQL; ja nevarat izvēlēties "
+"kādu no šīm iespējām, sazinieties ar sistēmas administratoru, lai "
+"pārliecinātos, ka jūsu serverī ir nepieciešamie PHP paplašinājumi.</strong>"
+
+msgid "installer.beacon.enable"
+msgstr ""
+"Sniedziet PKP unikālu vietnes ID un OAI bāzes URL, kas tiks izmantots tikai "
+"statistikas un drošības brīdinājumu vajadzībām."
+
+msgid "installer.miscSettings"
+msgstr "Dažādi iestatījumi"
+
+msgid "installer.unsupportedPhpError"
+msgstr ""
+"Šī programmatūra neatbalsta jūsu servera PHP versiju. Divkārt pārbaudiet "
+"instalēšanas prasības docs/README."
+
+msgid "installer.databaseHostInstructions"
+msgstr ""
+"Lai izveidotu savienojumu, izmantojot domēna ligzdas, nevis TCP/IP, "
+"atstājiet hostname tukšu. Tas nav nepieciešams MySQL, kas automātiski "
+"izmantos ligzdas, ja būs ievadīts \"localhost\", bet tas ir nepieciešams "
+"dažiem citiem datubāzu serveriem, piemēram, PostgreSQL."
+
+msgid "installer.databaseHost"
+msgstr "Host"
+
+msgid "installer.databaseName"
+msgstr "Datubāzes nosaukums"
+
+msgid "installer.databasePassword"
+msgstr "Parole"
+
+msgid "installer.databaseSettings"
+msgstr "Datubāzes uzstādījumi"
+
+msgid "installer.databaseUsername"
+msgstr "Lietotājvārds"
+
+msgid "installer.filesDir"
+msgstr "Augšupielādes katalogs"
+
+msgid "installer.fileSettings"
+msgstr "Datnes uzstādījumi"
+
+msgid "installer.installMigrationError"
+msgstr ""
+"Izpildot migrācijas klasi, tika izmests izņēmums <tt>{$class}</tt>. Izņēmums "
+"bija {$message}."
+
+msgid "installer.unsupportedUpgradeError"
+msgstr ""
+"Jaunināšana nav atbalstīta. Sīkāku informāciju skatiet jaunināšanas "
+"rokasgrāmatā (https://docs.pkp.sfu.ca/dev/upgrade-guide)."
+
+msgid "installer.timezoneInstructions"
+msgstr "Laika josla, kas jāizmanto šajā sistēmā."
+
+msgid "installer.locale"
+msgstr "Lokalizācija"
+
+msgid "installer.locale.maybeIncomplete"
+msgstr "Atzīmētās lokalizācijas var būt nepilnīgas."
+
+msgid "installer.localeSettings"
+msgstr "Lokalizācijas iestatījumi"
+
+msgid "installer.oaiSettings"
+msgstr "OAI iestatījumi"
+
+msgid "installer.oaiRepositoryIdInstructions"
+msgstr ""
+"Unikāls identifikators, ko izmanto, lai identificētu metadatu ierakstus, kas "
+"indeksēti no šīs vietnes, izmantojot <a href=\"https://www.openarchives.org/"
+"\" target=\"_blank\">Open Archives Initiative</a> protokolu metadatu "
+"ievākšanai."
+
+msgid "installer.oaiRepositoryId"
+msgstr "Repozitorija identifikators"
+
+msgid "installer.publicFilesDirError"
+msgstr "Publisko failu direktorija neeksistē vai nav rakstāma."
+
+msgid "installer.releaseNotes"
+msgstr "Relīzes piezīmes"
+
+msgid "installer.preInstallationInstructionsTitle"
+msgstr "Pirmsinstalācijas soļi"
+
+msgid "installer.configureXSLMessage"
+msgstr ""
+"<p>Jūsu PHP instalācijā nav iespējots XSL modulis. Vai nu iespējojiet to, "
+"vai konfigurējiet xslt_command parametru savā config.inc.php failā.</p>"
+
+msgid "installer.installParseEmailTemplatesFileError"
+msgstr "Kļūda e-pasta veidnes faila parsēšanā <tt>{$file}</tt>."
+
+msgid "installer.additionalLocalesInstructions"
+msgstr ""
+"Izvēlieties papildu valodas, kas jāatbalsta šajā sistēmā. Papildu valodas "
+"var arī instalēt jebkurā laikā no vietnes administrēšanas saskarnes.<br>* = "
+"Valodas, kas nav pilnībā tulkotas (> 90% pārtulkoto terminu)"
+
+msgid "installer.preInstallationInstructions"
+msgstr ""
+"\n"
+"\t\t<p>1. Šādi faili un katalogi (un to saturs) ir jāpadara rakstāmi:</p>\n"
+"\t\t<ul>\n"
+"\t\t\t<li><tt>config.inc.php</tt> ir rakstāms (nav obligāti): "
+"{$writable_config}</li>\n"
+"\t\t\t<li><tt>public/</tt> ir rakstāms: {$writable_public}</li>\n"
+"\t\t\t<li><tt>cache/</tt> ir rakstāms: {$writable_cache}</li>\n"
+"\t\t\t<li><tt>cache/t_cache/</tt> ir rakstāms: "
+"{$writable_templates_cache}</li>\n"
+"\t\t\t<li><tt>cache/t_compile/</tt> ir rakstāms: "
+"{$writable_templates_compile}</li>\n"
+"\t\t\t<li><tt>cache/_db</tt> ir rakstāms: {$writable_db_cache}</li>\n"
+"\t\t</ul>\n"
+"\n"
+"\t\t<p>2. Jāizveido un jāpadara rakstāms katalogs, kurā glabāt "
+"augšupielādētos failus (skatiet sadaļu \"Failu iestatījumi\" tālāk).</p>\n"
+"\t"
+
+msgid "installer.beacon"
+msgstr "Bāka (beacon)"
+
+msgid "installer.installParseFilterConfigFileError"
+msgstr "Kļūda, parsējot filtra konfigurācijas failu <tt>{$file}</tt>."

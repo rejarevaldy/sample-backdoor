@@ -1,0 +1,239 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2023.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-03 08:38+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"installer/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "installer.localeSettings"
+msgstr "Yerli tənzimlər"
+
+msgid "installer.releaseNotes"
+msgstr "Versiya qeydləri"
+
+msgid "installer.configureXSLMessage"
+msgstr ""
+"<p>PHP quraşdırmanızda XSL modulu affektiv deyil. Bunu aktivləşdirin və ya "
+"config.inc.php dosyanızda xslt_command tənzimini konfiqurasiya edin. </p>"
+
+msgid "installer.beacon"
+msgstr "Göstərici"
+
+msgid "installer.additionalLocales"
+msgstr "Əlavə dillər"
+
+msgid "installer.administratorAccount"
+msgstr "İdarəçi hesabı"
+
+msgid "installer.checkNo"
+msgstr "<span class=\"pkp_form_error formError\">HAYIR</span>"
+
+msgid "installer.checkYes"
+msgstr "Bəli"
+
+msgid "installer.connectionCharset"
+msgstr "Bağlantı xarakteri dəst"
+
+msgid "installer.contentsOfConfigFile"
+msgstr "Konfiqurasiya faylının məzmunu"
+
+msgid "installer.databaseDriver"
+msgstr "Data baza sürücüsü"
+
+msgid "installer.databaseDriverInstructions"
+msgstr ""
+"<strong>Sistem hazırda MySQL və PostgreSQL-i dəstəkləyir, aşağıdakı "
+"seçimlərdən birini seçmədiyiniz halda, serverinizin lazımi PHP uzantılarına "
+"sahib olduğuna əmin olduğundan əmin olmaq üçün sistem idarəçinizlə əlaqə "
+"saxlayın.</strong>"
+
+msgid "installer.databaseHost"
+msgstr "Ana kompüter"
+
+msgid "installer.databaseName"
+msgstr "Data baza adı"
+
+msgid "installer.databasePassword"
+msgstr "Şifrə"
+
+msgid "installer.databaseSettings"
+msgstr "Data baza tənzimləri"
+
+msgid "installer.databaseUsername"
+msgstr "İstifadəçi adı"
+
+msgid "installer.filesDir"
+msgstr "Yükləmələr üçün indeks"
+
+msgid "installer.fileSettings"
+msgstr "Fayl tənzimləri"
+
+msgid "installer.form.separateMultiple"
+msgstr "Çoxlu dəyərləri vergüllə ayırın"
+
+msgid "installer.installationWrongPhp"
+msgstr ""
+"<br/><strong>XƏBƏRDARLIQ: istifadə etdiyiniz PHP versiyası qurulumu üçün "
+"minimum tələbləri qarşılamır. Daha güncəl bir PHP versiyası yükləməyiniz "
+"tövsiyə olunur.</strong>"
+
+msgid "installer.installErrorsOccurred"
+msgstr "Yükləmə zamanı xəta baş verdi"
+
+msgid "installer.installerSQLStatements"
+msgstr "Quraşdırma üçün SQL açıqlamaları"
+
+msgid "installer.additionalLocalesInstructions"
+msgstr ""
+"Bu sistemdə dəstəklənəcək digər dilləri seçin. İdarə ara üzündən hər hansı "
+"bir zamanda əlavə dillər də yüklənə bilər. <br>* = Bütöv olaraq tərcümə "
+"edilməmiş dillər göstərir (terminlərin > %90'ı tərcümə edilmişdir)"
+
+msgid "installer.locale"
+msgstr "Quraşdırma dili yeri"
+
+msgid "installer.oaiSettings"
+msgstr "OAI tənzimləri"
+
+msgid "installer.oaiRepositoryId"
+msgstr "Korporativ Arxiv müəyyənləşdirici"
+
+msgid "installer.preInstallationInstructionsTitle"
+msgstr "Ön yükləmə addımları"
+
+msgid "installer.administratorAccountInstructions"
+msgstr ""
+"Bu istifadəçi hesabı sayt idarəçisi olacaq və sistemə tam giriş səlahiyyəti "
+"olacaqdır. Əlavə istifadəçi hesabları qurulumdan sonra formalaşdırıla bilər."
+
+msgid "installer.configFileError"
+msgstr ""
+"<tt config.inc.php</tt> adlı konfiqurasiya faylı yoxdur və ya oxuna bilən "
+"deyil"
+
+msgid "installer.databaseHostInstructions"
+msgstr ""
+"Sahə (domain) soketleri yerinə TCP/IP üzərindən qoşulmaq üçün \"hostname\"i "
+"boş buraxın. \"localhost\" məlumatı daxil edildisə soketler avtomatik olaraq "
+"istifadə ediləcəkdir. Bu MySQL üçün lazımi deyil, ancaq PstgreSQL kimi bəzi "
+"data baza serverləri üçün lazımdır."
+
+msgid "installer.form.clientCharsetRequired"
+msgstr "Bir istifadəçi xarakter dəsti seçilməlidir."
+
+msgid "installer.form.databaseDriverRequired"
+msgstr "Bir data baza sürücüsü seçilməlidir."
+
+msgid "installer.form.databaseNameRequired"
+msgstr "Data baza adı tələb olunur"
+
+msgid "installer.form.emailRequired"
+msgstr "İdarəçi hesabı üçün etibarlı bir email adresi tələb olunur"
+
+msgid "installer.form.usernameRequired"
+msgstr "İdarəçi hesabı üçün bir istifadəçi adı tələb olunur."
+
+msgid "installer.form.timeZoneRequired"
+msgstr "Bir saat bölgəsi seçilməlidir."
+
+msgid "installer.installMigrationError"
+msgstr "<tt>{$class}</tt>'ı danışma sinif xətası"
+
+msgid "installer.installParseFilterConfigFileError"
+msgstr "Filtir konfiqurasiya faylı <tt>{$file}</tt> fərqləndirmə xətası"
+
+msgid "installer.locale.maybeIncomplete"
+msgstr "İşarələnmiş diller tamamlanmamış ola bilər"
+
+msgid "installer.publicFilesDirError"
+msgstr "Ümumi fayl indeksi mövcud deyil və ya yazıla bilən deyil."
+
+msgid "installer.beacon.enable"
+msgstr ""
+"Sadəcə statistik və təhlükəsizlik xəbərdarlığı üçün PKP-yə tək say kimliyi "
+"və OAI əsas URL-si yaradın."
+
+msgid "installer.form.filesDirRequired"
+msgstr "Yüklənən faylları saxlamaq üçün istifadə ediləcək indeks tələb olunur"
+
+msgid "installer.form.localeRequired"
+msgstr "Bir yer seçilməlidir."
+
+msgid "installer.form.passwordRequired"
+msgstr "İdarəçi hesabı üçün bir şifrə tələb olunur"
+
+msgid "installer.form.passwordsDoNotMatch"
+msgstr "İdarəçi şifrəsi uyğun gəlmədi."
+
+msgid "installer.form.usernameAlphaNumeric"
+msgstr ""
+"İdarəçinin istifadəçi adı sadəcə alfanumerik xarakterləri, altdanxətləri və "
+"tire simvollarını ehtiva edə bilər və mütləq bir alfanumerik xarakter ilə "
+"başlayıb bitməlidir."
+
+msgid "installer.installFileError"
+msgstr ""
+"<tt>dbscripts/xml/install.xml</tt> adlı qurulma faylı mövcud deyil ya da "
+"oxuna bilən deyil."
+
+msgid "installer.installFilesDirError"
+msgstr "Yüklənmiş sənədrlərə xas indeks mövcud və ya yazıla bilən deyil."
+
+msgid "installer.installParseDBFileError"
+msgstr ""
+"<tt>{$file}</tt> adlı data baza qurulma faylında fərqləndirmə xətası baş "
+"verdi."
+
+msgid "installer.installParseEmailTemplatesFileError"
+msgstr ""
+"<tt>{$file}</tt> adlı email şablon faylında fərqləndirmə xətası baş verdi"
+
+#, fuzzy
+msgid "installer.unsupportedUpgradeError"
+msgstr ""
+"Təkmilləşdirmə dəstəklənmir. Ətraflı məlumat üçün docs/UPGRADE-UNSUPPORTED "
+"sənədinə baxın"
+
+msgid "installer.timezoneInstructions"
+msgstr "Bu sistem üçün istifadə ediləcək saat bölgəsi"
+
+msgid "installer.oaiRepositoryIdInstructions"
+msgstr ""
+"Bu saytda <a href=\"https://www.openarchives.org/\" target=\"_blank\">Open "
+"Archives Initiative</a> üst data uyğunlaşdırma protokoluna uyğun olaraq meta "
+"datalarını tərif etmək üçün tək bir tərifetmə istifadə edilir."
+
+msgid "installer.unsupportedPhpError"
+msgstr ""
+"Serverinizin PHP versiyası bu proqramı dəstəkləmir. docs/README faylından "
+"quraşdırma tələblərini yenidən yoxlayın."
+
+#, fuzzy
+msgid "installer.preInstallationInstructions"
+msgstr ""
+"\n"
+"\t\t<p>1. Aşağıdakı faylları və qovluqları (və onların məzmunu) yazmaq üçün "
+"mövcud olmalıdır:</p>\n"
+"\t\t<st>\n"
+"\t\t\t<li><tt>config.inc.php </tt> yazmaq üçün mövcuddur (isteğe bağlı): "
+"{$writable_config}</li>\n"
+"\t\t\t<li><tt>public/ </tt> yazmaq üçün mövcuddur: {$writable_public}</li>\n"
+"\t\t\t<li> <tt>cache/</ tt> yazmaq üçün mövcuddur: {$writable_cache}</li>\n"
+"\t\t\t<li> <tt>cache/t_cache/</tt> yazmaq üçün mövcuddur: "
+"{$writable_templates_cache}</li>\n"
+"\t\t\t<li> <tt>cache/t_compile/</tt> yazmaq üçün mövcuddur: "
+"{$writable_templates_compile}</li>\n"
+"\t\t\t<li> <tt>cache/_db</tt> yazmaq üçün mövcuddur: "
+"{$writable_db_cache}</li>\n"
+"\t\t</ul>\n"
+"\n"
+"\t\t<p>2. Yüklənmiş faylları saxlamaq və yazmaq üçün bir qovluq yaratmaq "
+"lazımdır (aşağıda \"fayl parametrləri\" nə baxın).</p>\n"
+"\t"

@@ -1,0 +1,1046 @@
+# Marie-Hélène Vézina [UdeMontréal] <marie-helene.vezina@umontreal.ca>, 2022, 2023.
+# Nicolas Dickner <dickner.nicolas@uqam.ca>, 2023.
+# Pierre Lasou <pierre.lasou@bibl.ulaval.ca>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-15T13:36:55-07:00\n"
+"PO-Revision-Date: 2023-08-19 12:58+0000\n"
+"Last-Translator: Pierre Lasou <pierre.lasou@bibl.ulaval.ca>\n"
+"Language-Team: French (Canada) <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"admin/fr_CA/>\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+# localization file for fr_CA. Last revision 2019-10-22T03:01:39 by Marie-Hélène Vézina, Bibliothèques, Université de Montréal.
+msgid "admin.systemInfo.settingName"
+msgstr "Fixation du nom"
+
+msgid "admin.systemInfo.settingValue"
+msgstr "Fixation de la valeur"
+
+msgid "admin.adminFunctions"
+msgstr "Fonctions administratives"
+
+msgid "admin.deleteCache"
+msgstr "Vider les caches"
+
+msgid "admin.deleteCache.description"
+msgstr ""
+"Vider les fichiers caches du système. Ceci ne devrait être fait qu'en "
+"environnement de développpement."
+
+msgid "admin.clearDataCache"
+msgstr "Supprimer les caches de données"
+
+msgid "admin.clearTemplateCache"
+msgstr "Supprimer le cache de modèles"
+
+msgid "admin.configFileUpdatedInstructions"
+msgstr ""
+"Votre fichier de configuration a été mis à jour avec succès. Veuillez noter "
+"que si votre site ne fonctionne plus correctement, vous aurez peut être à "
+"réparer manuellement votre configuration en modifiant directement le fichier "
+"<tt>config.inc.php</tt>."
+
+msgid "admin.confirmClearTemplateCache"
+msgstr "Êtes-vous certain-e de vouloir effacer le cache des modèles compilés ?"
+
+msgid "admin.confirmExpireSessions"
+msgstr ""
+"Êtes-vous certain-e de vouloir fermer toutes les sessions utilisateur ? Tous "
+"les utilisateurs-trices actuellement connectés-es devront se reconnecter "
+"(vous y compris)."
+
+msgid "admin.contentsOfConfigFile"
+msgstr "Contenu du fichier de configuration"
+
+msgid "admin.contexts.confirmDelete"
+msgstr ""
+"Êtes-vous certain-e de vouloir supprimer définitivement la revue "
+"{$contextName} ainsi que tous ses contenus ?"
+
+msgid "admin.currentVersion"
+msgstr "Version actuelle"
+
+msgid "admin.dateInstalled"
+msgstr "Date d'installation"
+
+msgid "admin.displayConfigFileInstructions"
+msgstr ""
+"Le contenu de votre configuration mise à jour est affiché ci-dessous. Pour "
+"appliquer les modifications affectées à cette configuration, vous devez "
+"ouvrir le fichier <tt>config.inc.php</tt> dans un éditeur de texte adéquat "
+"et remplacer son contenu par le contenu de la zone de texte ci-dessous."
+
+msgid "admin.displayNewSystemConfig"
+msgstr "Afficher la nouvelle configuration"
+
+msgid "admin.expireSessions"
+msgstr "Fermer les sessions utilisateur"
+
+msgid "admin.expireSessions.description"
+msgstr ""
+"Tous les utilisateurs et utilisatrices seront immédiatement déconnectés-es "
+"de l'application, y compris vous, et devront se reconnecter."
+
+msgid "admin.languages.cantDisable"
+msgstr ""
+"Ce paramètre régional est la langue principale du site. Vous ne pouvez pas "
+"le désactiver avant d'avoir choisi un autre paramètre régional principal."
+
+msgid "admin.languages.confirmSitePrimaryLocaleChange"
+msgstr ""
+"Êtes-vous certain-e de vouloir changer le paramètre régional principal du "
+"site ? Les noms des utilisateurs-trices, requis dans le paramètre régional "
+"principal du site, seront copiés, lorsque manquants, à partir du paramètre "
+"régional principal existant."
+
+msgid "admin.languages.confirmReload"
+msgstr ""
+"Êtes-vous certain-e de vouloir réinitialiser cette langue ? Ceci effacera "
+"toutes données spécifiques à ce paramètre régional tels que les modèles de "
+"courriel personnalisés."
+
+msgid "admin.languages.installedLocales"
+msgstr "Paramètres régionaux installés"
+
+msgid "admin.languages.installLanguages"
+msgstr "Gérer les paramètres régionaux"
+
+msgid "admin.languages.availableLocales"
+msgstr "Paramètres régionaux disponibles"
+
+msgid "admin.languages.installLocale"
+msgstr "Installer le paramètre régional"
+
+msgid "admin.languages.installLocales"
+msgstr "Installer"
+
+msgid "admin.languages.installNewLocales"
+msgstr "Installer de nouveaux paramètres régionaux"
+
+msgid "admin.languages.languageSettings"
+msgstr "Paramètres de langue"
+
+msgid "admin.languages.noLocalesAvailable"
+msgstr ""
+"Aucun paramètre régional supplémentaire n'est disponible pour l'installation."
+
+msgid "admin.languages.reload"
+msgstr "Recharger le paramètre régional"
+
+msgid "admin.languages.uninstall"
+msgstr "Désinstaller le paramètre régional"
+
+msgid "admin.phpInfo"
+msgstr "Renseignements détaillés concernant PHP"
+
+msgid "admin.scheduledTask"
+msgstr "Tâche programmée"
+
+msgid "admin.scheduledTask.startTime"
+msgstr "Début du processus."
+
+msgid "admin.scheduledTask.stopTime"
+msgstr "Arrêt du processus."
+
+msgid "admin.scheduledTask.noLog"
+msgstr "La tâche n'a produit aucun journal d'événements."
+
+msgid "admin.scheduledTask.depositDois"
+msgstr "Dépôt des DOIs auprès d'une agence d'enregistrement configurée"
+
+msgid "admin.scheduledTask.downloadLog"
+msgstr ""
+"Votre installation de {$softwareName} a complété l'exécution automatique de "
+"cette tâche. Vous pouvez télécharger le journal d'événements ici : {$url}"
+
+msgid "admin.scheduledTask.editorialReminder"
+msgstr ""
+"Envoyer un courriel à chaque rédacteur.trice pour lui rappeler les tâches "
+"qui lui restent à accomplir"
+
+msgid "admin.scheduledTask.editorialReminder.logStart"
+msgstr ""
+"Identification des éditeur.trice.s à rappeler pour la revue {$contextId}"
+
+msgid "admin.scheduledTask.editorialReminder.logEnd"
+msgstr ""
+"{$count} tâches distribuées pour envoyer des avis éditoriaux par courriel "
+"aux utilisateur.trice.s {$userIds} de la revue {$contextId}"
+
+msgid "admin.scheduledTask.confirmClearLogs"
+msgstr ""
+"Êtes-vous certain-e de vouloir supprimer le journal d'événements des tâches "
+"planifiées ?"
+
+msgid "admin.scheduledTask.clearLogs"
+msgstr "Vider le journal d'événements des tâches planifiées"
+
+msgid "admin.scheduledTask.clearLogs.description"
+msgstr ""
+"Supprimer tous les logs des processus de tâches planifiées qui ont été "
+"exécutés."
+
+msgid "admin.scheduledTask.clearLogs.delete"
+msgstr "Supprimer les logs des tâches"
+
+msgid "admin.scheduledTask.publishSubmissions"
+msgstr "Publier les soumission dont la publication est planifiée"
+
+msgid "admin.scheduledTask.reviewReminder"
+msgstr "Rappel d'évaluation"
+
+msgid "admin.scheduledTask.statisticsReport"
+msgstr "Notification de rapport éditorial"
+
+msgid "admin.scheduledTask.subscriptionExpiryReminder"
+msgstr "Rappel d'expiration d'abonnement"
+
+#, fuzzy
+msgid "admin.scheduledTask.removeUnvalidatedExpiredUsers"
+msgstr "Supprimer les utilisateurs-trices expirés et non validés"
+
+#, fuzzy
+msgid "admin.scheduledTask.removeFailedJobs"
+msgstr ""
+"Supprimer les travaux très anciens en échec de la liste des travaux en échec."
+
+#, fuzzy
+msgid "admin.scheduledTask.processQueueJobs"
+msgstr "Traiter les travaux en attente dans la file d'attente"
+
+msgid "admin.scheduledTask.updateGeoDB"
+msgstr "Mettre à jour la base de données DB-IP city lite"
+
+#, fuzzy
+msgid "admin.scheduledTask.updateGeoDB.fileRename.error"
+msgstr ""
+"Le renommage du fichier de base de données DB-IP city lite {$sourceFilename} "
+"par {$targetFilename} a échoué."
+
+msgid "admin.scheduledTask.usageStatsLoader"
+msgstr "Tâche de versement du fichier de statistiques d'utilisation"
+
+msgid "admin.scheduledTask.usageStatsLoader.processingPathNotEmpty"
+msgstr ""
+"Le répertoire {$directory} n'est pas vide. Cela peut être dû au fait qu'un "
+"processus précédent a échoué, ou qu'un processus roule en parallèle. Ce "
+"fichier sera automatiquement retraité."
+
+msgid "admin.job.processLogFile.openFileFailed"
+msgstr "Le fichier {$file} n'a pas pu être ouvert et a été rejeté."
+
+msgid "admin.scheduledTask.usageStatsLoader.veryOldLogFile"
+msgstr ""
+"Le fichier {$file} est un ancien format de fichier de journal qui ne peut "
+"être traité et qui sera donc redéplacé dans le répertoire de scène."
+
+#, fuzzy
+msgid "admin.scheduledTask.usageStatsLoader.monthExists"
+msgstr ""
+"Le fichier journal {$file} a été ignoré car les statistiques pour ce mois "
+"ont déjà été calculées. Pour recalculer les statistiques pour un mois "
+"précédent, vous devez restaurer tous les fichiers de journaux du mois et "
+"utiliser l'outils CLI afin de retraiter les statistiques."
+
+msgid "admin.job.processLogFile.wrongLoglineFormat"
+msgstr ""
+"La ligne {$lineNumber} dans le fichier de journal {$file} est dans le "
+"mauvais format et sera donc ignorée."
+
+#, fuzzy
+msgid "admin.job.processLogFile.invalidLogEntry"
+msgstr ""
+"Entrée invalide dans le journal à la ligne {$lineNumber} dans le fichier de "
+"journal {$file}: {$error}"
+
+#, fuzzy
+msgid "admin.job.processLogFile.invalidLogEntry.time"
+msgstr "Date non valide."
+
+#, fuzzy
+msgid "admin.job.processLogFile.invalidLogEntry.contextId"
+msgstr "Le Context ID n'est pas un nombre entier."
+
+#, fuzzy
+msgid "admin.job.processLogFile.invalidLogEntry.submissionId"
+msgstr "Le Submission ID n'est pas un nombre entier."
+
+#, fuzzy
+msgid "admin.job.processLogFile.invalidLogEntry.representationId"
+msgstr "Le Representation ID n'est pas un nombre entier."
+
+#, fuzzy
+msgid "admin.job.processLogFile.invalidLogEntry.assocType"
+msgstr "Le Assoc type n'est pas supporté."
+
+msgid "admin.job.processLogFile.invalidLogEntry.fileType"
+msgstr "Le type de fichier n'est pas supporté."
+
+msgid "admin.job.processLogFile.invalidLogEntry.country"
+msgstr "Le pays n'est pas une chaîne de deux caractères alphabétiques."
+
+msgid "admin.job.processLogFile.invalidLogEntry.region"
+msgstr ""
+"La région n'est pas une chaîne d'un maximum de trois caractères "
+"alphanumériques."
+
+#, fuzzy
+msgid "admin.job.processLogFile.invalidLogEntry.institutionIds"
+msgstr "L'Institution IDs n'est pas un tableau."
+
+#, fuzzy
+msgid "admin.job.processLogFile.insertError"
+msgstr ""
+"Une erreur s'est produite en traitant le fichier de journal {$file} à la "
+"ligne {$lineNumber}: {$msg}"
+
+#, fuzzy
+msgid "admin.scheduledTask.usageStatsLoader.jobDispatched"
+msgstr ""
+"Le travail en arrière plan qui traitera le fichier de journal {$file} et "
+"stockera les données statistiques a été lancé."
+
+msgid "admin.server.apacheVersion"
+msgstr "Version Apache"
+
+msgid "admin.server.dbDriver"
+msgstr "Pilote de base de données"
+
+msgid "admin.server.dbVersion"
+msgstr "Version du serveur de bases de données"
+
+msgid "admin.serverInformation"
+msgstr "Renseignements sur le serveur"
+
+msgid "admin.server.phpVersion"
+msgstr "Version PHP"
+
+msgid "admin.server.platform"
+msgstr "Système d'exploitation"
+
+msgid "admin.settings"
+msgstr "Paramètres"
+
+msgid "admin.settings.about"
+msgstr "Description « À propos du site »"
+
+msgid "admin.settings.enableBulkEmails.label"
+msgstr "Courriels en lot"
+
+msgid "admin.settings.contactEmail"
+msgstr "Courriel de la personne-ressource principale"
+
+msgid "admin.settings.contactName"
+msgstr "Nom de la personne-ressource principale"
+
+msgid "admin.settings.introduction"
+msgstr "Introduction"
+
+msgid "admin.settings.minPasswordLength"
+msgstr "Longueur minimum du mot de passe (nombre de caractères)"
+
+msgid "admin.settings.sharedReviewerStatistics"
+msgstr "Statistiques des évaluateurs"
+
+msgid "admin.settings.sharedReviewerStatistics.description"
+msgstr "Dans une installation à contexte multiples, les statistiques des "
+"évaluateurs, comme le nombre de rapports d'évaluation complétés, peuvent "
+"être affichées individuellement pour chaque contexte ou agrégées pour tous "
+"les contextes."
+
+msgid "admin.settings.sharedReviewerStatistics.disable"
+msgstr "Désactiver les statistiques agrégées des évaluateurs"
+
+msgid "admin.settings.restrictBulkEmails"
+msgstr "Restriction des courriels en lot"
+
+msgid "admin.settings.disableBulkEmailRoles.label"
+msgstr "Désactiver pour les rôles suivants"
+
+msgid "admin.settings.disableBulkEmailRoles.adminOnly"
+msgstr "Seul un ou une gestionnaire de revue peut modifier ce paramètre."
+
+msgid "admin.settings.siteLanguage"
+msgstr "Langue du site"
+
+msgid "admin.settings.siteStyleSheetInvalid"
+msgstr ""
+"Format de la feuille de style du site invalide. Le format accepté est .css."
+
+msgid "admin.settings.siteStyleSheet"
+msgstr "Feuille de style du site"
+
+msgid "admin.settings.siteLogo"
+msgstr "Logo du site"
+
+msgid "admin.settings.siteTitle"
+msgstr "Titre du site"
+
+msgid "admin.settings.siteTheme"
+msgstr "Thème du site"
+
+msgid "admin.siteAdmin"
+msgstr "Administration du site"
+
+msgid "admin.siteManagement"
+msgstr "Gestion du site"
+
+msgid "admin.siteSettings"
+msgstr "Paramètres du site"
+
+msgid "admin.siteSetup"
+msgstr "Réglage du site"
+
+msgid "admin.systemConfigFileReadError"
+msgstr ""
+"Le fichier de configuration <tt>config.inc.php</tt> n'existe pas, n'est pas "
+"lisible, ou n'est pas valide."
+
+msgid "admin.systemInformation"
+msgstr "Renseignements sur le système"
+
+msgid "admin.systemInformation.description"
+msgstr ""
+"Afficher des informations sur la version et les paramètres de configuration "
+"de l'application et du serveur."
+
+msgid "admin.systemInformation.view"
+msgstr "Afficher les informations sur le système"
+
+msgid "admin.versionBuild"
+msgstr "Assemblage"
+
+msgid "admin.version.checkForUpdates"
+msgstr "Rechercher des mises à jour"
+
+msgid "admin.version.downloadPackage"
+msgstr "Télécharger"
+
+msgid "admin.version.downloadPatch"
+msgstr "Télécharger un correctif"
+
+msgid "admin.versionHistory"
+msgstr "Historique de version"
+
+msgid "admin.version.latest"
+msgstr "Dernière version"
+
+msgid "admin.versionMajor"
+msgstr "Majeure"
+
+msgid "admin.versionMinor"
+msgstr "Mineure"
+
+msgid "admin.version.moreInfo"
+msgstr "Pour en savoir plus"
+
+msgid "admin.versionRevision"
+msgstr "Révision"
+
+msgid "admin.version.updateAvailable"
+msgstr "Une mise à jour est disponible"
+
+msgid "admin.version.upToDate"
+msgstr "Votre système est à jour"
+
+msgid "admin.version"
+msgstr "Version"
+
+msgid "admin.fileLoader.wrongBasePathLocation"
+msgstr ""
+"Le chemin d'accès de base {$path} doit se trouver à l'intérieur du "
+"répertoire des fichiers publics."
+
+msgid "admin.fileLoader.pathNotAccessible"
+msgstr "Le dossier {$path} n'est pas un répertoire ou ne peut être lu."
+
+msgid "admin.fileLoader.moveFileFailed"
+msgstr ""
+"Le fichier {$filename} ne peut être déplacé de {$currentFilePath} à "
+"{$destinationPath}"
+
+msgid "admin.fileLoader.fileProcessed"
+msgstr "Le fichier {$filename} a été traité et archivé."
+
+msgid "admin.fileLoader.emailSubject"
+msgstr "Chargeur de fichier"
+
+msgid "admin.error.gzDecompressFile.gzopen"
+msgstr ""
+"Le fichier n'a pas pu être décompressé. Le fichier source gz {$filePath} n'a "
+"pas pu être ouvert avec gzopen."
+
+msgid "admin.error.gzDecompressFile.fopen"
+msgstr ""
+"Le fichier n'a pas pu être décompressé. Le fichier de destination {$filePath}"
+" n'a pas pu être ouvert avec fopen."
+
+#, fuzzy
+msgid "admin.error.gzDecompressFile.gzread"
+msgstr ""
+"Le fichier n'a pu être décompressé. La source du fichier gz {$file} n'a pu "
+"être lu avec gzread."
+
+#, fuzzy
+msgid "admin.error.gzDecompressFile.fwrite"
+msgstr ""
+"Le fichier n'a pu être décompressé. Le fichier de destination {$filePath} "
+"n'a pu être créé avec fwrite."
+
+#, fuzzy
+msgid "admin.error.gzDecompressFile.fclose"
+msgstr ""
+"Le fichier n'a pu être décompressé. Le fichier de destination ouvert "
+"{$filePath} n'a pu être fermé avec fclose."
+
+#, fuzzy
+msgid "admin.error.gzDecompressFile.gzclose"
+msgstr ""
+"Le fichier n'a pu être décompressé. Le fichier source gz ouvert {$filePath} "
+"n'a pu être fermé avec gzclose."
+
+#, fuzzy
+msgid "admin.error.gzDecompressFile.unlink"
+msgstr ""
+"Le fichier n'a pu être décompressé. Le fichier source gz décompressé "
+"{$filePath} n'a pu être supprimer avec unlink."
+
+msgid "admin.error.gzCompressFile.gzopen"
+msgstr ""
+"Le fichier n'a pu être compressé. Le fichier gz de destination {$filePath} "
+"n'a pu être ouvert avec gzopen."
+
+msgid "admin.error.gzCompressFile.fopen"
+msgstr ""
+"Le fichier n'a pu être compressé. Le fichier source {$filePath} n'a pu être "
+"ouvert avec fopen."
+
+msgid "admin.error.gzCompressFile.fread"
+msgstr ""
+"Le fichier n'a pu être compressé. Le fichier source {$filePath} n'a pu être "
+"lu avec fread."
+
+msgid "admin.error.gzCompressFile.gzwrite"
+msgstr ""
+"Le fichier n'a pu être compressé. Le fichier gz de destination {$filePath} "
+"n'a pu être crée avec gzwrite."
+
+msgid "admin.error.gzCompressFile.fclose"
+msgstr ""
+"Le fichier n'a pu être compressé. Le fichier source {$filePath} n'a pu être "
+"fermé avec fclose."
+
+msgid "admin.error.gzCompressFile.gzclose"
+msgstr ""
+"Le fichier n'a pu être compressé. Le fichier gz de destination {$filePath} "
+"n'a pu être fermé avec gzclose."
+
+msgid "admin.error.gzCompressFile.unlink"
+msgstr ""
+"Le fichier n'a pu être compressé. Le fichier source compressé {$filePath} "
+"n'a pu être supprimé avec unlink."
+
+msgid "admin.languages.noLocalesToDownload"
+msgstr "Il n'y a pas de paramètre régional disponible pour l'installation."
+
+msgid "admin.cli.tool.usage.title"
+msgstr "Usage :"
+
+msgid "admin.cli.tool.usage.parameters"
+msgstr "commande [arguments]"
+
+msgid "admin.cli.tool.available.commands"
+msgstr "Commandes disponible pour l'espace de nom `{$namespace}`:"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.maintenance.message"
+msgstr ""
+"Impossible d'exécuter les travaux dans la liste d'attente car le mode "
+"maintenance de l'application est activé."
+
+msgid "admin.cli.tool.jobs.available.options.list.description"
+msgstr ""
+"Liste des travaux en attente. Si vous souhaitez paginer les résultats, "
+"utilisez les paramètres --page= et --perPage= . Passez le repère --failed "
+"pour lister les travaux en échec."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.available.options.purge.description"
+msgstr ""
+"Abandonner un travail spécifique de la liste d'attente en utilisant son "
+"identifiant. Si vous souhaitez tous les abandonner, passer le paramètre --"
+"all. Si vous voulez abandonner tous les travaux d'une liste d'attente "
+"spécifique, passer le paramètre --queue="
+
+msgid "admin.cli.tool.jobs.available.options.test.description"
+msgstr ""
+"Ajouter un travail test dans la liste d'attente de test. Utilisez le "
+"paramètre optionnel --only= et passez 'failed' ou 'success' pour distribuer "
+"les travaux réussis ou en échec."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.available.options.work.description"
+msgstr ""
+"Lancer un processus de travail démon infini qui continuera à traiter les "
+"travaux. Utilisez le repère --help pour afficher les options associées à "
+"cette commande."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.available.options.failed.description"
+msgstr ""
+"Lister tous les travaux en échec. Utiliser les paramètres --queue=QUEUE_NAME "
+"et --connection=CONNECTION_NAME pour filtrer la liste. Passer également les "
+"paramètres/repères --redispatch et --clear pour redistribuer dans la liste "
+"d'attente ou vider tous les travaux en échec ou certains d'entre eux."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.available.options.run.description"
+msgstr ""
+"Distribuer les travaux disponibles dans la file d'attente. Si vous souhaitez "
+"distribuer un travail dans une file d'attente spécifique, passez le "
+"paramètre --queue=QUEUE_NAME. Il est aussi possible de passer --test pour "
+"lancer un travail test et --once pour lancer un travail à la fois"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.available.options.run.completed.description"
+msgstr ""
+"L'exécution des {$jobCount} travaux dans la liste d'attente appelée "
+"{$queueName} est terminée."
+
+msgid "admin.cli.tool.jobs.available.options.run.empty.description"
+msgstr ""
+"Aucun travail disponible pour exécution dans la liste d'attente appelée "
+"{$queueName}."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.available.options.total.description"
+msgstr ""
+"Afficher l'ensemble des travaux en file d'attente. Passer le repère --failed "
+"pour voir l'ensemble des travaux en échec."
+
+msgid "admin.cli.tool.jobs.available.options.help.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.available.options.usage.description"
+msgstr ""
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.empty.option"
+msgstr "L'option ne peut être vide! Vérifiez la méthode d'utilisation."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.queued.jobs.failed.title"
+msgstr "Travaux en liste d'attente en échec"
+
+msgid "admin.cli.tool.jobs.queued.jobs.title"
+msgstr "Travaux en liste d'attente"
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.id"
+msgstr "Identifiant"
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.queue"
+msgstr "Liste d'attente"
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.connection"
+msgstr "Connexion"
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.job.display.name"
+msgstr ""
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.queued.jobs.fields.attempts"
+msgstr "Tentatives"
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.reserved.at"
+msgstr "Réservé à"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.queued.jobs.fields.available.at"
+msgstr "Disponible à"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.queued.jobs.fields.created.at"
+msgstr "Crée à"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.queued.jobs.fields.failed.at"
+msgstr "Échoué à"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.queued.jobs.fields.exception"
+msgstr "Message d'exception"
+
+msgid "admin.cli.tool.jobs.pagination"
+msgstr "Pagination"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.pagination.current"
+msgstr "Actuel"
+
+msgid "admin.cli.tool.jobs.pagination.previous"
+msgstr "Précédent"
+
+msgid "admin.cli.tool.jobs.pagination.next"
+msgstr "Suivant"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.purge.without.id"
+msgstr ""
+"Vous devez passer au moins un identifiant de travail, '--all' or '--queue=' "
+"pour utiliser cette commande"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.test.job.failed.dispatch.message"
+msgstr ""
+"Travail test distribué qui est lié à un échec dans la file d'attente "
+"{$queueName}"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.test.job.success.dispatch.message"
+msgstr ""
+"Travail test distribué qui est lié à un succès dans la file d'attente "
+"{$queueName}"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.test.invalid.option"
+msgstr ""
+"Option du travail test invalide. L'option '--only=' ne peut prendre que les "
+"valeurs 'failed' ou 'success'."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.purge.invalid.id"
+msgstr "Identifiant du travail invalide"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.purge.successful"
+msgstr "Le travail a été supprimé!"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.purge.impossible.to.purge.empty"
+msgstr "Aucun travail à supprimer n'a été trouvé."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.purge.impossible.to.purge.all"
+msgstr "Impossible de supprimer tous les travaux."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.purge.successful.all"
+msgstr "Tous les travaux ont été supprimés!"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.failed.clear.successful"
+msgstr ""
+"{$jobsCount} travaux en échec supprimé(s) de la liste des travaux en échec."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.failed.redispatch.successful"
+msgstr "{$jobsCount} travaux redistribués dans la liste d'attente."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.total.failed.jobs"
+msgstr "Nous avons {$total} travaux en échec"
+
+msgid "admin.cli.tool.jobs.total.jobs"
+msgstr "Nous avons {$total} travaux dans la file d'attente"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.option.doesnt.exists"
+msgstr "L'option {$option} n'existe pas."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.mean.those"
+msgstr "Vouliez-vous dire l'un des éléments suivants ?"
+
+msgid "admin.jobs.totalCount"
+msgstr ""
+"Il y a un total de <strong>{$total}</strong> travaux dans la liste d'attente"
+
+#, fuzzy
+msgid "admin.jobs.failed.totalCount"
+msgstr "Il y a un total de <strong>{$total}</strong> travaux en échec."
+
+msgid "admin.jobs.viewQueuedJobs"
+msgstr "Voir les travaux dans la file d'attente"
+
+#, fuzzy
+msgid "navigation.tools.jobs"
+msgstr "Travaux"
+
+#, fuzzy
+msgid "navigation.tools.jobs.failed"
+msgstr "Travaux en échec"
+
+#, fuzzy
+msgid "navigation.tools.jobs.failed.details"
+msgstr "Détails des travaux en échec"
+
+msgid "navigation.tools.jobs.description"
+msgstr ""
+"Voir tous les travaux dans la file d'attente du système et suivre toutes les "
+"tentatives en échec."
+
+#, fuzzy
+msgid "navigation.tools.jobs.view"
+msgstr "Voir les travaux"
+
+#, fuzzy
+msgid "navigation.tools.jobs.failed.view"
+msgstr "Voir les travaux en échec"
+
+#, fuzzy
+msgid "navigation.tools.job.failed.details.view"
+msgstr "Voir le travail en échec :{$id} Détails"
+
+#, fuzzy
+msgid "admin.job.failed.list.attribute"
+msgstr "Attribut"
+
+#, fuzzy
+msgid "admin.job.failed.list.attribute.value"
+msgstr "Valeur de l'attribut"
+
+msgid "admin.jobs.list.id"
+msgstr "Identifiant"
+
+msgid "admin.jobs.list.displayName"
+msgstr "Travail"
+
+msgid "admin.jobs.list.queue"
+msgstr "Liste d'attente"
+
+msgid "admin.jobs.list.connection"
+msgstr "Connexion"
+
+msgid "admin.jobs.list.attempts"
+msgstr "Tentatives"
+
+#, fuzzy
+msgid "admin.jobs.list.createdAt"
+msgstr "Crée à"
+
+#, fuzzy
+msgid "admin.jobs.list.failedAt"
+msgstr "Échec à"
+
+#, fuzzy
+msgid "admin.jobs.list.payload"
+msgstr "Données utiles"
+
+#, fuzzy
+msgid "admin.jobs.list.exception"
+msgstr "Exception"
+
+#, fuzzy
+msgid "admin.jobs.list.actions"
+msgstr "Actions"
+
+#, fuzzy
+msgid "admin.jobs.failedAt"
+msgstr "A échoué à {$failedAt}"
+
+#, fuzzy
+msgid "admin.jobs.createdAt"
+msgstr "A été crée à {$createdAt}"
+
+#, fuzzy
+msgid "admin.jobs.failed.action.redispatch"
+msgstr "Réessayer"
+
+#, fuzzy
+msgid "admin.jobs.failed.action.redispatch.all"
+msgstr "Remettre en liste d'attente tous les travaux en échec"
+
+#, fuzzy
+msgid "admin.job.compileMetrics.returnToStaging.error"
+msgstr ""
+"Échec du travail qui charge données de statistique d'utilisation du fichier "
+"{$file}. Le fichier n'a pu être déplacé de {$archivedFilePath} à "
+"{$stagingPath}."
+
+#, fuzzy
+msgid "admin.job.compileMetrics.error"
+msgstr ""
+"Échec du travail qui charge données de statistique d'utilisation du fichier "
+"{$file}. Le fichier a été déplacé vers le répertoire de scène."
+
+#, fuzzy
+msgid "admin.settings.statistics.collection"
+msgstr "Collection de données"
+
+msgid "admin.settings.statistics.collection.description"
+msgstr "Configurez quel type de statistiques d'utilisation doit être collecté."
+
+#, fuzzy
+msgid "admin.settings.statistics.storage"
+msgstr "Stockage de données"
+
+#, fuzzy
+msgid "admin.settings.statistics.storage.description"
+msgstr ""
+"Configurez quelles statistiques d'utilisation doit être stockées sur le "
+"serveur."
+
+msgid "admin.settings.statistics.sushi"
+msgstr "Protocole Sushi"
+
+#, fuzzy
+msgid "admin.settings.statistics.sushi.description"
+msgstr ""
+"Configurer le <a href=\"https://www.projectcounter.org/counter-sushi/\""
+">COUNTER 5 SUSHI</a> protocole, un format normalisé pour la distribution de "
+"statistique d'utilisation."
+
+msgid "admin.settings.statistics.keepDaily"
+msgstr "Statistiques mensuelles ou quotidiennes"
+
+#, fuzzy
+msgid "admin.settings.statistics.keepDaily.description"
+msgstr ""
+"Suivre ou non les statistiques d'utilisation quotidiennes ou mensuelles. "
+"Suivre des statistiques quotidiennes peut accroitre considérablement la "
+"taille de la base de données."
+
+#, fuzzy
+msgid "admin.settings.statistics.keepDaily.keep"
+msgstr "Suivre les statistiques quotidiennes et mensuelles"
+
+#, fuzzy
+msgid "admin.settings.statistics.keepDaily.discard"
+msgstr "Ne suivre que les statistiques mensuelles"
+
+#, fuzzy
+msgid "admin.settings.statistics.compressStatsLogs.label"
+msgstr "Compresser les journaux"
+
+#, fuzzy
+msgid "admin.settings.statistics.compressStatsLogs.description"
+msgstr ""
+"Les statistiques sont générées à partir les fichiers de journaux qui sont "
+"déplacés vers <code>{$path}</code> un fois traités. Les fichiers de journaux "
+"doivent-il être compressés en fichier <code>.gz</code> une fois traités? "
+"Compresser les fichiers de journaux peut sauver de l'espace disque sur le "
+"serveur."
+
+#, fuzzy
+msgid "admin.settings.statistics.compressStatsLogs.default"
+msgstr "Laisser les fichiers de journaux à leur place"
+
+#, fuzzy
+msgid "admin.settings.statistics.compressStatsLogs.compress"
+msgstr "Compresser les fichiers de journaux"
+
+#, fuzzy
+msgid "admin.settings.statistics.publicSushiApi.private"
+msgstr ""
+"Restreindre l'accès à l'API des statistiques COUNTER SUSHI aux gestionnaires "
+"et administrateurs-trices"
+
+msgid "admin.settings.statistics.sushiPlatform"
+msgstr "Plateforme"
+
+#, fuzzy
+msgid "admin.settings.statistics.sushiPlatform.description"
+msgstr ""
+"Selon le COUNTER SUSHI protocole, tous les rapports statistiques doivent "
+"identifier la \"plateforme\" qui fournie les statistiques. Par défaut, la "
+"revue sera désignée comme plateforme pour les statistiques. Cependant, si "
+"toutes les revues sur ce site sont publiées, détenues ou gérées par le même "
+"fournisseur de service, vous pouvez désigner le site comme plateforme."
+
+#, fuzzy
+msgid "admin.settings.statistics.sushiPlatform.sushiPlatformID"
+msgstr "Identifiant de la plateforme"
+
+#, fuzzy
+msgid "admin.settings.statistics.sushiPlatform.sushiPlatformID.description"
+msgstr ""
+"Comment identifier cette plateforme dans les rapports COUNTER SUSHI. "
+"L'identifiant de la plateforme doit être de 17 caractères ou moins et peut "
+"contenir des lettres (a–z, A–Z), chiffres (0–9), tiret bas (_), point (.) et "
+"barres obliques (/). L'identifiant de la plateforme est utilisé dans "
+"différentes colonnes et doit être le plus cours possible tout en restant "
+"reconnaissable. L'identifiant de la plateforme est d'habitude basé sur le "
+"nom de l'éditeur ou plateforme, le nom de domaine ou une abréviation connue."
+
+#, fuzzy
+msgid "admin.settings.statistics.sushiPlatform.sushiPlatformID.required"
+msgstr ""
+"Un identifiant de plateforme est requis lorsque le site est identifié comme "
+"la plateforme SUSHI."
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.options.title"
+msgstr "option de commande work"
+
+msgid "admin.cli.tool.jobs.work.options.usage"
+msgstr "Utilisation : [--options1 --options2= ...]"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.options.description"
+msgstr "Options disponible pour la commande work"
+
+msgid "admin.cli.tool.jobs.work.option.connection.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.queue.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.name.description"
+msgstr ""
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.option.backoff.description"
+msgstr ""
+"Nombre de secondes à attendre avant de réessayer le travail qui a produit "
+"une exception non corrigée[default : '{$default}']"
+
+msgid "admin.cli.tool.jobs.work.option.memory.description"
+msgstr "Limite de la mémoire en mégabytes[default : '{$default}']"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.option.timeout.description"
+msgstr ""
+"Nombre de secondes que peut être exécuté un processus enfant[default : "
+"'{$default}']"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.option.sleep.description"
+msgstr ""
+"Nombre de secondes pour la mise en veille lorsqu'aucun travail n'est "
+"disponible[default : '{$default}']"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.option.tries.description"
+msgstr ""
+"Nombre de tentatives avant d'inscrire qu'un travail est en échec[default : "
+"'{$default}']"
+
+msgid "admin.cli.tool.jobs.work.option.force.description"
+msgstr ""
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.option.stopWhenEmpty.description"
+msgstr "Arrêter lorsque la liste d'attente est vide[default : {$default}]"
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.option.maxJobs.description"
+msgstr "Nombre de travaux à traiter avant d'arrêter[default : '{$default}']"
+
+msgid "admin.cli.tool.jobs.work.option.maxTime.description"
+msgstr ""
+
+#, fuzzy
+msgid "admin.cli.tool.jobs.work.option.rest.description"
+msgstr ""
+"Nombre de seconde à attendre entre chaque travail[default : '{$default}']"
+
+msgid "admin.cli.tool.jobs.work.option.test.description"
+msgstr ""

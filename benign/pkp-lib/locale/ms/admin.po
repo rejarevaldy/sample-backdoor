@@ -1,0 +1,860 @@
+# Studiorimau <studiorimau@gmail.com>, 2021.
+# Mohamad Shabilullah <shabilhamid91@gmail.com>, 2023.
+# Ahmad Irdha Mokhtar <airdham@icloud.com>, 2023.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-03 01:04+0000\n"
+"Last-Translator: Ahmad Irdha Mokhtar <airdham@icloud.com>\n"
+"Language-Team: Malay <http://translate.pkp.sfu.ca/projects/pkp-lib/admin/ms/>"
+"\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "admin.systemInfo.settingName"
+msgstr "Nama Tetapan"
+
+msgid "admin.systemInfo.settingValue"
+msgstr "Tetapan Nilai"
+
+msgid "admin.adminFunctions"
+msgstr "Fungsi Pentadbiran"
+
+msgid "admin.deleteCache"
+msgstr "Padamkan Cache"
+
+msgid "admin.deleteCache.description"
+msgstr ""
+"Padam fail cache daripada sistem. Ini hanya perlu dilakukan dalam "
+"persekitaran pembangunan."
+
+msgid "admin.clearDataCache"
+msgstr "Kosongkan Cache Data"
+
+msgid "admin.clearTemplateCache"
+msgstr "Kosongkan Cache Templat"
+
+msgid "admin.configFileUpdatedInstructions"
+msgstr ""
+"Fail konfigurasi anda telah berjaya dikemas kini. Sila ambil perhatian "
+"bahawa jika laman anda tidak lagi berfungsi dengan betul, anda mungkin perlu "
+"membetulkan konfigurasi anda secara manual dengan mengedit <tt>config.inc."
+"php</tt> secara langsung."
+
+msgid "admin.confirmClearTemplateCache"
+msgstr "Adakah anda pasti mahu mengosongkan cache templat yang disusun?"
+
+msgid "admin.confirmExpireSessions"
+msgstr ""
+"Adakah anda pasti mahu tamat tempoh semua sesi pengguna? Semua pengguna yang "
+"sedang log masuk ke sistem akan dipaksa untuk log masuk semula (termasuk "
+"anda sendiri)."
+
+msgid "admin.contentsOfConfigFile"
+msgstr "Kandungan fail konfigurasi"
+
+msgid "admin.contexts.confirmDelete"
+msgstr ""
+"Adakah anda pasti mahu memadam {$contextName} dan semua kandungannya secara "
+"kekal?"
+
+msgid "admin.currentVersion"
+msgstr "Versi terkini"
+
+msgid "admin.dateInstalled"
+msgstr "Tarikh dipasang"
+
+msgid "admin.displayConfigFileInstructions"
+msgstr ""
+"Kandungan konfigurasi anda yang dikemas kini dipaparkan di bawah. Untuk "
+"menggunakan perubahan konfigurasi anda mesti membuka <tt>config.inc.php</tt> "
+"dalam teks editor yang sesuai dan menggantikan kandungannya dengan kandungan "
+"medan teks di bawah."
+
+msgid "admin.displayNewSystemConfig"
+msgstr "Paparkan Konfigurasi Baharu"
+
+msgid "admin.expireSessions"
+msgstr "Tamat tempoh Sesi Pengguna"
+
+msgid "admin.expireSessions.description"
+msgstr ""
+"Semua pengguna akan segera log keluar daripada aplikasi, termasuk anda, dan "
+"perlu log masuk semula."
+
+msgid "admin.languages.cantDisable"
+msgstr ""
+"Bahasa/locale ini ialah bahasa utama laman. Anda tidak boleh "
+"menyahdayakannya sehingga anda memilih bahasa/locale utama yang lain."
+
+msgid "admin.languages.confirmSitePrimaryLocaleChange"
+msgstr ""
+"Adakah anda pasti mahu menukar bahasa/locale utama laman? Nama pengguna, "
+"yang diperlukan dalam bahasa/locale utama laman, akan disalin daripada "
+"bahasa utama sedia ada di mana mereka tiada."
+
+msgid "admin.languages.confirmReload"
+msgstr ""
+"Adakah anda pasti mahu memuatkan semula bahasa ini? Ini akan memadam "
+"sebarang data khusus bahasa yang sedia ada seperti templat e-mel custom."
+
+msgid "admin.languages.installedLocales"
+msgstr "Bahasa/Locales yang Dipasang"
+
+msgid "admin.languages.installLanguages"
+msgstr "Urus Bahasa/Locales"
+
+msgid "admin.languages.availableLocales"
+msgstr "Bahasa/Locales Tersedia"
+
+msgid "admin.languages.installLocale"
+msgstr "Pasang Bahasa/Locale"
+
+msgid "admin.languages.installLocales"
+msgstr "Pasang"
+
+msgid "admin.languages.installNewLocales"
+msgstr "Pasang Bahasa/Locales Baharu"
+
+msgid "admin.languages.languageSettings"
+msgstr "Tetapan bahasa"
+
+msgid "admin.languages.noLocalesAvailable"
+msgstr "Tiada bahasa/locales tambahan tersedia untuk pemasangan."
+
+msgid "admin.languages.reload"
+msgstr "Muat semula Bahasa/Locale"
+
+msgid "admin.languages.uninstall"
+msgstr "Nyahpasang Bahasa/Locale"
+
+msgid "admin.phpInfo"
+msgstr "Maklumat PHP Lanjutan"
+
+msgid "admin.scheduledTask"
+msgstr "Tugas yang dijadualkan"
+
+msgid "admin.scheduledTask.startTime"
+msgstr "Proses tugasan bermula."
+
+msgid "admin.scheduledTask.stopTime"
+msgstr "Proses tugas dihentikan."
+
+msgid "admin.scheduledTask.noLog"
+msgstr "Tugasan tidak menghasilkan log."
+
+msgid "admin.scheduledTask.depositDois"
+msgstr "Deposit DOI dengan agensi pendaftaran yang dikonfigurasikan"
+
+msgid "admin.scheduledTask.downloadLog"
+msgstr ""
+"Pemasangan {$softwareName} anda secara automatik dilaksanakan dan "
+"menyelesaikan tugasan ini dan anda boleh memuat turun fail log di sini: "
+"{$url}"
+
+msgid "admin.scheduledTask.editorialReminder"
+msgstr ""
+"Hantar e-mel kepada setiap editor untuk memperingatkan tentang tugasan mereka"
+
+msgid "admin.scheduledTask.editorialReminder.logStart"
+msgstr "Mengenal pasti editor untuk diingatkan dalam konteks {$contextId}"
+
+msgid "admin.scheduledTask.editorialReminder.logEnd"
+msgstr ""
+"Menghantar {$count} kerja untuk menghantar peringatan e-mel editorial kepada "
+"pengguna {$userIds} dalam konteks {$contextId}"
+
+msgid "admin.scheduledTask.confirmClearLogs"
+msgstr ""
+"Adakah anda pasti mahu memadam semua log pelaksanaan tugas yang dijadualkan?"
+
+msgid "admin.scheduledTask.clearLogs"
+msgstr "Kosongkan Log Pelaksanaan Tugasan Berjadual"
+
+msgid "admin.scheduledTask.clearLogs.description"
+msgstr "Hapuskan semua log proses tugas berjadual yang telah dijalankan."
+
+msgid "admin.scheduledTask.clearLogs.delete"
+msgstr "Hapus Log Tugas"
+
+msgid "admin.scheduledTask.publishSubmissions"
+msgstr "Terbitkan penyerahan yang dijadualkan untuk diterbitkan"
+
+msgid "admin.scheduledTask.reviewReminder"
+msgstr "Peringatan ulasan"
+
+msgid "admin.scheduledTask.statisticsReport"
+msgstr "Pemberitahuan Laporan Editorial"
+
+msgid "admin.scheduledTask.subscriptionExpiryReminder"
+msgstr "Peringatan tamat tempoh langganan"
+
+msgid "admin.scheduledTask.removeUnvalidatedExpiredUsers"
+msgstr "Menyingkirkan pengguna tamat tempoh yang tidak sah"
+
+msgid "admin.scheduledTask.removeFailedJobs"
+msgstr "Menyingkir tugasan gagal yang lebih lama dari senarai tugasan gagal."
+
+msgid "admin.scheduledTask.processQueueJobs"
+msgstr "Proses giliran kerja berbaki"
+
+msgid "admin.scheduledTask.updateGeoDB"
+msgstr "Kemas kini pangkalan data DB-IP city lite"
+
+msgid "admin.scheduledTask.updateGeoDB.fileRename.error"
+msgstr ""
+"Gagal menamakan semula fail pangkalan data DB-IP city lite {$sourceFilename} "
+"kepada {$targetFilename}."
+
+msgid "admin.scheduledTask.usageStatsLoader"
+msgstr "Tugasan pemuat fail statistik penggunaan"
+
+msgid "admin.scheduledTask.usageStatsLoader.processingPathNotEmpty"
+msgstr ""
+"Direktori {$directory} tidak kosong. Ini mungkin menunjukkan proses yang "
+"gagal sebelum ini, atau proses yang dijalankan secara serentak. Fail ini "
+"akan diproses semula secara automatik."
+
+msgid "admin.job.processLogFile.openFileFailed"
+msgstr "Fail {$file} tidak dapat dibuka dan telah ditolak."
+
+msgid "admin.scheduledTask.usageStatsLoader.veryOldLogFile"
+msgstr ""
+"Fail {$file} berada dalam format fail log lama yang tidak boleh diproses dan "
+"dengan itu akan dialihkan kembali ke direktori pentas."
+
+msgid "admin.scheduledTask.usageStatsLoader.monthExists"
+msgstr ""
+"Melangkau fail log {$file} kerana statistik dari bulan itu telah pun dikira. "
+"Untuk mengira semula statistik untuk bulan sebelumnya, anda mesti memulihkan "
+"semua fail log bulan itu dan menggunakan alat CLI untuk memproses semula "
+"statistik."
+
+msgid "admin.job.processLogFile.wrongLoglineFormat"
+msgstr ""
+"Baris {$line Number} dalam fail log {$file} adalah dalam format yang salah "
+"dan ia akan dilangkau."
+
+msgid "admin.job.processLogFile.invalidLogEntry"
+msgstr ""
+"Entri log tidak sah pada baris {$lineNumber} dalam fail log {$file}: {$error}"
+
+msgid "admin.job.processLogFile.invalidLogEntry.time"
+msgstr "Masa bukan tarikh yang sah."
+
+msgid "admin.job.processLogFile.invalidLogEntry.contextId"
+msgstr "ID konteks bukan angka bulat."
+
+msgid "admin.job.processLogFile.invalidLogEntry.submissionId"
+msgstr "ID serahan bukan angka bulat."
+
+msgid "admin.job.processLogFile.invalidLogEntry.representationId"
+msgstr "ID perwakilan bukan angka bulat."
+
+msgid "admin.job.processLogFile.invalidLogEntry.assocType"
+msgstr "Jenis gabungan tidak disokong."
+
+msgid "admin.job.processLogFile.invalidLogEntry.fileType"
+msgstr "Jenis fail tidak disokong."
+
+msgid "admin.job.processLogFile.invalidLogEntry.country"
+msgstr "Negara bukan rentetan dua aksara abjad."
+
+msgid "admin.job.processLogFile.invalidLogEntry.region"
+msgstr "Kawasan bukan rentetan panjang sehingga tiga aksara abjad angka."
+
+msgid "admin.job.processLogFile.invalidLogEntry.institutionIds"
+msgstr "ID institusi bukan tatasusunan."
+
+msgid "admin.job.processLogFile.insertError"
+msgstr ""
+"Ralat berlaku semasa memproses fail log {$file} pada baris {$line Number}: "
+"{$msg}"
+
+msgid "admin.scheduledTask.usageStatsLoader.jobDispatched"
+msgstr ""
+"Kerja latar belakang yang akan memproses fail log {$file} dan menyimpan data "
+"statistik telah dihantar."
+
+msgid "admin.server.apacheVersion"
+msgstr "versi Apache"
+
+msgid "admin.server.dbDriver"
+msgstr "Pemandu pangkalan data"
+
+msgid "admin.server.dbVersion"
+msgstr "Versi pelayan pangkalan data"
+
+msgid "admin.serverInformation"
+msgstr "Maklumat Pelayan"
+
+msgid "admin.server.phpVersion"
+msgstr "versi PHP"
+
+msgid "admin.server.platform"
+msgstr "platform OS"
+
+msgid "admin.settings"
+msgstr "Tetapan"
+
+msgid "admin.settings.about"
+msgstr "Mengenai Laman"
+
+msgid "admin.settings.enableBulkEmails.label"
+msgstr "E-mel Pukal"
+
+msgid "admin.settings.contactEmail"
+msgstr "E-mel kenalan utama"
+
+msgid "admin.settings.contactName"
+msgstr "Nama kenalan utama"
+
+msgid "admin.settings.introduction"
+msgstr "Pengenalan"
+
+msgid "admin.settings.minPasswordLength"
+msgstr "Panjang kata laluan minimum (aksara)"
+
+msgid "admin.settings.restrictBulkEmails"
+msgstr "Hadkan E-mel Pukal"
+
+msgid "admin.settings.disableBulkEmailRoles.label"
+msgstr "Nyahdayakan Peranan"
+
+msgid "admin.settings.disableBulkEmailRoles.adminOnly"
+msgstr "Hanya pentadbir dibenarkan mengubah suai tetapan ini."
+
+msgid "admin.settings.siteLanguage"
+msgstr "Bahasa laman"
+
+msgid "admin.settings.siteStyleSheetInvalid"
+msgstr "Format lembaran gaya laman tidak sah. Format yang diterima ialah .css."
+
+msgid "admin.settings.siteStyleSheet"
+msgstr "Lembaran gaya laman"
+
+msgid "admin.settings.siteLogo"
+msgstr "Logo Laman"
+
+msgid "admin.settings.siteTitle"
+msgstr "Nama Laman"
+
+msgid "admin.settings.siteTheme"
+msgstr "Tema Laman"
+
+msgid "admin.siteAdmin"
+msgstr "Pentadbir Laman"
+
+msgid "admin.siteManagement"
+msgstr "Pengurusan Laman"
+
+msgid "admin.siteSettings"
+msgstr "Tetapan Laman"
+
+msgid "admin.siteSetup"
+msgstr "Persediaan Laman"
+
+msgid "admin.systemConfigFileReadError"
+msgstr ""
+"Fail konfigurasi <tt>config.inc.php</tt> tidak wujud, tidak boleh dibaca "
+"atau tidak sah."
+
+msgid "admin.systemInformation"
+msgstr "Maklumat Sistem"
+
+msgid "admin.systemInformation.description"
+msgstr ""
+"Melihat maklumat tentang versi dan tetapan konfigurasi aplikasi dan pelayan."
+
+msgid "admin.systemInformation.view"
+msgstr "Melihat Maklumat Sistem"
+
+msgid "admin.versionBuild"
+msgstr "Bina"
+
+msgid "admin.version.checkForUpdates"
+msgstr "Semak kemas kini"
+
+msgid "admin.version.downloadPackage"
+msgstr "Muat turun"
+
+msgid "admin.version.downloadPatch"
+msgstr "Muat turun Patch"
+
+msgid "admin.versionHistory"
+msgstr "Sejarah versi"
+
+msgid "admin.version.latest"
+msgstr "Versi terkini"
+
+msgid "admin.versionMajor"
+msgstr "Major"
+
+msgid "admin.versionMinor"
+msgstr "Minor"
+
+msgid "admin.version.moreInfo"
+msgstr "Maklumat lanjut"
+
+msgid "admin.versionRevision"
+msgstr "Semakan"
+
+msgid "admin.version.updateAvailable"
+msgstr "Versi yang dikemas kini tersedia"
+
+msgid "admin.version.upToDate"
+msgstr "Sistem anda adalah terkini"
+
+msgid "admin.version"
+msgstr "Versi"
+
+msgid "admin.fileLoader.wrongBasePathLocation"
+msgstr "Laluan url {$path} mesti berada di dalam direktori fail awam."
+
+msgid "admin.fileLoader.pathNotAccessible"
+msgstr "Folder {$path} bukan direktori atau tidak boleh dibaca."
+
+msgid "admin.fileLoader.moveFileFailed"
+msgstr ""
+"Fail {$filename} tidak dapat dialihkan daripada {$currentFilePath} ke "
+"{$destinationPath}"
+
+msgid "admin.fileLoader.fileProcessed"
+msgstr "Fail {$filename} telah diproses dan diarkibkan."
+
+msgid "admin.fileLoader.emailSubject"
+msgstr "Pemuat fail"
+
+msgid "admin.error.gzDecompressFile.gzopen"
+msgstr ""
+"Fail tidak dapat dinyahmampat. Sumber gz-file {$filePath} tidak dapat dibuka "
+"dengan gzopen."
+
+msgid "admin.error.gzDecompressFile.fopen"
+msgstr ""
+"Fail tidak dapat dinyahmampat. Sumber gz-file {$filePath} tidak dapat dibuka "
+"dengan fopen."
+
+msgid "admin.error.gzDecompressFile.gzread"
+msgstr ""
+"Fail tidak dapat dinyahmampat. Sumber gz-file {$filePath} tidak dapat dibaca "
+"dengan gzread."
+
+msgid "admin.error.gzDecompressFile.fwrite"
+msgstr ""
+"Fail tidak dapat dinyahmampat. Sumber gz-file {$filePath} tidak dapat "
+"ditulis dengan fwrite."
+
+msgid "admin.error.gzDecompressFile.fclose"
+msgstr ""
+"Fail tidak dapat dinyahmampat. Sumber gz-file {$filePath} tidak dapat "
+"ditutup dengan fclose."
+
+msgid "admin.error.gzDecompressFile.gzclose"
+msgstr ""
+"Fail tidak dapat dinyahmampat. Sumber gz-file {$filePath} tidak dapat "
+"ditutup dengan gzclose."
+
+msgid "admin.error.gzDecompressFile.unlink"
+msgstr ""
+"Fail tidak dapat dinyahmampat. Sumber dinyahmampat gz-file {$filePath} tidak "
+"dapat dibuang dengan nyahpaut."
+
+msgid "admin.error.gzCompressFile.gzopen"
+msgstr ""
+"Fail tidak dapat dimampatkan. Destinasi gz-file {$filePath} tidak dapat "
+"dibuka dengan gzopen."
+
+msgid "admin.error.gzCompressFile.fopen"
+msgstr ""
+"Fail tidak dapat dimampatkan. Fail sumber {$filePath} tidak dapat dibuka "
+"dengan fopen."
+
+msgid "admin.error.gzCompressFile.fread"
+msgstr ""
+"Fail tidak dapat dimampatkan. Fail sumber {$filePath} tidak dapat dibaca "
+"dengan fread."
+
+msgid "admin.error.gzCompressFile.gzwrite"
+msgstr ""
+"Fail tidak dapat dimampatkan. Destinasi gz-file {$filePath} tidak dapat "
+"ditulis dengan gzwrite."
+
+msgid "admin.error.gzCompressFile.fclose"
+msgstr ""
+"Fail tidak dapat dimampatkan. Fail sumber terbuka {$filePath} tidak dapat "
+"ditutup dengan fclose."
+
+msgid "admin.error.gzCompressFile.gzclose"
+msgstr ""
+"Fail tidak dapat dimampatkan. Destinasi terbuka gz-file {$filePath} tidak "
+"dapat ditutup dengan gzclose."
+
+msgid "admin.error.gzCompressFile.unlink"
+msgstr ""
+"Fail tidak dapat dimampatkan. Fail sumber termampat {$filePath} tidak dapat "
+"dibuang dengan nyahpaut."
+
+msgid "admin.languages.noLocalesToDownload"
+msgstr "Tiada bahasa/locales yang tersedia untuk dimuat turun."
+
+msgid "admin.cli.tool.usage.title"
+msgstr "Penggunaan:"
+
+msgid "admin.cli.tool.usage.parameters"
+msgstr "arahan [argument]"
+
+msgid "admin.cli.tool.available.commands"
+msgstr "Arahan yang tersedia untuk ruang nama `{$namespace}`:"
+
+msgid "admin.cli.tool.jobs.maintenance.message"
+msgstr ""
+"Tidak dapat menjalankan kerja giliran kerana mod penyelenggaraan aplikasi "
+"didayakan."
+
+msgid "admin.cli.tool.jobs.available.options.list.description"
+msgstr ""
+"Senaraikan semua kerja giliran. Jika anda ingin menomborkan hasil, gunakan "
+"parameter --page= dan --perPage= . Bendera lulus --failed menyenaraikan "
+"kerja yang gagal."
+
+msgid "admin.cli.tool.jobs.available.options.purge.description"
+msgstr ""
+"Bersihkan kerja giliran tertentu berdasarkan ID nya. Jika anda ingin "
+"membersihkan semua, lulus parameter --all. Jika anda ingin membersihkan "
+"semua dari giliran tertentu, lulus parameter --queue="
+
+msgid "admin.cli.tool.jobs.available.options.test.description"
+msgstr ""
+"Tambahkan kerja ujian ke dalam giliran ujian. Gunakan parameter pilihan --"
+"only= dan lulus 'failed' atau 'succes' untuk menghantar kerja yang gagal "
+"atau berjaya."
+
+msgid "admin.cli.tool.jobs.available.options.work.description"
+msgstr ""
+"Jalankan proses pekerja daemon tanpa had yang akan terus memproses kerja. "
+"Gunakan bendera --help untuk melihat pilihan tersedia yang dikaitkan dengan "
+"arahan ini."
+
+msgid "admin.cli.tool.jobs.available.options.failed.description"
+msgstr ""
+"Senaraikan semua kerja yang gagal. Tetapkan parameter --queue=QUEUE_NAME dan "
+"--connection=CONNECTION_NAME untuk menapis senarai. Juga lulus parameter/"
+"bendera --redispatch dan --clear untuk menghantar semula kembali ke giliran "
+"atau mengosongkan semua/kerja tertentu yang gagal."
+
+msgid "admin.cli.tool.jobs.available.options.run.description"
+msgstr ""
+"Hantar kerja yang tersedia ke dalam giliran. Jika anda ingin menghantar "
+"kerja ke dalam giliran tertentu, lulus parameter --queue=QUEUE_NAME. Juga "
+"boleh lulus --test untuk menjalankan tugas ujian dan --once untuk "
+"menjalankan satu kerja pada satu masa"
+
+msgid "admin.cli.tool.jobs.available.options.run.completed.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.available.options.run.empty.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.available.options.total.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.available.options.help.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.available.options.usage.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.empty.option"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.failed.title"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.title"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.id"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.queue"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.connection"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.job.display.name"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.attempts"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.reserved.at"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.available.at"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.created.at"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.failed.at"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.queued.jobs.fields.exception"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.pagination"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.pagination.current"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.pagination.previous"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.pagination.next"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.purge.without.id"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.test.job.failed.dispatch.message"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.test.job.success.dispatch.message"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.test.invalid.option"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.purge.invalid.id"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.purge.successful"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.purge.impossible.to.purge.empty"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.purge.impossible.to.purge.all"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.purge.successful.all"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.failed.clear.successful"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.failed.redispatch.successful"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.total.failed.jobs"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.total.jobs"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.option.doesnt.exists"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.mean.those"
+msgstr ""
+
+msgid "admin.jobs.totalCount"
+msgstr ""
+
+msgid "admin.jobs.failed.totalCount"
+msgstr ""
+
+msgid "admin.jobs.viewQueuedJobs"
+msgstr ""
+
+msgid "navigation.tools.jobs"
+msgstr ""
+
+msgid "navigation.tools.jobs.failed"
+msgstr ""
+
+msgid "navigation.tools.jobs.failed.details"
+msgstr ""
+
+msgid "navigation.tools.jobs.description"
+msgstr ""
+
+msgid "navigation.tools.jobs.view"
+msgstr ""
+
+msgid "navigation.tools.jobs.failed.view"
+msgstr ""
+
+msgid "navigation.tools.job.failed.details.view"
+msgstr ""
+
+msgid "admin.job.failed.list.attribute"
+msgstr ""
+
+msgid "admin.job.failed.list.attribute.value"
+msgstr ""
+
+msgid "admin.jobs.list.id"
+msgstr ""
+
+msgid "admin.jobs.list.displayName"
+msgstr ""
+
+msgid "admin.jobs.list.queue"
+msgstr ""
+
+msgid "admin.jobs.list.connection"
+msgstr ""
+
+msgid "admin.jobs.list.attempts"
+msgstr ""
+
+msgid "admin.jobs.list.createdAt"
+msgstr ""
+
+msgid "admin.jobs.list.failedAt"
+msgstr ""
+
+msgid "admin.jobs.list.payload"
+msgstr ""
+
+msgid "admin.jobs.list.exception"
+msgstr ""
+
+msgid "admin.jobs.list.actions"
+msgstr ""
+
+msgid "admin.jobs.failedAt"
+msgstr ""
+
+msgid "admin.jobs.createdAt"
+msgstr ""
+
+msgid "admin.jobs.failed.action.redispatch"
+msgstr ""
+
+msgid "admin.jobs.failed.action.redispatch.all"
+msgstr ""
+
+msgid "admin.job.compileMetrics.returnToStaging.error"
+msgstr ""
+
+msgid "admin.job.compileMetrics.error"
+msgstr ""
+
+msgid "admin.settings.statistics.collection"
+msgstr ""
+
+msgid "admin.settings.statistics.collection.description"
+msgstr ""
+
+msgid "admin.settings.statistics.storage"
+msgstr ""
+
+msgid "admin.settings.statistics.storage.description"
+msgstr ""
+
+msgid "admin.settings.statistics.sushi"
+msgstr ""
+
+msgid "admin.settings.statistics.sushi.description"
+msgstr ""
+
+msgid "admin.settings.statistics.keepDaily"
+msgstr ""
+
+msgid "admin.settings.statistics.keepDaily.description"
+msgstr ""
+
+msgid "admin.settings.statistics.keepDaily.keep"
+msgstr ""
+
+msgid "admin.settings.statistics.keepDaily.discard"
+msgstr ""
+
+msgid "admin.settings.statistics.compressStatsLogs.label"
+msgstr ""
+
+msgid "admin.settings.statistics.compressStatsLogs.description"
+msgstr ""
+
+msgid "admin.settings.statistics.compressStatsLogs.default"
+msgstr ""
+
+msgid "admin.settings.statistics.compressStatsLogs.compress"
+msgstr ""
+
+msgid "admin.settings.statistics.publicSushiApi.private"
+msgstr ""
+
+msgid "admin.settings.statistics.sushiPlatform"
+msgstr ""
+
+msgid "admin.settings.statistics.sushiPlatform.description"
+msgstr ""
+
+msgid "admin.settings.statistics.sushiPlatform.sushiPlatformID"
+msgstr ""
+
+msgid "admin.settings.statistics.sushiPlatform.sushiPlatformID.description"
+msgstr ""
+
+msgid "admin.settings.statistics.sushiPlatform.sushiPlatformID.required"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.options.title"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.options.usage"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.options.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.connection.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.queue.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.name.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.backoff.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.memory.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.timeout.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.sleep.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.tries.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.force.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.stopWhenEmpty.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.maxJobs.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.maxTime.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.rest.description"
+msgstr ""
+
+msgid "admin.cli.tool.jobs.work.option.test.description"
+msgstr ""

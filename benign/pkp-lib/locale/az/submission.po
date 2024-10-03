@@ -1,0 +1,2574 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2022, 2023, 2024.
+# Gadirova <leylakb@yahoo.com>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-20 00:03+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"submission/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "submission.submissionFile"
+msgstr "Fayl"
+
+msgid "editor.submission.participant"
+msgstr "İştirakçı"
+
+msgid "editor.submission.addStageParticipant"
+msgstr "İştirakçı təyin edin"
+
+msgid "editor.submission.editStageParticipant"
+msgstr "Təyinatı tənzimləyin"
+
+msgid "editor.submission.removeStageParticipant"
+msgstr "İştirakçını çıxarın"
+
+msgid "editor.submission.decision"
+msgstr "Qərar"
+
+msgid "editor.submission.decision.accept"
+msgstr "Məqaləni qəbul edin"
+
+msgid "editor.submission.decision.requestRevisions"
+msgstr "Düzəliş tələb et"
+
+msgid "editor.submission.decision.resubmit.completed"
+msgstr ""
+
+msgid "editor.submission.recommend.completed"
+msgstr ""
+
+msgid "editor.submission.recommend.revisions"
+msgstr ""
+
+msgid "grid.action.editMetadata"
+msgstr "Üst datanı tənzimləyin"
+
+msgid "submission.copyrightStatement"
+msgstr "Müəllif hüququ (c) {$copyrightYear} {$copyrightHolder}"
+
+msgid "submission.license.cc.by4"
+msgstr "CC Attribution 4.0"
+
+msgid "submission.queries.submission"
+msgstr "İlkin dəyərləndirmə müzakirələri"
+
+msgid "submission.list.activity"
+msgstr "Fəaliyyət"
+
+msgid "publication.wordCount"
+msgstr "Sözlərin Sayı: {$count}/ {$limit}"
+
+msgid "submission.submit.submissionComplete"
+msgstr "Məqalə tamamlandı"
+
+msgid "submission.submit.genre.label"
+msgstr "Bu hansı növ fayldı?"
+
+msgid "submission.submit.removeConfirm"
+msgstr "Bu faylı silmək istədiyinizə əminsiniz?"
+
+msgid "submission.submit.whatNext.forNow"
+msgstr "Hələlik aşağıdakıları edə bilərsiniz:"
+
+msgid "submission.submit.whatNext.review"
+msgstr "Bu məqaləni incələyin"
+
+msgid "submission.submit.whatNext.create"
+msgstr "Yeni bir məqalə yaradın"
+
+msgid "submission.submit.whatNext.return"
+msgstr "Göstərici panelinə qayıdın"
+
+msgid "submission.submit.extendedMetadata"
+msgstr "Genişləndirilmiş meta data"
+
+msgid "metadata.filters.crossref.settings.email.displayName"
+msgstr "Crossref Qeydiyyat emaili"
+
+msgid "metadata.filters.isbndb.settings.apiKey.displayName"
+msgstr "ISBNdb API açarı"
+
+msgid "metadata.filters.pubmed.settings.email.displayName"
+msgstr "PubMed Qeydiyyat emaili"
+
+msgid "metadata.filters.worldcat.settings.apiKey.displayName"
+msgstr "Worldcat API açarı"
+
+msgid "metadata.filters.paracite.settings.citationModule.displayName"
+msgstr "İstinad modulu"
+
+msgid "metadata.property.displayName.author"
+msgstr "müəlliflər"
+
+msgid "metadata.property.displayName.editor"
+msgstr "Redaktor"
+
+msgid "metadata.property.displayName.article-title"
+msgstr "Məqalə adı"
+
+msgid "metadata.property.displayName.source"
+msgstr "Nəşr başlığı"
+
+msgid "metadata.property.displayName.date"
+msgstr "Nəşr tarixi"
+
+msgid "metadata.property.displayName.access-date"
+msgstr "Giriş tarixi"
+
+msgid "metadata.property.displayName.issue"
+msgstr "Nömrə"
+
+msgid "metadata.property.displayName.volume"
+msgstr "Cild"
+
+msgid "metadata.property.displayName.season"
+msgstr "Mövsüm"
+
+msgid "metadata.property.displayName.chapter-title"
+msgstr "Fəsil başlığı"
+
+msgid "metadata.property.displayName.edition"
+msgstr "Nəşr/tiraj"
+
+msgid "metadata.property.displayName.series"
+msgstr "Seriya"
+
+msgid "metadata.property.displayName.supplement"
+msgstr "Əlavə"
+
+msgid "metadata.property.displayName.conf-date"
+msgstr "Konfrans tarixi"
+
+msgid "metadata.property.displayName.conf-loc"
+msgstr "Konfrans yeri"
+
+msgid "metadata.property.displayName.conf-name"
+msgstr "Konfransın adı"
+
+msgid "metadata.property.displayName.conf-sponsor"
+msgstr "Konfrans sponsoru"
+
+msgid "metadata.property.displayName.institution"
+msgstr "Qurum"
+
+msgid "metadata.property.displayName.fpage"
+msgstr "İlk səhifə"
+
+msgid "metadata.property.displayName.lpage"
+msgstr "Son səhifə"
+
+msgid "metadata.property.displayName.size"
+msgstr "Səhifə sayı"
+
+msgid "metadata.property.displayName.publisher-loc"
+msgstr "Nəşr yeri"
+
+msgid "metadata.property.displayName.publisher-name"
+msgstr "Naşir adı"
+
+msgid "metadata.property.displayName.isbn"
+msgstr "ISBN"
+
+msgid "metadata.property.displayName.issn"
+msgstr "Çaplı ISSN"
+
+msgid "metadata.property.displayName.eissn"
+msgstr "e-ISSN"
+
+msgid "metadata.property.displayName.doi"
+msgstr "DOI"
+
+msgid "metadata.property.displayName.publisher-id"
+msgstr "Şəxsi naşir nömrəsi (ID)"
+
+msgid "metadata.property.displayName.coden"
+msgstr "CODEN"
+
+msgid "metadata.property.displayName.sici"
+msgstr "SICI"
+
+msgid "metadata.property.displayName.pmid"
+msgstr "PMID"
+
+msgid "metadata.property.displayName.uri"
+msgstr "Yayım linki"
+
+msgid "metadata.property.displayName.comment"
+msgstr "Şərh"
+
+msgid "metadata.property.displayName.annotation"
+msgstr "Açıqlama"
+
+msgid "metadata.property.displayName.publication-type"
+msgstr "Yayım növü"
+
+msgid "metadata.property.displayName.title-type"
+msgstr "Başlıq növü"
+
+msgid "metadata.property.displayName.nonSort"
+msgstr "Sıralama zamanı başlığın bir hissəsi nəzərə alınmadı"
+
+msgid "metadata.property.displayName.title"
+msgstr "Başlıq"
+
+msgid "metadata.property.displayName.subTitle"
+msgstr "Alt başlıq"
+
+msgid "metadata.property.displayName.partNumber"
+msgstr "Bölmə nömrəsi"
+
+msgid "metadata.property.displayName.partName"
+msgstr "bölmə adı"
+
+msgid "metadata.property.displayName.name-type"
+msgstr "Ad növü"
+
+msgid "metadata.property.displayName.abstract"
+msgstr "Xülasə"
+
+msgid "common.queue.long.submissionsUnassigned"
+msgstr "Təyin edilməyib"
+
+msgid "common.queue.long.myAssigned"
+msgstr "Təyinatlarım"
+
+msgid "common.queue.long.submissionsArchived"
+msgstr "Arxivləşdirilmiş Məqalələr"
+
+msgid "submission.authors"
+msgstr "müəlliflər"
+
+msgid "submission.authorBiography"
+msgstr "Müəllif bioqrafiyası"
+
+msgid "submission.authorBiographies"
+msgstr "Müəllif bioqrafiyaları"
+
+msgid "submission.authorWithAffiliation"
+msgstr "{$name}, {$affiliation}"
+
+msgid "submission.representationOfTitle"
+msgstr "{$title} / {$representation}"
+
+msgid "submission.mySubmissions"
+msgstr "Yazılarım"
+
+msgid "submission.addFile"
+msgstr "Faylı yükləyin"
+
+msgid "submission.additionalFiles"
+msgstr "Əlavə fayllar"
+
+msgid "submission.agencies"
+msgstr "Vasitəçilər"
+
+msgid "submission.abstractViews"
+msgstr "Xülasə baxışları"
+
+msgid "submission.accepted"
+msgstr "Qəbul edildi"
+
+msgid "submission.acknowledge"
+msgstr "Təsdiqləmə"
+
+msgid "submission.ask"
+msgstr "İstək"
+
+msgid "submission.attachedFile"
+msgstr "Əlavə edilmiş fayl"
+
+msgid "submission.backToSubmissionEditing"
+msgstr "Məqalə Tənzimləməyə Qayıdın"
+
+msgid "submission.changeComments"
+msgstr "ilə dəyişdirin"
+
+msgid "submission.changeFile"
+msgstr "Faylı dəyişdirin"
+
+msgid "submission.citations"
+msgstr "Referanslar"
+
+msgid "submission.parsedCitations"
+msgstr "Çıxarılan referanslar"
+
+msgid "submission.parsedCitations.DOI"
+msgstr "DOI"
+
+msgid "submission.parsedAndSaveCitations"
+msgstr "Çıxarılan və yadda saxlanılan referanslar"
+
+msgid "submission.comments.addComment"
+msgstr "Şərh əlavə edin"
+
+msgid "submission.comments.comments"
+msgstr "Şərhlər"
+
+msgid "submission.comments.confirmDelete"
+msgstr "Bu şərhi silmək istədiyinizdən əminsinizmi?"
+
+msgid "submission.comments.corrections"
+msgstr "Düzəlişlər"
+
+msgid "submission.comments.editComment"
+msgstr "Şərh redaktəsi"
+
+msgid "submission.comments.importPeerReviews"
+msgstr "rəyçi dəyərləndirmələrini götürün"
+
+msgid "submission.comments.addReviews"
+msgstr "Dəyərləndirmələri emailə əlavə edin"
+
+msgid "submission.comments.importPeerReviews.reviewerLetter"
+msgstr "rəyçi {$reviewerLetter}"
+
+msgid "submission.comments.noComments"
+msgstr "Şərhsiz"
+
+msgid "submission.comments.noReviews"
+msgstr "Dəyərləndirmə yoxdur"
+
+msgid "submission.comments.review"
+msgstr "Dəyərləndirmə"
+
+msgid "submission.comments.sendDecisionToReviewers"
+msgstr "Redaktor qərarını rəyçilərə Göndər"
+
+msgid "submission.comments.subject"
+msgstr "Mövzu"
+
+msgid "submission.complete"
+msgstr "Tamam"
+
+msgid "submission.contributors"
+msgstr "Töhfə edənlərin siyahısı"
+
+msgid "submission.copyedited"
+msgstr "Səhifə redaktəsi"
+
+msgid "submission.copyediting"
+msgstr "Kopya redaktə etmə"
+
+msgid "submission.queryNoteFiles"
+msgstr "Müzakirə faylları"
+
+msgid "submission.coverage"
+msgstr "Əhatə dairəsi məlumatı"
+
+msgid "submission.done"
+msgstr "Tamamlandı"
+
+msgid "submission.downloads"
+msgstr "Endirin"
+
+msgid "submission.dueDate"
+msgstr "Axırıncı gün"
+
+msgid "submission.due"
+msgstr "Son tarix"
+
+msgid "submission.editing"
+msgstr "Redaktə etmə"
+
+msgid "submission.editMetadata"
+msgstr "Üst datanı redaktə edin"
+
+msgid "submission.editorial"
+msgstr "Kopya redaktə etmə"
+
+msgid "submission.email.backToEmailLog"
+msgstr "Elektron poçt gündəliyini qayıdın"
+
+msgid "submission.email.confirmClearLog"
+msgstr "Bu müraciət üçün email gündəliyini silmək istədiyinizdən əminsinizmi?"
+
+msgid "submission.email.confirmDeleteLogEntry"
+msgstr "Bu email gündəliyi girişini silmək istədiyinizdən əminsinizmi?"
+
+msgid "submission.email.deleteLogEntry"
+msgstr "Gündəlik girişini silin"
+
+msgid "submission.emailLog"
+msgstr "Elektron poçt qeydiyyatları"
+
+msgid "submission.event.backToEventLog"
+msgstr "Tədbir gündəliyinə qayıdın"
+
+msgid "submission.event.confirmClearLog"
+msgstr "Bu müraciət üçün tədbir gündəliyini silmək istədiyinizdən əminsinizmi?"
+
+msgid "submission.event.confirmDeleteLogEntry"
+msgstr "Bu tədbir gündəliyi girişini silmək istədiyinizdən əminsinizmi?"
+
+msgid "submission.event.deleteLogEntry"
+msgstr "Gündəlik girişi silin"
+
+msgid "submission.event.general.metadataUpdated"
+msgstr "Məqalə üst datası yeniləndi"
+
+msgid "submission.event.general.suppFileUpdated"
+msgstr "Məqalə faylı yeniləndi"
+
+msgid "submission.event.reviewer.reviewAcceptedByProxy"
+msgstr "Dəyərləndirmə təyinatı vəkil (proxy) tərəfindən qəbul edildi."
+
+msgid "submission.event.reviewer.reviewAccepted"
+msgstr "Dəyərləndirmə təyinatı qəbul edildi"
+
+msgid "submission.event.reviewer.reviewDeclined"
+msgstr "Dəyərləndirmə təyinatı rədd edildi"
+
+msgid "submission.event.reviewer.reviewDueDate"
+msgstr "Dəyərləndirmə son tarixi dəyişdirildi"
+
+msgid "submission.event.reviewer.reviewerAssigned"
+msgstr "Məqalə üçün rəyçi təyin edildi"
+
+msgid "submission.event.reviewer.reviewerRated"
+msgstr "rəyçi dəyərləndirmə məlumatı yadda saxlandı"
+
+msgid "submission.event.reviewer.reviewerUnassigned"
+msgstr "rəyçi dəyərləndirmə vəzifəsindən azad edildi"
+
+msgid "submission.event.reviewer.reviewFile"
+msgstr "Dəyərləndirmə faylı yeniləndi"
+
+msgid "submission.event.reviewer.reviewInitiated"
+msgstr "Dəyərləndirmə tapşırığı başladı"
+
+msgid "submission.event.reviewer.reviewRecommendation"
+msgstr "rəyçi təklif faylı"
+
+msgid "submission.event.reviewer.reviewReinitiated"
+msgstr "Dəyərləndirmə tapşırığı yenidən verildi"
+
+msgid "submission.event.reviewer.reviewResubmitted"
+msgstr "Dəyərləndirmə yenidən göndərildi"
+
+msgid "submission.event.reviewer.reviewRevision"
+msgstr "rəyçi yenidən baxış faylları yeniləndi"
+
+msgid "submission.event.subjectPrefix"
+msgstr "Bir email göndərildi:"
+
+msgid "submission.event.viewEmail"
+msgstr "Elektron poçta baxın"
+
+msgid "submission.files"
+msgstr "Fayllar"
+
+msgid "submission.files.downloadAll"
+msgstr "Bütün faylları endirin"
+
+msgid "submission.galley"
+msgstr "Dizgi"
+
+msgid "submission.history.clearLog"
+msgstr "Gündəliyi təmizləyin"
+
+msgid "submission.history"
+msgstr "Keçmiş"
+
+msgid "submission.history.recentLogEntries"
+msgstr "Yeni girişlər"
+
+msgid "submission.history.submissionEmailLog"
+msgstr "Email gündəliyi"
+
+msgid "submission.history.submissionEventLog"
+msgstr "Fəaliyyət gündəliyi"
+
+msgid "submission.history.submissionNotes"
+msgstr "Müraciət qeydləri"
+
+msgid "submission.history.viewLog"
+msgstr "Gündəliyi göstərin"
+
+msgid "submission.howToCite"
+msgstr "Necə istinad edilir"
+
+msgid "submission.howToCite.citationFormats"
+msgstr "Daha çox istinad formatı"
+
+msgid "submission.howToCite.downloadCitation"
+msgstr "İstinad endirin"
+
+msgid "submission.initiated"
+msgstr "Başladılıb"
+
+msgid "submission.updatedOn"
+msgstr "{$datePublished} — {$dateUpdated} tarixində yeniləndi"
+
+msgid "submission.versions"
+msgstr "Versiya"
+
+msgid "submission.versionIdentity"
+msgstr "{$datePublished} ({$version})"
+
+msgid "submission.identifiers"
+msgstr "Tərif edicilər"
+
+msgid "submission.publisherId"
+msgstr "Naşir ID-si"
+
+msgid "submission.publisherId.enable"
+msgstr "{$objects} üçün aktivləşdirin"
+
+msgid "submission.informationCenter.submissionInfo"
+msgstr "Məqalə məlumatı"
+
+msgid "submission.informationCenter.metadata"
+msgstr "Üst data"
+
+msgid "submission.informationCenter.notes"
+msgstr "Qeydlər"
+
+msgid "submission.informationCenter.history"
+msgstr "Keçmiş"
+
+msgid "submission.informationCenter.history.allEvents"
+msgstr "Əvvəlki versiya fəaliyyətlərini göstərin"
+
+msgid "submission.stageParticipants.notify"
+msgstr "Bildirin/xəbərdar edin"
+
+msgid "submission.lastModified"
+msgstr "Son dəyişiklik"
+
+msgid "submission.layout.addGalley"
+msgstr "Tərtibat dizgisi əlavə edin"
+
+msgid "submission.layout.confirmDeleteGalley"
+msgstr "Bu dizgini tamamilə silmək istədiyinizdən əminsinizmi?"
+
+msgid "submission.layout.confirmDeleteGalleyImage"
+msgstr "Bu şəkli dizgidən çıxarmaq istədiyinizə əminsinizmi?"
+
+msgid "submission.layout.editGalley"
+msgstr "Tərtibat dizgisini redaktə edin"
+
+msgid "submission.layout.galleyFormat"
+msgstr "dizayn formatı"
+
+msgid "submission.layout.galleyHTMLData"
+msgstr "HTML dizayn faylları"
+
+msgid "submission.layout.galleyImages"
+msgstr "Şəkillər"
+
+msgid "submission.layout.galleyLabel"
+msgstr "Etiket"
+
+msgid "submission.layout.galleyRemoteURL"
+msgstr "Uzaq url"
+
+msgid "submission.layout.galleyNoImages"
+msgstr "Şəkil yoxdur"
+
+msgid "submission.layout.galleys"
+msgstr "Stringlər"
+
+msgid "submission.layout.galleyStylesheet"
+msgstr "Stil səhifə faylı"
+
+msgid "submission.layout.galleyStyle"
+msgstr "Stil"
+
+msgid "submission.layout.initialGalleyCreation"
+msgstr "Başlanğıc strinq"
+
+msgid "submission.layout.layoutFile"
+msgstr "Tərtibat faylı"
+
+msgid "submission.layout"
+msgstr "Tərtibat"
+
+msgid "submission.layout.layoutVersion"
+msgstr "Tərtibat versiyası"
+
+msgid "submission.layout.newGalley"
+msgstr "Yeni bir dizayn formalaşdırın"
+
+msgid "submission.layout.viewingGalley"
+msgstr "Müraciət dizgisinə baxma"
+
+msgid "submission.layout.viewProof"
+msgstr "Dizgini gör"
+
+msgid "submission.metadata"
+msgstr "Müraciət üst datası"
+
+msgid "submission.noReviewAssignments"
+msgstr "Dəyərləndirmə vəzifəsi yoxdur"
+
+msgid "submission.notes.addNewNote"
+msgstr "Yeni qeyd əlavə edin"
+
+msgid "submission.notes.attachedFile"
+msgstr "Fayl əlavəsi/qoşması"
+
+msgid "submission.notes.backToSubmissionNotes"
+msgstr "Məqalə qeydlərinə geri qayıdın"
+
+msgid "submission.notes.breadcrumb"
+msgstr "Qeydlər"
+
+msgid "submission.notes.clearAllNotes"
+msgstr "Bütün qeydləri silin"
+
+msgid "submission.notes.collapseNotes"
+msgstr "Qeydləri payla"
+
+msgid "submission.notes.confirmDeleteAll"
+msgstr "Bütün Məqalə qeydləri silinsinmi?"
+
+msgid "submission.notes.confirmDelete"
+msgstr "Bu Məqalə qeydi silinsinmi?"
+
+msgid "submission.notes.createNewNote"
+msgstr "Yeni qeyd formalaşdırın"
+
+msgid "submission.notes.deleteNote"
+msgstr "Qeydi silin"
+
+msgid "submission.notes.editNote"
+msgstr "Qeydi redaktə edin"
+
+msgid "submission.notes.expandNotes"
+msgstr "Qeydləri açın"
+
+msgid "submission.notes.noSubmissionNotes"
+msgstr "Məqalə qeydi yoxdur"
+
+msgid "submission.notes.removeUploadedFile"
+msgstr "Yüklənmiş faylı çıxarın"
+
+msgid "submission.notes"
+msgstr "Məqalə qeydləri"
+
+msgid "submission.notes.updateNote"
+msgstr "Qeydi güncəllə"
+
+msgid "submission.notes.viewNotes"
+msgstr "Qeydlərə bax"
+
+msgid "submission.originalFile"
+msgstr "Orijinal fayl"
+
+msgid "submission.page.editing"
+msgstr "#{$id} Düzəltmə"
+
+msgid "submission.page.history"
+msgstr "#{$id} Arxiv"
+
+msgid "submission.page.review"
+msgstr "#{$id} Dəyərləndirmə"
+
+msgid "submission.page.summary"
+msgstr "#{$id} Xülasə"
+
+msgid "submission.page.citations"
+msgstr "#{$id} İstinadlar"
+
+msgid "submission.peerReview"
+msgstr "Rəyçi dəyərləndirməsi"
+
+msgid "submission.production"
+msgstr "Çap"
+
+msgid "submission.recommendation"
+msgstr "Rəyçinin qərarı: {$recommendation}"
+
+msgid "submission.rejected"
+msgstr "Rədd edildi"
+
+msgid "submission.request"
+msgstr "İstək"
+
+msgid "submission.response"
+msgstr "Cavab"
+
+msgid "submission.restrictions"
+msgstr "Məhdudiyyətlər"
+
+msgid "submission.reviewMetadata"
+msgstr "Üst datanı nizamla"
+
+msgid "submission.review"
+msgstr "Dəyərləndirmə"
+
+msgid "submission.reviewed"
+msgstr "Dəyərləndirildi"
+
+msgid "submission.reviewVersion"
+msgstr "Dəyərləndirmə versiyası"
+
+msgid "submission.rights"
+msgstr "Haqqlar"
+
+msgid "submissions.active"
+msgstr "Aktiv"
+
+msgid "submissions.archived"
+msgstr "Arxivdə"
+
+msgid "submission.saveMetadata"
+msgstr "Üst datanı yadda saxlayın"
+
+msgid "submissions.completed"
+msgstr "Tamamlanmış"
+
+msgid "submissions.declined"
+msgstr "Rədd edilmiş"
+
+msgid "submissions.incomplete"
+msgstr "Bitməmiş"
+
+msgid "submissions.noSubmissions"
+msgstr "Məqalə yoxdur"
+
+msgid "submissions.queuedEditing"
+msgstr "Nəşr dizaynında"
+
+msgid "submissions.queued"
+msgstr "Növbədə"
+
+msgid "submissions.ruling"
+msgstr "Qaydalar"
+
+msgid "submission.source"
+msgstr "Mənbə"
+
+msgid "submissions.submit"
+msgstr "Məqalə"
+
+msgid "submissions.submitted"
+msgstr "Göndərildi"
+
+msgid "submission.submission"
+msgstr "Məqalə"
+
+msgid "submission.submissionTitle"
+msgstr "Məqalə başlığı"
+
+msgid "submission.start"
+msgstr "Başla"
+
+msgid "submission.submissionHistory"
+msgstr "Müraciət tarixçəsi"
+
+msgid "submission.submissionManuscript"
+msgstr "Məqalə tərtibatı"
+
+msgid "submission.submissionReview"
+msgstr "Məqalə dəyərləndirmə"
+
+msgid "submission.submitter"
+msgstr "Göndərən"
+
+msgid "submission.submit.selectFile"
+msgstr "Fayl seçin"
+
+msgid "submission.submit.fileInformation"
+msgstr "Fayl məlumatı"
+
+msgid "submission.submit.fileAdded"
+msgstr "Fayl əlavə edildi"
+
+msgid "submission.submit.includeInBrowse.title"
+msgstr "Nəşr siyahıları"
+
+msgid "submission.submit.newFile"
+msgstr "Başqa bir fayl əlavə edin"
+
+msgid "submission.submit.metadataForm"
+msgstr "Əlavə təkmilləşdirmələr"
+
+msgid "submission.submit.submissionLocale"
+msgstr "Məqalə dili"
+
+msgid "submission.submit.submissionFiles"
+msgstr "Məqalə faylları"
+
+msgid "submission.submit.dependentFiles"
+msgstr "Asılı sənədlər"
+
+msgid "submission.manageDependentFiles"
+msgstr "Asılı sənədləri idarə edin"
+
+msgid "submission.upload.percentComplete"
+msgstr "{$percent}% yüklənir"
+
+msgid "submission.upload.dependent"
+msgstr "Asılı bir fayl yükləyin"
+
+msgid "submission.upload.query"
+msgstr "Müzakirə faylı yükləyin"
+
+msgid "submission.summary"
+msgstr "Xülasə"
+
+msgid "submission.supportingAgencies"
+msgstr "Dəstəkləyən qurumlar"
+
+msgid "submission.currentAgencies"
+msgstr "Güncəl qurumlar"
+
+msgid "submission.indexingInformation"
+msgstr "İndeksləmə məlumatı"
+
+msgid "submission.titleAndAbstract"
+msgstr "Başlıq və xülasə"
+
+msgid "submission.underway"
+msgstr "Yolunda / davam edir"
+
+msgid "submission.uploadFileTo"
+msgstr "Fayl yükləmə"
+
+msgid "submission.createRemote"
+msgstr "Uzaq giriş yaratmaq"
+
+msgid "submission.viewMetadata"
+msgstr "Üst dataya baxın"
+
+msgid "submission.views"
+msgstr "Rəylər"
+
+msgid "submission.artworkFileDetails"
+msgstr "Rəsm fayl detalı"
+
+msgid "submission.fileDetails"
+msgstr "Fayl təfərrüatları"
+
+msgid "submission.date.yyyymmdd"
+msgstr "Yyyy-aa-gg"
+
+msgid "submission.submit.contributorRole"
+msgstr "Töhfə verənin rolu"
+
+msgid "submission.submit.addAuthor"
+msgstr "Töhfə verən əlavə edin"
+
+msgid "submission.form.name"
+msgstr "Bu fayla bir ad verin"
+
+msgid "submission.form.replaceExisting"
+msgstr "Mövcud fayl dəyişdirilsinmi?"
+
+msgid "workflow.review.internalReview"
+msgstr "Daxili dəyərləndirmə"
+
+msgid "workflow.stage.any"
+msgstr "Hər hansı bir addım"
+
+msgid "workflow.stage"
+msgstr "Addım/mərhələ"
+
+msgid "submission.status.editorial"
+msgstr "Kopya redaktədə"
+
+msgid "submission.status.production"
+msgstr "Düzəlişdə"
+
+msgid "submission.status.review"
+msgstr "Dəyərləndirmədə"
+
+msgid "submission.status.submission"
+msgstr "Redaktor qərarı gözlənilir"
+
+msgid "submission.status.unassigned"
+msgstr "Təyin edilməyən"
+
+msgid "submission.status.declined"
+msgstr "Rədd edilmiş"
+
+msgid "submission.status.published"
+msgstr "Nəşr edilən"
+
+msgid "submission.submit.uploadStep"
+msgstr "1. Faylı yükləyin"
+
+msgid "submission.submit.uploadSubmissionFile"
+msgstr "Məqalə faylını yükləyin"
+
+msgid "submission.submit.metadataStep"
+msgstr "2. Dəyərləndirmə detalları"
+
+msgid "submission.submit.finishingUpStep"
+msgstr "3. Təsdiqləyin"
+
+msgid "submission.submit.fileNameRequired"
+msgstr "Bu fayl üçün bir fayl adı daxil etməlisiniz."
+
+msgid "submission.upload.noGenre"
+msgstr "Yarımçıq və ya etibarsız komponent!"
+
+msgid "submission.upload.invalidUserGroup"
+msgstr "Yarımçıq və ya etibarsız istifadəçi qrupu"
+
+msgid "submission.upload.possibleRevision"
+msgstr "Mümkün Çoxaltma və ya yenidən baxış aşkarlandı"
+
+msgid "submission.upload.uploadNewFile"
+msgstr "Bu mövcud bir faylın yenidən baxışı deyil"
+
+msgid "submission.upload.uploadLibraryFile"
+msgstr "Kitabxana faylı yükləyin"
+
+msgid "submission.upload.libraryCategory"
+msgstr "Müraciət sənəd katoqoriyası"
+
+msgid "submission.upload.finalDraft"
+msgstr "Fayl yükləyin"
+
+msgid "submission.upload.copyeditedVersion"
+msgstr "Hazırlanmış surət faylı yükləyin"
+
+msgid "submission.upload.uploadFiles"
+msgstr "Faylları yükləyin"
+
+msgid "submission.upload.productionReady"
+msgstr "Çapa hazır bir fayl yükləyin"
+
+msgid "submission.upload.proof"
+msgstr "Nəşrə hazır bir fayl yükləyin"
+
+msgid "editor.submission.stageParticipants"
+msgstr "İştirakçılar"
+
+msgid "editor.submission.noneAssigned"
+msgstr "Heç biri təyin olunmayıb"
+
+msgid "editor.submission.removePermissionToEdit"
+msgstr "Üst data redaktə etməni rədd edin"
+
+msgid "editor.submission.addPermissionToEdit"
+msgstr "Üst dataları redaktəyə icazə verin"
+
+msgid "editor.submission.removePermissionToEditDescription"
+msgstr ""
+"Bu məqalədəki müəlliflərin məqalə üst datalarını o mərhələdə redaktə etməmək "
+"istədiyinizdən əminsinizmi?"
+
+msgid "editor.submission.addPermissionToEditDescription"
+msgstr ""
+"Bu məqalədəki müəlliflərin məqalə üst datalarını o mərhələdə redaktə etmək "
+"istədiyinizdən əminsinizmi?"
+
+msgid "editor.submission.decision.notifyAuthors"
+msgstr "Müəlliflərə məlumat verin."
+
+msgid "editor.submission.decision.notifyReviewers"
+msgstr "Rəyçilərə məlumat verin."
+
+msgid "editor.submission.decision.accept.completed"
+msgstr "Namizəd məqalə qəbul edildi"
+
+msgid "editor.submission.decision.decline.completed"
+msgstr "Məqalə rədd edildi"
+
+msgid "editor.submission.decision.newReviewRound"
+msgstr "Yeni dəyərləndirmə turu"
+
+msgid "editor.submission.decision.newReviewRound.completed"
+msgstr ""
+
+msgid "editor.submission.decision.requestRevisions.completed"
+msgstr ""
+
+msgid "editor.submission.decision.sendExternalReview"
+msgstr ""
+
+msgid "editor.submission.decision.sendExternalReview.completed"
+msgstr ""
+
+msgid "editor.submission.decision.newRound"
+msgstr "Yeni dəyərləndirmə turu"
+
+msgid "editor.submission.decision.sendToProduction"
+msgstr "Çapa Göndər"
+
+msgid "editor.submission.decision.sendToProduction.completed"
+msgstr ""
+
+msgid "editor.submission.decision.backToCopyediting.completed"
+msgstr ""
+
+msgid "editor.submission.decision.approveProofsDescription"
+msgstr ""
+"Səhifə düzəltmə faylı, istifadə edilmək üçün təsdiq edildiyi formada "
+"yoxlanılmalıdır. Təsdiq etmək istəyirsinizmi?"
+
+msgid "editor.submission.decision.approveProofs"
+msgstr "Düzəlişləri qəbul edin"
+
+msgid "editor.submission.decision.revertDecline.completed"
+msgstr ""
+
+msgid "editor.submission.recommend.resubmit"
+msgstr ""
+
+msgid "editor.submission.recommend.decline"
+msgstr ""
+
+msgid "editor.submission.makeRecommendation"
+msgstr "Təklif edin"
+
+msgid "editor.submission.changeRecommendation"
+msgstr "Təklifi dəyişdirin"
+
+msgid "editor.submission.recommendation.display"
+msgstr "Təklif: {$recommendation}"
+
+msgid "editor.submission.allRecommendations.display"
+msgstr "Təkliflər: {$recommendations}"
+
+msgid "editor.submission.recommendation"
+msgstr "Təklif"
+
+msgid "editor.submission.recordedRecommendations"
+msgstr "Qeydiyyatlı təkliflər"
+
+msgid "submission.currentStage"
+msgstr "Hazırkı mərhələ"
+
+msgid "submission.noActionRequired"
+msgstr "Hərəkət zəruri deyil"
+
+msgid "submission.actionNeeded"
+msgstr "Hərəkət zəruridir"
+
+msgid "reviewer.submission.reviewFiles"
+msgstr "Faylları dəyərləndir"
+
+msgid "submission.submit.currentFile"
+msgstr "Cari fayl"
+
+msgid "submission.finalDraft"
+msgstr "Qaralama dosyelər"
+
+msgid "submission.event.fileAuditorAdded"
+msgstr ""
+"\"{$name}\" ({$username}), \"{$file}\" faylı üçün müfəttiş kimi əlavə edildi."
+
+msgid "submission.event.fileAuditorCleared"
+msgstr ""
+"\"{$name}\" ({$username}), \"{$file}\" faylının müfəttişliyindən çıxarıldı."
+
+msgid "submission.event.fileAuditUploaded"
+msgstr ""
+"\"{$name}\" ({$username}) bir nəzarəti başa çatdırdı və \"{$file}\" adlı "
+"faylı yüklədi."
+
+msgid "submission.event.signoffSignoff"
+msgstr "{$name}\" ({$username}), \"{$file}\" üçün imzaladı."
+
+msgid "submission.event.proofsApproved"
+msgstr ""
+"\"{$name}\" ({$username}), \"{$formatName}.\" üçün düzəlişləri təsdiq etdi."
+
+msgid "submission.overview"
+msgstr "Məqaləyə ümumi baxış"
+
+msgid "submission.documents"
+msgstr "Məqalə sənədləri"
+
+msgid "notification.type.submissionNewVersion"
+msgstr "Namizəd məqalənin yeni bir versiyası yaradıldı"
+
+msgid "grid.reviewAttachments.title"
+msgstr "Rəyçi Əlavələri"
+
+msgid "grid.reviewAttachments.send.title"
+msgstr "Müəllif(lər) ilə bölüşmək üçün dəyərləndirmə fayllarını seçin"
+
+msgid "submission.productionReady"
+msgstr "Kitab mövcuddur"
+
+msgid "submission.review.uploadRevisionToRound"
+msgstr "Yenidən işlənmiş faylı yükləyin"
+
+msgid "submission.art"
+msgstr "Sənət əsəri"
+
+msgid "submission.supplementary"
+msgstr "Tamamlayıcı məzmun"
+
+msgid "submission.supplementary.creator"
+msgstr "Faylın yaradıcısı (və ya sahibi)"
+
+msgid "submission.supplementary.subject"
+msgstr "Mövzu"
+
+msgid "submission.supplementary.publisher"
+msgstr "Naşir"
+
+msgid "submission.supplementary.sponsor"
+msgstr "İştirakçı və ya sponsor qurum"
+
+msgid "grid.action.itemWorkflow"
+msgstr "Bu məqalənin iş axışına gedin"
+
+msgid "submission.reviewForm"
+msgstr "Dəyərləndirmə formu"
+
+msgid "submission.reviewFormResponse"
+msgstr "Dəyərləndirmə formu cavabı"
+
+msgid "grid.action.createReviewFormElement"
+msgstr "Yeni bir incələmə formu elementi yaradın"
+
+msgid "submission.permissions"
+msgstr "İcazələr"
+
+msgid "submission.attachPermissions"
+msgstr "Məqaləyə aşağıdakı icazələri əlavə edin:"
+
+msgid "submission.license"
+msgstr "Lisenziya"
+
+msgid "submission.copyright"
+msgstr "Müəllif hüququ"
+
+msgid "submission.copyrightHolder"
+msgstr "Müəllif hüquqları sahibi"
+
+msgid "submission.copyrightHolder.other"
+msgstr "Xüsusi müəllif hüququ bildirişi"
+
+msgid "submission.copyrightOther"
+msgstr "Müəllif hüquqları bildirişi"
+
+msgid "submission.copyrightYear"
+msgstr "Müəllif hüquqları tarixi"
+
+msgid "submission.license.cc.by-nc-nd4"
+msgstr "CC İstinad (Atribut)- Qeyri-ticari/kommersiya-Törədilə bilməz 4.0"
+
+msgid "submission.license.cc.by-nc4"
+msgstr "CC İstinad-Qeyri-kommersiya 4.0"
+
+msgid "submission.license.cc.by-nc-sa4"
+msgstr "CC İstinad-Qeyri-kommersiya-EyniLisenziyailəPaylaş 4.0"
+
+msgid "submission.license.cc.by-nd4"
+msgstr "CC İstinad-Törədilə bilməz 4.0"
+
+msgid "submission.license.cc.by-sa4"
+msgstr "CC İstinad-EyniLisenziyailəPaylaş 4.0"
+
+msgid "submission.license.cc.by-nc-nd4.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/"
+"\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/"
+"by-nc-nd/4.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-"
+"NonCommercial-NoDerivatives 4.0 International License</a> ile "
+"lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-nc4.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/4.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc/"
+"4.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons Attribution-"
+"NonCommercial 4.0 International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-nc-sa4.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/"
+"\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/"
+"by-nc-sa/4.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-"
+"NonCommercial-ShareAlike 4.0 International License</a> ile "
+"lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-nd4.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nd/4.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nd/"
+"4.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by4.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by/4."
+"0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-sa4.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-sa/"
+"4.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-"
+"ShareAlike 4.0 International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-nc-nd3.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/3.0/"
+"\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/"
+"by-nc-nd/3.0/88x31.png\" /></a><p>Bu çalışma<a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nc-nd/3.0/\">Creative Commons Attribution-"
+"NonCommercial-NoDerivatives 3.0 International License</a> ile "
+"lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-nc3.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/3.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc/"
+"3.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nc/3.0/\">Creative Commons Attribution-"
+"NonCommercial 3.0 International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-nc-sa3.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/"
+"\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/"
+"by-nc-sa/3.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-"
+"NonCommercial-ShareAlike 3.0 International License</a> ile "
+"lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-nd3.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nd/3.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nd/"
+"3.0/88x31.png\" /></a><p>Bu çalışma<a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-nd/3.0/\">Creative Commons Attribution-"
+"NoDerivatives 3.0 International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by-sa3.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-sa/"
+"3.0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-"
+"ShareAlike 3.0 International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.license.cc.by3.footer"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by/3.0/\""
+"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by/3."
+"0/88x31.png\" /></a><p>Bu çalışma <a rel=\"license\" href=\"https"
+"://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution 3.0 "
+"International License</a> ile lisenziyalanıb.</p>"
+
+msgid "submission.queries.review"
+msgstr "Dəyərləndirmə müzakirələri"
+
+msgid "submission.queries.editorial"
+msgstr "Surət düzəltmə müzakirələri"
+
+msgid "submission.query.subject"
+msgstr "Mövzu"
+
+msgid "submission.query.messages"
+msgstr "Mesajlar"
+
+msgid "submission.query.replies"
+msgstr "Cavablar"
+
+msgid "submission.query.from"
+msgstr "dən"
+
+msgid "submission.query.lastReply"
+msgstr "Son cavab"
+
+msgid "submission.query.closed"
+msgstr "Bağlı"
+
+msgid "submission.query.addNote"
+msgstr "Mesaj əlavə edin"
+
+msgid "submission.query.leaveQuery"
+msgstr "Müzakirəni tərk edin"
+
+msgid "submission.query.leaveQuery.confirm"
+msgstr ""
+"Bu müzakirəni tərk etsəniz, artıq yeni mesajlar sizə bildirilməyəcək. "
+"Müzakirəni tərk etmək istəyirsinizmi?"
+
+msgid "grid.action.openNoteForm"
+msgstr "Müzakirəyə yeni bir cavab əlavə edin"
+
+msgid "submission.query.activity"
+msgstr "{$responderName}, {$noteTitle} adlı cavabı: {$noteContents}"
+
+msgid "submission.query.new"
+msgstr "{$creatorName} bir müzakirə başlatdı; {$noteTitle}: {$noteContents}"
+
+msgid "submission.query.participantTitle"
+msgstr "{$fullName}, {$userGroup}"
+
+msgid "submission.list.infoCenter"
+msgstr "Fəaliyyət gündəliyi və qeydlər"
+
+msgid "submission.list.responseDue"
+msgstr "Cavab üçün son tarix: {$date}"
+
+msgid "submission.list.reviewAssignment"
+msgstr "Təyinatı dəyərləndir"
+
+msgid "submission.list.reviewDue"
+msgstr "Qiymətləndirmə üçün sonra tarix: {$date}"
+
+msgid "submission.list.reviewComplete"
+msgstr "Qiymətləndirmə göndərildi"
+
+msgid "submission.list.reviewCancelled"
+msgstr "Qiymətləndirmə/dəyərləndirmə ləğv edildi"
+
+msgid "submission.list.confirmDelete"
+msgstr "Məqalə silinsinmi?"
+
+msgid "submission.list.viewAllSubmissions"
+msgstr "Bütün məqalələrə baxın"
+
+msgid "submission.list.viewSubmission"
+msgstr "Məqaləyə bax"
+
+msgid "submission.list.reviewsCompleted"
+msgstr "Təyin edilmiş araşdırmalar başa çatdı"
+
+msgid "submission.list.revisionsSubmitted"
+msgstr "Düzəlişlər göndərildi"
+
+msgid "submission.list.copyeditsSubmitted"
+msgstr "Surət tənzimləmə dosyeləri/faylları göndərildi"
+
+msgid "submission.list.galleysCreated"
+msgstr "Nəşr dizaynı yaradıldı"
+
+msgid "submission.list.filesPrepared"
+msgstr "Fayl hazırlandı"
+
+msgid "submission.list.discussions"
+msgstr "Açıq müzakirələr"
+
+msgid "submission.list.reviewerWorkflowLink"
+msgstr ""
+"Bu məqalə üçün bir redaktor rolu təyin olundunuz. <a href=\" $"
+"rüdyorialorialworkflow }\"> Məzmun iş axını </a>na giriş etmək "
+"istəyirsinizmi?"
+
+msgid "submission.list.daysSinceLastActivity"
+msgstr "Axırıncı fəaliyyətdən bu tərəfə keçən gün sayı"
+
+msgid "submission.list.assignEditor"
+msgstr "Redaktor təyin edin"
+
+msgid "grid.category.categories"
+msgstr "Kateqoriyalar"
+
+msgid "catalog.sortBy.titleAsc"
+msgstr "Başlıq (A-Z)"
+
+msgid "catalog.sortBy.titleDesc"
+msgstr "Başlıq (A-Z)"
+
+msgid "catalog.sortBy.datePublishedAsc"
+msgstr "Nəşr tarixi (əvvəlcə ilki)"
+
+msgid "catalog.sortBy.datePublishedDesc"
+msgstr "Nəşr tarixi (əvvəlcə sonuncusu)"
+
+msgid "category.category"
+msgstr "Kateqoriyalar"
+
+msgid "category.coverImage"
+msgstr "Üzqabığı Şəkili"
+
+msgid "submission.submit.placement.categories"
+msgstr "Kateqoriyalar"
+
+msgid "submission.currentCoverImage"
+msgstr "Güncəl Şəkil"
+
+msgid "catalog.category.subcategories"
+msgstr "Alt kateqoriyalar"
+
+msgid "publication.contributors"
+msgstr "İştirakçılar"
+
+msgid "publication.createVersion"
+msgstr "Yeni bir versiya yaradın"
+
+msgid "publication.publicationLicense"
+msgstr "İcazələr və açıqlama"
+
+msgid "publication.status.scheduled"
+msgstr "Planlandı"
+
+msgid "publication.status.unpublished"
+msgstr "Nəşr edilməmiş"
+
+msgid "publication.titleAbstract"
+msgstr "Başlıq və Xülasə"
+
+msgid "publication.unschedule"
+msgstr "Planlaşdırmanı ləğv edin"
+
+msgid "publication.urlPath"
+msgstr "URL yolu"
+
+msgid "publication.version.all"
+msgstr "Bütün versiyalar"
+
+msgid "publication.version.confirm"
+msgstr "Yeni bir versiya formalaşdırmaq istədiyinizdən əminsinizmi?"
+
+msgid "submission.submit.availableUserGroups"
+msgstr "kimi Göndər"
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Məqalə tələbləri"
+
+msgid "metadata.filters.settings.isOptional.displayName"
+msgstr ""
+"Defoltu istifadə etməyin (redaktor tərəfindən istifadə edilə bilən olacaq)"
+
+msgid "submission.date.mmdd"
+msgstr "Aa-gg"
+
+msgid "editor.submission.decision.decline"
+msgstr "Məqaləni rədd edin"
+
+msgid "editor.submission.decision.resubmit"
+msgstr "Dəyərləndirmə üçün yenidən Göndər"
+
+msgid "editor.submission.decision.skipReview"
+msgstr "Qəbul et və dəyərləndirməni keç"
+
+msgid "editor.submission.decision.skipReview.completed"
+msgstr ""
+
+msgid "editor.submission.decision.sendInternalReview"
+msgstr "Daxili dəyərləndirməyə Göndər"
+
+msgid "editor.submission.decision.disapproveProofsDescription"
+msgstr ""
+"Bu fayl düzəlişləri artıq endirmə və ya almaq üçün hər kəsə açıq olmayacaq. "
+"Təsdiq etməmək istəyirsiniz?"
+
+msgid "editor.submission.decision.revertDecline"
+msgstr "Rədd etməyi ləğv edin"
+
+msgid "editor.submission.recommend.accept"
+msgstr ""
+
+msgid "submission.description"
+msgstr "Açıqlama"
+
+msgid "submission.document"
+msgstr "Sənəd"
+
+msgid "submission.licenseURL"
+msgstr "Lisenziya URL"
+
+msgid "editor.submission.roundStatus.returnedToReview"
+msgstr "Nəzərdən keçirmək üçün geri qayıtdı."
+
+msgid "editor.submission.addStageParticipant.form.userGroupRequired"
+msgstr "Bir istifadəçi qrupu seçməlisiniz."
+
+msgid "editor.submission.decision.notifyReviewers.description"
+msgstr ""
+
+msgid "editor.submission.decision.initialDecline.description"
+msgstr ""
+
+msgid "editor.submission.decision.newReviewRound.completedDescription"
+msgstr ""
+
+msgid "editor.submission.decision.sendExternalReview.description"
+msgstr ""
+
+msgid "editor.submission.decision.sendExternalReview.log"
+msgstr ""
+
+msgid "editor.submission.decision.sendExternalReview.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.sendToProduction.log"
+msgstr ""
+
+msgid "editor.submission.decision.sendToProduction.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.sendToProduction.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.backFromCopyediting.completed"
+msgstr "Kopyalamadan geri göndərildi"
+
+msgid "editor.submission.recommend.completed.description"
+msgstr ""
+
+msgid "editor.submission.recommend.resubmit.log"
+msgstr ""
+
+msgid "editor.submission.recommend.decline.description"
+msgstr ""
+
+msgid "editor.submission.recommend.decline.log"
+msgstr ""
+
+msgid "editor.submission.recommendation.noDecidingEditors"
+msgstr ""
+
+msgid "submission.stageNotInitiated"
+msgstr "Mərhələ başladılmadı"
+
+msgid "notification.type.layouteditorRequest"
+msgstr "“{$title}” üçün tərtibat sistemini gözdən keçirməniz tələb edildi"
+
+msgid "notification.type.indexRequest"
+msgstr "“{$title}” üçün bir indeks yaratmağınız tələb edildi"
+
+msgid "submission.review.status.responseOverdue"
+msgstr "Rəyçi cavab tarixini keçdi."
+
+msgid "submission.review.status.reviewOverdue"
+msgstr "Rəyçi dəyərləndirmə tarixini keçdi"
+
+msgid "submission.review.status.accepted"
+msgstr "Bu dəyərləndirmə qəbul edildi."
+
+msgid "notification.type.editorDecisionSendToProduction"
+msgstr "Çap prosesi başlandı."
+
+msgid "submission.copyright.agree"
+msgstr "Bəli, müəllif hüquqları haqqında bəyanatla razıyam."
+
+msgid "submission.query.activity.contents"
+msgstr ""
+"\"{$submissionTitle}\" Məqaləsi ilə bağlı \"{$queryTitle}\" adlı müzakirədə "
+"yeni bir fəaliyyət var."
+
+msgid "submission.query.new.contents"
+msgstr ""
+"\"{$submissionTitle}\" Məqaləsi ilə bağlı \"{$queryTitle}\" adlı bir "
+"müzakirəyə təyin edildiniz."
+
+msgid "submission.query.noParticipantOptions"
+msgstr ""
+"Bir müzakirə başlatmazdan əvvəl bu məqaləyə ən az bir iştirakçı təyin "
+"etməlisiniz."
+
+msgid "submission.query.allowedEditTime"
+msgstr ""
+"Bu müzakirəni {$allowedEditTimeNoticeLimit} dəqiqə üçün yeniləyə bilərsiniz."
+
+msgid "submission.list.incompleteSubmissionNotice"
+msgstr ""
+"Bu məqalə bir redaktor tərəfindən gözdən keçirilməzdən əvvəl tamamlanmalıdır."
+
+msgid "submission.list.currentStage"
+msgstr "Hal hazırda {$stage} mərhələsindədir."
+
+msgid "submission.wizard.beforeStart"
+msgstr "Başlamazdan əvvəl"
+
+#, fuzzy
+msgid "submission.list.dualWorkflowLinks"
+msgstr ""
+"Bu göndərmə üçün Sizə bir neçə rol verildi. <a href=\"{$urlAuthorWorkflow}\""
+">müəllif iş axınına</a> və ya <a href=\"{$urlEditorialWorkflow}\">redaksiya "
+"iş axınına</a>daxil olmaq istərdinizmi?"
+
+msgid "submission.wizard.saved.description"
+msgstr ""
+"Təqdimat təfərrüatları sistemimizdə saxlanılıb, lakin hələ də nəzərə "
+"alınmamışdır. Aşağıdakı linki aşağıdakı linkdən sonra istənilən vaxt təqdim "
+"etməyinizi qaytara bilərsiniz."
+
+msgid "submission.wizard.saved.emailConfirmation"
+msgstr "Bu linkin bir nüsxəsini {$email} -də sizə göndərdik."
+
+msgid "submission.wizard.start"
+msgstr "Təslim olmaq"
+
+msgid "submission.wizard.startingStatus"
+msgstr "Yeni bir təqdimata başlamaq"
+
+msgid "submission.wizard.unableToSave"
+msgstr ""
+"Səhvlə qarşılaşdı və təqdiminizi qənaət edə bilmədik. Sizin kəsilməmiş ola "
+"bilər."
+
+msgid "catalog.category.noItems"
+msgstr "Bu kateqoriyada hələ heç nə yayımlanmadı"
+
+msgid "publication.datePublished.errorFormat"
+msgstr "Tarix, 2019-01-01 kimi İİİİ-AA-GG formasında olmalıdır."
+
+msgid "publication.event.versionCreated"
+msgstr "Yeni bir versiya yaradıldı"
+
+msgid "publication.urlPath.description"
+msgstr "URL-də kimlik yerinə istifadə ediləcək istəyə bağlı bir yol."
+
+msgid "publication.urlPath.numberInvalid"
+msgstr "URL yolu bir say ola bilməz."
+
+msgid "publication.wordCountLong"
+msgstr ""
+"Xülasə çox uzundur. {$limit} kəlimə veya daha az olmalıdır. Hazırda {$count} "
+"kəlimə qədərdir."
+
+#, fuzzy
+msgid "submission.type.tip"
+msgstr ""
+"Göndərmə növü ümumiyyətlə \"qrafik\", \"mətn\" və ya \"proqram\" və ya "
+"\"interaktiv\"daxil olmaqla digər multimedia növlərindən biridir.  Zəhmət "
+"olmasa müraciətinizə ən uyğun olanı seçin.  Nümunələr <a target=\"_blank\" "
+"href=\"https://www.dublincore.org/specifications/dublin-core/usageguide/"
+"2001-04-12/generic/\">https://www.dublincore.org/specifications/dublin-core/"
+"usageguide/2001-04-12/generic/</a>"
+
+msgid "submission.rights.tip"
+msgstr ""
+"İstəsəniz, bu məqalə və ya bu girişdə saxlanılan giriş hüquqları haqqında "
+"qısa bir bəyanat daxil edə bilərsiniz."
+
+msgid "submission.submit.selectPrincipalContact"
+msgstr "Redaktor yazışmaları üçün əsas əlaqə"
+
+msgid "publication.version"
+msgstr "Versiya {$version}"
+
+#, fuzzy
+msgid "submission.submit.metadataForm.tip"
+msgstr ""
+"Müraciətiniz üçün əlavə məlumat əlavə edin.  Hər termindən sonra \"enter\" "
+"düyməsini basın."
+
+msgid "metadata.filters.crossref.settings.email.validationMessage"
+msgstr ""
+"Zəhmət olmasa etibarlı bir Crossref email adresi qeydiyyatdan keçirin. "
+"Emailinizi Crossref veb saytında pulsuz olaraq qeydiyyatdan keçirə "
+"bilərsiniz."
+
+msgid "metadata.filters.isbndb.settings.apiKey.validationMessage"
+msgstr ""
+"Zəhmət olmasa ISBNdb API açarını daxil edin. Hələlik bir açarınız yoxdursa "
+"ISBNdb layihəsindən pulsuz tələb edə bilərsiniz."
+
+msgid "metadata.filters.pubmed.settings.email.validationMessage"
+msgstr "Əgər varsa etibarlı bir PubMed qeydiyyat emaili daxil edin."
+
+msgid "metadata.filters.worldcat.settings.apiKey.validationMessage"
+msgstr "Əgər varsa etibarlı bir WorldCat API açarı daxil edin"
+
+msgid "metadata.filters.paracite.settings.citationModule.validationMessage"
+msgstr "Zəhmət olmasa verilmiş istinad modullarından birini seçin."
+
+msgid "metadata.property.validationMessage.volume"
+msgstr "Zəhmət olmasa etibarlı bir cild sayı daxil edin"
+
+msgid "metadata.property.validationMessage.season"
+msgstr "Zəhmət olmasa, etibarlı bir mövsüm identifikatoru daxil edin.."
+
+msgid "metadata.property.validationMessage.chapter-title"
+msgstr "Zəhmət olmasa etibarlı bir fəsil adı daxil edin"
+
+msgid "metadata.property.validationMessage.edition"
+msgstr "Zəhmət olmasa etibarlı bir tiraj ədədi daxil edin"
+
+msgid "metadata.property.validationMessage.series"
+msgstr "Zəhmət olmasa etibarlı bir seriya məlumatı daxil edin"
+
+msgid "metadata.property.validationMessage.supplement"
+msgstr "Zəhmət olmasa etibarlı bir əlavə məlumat daxil edin"
+
+msgid "metadata.property.validationMessage.conf-date"
+msgstr ""
+"Zəhmət olmasa etibarlı bir konfrans tarixi daxil edin (Format: İİİİ-AA-GG)."
+
+msgid "metadata.property.validationMessage.issn"
+msgstr "Zəhmət olmasa etibarlı bir çaplı ISBN nömrəsi daxil edin"
+
+msgid "metadata.property.validationMessage.eissn"
+msgstr "Zəhmət olmasa etibarlı bir eISSN nömrəsini daxil edin"
+
+msgid "metadata.property.validationMessage.doi"
+msgstr "Zəhmət olmasa etibarlı bir DOI daxil edin"
+
+msgid "metadata.property.validationMessage.publisher-id"
+msgstr "Zəhmət olmasa şəxsi naşir nömrəsini (ID) daxil edin"
+
+msgid "metadata.property.validationMessage.coden"
+msgstr "Zəhmət olmasa etibarlı bir CODEN daxil edin"
+
+msgid "metadata.property.validationMessage.sici"
+msgstr "Zəhmət olmasa etibarlı bir SICI daxil edin"
+
+msgid "metadata.property.validationMessage.pmid"
+msgstr "Zəhmət olmasa etibarlı bir PMID daxil edin"
+
+msgid "metadata.property.validationMessage.publication-type"
+msgstr ""
+"Hər zaman bir yayım növü müəyyən etdiyinizə əmin olun. Bu halda dəstəklənən "
+"növlər kitab (kitablar və kitab fəsilləri) və Jurnaldir (Jurnal məqalələri). "
+"Əks halda istinad çıxış formatlandırması düzgün işləməz."
+
+msgid "metadata.property.validationMessage.nonSort"
+msgstr ""
+"Zəhmət olmasa başlığın sadəcə ilk xarakterləri daxil edin. Başlıq "
+"sıralanarkən nəzərə alınmaz."
+
+msgid "metadata.property.validationMessage.title"
+msgstr "Zəhmət olmasa etibarlı bir başlıq daxil edin"
+
+msgid "metadata.property.validationMessage.subTitle"
+msgstr "Zəhmət olmasa etibarlı bir alt başlıq daxil edin"
+
+msgid "submission.file.notAllowedUploaderUserId"
+msgstr ""
+"Fayl yaradıldığında faylı yükləyənin qeydiyyatı yadda saxlanır və "
+"dəyişdirilə bilməz."
+
+msgid "submission.firstPublished"
+msgstr "Əvvəlcə nəşr olundu"
+
+msgid "submission.forTheEditors"
+msgstr "Redaktorlar üçün"
+
+msgid "submission.publisherId.description"
+msgstr ""
+"Naşir ID, xarici bir data bazadan kimliyi yadda saxlamaq üçün istifadə edilə "
+"bilər. Məsələn, PubMedə qeydiyyat göndərmək üçün ixrac edilən elementlər "
+"naşir ID-sini əhatə edə bilər. Bu DOI-lər üçün istifadə edilməməlidir."
+
+msgid "submission.layout.galleyRemoteURLValid"
+msgstr "Zəhmət olmasa etibarlı bir uzad URL daxil edin (http:// dahil)."
+
+msgid "submission.submit.form.languagesRequired"
+msgstr "Zəhmət olmasa bir dil əlavə edin"
+
+msgid "submission.submit.form.subjectsRequired"
+msgstr "Zəhmət olmasa bir mövzu əlavə edin"
+
+msgid "submission.submit.form.disciplinesRequired"
+msgstr "Zəhmət olmasa bir ixtisas əlavə edin"
+
+msgid "submission.submit.form.keywordsRequired"
+msgstr "Zəhmət olmasa bir açar söz əlavə edin"
+
+msgid "submission.submit.form.coverageRequired"
+msgstr "Zəhmət olmasa əhatə dairəsi məlumatlarını daxil edin."
+
+msgid "submission.submit.form.typeRequired"
+msgstr "Zəhmət olmasa növü daxil edin."
+
+msgid "submission.submit.form.sourceRequired"
+msgstr "Zəhmət olmasa mənbə daxil edin."
+
+msgid "submission.submit.form.rightsRequired"
+msgstr "Zəhmət olmasa hüquqları daxil edin."
+
+msgid "submission.submit.form.citationsRequired"
+msgstr "Zəhmət olmasa referansları daxil edin"
+
+msgid "submission.upload.selectOptionalFileToRevise"
+msgstr ""
+"Mövcud bir faylın yenidən baxışını yükləyirsinizsə, zəhmət olmasa hansı fayl "
+"olduğunu qeyd edin."
+
+msgid "submission.upload.userGroupDescription"
+msgstr ""
+"Tənzimlənmiş bir cildi göndərirsinizsə, bütün cild bölmələrini ayrı-"
+"ayrılıqda və vahid redaktoru rolunuza daxil etməlisiniz."
+
+msgid "editor.submission.roundStatus.revisionsRequested"
+msgstr "Düzəlişlər tələb edildi"
+
+msgid "editor.submission.roundStatus.revisionsSubmitted"
+msgstr "Düzəlişlər göndərildi"
+
+msgid "editor.submission.roundStatus.resubmitForReview"
+msgstr "Məqalə başqa bir dəyərləndirmə turu üçün təkrar göndərilməlidir."
+
+msgid "editor.submission.roundStatus.submissionResubmitted"
+msgstr "Məqalə başqa bir incələmə turu üçün təkrar göndərildi."
+
+msgid "editor.submission.roundStatus.sentToExternal"
+msgstr "Xarici qiymətləndirmə üçün göndərildi."
+
+msgid "editor.submission.roundStatus.accepted"
+msgstr "Məqalə qəbul edildi."
+
+msgid "editor.submission.roundStatus.declined"
+msgstr "Məqalə rədd edildi."
+
+msgid "editor.submission.roundStatus.pendingReviewers"
+msgstr "Rəyçilərin təyin edilməsi gözlənilir."
+
+msgid "editor.submission.roundStatus.pendingReviews"
+msgstr "Rəyçilərdən cavab gözləyir."
+
+msgid "editor.submission.status.inactiveDaysInStage"
+msgstr ""
+
+msgid "editor.submission.status.waitingInitialReview"
+msgstr ""
+
+msgid "editor.submission.addStageParticipant.userGroup"
+msgstr ""
+"İstifadəçilər, istifadəçi qrupu tərəfindən iş axışının mərhələlərinə təyin "
+"edilir. Bu mərhələyə təyin edilən hər hansı bir istifadəçi avtomatik olaraq "
+"istifadəçi qrupunun təyin edildiyi digər mərhələlərə təyin ediləcəkdir. Bu "
+"ümumilikdə redaktorlar, Müəlliflər və tərcüməçilər üçün ayrılıb."
+
+msgid "editor.submission.removeStageParticipant.description"
+msgstr "Bu istifadəçini <strong>tüm</strong> mərhələlərdən çıxarırsınız."
+
+msgid "editor.submission.addStageParticipant.form.userRequired"
+msgstr "Göstərilən istifadəçi qrupu üçün bir istifadəçi seçməlisiniz."
+
+msgid "editor.submission.addStageParticipant.form.reviewerWarning"
+msgstr ""
+"Seçdiyiniz istifadəçi, anonim rəyçilik etmək üçün təyin edilmişdir. Şəxslərə "
+"əlavə etsəniz, Müəllifin kimliyi əlçatan olacaqdır. rəyçi dəyərləndirmə "
+"prosesinin bütövlüyünü müstəqil olaraq təmin edə bilmədiyiniz müddətcə, bu "
+"iştirakçını şəxslərə əlavə etməyin."
+
+msgid "editor.submission.decision.reviewerUnassigned.notifyReviewers.description"
+msgstr ""
+"Baxış tapşırığının ləğv edildiyini bildirmək üçün təyin olunmuş rəyçilərə "
+"bir e-poçt göndərin."
+
+msgid "editor.submission.decision.accept.description"
+msgstr ""
+
+msgid "editor.submission.decision.accept.log"
+msgstr ""
+
+msgid "editor.submission.decision.accept.completedDescription"
+msgstr ""
+
+msgid "editor.submission.decision.accept.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.cancelReviewRound.notifyAuthorsDescription"
+msgstr ""
+"Müəlliflərə bir e-poçt göndərin ki, rəy turunun bağlandığını bildirin. Bu e-"
+"poçt qərarın qeydə alınana qədər göndərilməyəcək."
+
+msgid "editor.submission.decision.decline.description"
+msgstr ""
+
+msgid "editor.submission.decision.decline.log"
+msgstr ""
+
+msgid "editor.submission.decision.decline.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.decline.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.newReviewRound.description"
+msgstr ""
+
+msgid "editor.submission.decision.newReviewRound.log"
+msgstr ""
+
+msgid "editor.submission.decision.newReviewRound.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.promoteFiles.copyediting"
+msgstr ""
+
+msgid "editor.submission.decision.promoteFiles.review"
+msgstr ""
+
+msgid "editor.submission.decision.promoteFiles.production"
+msgstr ""
+
+msgid "editor.submission.decision.requestRevisions.description"
+msgstr ""
+
+msgid "editor.submission.decision.requestRevisions.log"
+msgstr ""
+
+msgid "editor.submission.decision.requestRevisions.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.requestRevisions.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.cancelReviewRound"
+msgstr "Baxış yuvarlaqını ləğv edin"
+
+msgid "editor.submission.decision.cancelReviewRound.description"
+msgstr ""
+"İcmalın cari turunu ləğv edin və təqdimatı nəzərdən keçirin son turuna "
+"göndərin. Bu ilk baxış mərhələsidirsə, bu, təqdim mərhələsinə geri "
+"göndəriləcəkdir."
+
+msgid "editor.submission.decision.cancelReviewRound.log"
+msgstr "{$editorName} baxış turunu ləğv etdi."
+
+msgid "editor.submission.decision.cancelReviewRound.completed"
+msgstr "Nəzərdən keçirilən son turu ləğv etdi."
+
+msgid "editor.submission.decision.cancelReviewRound.completed.description"
+msgstr ""
+"Təqdimat üçün baxış, {$title}, ləğv edildi. Keçiz seçdiyiniz hər kəsdən "
+"başqa bütün bildirişlər göndərildi."
+
+msgid "editor.submission.decision.cancelReviewRound.restriction"
+msgstr ""
+"Heç bir əlaqəli rəyçi tamamlanmamış və ya təqdim olunan icmal mövcud "
+"olmadıqda yalnız nəzərdən keçirmə mərhələsini ləğv edə bilər."
+
+msgid "editor.submission.decision.resubmit.description"
+msgstr ""
+
+msgid "editor.submission.decision.resubmit.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.resubmit.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.sendToProduction.description"
+msgstr ""
+
+msgid "editor.submission.decision.backFromCopyediting.description"
+msgstr "Bu təqdimatı kopyalama mərhələsindən geri göndərin."
+
+msgid "editor.submission.decision.backFromCopyediting.log"
+msgstr "{$editorName} bu təqdimatı kopyalama mərhələsindən geri göndərdi."
+
+msgid "editor.submission.decision.backFromCopyediting.completed.description"
+msgstr ""
+"Təqdimat, {$title}, kopyalama mərhələsindən geri göndərildi. Bu e-poçtu "
+"atlamağı seçməsəniz müəllif bildirildi."
+
+msgid "editor.submission.decision.backFromCopyediting.notifyAuthorsDescription"
+msgstr ""
+"Kopyalamağın ləğv olunduğunu bildirmək üçün müəlliflərə bir e-poçt göndərin "
+"və onların təqdim edilməsi sonrakı redaksiya nəzərdən keçiriləcəkdir."
+
+msgid "editor.submission.decision.backToCopyediting"
+msgstr ""
+
+msgid "editor.submission.decision.backToCopyediting.description"
+msgstr ""
+
+msgid "editor.submission.decision.backToCopyediting.log"
+msgstr ""
+
+msgid "editor.submission.decision.backToCopyediting.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.skipReview.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.skipReview.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.recommend.notifyEditors.description"
+msgstr ""
+
+msgid "editor.submission.recommend.accept.description"
+msgstr ""
+
+msgid "editor.submission.recommend.accept.log"
+msgstr ""
+
+msgid "editor.submission.recommend.revisions.description"
+msgstr ""
+
+msgid "editor.submission.recommend.revisions.log"
+msgstr ""
+
+msgid "editor.submission.recommend.resubmit.description"
+msgstr ""
+
+msgid "editor.submission.recommendation.description"
+msgstr "Bu Məqalə/yazı üçün bir redaktor qərarı tövsiyə edin."
+
+msgid "editor.submission.addAuditorError"
+msgstr ""
+"Nəzarətçi təyin edərkən bir xəta baş verdi. Zəhmət olmasa təkrar cəhd edin."
+
+msgid "submission.event.fileEdited"
+msgstr ""
+"\"{$filename}\" faylının üst dataları {$username} tərəfindən "
+"tənzimləndi"
+
+msgid "submission.event.fileUploaded"
+msgstr ""
+"\"{$filename}\" adlı fayl, {$submissionId} nömrəli Məqalə üçün "
+"{$username} tərəfindən göndərilmək üçün yükləndi."
+
+msgid "submission.event.fileDeleted"
+msgstr ""
+"\"{$filename}\" adlı fayl, {$submissionId} nömrəli Məqalə üçün "
+"{$username} tərəfindən silindi."
+
+msgid "submission.event.revisionUploaded"
+msgstr ""
+"\"{$filename}\" adlı fayl, {$submissionId} nömrəli Məqalə üçün "
+"{$username} reviziya faylı yükləndi."
+
+msgid "submission.event.revisionDeleted"
+msgstr ""
+"\"{$filename}\" adlı fayl, {$submissionId} nömrəli Məqalə üçün "
+"{$username} reviziya faylı silindi."
+
+msgid "submission.event.lastRevisionDeleted"
+msgstr ""
+"\"{$filename}\" adlı faylın son reviziyası {$username} tərəfindən çıxarıldı."
+
+msgid "notification.type.editorAssign"
+msgstr "\"{$title}\" adlı məqaləyə redaktor olaraq təyin edildiniz"
+
+msgid "notification.type.copyeditorRequest"
+msgstr "\"{$file}\" üçün səhifə tərtibatını gözdən keçirməniz tələb edildi"
+
+msgid "notification.type.editorDecisionTitle"
+msgstr "Axırıncı redaktor qərarı"
+
+msgid "notification.type.editorDecisionAccept"
+msgstr "Məqalə qəbul edildi"
+
+msgid "notification.type.editorDecisionExternalReview"
+msgstr "Xarici incələmə prosesi başladı"
+
+msgid "notification.type.editorDecisionPendingRevisions"
+msgstr "Düzəltmə tələb olunur"
+
+msgid "notification.type.editorDecisionResubmit"
+msgstr "Yenidən dəyərləndirməyə göndər"
+
+msgid "notification.type.editorDecisionNewRound"
+msgstr "Yeni dəyərləndirmə turu başladıldı"
+
+msgid "notification.type.editorDecisionDecline"
+msgstr "Məqalə rədd edildi"
+
+msgid "notification.type.editorDecisionRevertDecline"
+msgstr "Rədd edilmiş namizəd məqalə yenidən aktivləşdirildi"
+
+msgid "notification.uploadedResponse"
+msgstr "Cavab yükləndi"
+
+msgid "notification.type.editorAssignment"
+msgstr ""
+"Dəyərləndirmə başladılmazdan əvvəl bir redaktor təyin edilməlidir. Zəhmət "
+"olmasa İştirakçılar siyahısını istifadə edərək tənzimləyici əlavə edin."
+
+msgid "notification.type.revertDecline"
+msgstr "Bu namizəd məqalənin rəddedilmə qərarı ləğv olundu"
+
+msgid "log.review.reviewerAssigned"
+msgstr ""
+"{$reviewerName} {$submissionId} nömrəli Məqaləni dəyərləndirməyi {$round} "
+"dəfə qəbul etdi."
+
+msgid "log.review.reviewCleared"
+msgstr ""
+"{$submissionId} nömrəli Məqalənin {$round}. tur dəyərləndirməsi "
+"{$reviewerName} tərəfindən çıxarıldı"
+
+msgid "log.review.reviewUnconsidered"
+msgstr ""
+"{$editorName}, {$submissionId} Məqaləsi üçün {$round} tur dəyərləndirməsini "
+"nəzərə almayacaq şəklində işarələdi."
+
+msgid "log.review.reviewReinstated"
+msgstr ""
+"{$submissionId} nömrəli Məqalənin {$round}. Dəyərləndirmə turu "
+"{$reviewerName} tərəfindən təkrar başladıldı."
+
+msgid "log.review.reviewerResendRequest"
+msgstr ""
+"{$round} Yoxlama sorğusunu {$reviewerName} göndərmək üçün {$submissionid} - "
+"A yenidən göndərin."
+
+msgid "log.review.reviewConfirmed"
+msgstr ""
+"{$userName} adlı redaktor {$submissionId} nömrəli üçün {$round}. tur "
+"incələməsi üçün bir dəyərləndirmə təsdiqləndi için bir değerlendirme "
+"doğruladı."
+
+msgid "log.review.reviewReady"
+msgstr ""
+"{$reviewerName} {$submissionId} nömrəli bildirişi üçün {$round}. tur "
+"dəyərləndirməsini başa çatdırdı."
+
+msgid "submission.review.status.received"
+msgstr "Rəyçi dəyərləndirməsini göndərdi"
+
+msgid "submission.review.status.complete"
+msgstr "Bu dəyərləndirmə başa çatdı."
+
+msgid "submission.review.status.thanked"
+msgstr "Bu dəyərləndirmə başa çatdı, dəyərləndirmə edənə təşəkkür edildi."
+
+msgid "notification.type.editorAssignmentProduction"
+msgstr ""
+"Çap prosesi başladılmazdan əvvəl bir çap redaktoru təyin edilməlidir. Zəhmət "
+"olmasa İştirakçılar siyahısını istifadə edərək bir çap redaktoru əlavə edin."
+
+msgid "notification.type.editorAssignmentEditing"
+msgstr ""
+"Redaksiya prosesi başladılmazdan əvvəl bir çap redaktoru təyin edilməlidir. "
+"Zəhmət olmasa İştirakçılar siyahısını istifadə edərək bir çap redaktoru "
+"əlavə edin"
+
+msgid "submission.list.empty"
+msgstr "Heç bir məqalə tapılmadı"
+
+msgid "submission.wizard.alreadySubmitted"
+msgstr ""
+"Bu təqdimat artıq təqdim edilmişdir. Zəhmət olmasa, onu görmək üçün <a href="
+"\"{$url}\"> Təqdimat tablosuna </a> ziyarət edin."
+
+msgid "submission.wizard.categories.description"
+msgstr "Yalnız təqdim etmək üçün uyğun olan kateqoriyalar seçin."
+
+msgid "submission.wizard.changeSubmission"
+msgstr "Təqdim etmə parametrlərini dəyişdirin"
+
+msgid "submission.wizard.completeSteps"
+msgstr "Bir təqdim etmək üçün addımları doldurun"
+
+msgid "submission.wizard.confirmSubmit"
+msgstr ""
+"Məqalə,<strong>{$title} </strong>, redaktor baxışı üçün<strong>{$context} < /"
+"strong> - a göndəriləcək. Bu ərizəni doldurmaq istədiyinizə əminsinizmi?"
+
+msgid "submission.wizard.errors"
+msgstr ""
+"Təqdim etməzdən əvvəl düzəldilməli olan bir və ya daha çox problem var. "
+"Zəhmət olmasa aşağıdakı məlumatları nəzərdən keçirin və tələb olunan "
+"dəyişiklikləri edin."
+
+msgid "submission.wizard.validating"
+msgstr "Təqdimatınızı yoxlamaq"
+
+msgid "submission.wizard.commentsForTheEditor.description"
+msgstr ""
+"Təqdimatınızı qiymətləndirərkən redaksiya heyətimizin bilməli olduğunuz "
+"barədə hər hansı bir məlumat əlavə edin."
+
+msgid "submission.wizard.confirm"
+msgstr "Xahiş edirəm təqdim etməzdən əvvəl aşağıdakıları təsdiqləyin."
+
+msgid "submission.wizard.title"
+msgstr "Təqdim etmək"
+
+msgid "submission.wizard.titleWithStep"
+msgstr "Təqdim etmək: {$step}"
+
+msgid "submission.wizard.noContributors"
+msgstr "Bu təqdimat üçün heç bir töhfə əlavə olunmadı."
+
+msgid "submission.wizard.missingContributorLanguage"
+msgstr ""
+"Verilən ad töhfə verənlərdən bir və ya bir neçəsi üçün {$language} çatışmır."
+
+msgid "submission.wizard.notAllowed"
+msgstr "İcazəli deyildir, izinli deyildir, qadağandır"
+
+msgid "submission.wizard.privacyConsent"
+msgstr "Məxfilik razılığı"
+
+msgid "submission.wizard.saved"
+msgstr "Sonradan xilas oldu"
+
+msgid "publication.urlPath.duplicate"
+msgstr "URL yolu zatən istifadə edilib və bir də istifadə edilə bilməz."
+
+msgid "doi.incorrectStaleStatus"
+msgstr ""
+"Doi ehtiyac ehtiyaclarını {$pubObjectTitle} üçün sinxronizasiya edə bilmədi. "
+"Doi, hələ qeydiyyata alınmadıqları və ya təqdim edilmədikləri üçün "
+"ehtiyacları sinxronizasiya edilə bilməz."
+
+msgid "doi.submission.notPublished"
+msgstr ""
+"{$pubObjectTitle} üçün qeydiyyatdan keçmiş DOI qeyd edə bilmədi. Vəziyyətin "
+"yenilənə biləcəyidən əvvəl təqdim edilməlidir."
+
+msgid "submission.viewingPreview"
+msgstr ""
+"Bu bir önbaxışdır və nəşr edilməyib. <a href=\"{$url}\">Məqaləyə baxın</a>"
+
+msgid "author.submit.noFiles"
+msgstr "Müraciətə heç bir fayl əlavə edilməyib"
+
+msgid "author.submit.confirmation"
+msgstr "Təsdiq"
+
+msgid "submission.wizard.submittingInLanguage"
+msgstr "<Strong> {$language} </ strong> təqdim etmək."
+
+msgid "submission.wizard.submittingToSection"
+msgstr "<Strong> {$section} </ strong> bölməsinə təqdim etmək."
+
+msgid "submission.wizard.submittingToSectionInLanguage"
+msgstr ""
+"<Strong> {$section} </ strong> bölməsinə <strong> {$language} </ strong> "
+"bölməsinə təqdim etmək."
+
+msgid "submission.source.tip"
+msgstr ""
+"Bu Məqalə başqa bir mənbədəndirmi? Elədirsə, bu mənbənin bir URL'sini və ya "
+"bir açıqlama daxil edə bilərsiniz."
+
+msgid "submission.dataAvailability"
+msgstr "Məlumatların mövcudluğu haqqında bəyanat"
+
+msgid "submission.dataAvailability.tip"
+msgstr ""
+"Bu işi dəstəkləyən dəlil etməməyinizi və əgər varsa, harada və necə əldə "
+"edilə biləcəyini bildirin"
+
+msgid "submission.files.required.genre"
+msgstr "Ən azı bir {$genre} faylı yükləməlisiniz."
+
+msgid "submission.files.required.genres"
+msgstr ""
+"Aşağıdakı fayl növlərinin hər birini ən azı birini yükləməlisiniz: {$genres}."
+
+msgid "author.editPublishedDisabled"
+msgstr "Nəşr edilmiş yazını müəlliflər redaktə edə bilməz."
+
+msgid "author.publicationNotFound"
+msgstr "Bu müəllifin nəşri tapılmadı."
+
+msgid "author.submit.submissionCitations"
+msgstr ""
+"Məqalədə istinad edilən mənbələr üçün formatlandırılmış bir referans "
+"siyahısı verin. Zəhmət olmasa hər referansı yeni bir sətirdən başladın."
+
+msgid "author.submission.roundStatus.reviewsReady"
+msgstr "Yeni dəyərləndirmələr göndərilib və redaktor tərəfindən incələnir."
+
+msgid "author.submission.roundStatus.reviewOverdue"
+msgstr ""
+"Bir və ya daha çox rəyçi dəyərləndirmə üçün verilən sonra tarixdə geridönüş "
+"etmədi. Redaktorlar məlumatlandırıldı və dəyərləndirmənin başa çatdırılması "
+"üçün lazım olan həyata keçirəcəklər. Hazırda hər hansı bir əməliyyat "
+"etməyiniz tələb olunmur. Dəyərləndirmə başa çatdığında sizə məlumat "
+"veriləcəkdir."
+
+msgid "submission.submit.availableUserGroupsDescription"
+msgstr "Bu məqaləyə töhfənizi ən yaxşı izah edən rolu seçin"
+
+msgid "submission.submit.managerUserGroupsDescription"
+msgstr ""
+"Bu təqdimatı redaktə etmək və yayımlamaq istəyirsinizsə, redaksiya rolunu "
+"seçin."
+
+msgid "submission.submit.submissionChecklistDescription"
+msgstr ""
+"Yeni yazının daxil edilməsi üçün müəllifin bu düymələri təsdiqləmiş və qəbul "
+"etmiş olması lazımdır."
+
+msgid "submission.submit.submissionChecklistConfirm"
+msgstr "Bəli, mənim təqdimatım bu tələblərin hamısına cavab verir."
+
+msgid "submission.submit.genre.description"
+msgstr "Bu faylı ən yaxşı tərif edən seçimi seçin"
+
+msgid "metadata.filters.settings.isOptional.validationMessage"
+msgstr ""
+"Daxili xəta. \"İstəyə bağlı filtir\" tənzimlərinə etibarsız bir dəyər "
+"göndərildi. Bunu xəta mesajı kimi xəbər verin."
+
+msgid "metadata.property.validationMessage.author"
+msgstr ""
+"Ən yaxşı nəticə üçün Müəlliflər aşağıdakı formada daxil edilməlidir: Coleman "
+"Jr, D. (Ralf) Dr."
+
+msgid "metadata.property.validationMessage.editor"
+msgstr ""
+"Ən yaxşı nəticə üçün redaktorlar aşağıdakı formada daxil edilməlidir: "
+"Coleman Jr, D. (Ralf) Dr."
+
+msgid "metadata.property.validationMessage.article-title"
+msgstr "Zəhmət olmasa etibarlı bir məqalə adı daxil edin"
+
+msgid "metadata.property.validationMessage.source"
+msgstr "Zəhmət olmasa etibarlı bir nəşr başlığı daxil edin"
+
+msgid "metadata.property.validationMessage.date"
+msgstr "Zəhmət olmasa etibarlı bir nəşr tarixi daxil edin (Format: İİİİ-AA-GG)."
+
+msgid "metadata.property.validationMessage.access-date"
+msgstr ""
+"Zəhmət olmasa etibarlı bir giriş tarixi daxil edin (Format: İİİİ-AA-GG)."
+
+msgid "metadata.property.validationMessage.issue"
+msgstr "Zəhmət olmasa etibarlı bir nömrə daxil edin"
+
+msgid "metadata.property.validationMessage.conf-loc"
+msgstr "Zəhmət olmasa etibarlı bir konfrans yeri daxil edin"
+
+msgid "metadata.property.validationMessage.conf-name"
+msgstr "Zəhmət olmasa etibarlı bir konfrans adı daxil edin"
+
+msgid "metadata.property.validationMessage.conf-sponsor"
+msgstr "Zəhmət olmasa etibarlı bir konfrans sponsoru daxil edin"
+
+msgid "metadata.property.validationMessage.institution"
+msgstr "Zəhmət olmasa etibarlı bir qurum adı daxil edin"
+
+msgid "metadata.property.validationMessage.fpage"
+msgstr "Zəhmət olmasa etibarlı bir ilk səhifə daxil edin (numerik olmalıdır)."
+
+msgid "metadata.property.validationMessage.lpage"
+msgstr "Zəhmət olmasa etibarlı bir son səhifə daxil edin (numerik olmalıdır)"
+
+msgid "metadata.property.validationMessage.size"
+msgstr ""
+"Zəhmət olmasa etibarlı ümumi səhifə sayı daxil edin (numerik olmalıdır.)"
+
+msgid "metadata.property.validationMessage.publisher-loc"
+msgstr "Zəhmət olmasa etibarlı bir nəşr yeri daxil edin"
+
+msgid "metadata.property.validationMessage.publisher-name"
+msgstr "Zəhmət olmasa etibarlı bir naşir adı daxil edin"
+
+msgid "metadata.property.validationMessage.isbn"
+msgstr "Zəhmət olmasa (9 və ya 13 xanalı) ISBN nömrəsi daxil edin"
+
+msgid "metadata.property.validationMessage.uri"
+msgstr "Zəhmət olmasa nəşr üçün etibarlı bir alternativ link daxil edin"
+
+msgid "metadata.property.validationMessage.comment"
+msgstr "Zəhmət olmasa etibarlı bir şərh daxil edin"
+
+msgid "metadata.property.validationMessage.annotation"
+msgstr "Zəhmət olmasa etibarlı bir açıqlama daxil edin"
+
+msgid "metadata.property.validationMessage.title-type"
+msgstr ""
+"Zəhmət olmasa etibarlı başlıq növü müəyyən etdiyinizə əmin olun. Dəstəklənən "
+"dəyərlər \"qısaldılmış\", \"tərcümə edilmiş\", \"alternativ\" və \"tək "
+"format\"dır."
+
+msgid "metadata.property.validationMessage.partNumber"
+msgstr "Zəhmət olmasa etibarlı bir bölmə nömrəsi daxil edin"
+
+msgid "metadata.property.validationMessage.partName"
+msgstr "Zəhmət olmasa etibarlı bir bölmə adı daxil edin"
+
+msgid "metadata.property.validationMessage.name-type"
+msgstr ""
+"Zəhmət olmasa etibarlı bir ad növü müəyyən etdiyinizə əmin olun. Dəstəklənən "
+"adlar \"şəxsi\", \"korporativ\" və \"konfrans\"dır."
+
+msgid "submission.shortAuthor"
+msgstr "{$author} və digər"
+
+msgid "submission.citations.description"
+msgstr "Hər bir referansı yeni bir sətrə girin, beləcə çıxarıla bilər."
+
+msgid "submission.parsedCitations.description"
+msgstr "Aşağıdakı referanslar çıxarılıb və Məqalə üst datalarına bağlanacaq."
+
+msgid "submission.details"
+msgstr "Təqdimat təfərrüatları"
+
+msgid "submission.event.participantAdded"
+msgstr ""
+"{$userFullName} ({$username}) bu Məqalə üçün {$userGroupName} olaraq təyin edildi."
+
+msgid "submission.event.participantRemoved"
+msgstr ""
+"\"{$name}\" ({$username}) bu Məqalə üçün {$userGroupName}'dan çıxarıldı."
+
+msgid "submission.event.decisionReviewerEmailSent"
+msgstr ""
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Məqalə göndərildi"
+
+msgid "submission.event.copyrightAgreed"
+msgstr ""
+"{$name} ({$username}) təqdim etmək üçün müəllif hüququ şərtlərinə razılıq "
+"verdi."
+
+msgid "submission.event.fileRevised"
+msgstr ""
+"\"{$name}\" adlı yenidən baxış (Fayl ID {$submissionFileId}) kimi yükləndi."
+
+msgid "submission.event.reviewer.reviewerReminded"
+msgstr ""
+"{$senderName} nəzərdən keçirmə tapşırığı ilə əlaqədar {$recipientName} -ə "
+"bir öyüd-nəsihət göndərdi"
+
+msgid "submission.event.reviewer.reviewerRemindedAuto"
+msgstr ""
+"Avtomatik bir öyüd-nəsihət e-poçtu, rəy tapşırığı ilə əlaqədar "
+"{$recipientName} -ə göndərildi"
+
+msgid "submission.event.addedStageToAllowedAuthorMetadataChange"
+msgstr ""
+"Artıq {stage} mərhələsində Məqalə müəlliflərının üst dataları redaktə "
+"etməsinə icazə verilir."
+
+msgid "submission.event.removedStageToAllowedAuthorMetadataChange"
+msgstr ""
+"Artıq {stage} mərhələsində Məqalə müəlliflərının üst dataları redaktə "
+"etməsinə icazə verilmir."
+
+msgid "submission.history.noLogEntries"
+msgstr "Gündəlik giriş yoxdur."
+
+msgid "submission.outdatedVersion"
+msgstr ""
+"Bu, {$datePublished} tarixində nəşr edilən köhnə versiyadır. <a href=\""
+"{$urlRecentVersion}\">Güncəl görünüş</a>ə buradan daxil ola bilərsiniz."
+
+msgid "submission.layout.deleteGalleyStylesheet"
+msgstr "Bu stil səhifəsini silin."
+
+msgid "submission.layout.galleyLabelInstructions"
+msgstr ""
+"dizayn etiketi, fayl növünü göstərmək üçün istifadə olunur (Örneğin; HTML, "
+"PDF, PostScript)."
+
+msgid "submission.layout.galleyLabelRequired"
+msgstr "dizayn etiketi tələb olunur."
+
+msgid "submission.layout.galleyLanguageRequired"
+msgstr "dizayn dili tələb olunur."
+
+msgid "submission.layout.galleyLocaleRequired"
+msgstr "Sətir yeri tələb olunur."
+
+msgid "submission.layout.noStyleFile"
+msgstr "Bu dizgiyə stil səhifə faylı əlavə edilmədi"
+
+msgid "submission.reviewAndSubmit"
+msgstr "Nəzərdən keçirmək və təqdim etmək"
+
+msgid "submissions.queuedUnassigned"
+msgstr "Bu məqalə üçün redaktor təyin edilmədi"
+
+msgid "submission.submit.includeInBrowse"
+msgstr "Bu töhfə verən göz atma siyahılarına daxil edilsinmi?"
+
+msgid "submission.submit.submissionLocaleDescription"
+msgstr ""
+"Çoxdilli Məqalə qəbul edilir. Yuxarıdakı açılan siyahıdan Məqalənin əsas "
+"dilini seçin."
+
+msgid "submission.upload.instructions"
+msgstr "Dəyərləndirmə üçün ehtiyac olan bütün faylları yükləyin"
+
+msgid "submission.uploadSuccessful"
+msgstr "Faylınız yükləndi"
+
+msgid "submission.loadMessage"
+msgstr "Faylınız serverə yüklənərkən zəhmət olmasa gözləyin"
+
+msgid "submission.nameRequired"
+msgstr "Bu maddən üçün bir ad tələb olunur"
+
+msgid "submission.submit.form.dataAvailabilityRequired"
+msgstr "Zəhmət olmasa məlumatların mövcudluğunu daxil edin."
+
+msgid "submission.upload.possibleRevisionDescription"
+msgstr ""
+"Yüklənən faylın adı, daha əvvəl yüklənən adı \"{$revisedFileName}\" "
+"oxşardır. Bu faylın \"{$revisedFileName}\" yerinə keçməsimi gözlənilir? "
+"elədirsə, aşağıdakı faylı seçin. Əks halda, davam etməzdən əvvəl, \"Bu "
+"mövcud bir faylın yenidən baxışı deyil\"i seçin."
+
+msgid "submission.upload.selectMandatoryFileToRevise"
+msgstr "Zəhmət olmasa yenidən baxış etmək istədiyiniz faylı seçin"
+
+msgid "submission.upload.userGroup"
+msgstr "Bu faylı rolum kimi yükləyin ..."
+
+msgid "submission.upload.response.description"
+msgstr ""
+"Təyin olmuş faylı dəyərləndirdikdən sonra, aşağıdakı fayldakı bütün şərhləri "
+"saxlayın və/və ya faylı izahlı bir surətini (və ya başqa bir fayl) yükləyin."
+
+msgid "submission.upload.noAvailableReviewFiles"
+msgstr "Hazırda nəzərdən keçirə biləcəyiniz bir fayl yoxdur."
+
+msgid "editor.submission.roundStatus.reviewsReady"
+msgstr "Yeni dəyərləndirmə göndərildi."
+
+msgid "editor.submission.roundStatus.reviewsCompleted"
+msgstr "Bütün dəyərləndirmələr gözləyir və bir qərar tələb olunur."
+
+msgid "editor.submission.roundStatus.reviewOverdue"
+msgstr "Bir dəyərləndirmə gecikdi"
+
+msgid "editor.submission.roundStatus.pendingRecommendations"
+msgstr "Redaktorların təkliflərini gözləyirik."
+
+msgid "editor.submission.roundStatus.recommendationsReady"
+msgstr "Yeni redaksiya yazım təklifləri göndərildi."
+
+msgid "editor.submission.roundStatus.recommendationsCompleted"
+msgstr "Bütün tövsiyələr hazırdır və bir qərara ehtiyac var."
+
+msgid "editor.submission.decision.resubmit.log"
+msgstr ""
+
+msgid "editor.submission.decision.backFromCopyediting"
+msgstr "Kopyalama ləğv edin"
+
+msgid "editor.submission.decision.skipReview.description"
+msgstr ""
+
+msgid "editor.submission.decision.skipReview.log"
+msgstr ""
+
+msgid "editor.submission.decision.backToCopyediting.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.revertDecline.description"
+msgstr ""
+
+msgid "editor.submission.decision.revertDecline.log"
+msgstr ""
+
+msgid "editor.submission.decision.revertDecline.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.revertDecline.notifyAuthorsDescription"
+msgstr ""
+
+msgid "editor.submission.decision.revertInitialDecline.completed.description"
+msgstr ""
+
+msgid "editor.submission.decision.noDecisionsAvailable"
+msgstr ""
+"Bu mərhələdə redaktor qərarlarını aktivləşdirmək üçün bir redaktor təyin "
+"edin."
+
+msgid "submission.review.status.awaitingResponse"
+msgstr "Rəyçidən cavab gözlənir"
+
+msgid "submission.review.status.declined"
+msgstr "Rəyçi bu dəyərləndirmə istəyini rədd etdi"
+
+msgid "submission.licenseURLValid"
+msgstr "Zəhmət olmasa etibarlı bir uzaq URL daxil edin (http:// daxil)."
+
+msgid "submission.wizard.sectionClosed"
+msgstr "Bölmə bağlandı"

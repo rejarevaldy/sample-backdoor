@@ -1,0 +1,208 @@
+# Marie-Hélène Vézina [UdeMontréal] <marie-helene.vezina@umontreal.ca>, 2022, 2023.
+# Pierre Lasou <pierre.lasou@bibl.ulaval.ca>, 2023.
+# "Marie-Hélène Vézina [UdeMontréal]" <marie-helene.vezina@umontreal.ca>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-15T13:36:56-07:00\n"
+"PO-Revision-Date: 2023-11-01 14:38+0000\n"
+"Last-Translator: \"Marie-Hélène Vézina [UdeMontréal]\" <marie-helene."
+"vezina@umontreal.ca>\n"
+"Language-Team: French (Canada) <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"default/fr_CA/>\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+# localization file for fr_CA. Last revision 2019-10-22T04:44:15 by Marie-Hélène Vézina, Bibliothèques, Université de Montréal.
+msgid "default.groups.name.siteAdmin"
+msgstr "Administrateur-trice du site"
+
+msgid "default.groups.plural.siteAdmin"
+msgstr "Administrateurs-trices du site"
+
+msgid "default.groups.name.productionEditor"
+msgstr "Directeur-trice de production"
+
+msgid "default.groups.plural.productionEditor"
+msgstr "Directeurs-trices de production"
+
+msgid "default.groups.abbrev.productionEditor"
+msgstr "DirProd"
+
+msgid "default.groups.name.copyeditor"
+msgstr "Réviseur-e"
+
+msgid "default.groups.plural.copyeditor"
+msgstr "Réviseurs-es"
+
+msgid "default.groups.abbrev.copyeditor"
+msgstr "RÉV"
+
+msgid "default.groups.name.proofreader"
+msgstr "Correcteur-trice d'épreuves"
+
+msgid "default.groups.plural.proofreader"
+msgstr "Correcteurs-trices d'épreuves"
+
+msgid "default.groups.abbrev.proofreader"
+msgstr "CorEp"
+
+msgid "default.groups.name.designer"
+msgstr "Designer"
+
+msgid "default.groups.plural.designer"
+msgstr "Designers"
+
+msgid "default.groups.abbrev.designer"
+msgstr "Design"
+
+msgid "default.groups.name.internalReviewer"
+msgstr "Évaluateur-trice interne"
+
+msgid "default.groups.plural.internalReviewer"
+msgstr "Évaluateurs-trices internes"
+
+msgid "default.groups.abbrev.internalReviewer"
+msgstr "EvalInt"
+
+msgid "default.groups.name.marketing"
+msgstr "Coordonnateur-trice des ventes et du marketing"
+
+msgid "default.groups.plural.marketing"
+msgstr "Coordonnateurs-trices des ventes et du marketing"
+
+msgid "default.groups.abbrev.marketing"
+msgstr "CVM"
+
+msgid "default.groups.name.funding"
+msgstr "Coordonnateur-trice du financement"
+
+msgid "default.groups.plural.funding"
+msgstr "Coordonnateurs-trices du financement"
+
+msgid "default.groups.abbrev.funding"
+msgstr "CF"
+
+msgid "default.groups.name.indexer"
+msgstr "Indexeur-e"
+
+msgid "default.groups.plural.indexer"
+msgstr "Indexeurs-es"
+
+msgid "default.groups.abbrev.indexer"
+msgstr "Indx"
+
+msgid "default.groups.name.layoutEditor"
+msgstr "Responsable de la mise en page"
+
+msgid "default.groups.plural.layoutEditor"
+msgstr "Responsables de la mise en page"
+
+msgid "default.groups.abbrev.layoutEditor"
+msgstr "RespMP"
+
+msgid "default.groups.name.author"
+msgstr "Auteur-e"
+
+msgid "default.groups.plural.author"
+msgstr "Auteurs-es"
+
+msgid "default.groups.abbrev.author"
+msgstr "AU"
+
+msgid "default.groups.name.translator"
+msgstr "Traducteur-trice"
+
+msgid "default.groups.plural.translator"
+msgstr "Traducteurs-trices"
+
+msgid "default.groups.abbrev.translator"
+msgstr "Trad"
+
+msgid "default.groups.name.reader"
+msgstr "Lecteur-trice"
+
+msgid "default.groups.plural.reader"
+msgstr "Lecteurs-trices"
+
+msgid "default.groups.abbrev.reader"
+msgstr "Lect"
+
+msgid "default.genres.other"
+msgstr "Autre"
+
+msgid "default.genres.multimedia"
+msgstr "Multimédias"
+
+msgid "default.genres.image"
+msgstr "Image"
+
+msgid "default.genres.styleSheet"
+msgstr "Feuille de style HTML"
+
+msgid "default.contextSettings.emailSignature"
+msgstr ""
+"<br><br>—<br><p>Ceci est un message automatique de la revue <a href=\""
+"{$contextUrl}\">{$contextName}</a>.</p>"
+
+msgid "default.submission.step.beforeYouBegin"
+msgstr ""
+"<p>Merci de votre soumission à la revue {$contextName}. Il vous sera demandé "
+"de téléverser des fichiers, identifier des co-auteur.trice.s et fournir des "
+"informations comme le titre et le résumé.<p><p>Si vous ne l'avez pas encore "
+"fait, merci de consulter nos <a href=\"{$submissionGuidelinesUrl}\" target="
+"\"_blank\">Recommandations pour la soumission</a>. Lorsque vous remplissez "
+"les formulaires, merci de fournir autant de détails que possible pour aider "
+"nos éditeur.trice.s à évaluer votre travail. </p><p>Une fois que vous avez "
+"commencé, vous pouvez enregistrer votre soumission et y revenir plus tard. "
+"Vous pourrez alors réviser et modifier toutes les informations voulues avant "
+"de soumettre le tout.</p>"
+
+msgid "default.submission.step.uploadFiles"
+msgstr ""
+"<p> Fournir tous les fichiers dont notre équipe éditoriale pourrait avoir "
+"besoin pour évaluer votre soumission. En plus du fichier principal, vous "
+"pouvez soumettre des ensembles de données, une déclaration relative au "
+"conflit d'intérêt ou tout autre fichier potentiellement utile pour nos "
+"éditeur.trice.s.</p>"
+
+msgid "default.submission.step.contributors"
+msgstr ""
+"<p>Ajouter des informations relatives à tous les contributeurs.trices à "
+"cette soumission. Les contributeurs.trices ajouté.e.s ici se verront envoyer "
+"un courriel de confirmation de la soumission ainsi qu'une copie de toutes "
+"les décisions éditoriales enregistrées pour cette soumission.</p><p>Si un.e "
+"contributeur.trice ne peut être contacté.e par courriel parce qu'il ou elle "
+"doit demeurer anonyme ou n'a pas de compte de messagerie, veuillez ne pas "
+"entrer de courriel fictif. Vous pouvez ajouter des informations sur ce ou "
+"cette contributeur.trice à une étape ultérieure du processus de "
+"soumission.</p>"
+
+msgid "default.submission.step.details"
+msgstr ""
+"<p>Veuillez fournir les informations suivantes afin de nous aider à gérer "
+"votre soumission dans notre système.</p>"
+
+#, fuzzy
+msgid "default.submission.step.forTheEditors"
+msgstr ""
+"<p>S'il vous plaît, fournissez les détails suivants afin d'aider l'équipe "
+"éditoriale à gérer votre soumission.</p><p>Dans vos métadonnées, assurez "
+"vous de fournir des informations que vous pensez pouvoir être utile à la "
+"personne qui gérera votre soumission. Cette information peut être changée "
+"avant publication.</p>"
+
+#, fuzzy
+msgid "default.submission.step.review"
+msgstr ""
+"<p>Révisez l'information que vous avez fourni avant de finaliser votre "
+"soumission. Vous pouvez modifier chaque détails affichés en cliquant sur le "
+"bouton d'édition en haut de chaque section.</p><p>Une fois votre soumission "
+"transmise, un membre de l'équipe éditoriale lui sera assigné afin de "
+"l'évaluer. S'il vous plaît, assurez vous que les détails fournis sont le "
+"plus exactes possibles.</p>"

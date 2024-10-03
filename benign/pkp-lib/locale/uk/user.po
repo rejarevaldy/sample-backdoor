@@ -1,0 +1,796 @@
+# Petro Bilous <petrobilous@ukr.net>, 2023, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:50:09+00:00\n"
+"PO-Revision-Date: 2024-06-07 09:02+0000\n"
+"Last-Translator: Petro Bilous <petrobilous@ukr.net>\n"
+"Language-Team: Ukrainian <http://translate.pkp.sfu.ca/projects/pkp-lib/user/"
+"uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.accountInformation"
+msgstr "Інформація облікового запису"
+
+msgid "user.affiliation"
+msgstr "Місце роботи"
+
+msgid "user.affiliation.description"
+msgstr ""
+"(Ваша установа, наприклад, \"Київський національний університет імені Тараса "
+"Шевченка\")"
+
+msgid "user.affiliations"
+msgstr "Місця роботи"
+
+msgid "user.authorization.accessDenied"
+msgstr "Доступ заборонений."
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "Помилковий або неприпустимий маркер аутентифікації."
+
+msgid "user.authorization.contextRequired"
+msgstr ""
+"Не можна викликати цю операцію без контексту (е-видавництво, журнал, "
+"конференція тощо)."
+
+msgid "user.authorization.loginRequired"
+msgstr "Необхідно вказати ім'я користувача."
+
+msgid "user.authorization.privateOperation"
+msgstr ""
+"Об'єкт, до якого ви намагаєтеся отримати доступ, приватний або не існує."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr ""
+"Вам було відмовлено в доступі. Доступ до цього вебсайту наразі обмежено."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "Ваша поточна роль не передбачає прав на виконання цієї дії."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr ""
+"Ви не були призначені для цього подання з роллю, що дозволяє доступ до цієї "
+"операції. Роль, яка Вам надана, не дозволяє робити таку операцію."
+
+msgid "user.authorization.userGroupRequired"
+msgstr ""
+"Для виконання цієї дії вам необхідно коректно вказати групу користувачів."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"Перед тим, як продовжити, для цієї стадії необхідно призначити користувача, "
+"який виконуватиме роль менеджера (тобто випускового редактора)."
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr "Ви наразі не маєте доступу до тієї стадії робочого процесу."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "Не зазначено стадію робочого процесу."
+
+msgid "user.authorization.pluginRequired"
+msgstr "Плагін не зазначено, але він є обов'язковим."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "Ви не маєте дозволу на доступ до цього призначення перегляду."
+
+msgid "user.authorization.submissionQuery"
+msgstr "Ви не маєте дозволу на доступ до цієї дискусії."
+
+msgid "user.biography"
+msgstr "Біографічна довідка"
+
+msgid "user.changeMyPassword"
+msgstr "Змінити мій пароль"
+
+msgid "user.changePassword"
+msgstr "Змінити пароль"
+
+msgid "user.dateLastLogin"
+msgstr "Останній доступ"
+
+msgid "user.dateRegistered"
+msgstr "Дата реєстрації"
+
+msgid "user.editMyProfile"
+msgstr "Редагувати мій профіль"
+
+msgid "user.email"
+msgstr "Електронна пошта"
+
+msgid "user.givenName"
+msgstr "Ім'я"
+
+msgid "user.interests"
+msgstr "Наукові інтереси"
+
+msgid "user.gossip"
+msgstr "Приватні нотатки"
+
+msgid "user.gossip.description"
+msgstr ""
+"Нотатки, додані сюди, будуть відображені тільки лоя адміністраторів, "
+"менеджерів жураналу та редакторам."
+
+msgid "user.group"
+msgstr "Група користувачів"
+
+msgid "user.familyName"
+msgstr "Прізвище"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"Неприпустимий формат фото або зображення занадто великого розміру. "
+"Припустимими форматами є .gif, .jpg, або .png, розмір зображення не повинен "
+"бути більшим 150x150 пікселів."
+
+msgid "user.login.accountDisabledWithReason"
+msgstr "Ваш обліковий запис був відключений через таку причину: {$reason}"
+
+msgid "user.login.accountDisabled"
+msgstr ""
+"Ваш обліковий запис був відключений. Будь ласка, зверніться до "
+"адміністратора для додаткової інформації."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"Ми надіслали вам електронний лист для підтвердження на {$email}. Будь ласка, "
+"дотримуйтесь інструкцій у цьому електронному листі, щоб активувати новий "
+"обліковий запис. Якщо ви не бачите електронний лист, перевірте, чи не "
+"помістили його у вашу папку зі спамом."
+
+msgid "user.login.activate"
+msgstr "Активувати обліковий запис"
+
+msgid "user.login.activated"
+msgstr ""
+"Дякуємо за активацію вашого облікового запису. Тепер ви можете увійти до "
+"системи, використовуючи дані, вказані під час реєстрації."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"Перш ніж ви зможете зайти на вебсайт, ви повинні обрати новий пароль.<br /"
+"><br />Для того, щоб змінити пароль для вашого облікового запису, будь "
+"ласка, введіть нижче ім'я користувача, старий та новий паролі."
+
+msgid "user.login.forgotPassword"
+msgstr "Забули пароль?"
+
+msgid "user.login.loginError"
+msgstr ""
+"Невірне ім'я користувача / електронна пошта або пароль. Будь ласка, "
+"спробуйте знову."
+
+msgid "user.login"
+msgstr "Увійти"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"На вашу електронну адресу надіслано підтвердження, якщо було знайдено "
+"відповідний обліковий запис. Будь ласка, дотримуйтесь інструкцій в "
+"електронному листі, щоб скинути пароль."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"Вибачте, покликання застаріле або недійсне. Будь ласка, спробуйте знову "
+"змінити свій пароль."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"На вашу адресу електронної пошти було надіслано новий пароль. Тепер ви "
+"можете увійти на вебсайт зі своїм новим паролем."
+
+msgid "user.login.registeredEmail"
+msgstr "Адреса електронної пошти зареєстрованого користувача"
+
+msgid "user.login.registrationComplete"
+msgstr "Реєстрацію завершено"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "Дякуємо за реєстрацію! Що б ви хотіли зробити далі?"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Переглянути матеріали"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Надіслати новий матеріал"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "Продовжити перегляд в браузері"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "Реєстрація очікує перевірки"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "Запам'ятати мене"
+
+msgid "user.login.resetPassword"
+msgstr "Скинути пароль"
+
+msgid "user.logOut"
+msgstr "Вийти"
+
+msgid "user.logOutAs"
+msgstr "Вийти як"
+
+msgid "user.hello"
+msgstr "Вітаємо, "
+
+msgid "user.mailingAddress"
+msgstr "Поштова адреса"
+
+msgid "user.myAccount"
+msgstr "Мій обліковий запис"
+
+msgid "user.name"
+msgstr "Ім'я"
+
+msgid "user.password"
+msgstr "Пароль"
+
+msgid "user.repeatPassword"
+msgstr "Повторіть пароль"
+
+msgid "user.phone"
+msgstr "Телефон"
+
+msgid "user.preferredPublicName"
+msgstr "Бажане загальнодоступне ім’я"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"Будь ласка, укажіть повне ім'я, оскільки в опублікованій роботі має бути "
+"вказано автора. Приклад: Dr. Алан П. Мванденга"
+
+msgid "user.profile.changePasswordInstructions"
+msgstr ""
+"Щоб змінити пароль для вашого облікового запису, введіть нижче старий і "
+"новий паролі."
+
+msgid "user.profile.editProfile"
+msgstr "Редагування профілю"
+
+msgid "user.profile.form.countryRequired"
+msgstr "Необхідно вказати країну."
+
+msgid "user.profile.form.emailRequired"
+msgstr "Необхідно вказати дійсну адресу електронної пошти."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "Потрібне ім'я."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"Ви додали прізвище для мови, на якій відсутнє вказане ім'я. Будь ласка, "
+"додайте дане ім'я для цієї мови."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "Необхідно вказати поштову адресу."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "Вам необхідно ввести новий пароль."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "Ви вказали невірний старий пароль."
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "Сповіщення електронною поштою про нові випуски відкритого доступу"
+
+msgid "user.profile.form.passwordRequired"
+msgstr "Необхідно вказати пароль."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "Новий і старий паролі однакові."
+
+msgid "user.profile.form.profileImage"
+msgstr "Фото користувача"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "Сповіщення електронною поштою про опублікований новий випуск"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"Вказана адреса URL некоректна. Будь ласка, перевірте URL та спробуйте знову. "
+"(Підказка: спробуйте додати \"https://\" перед адресою URL)."
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "Необхідно вказати групу користувачів."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "Необхідно вказати ім'я користувача."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr "Ви повинні погодитися з умовами заяви про конфіденційність."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr "Залиште поле паролю пустим, щоб зберегти старий пароль."
+
+msgid "user.profile.newPassword"
+msgstr "Новий пароль"
+
+msgid "user.profile.oldPassword"
+msgstr "Старий пароль"
+
+msgid "user.profile"
+msgstr "Профіль"
+
+msgid "user.profile.publicProfile"
+msgstr "Профіль користувача"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "Повторіть новий пароль"
+
+msgid "user.login.registerNewAccount"
+msgstr "Реєстрація"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"Введіть електронну адресу вашого облікового запису нижче, і вам буде "
+"надіслано лист з інструкцією, як скинути ваш пароль."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"Так, я згоден, що мої дані збираються і зберігаються відповідно до <a href="
+"\"{$privacyUrl}\" target=\"_blank\"> заяви про конфіденційність </a>."
+
+msgid "user.register.form.emailConsent"
+msgstr ""
+"Так, я хотів би, щоб мене повідомляли про нові публікації та оголошення."
+
+msgid "user.register.form.emailExists"
+msgstr ""
+"Вибрана адреса електронної пошти вже використовується іншим користувачем."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "Введені паролі не збігаються."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "Поля адреси електронної пошти не збігаються."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"Ім'я користувача може містити лише цифри, маленькі латинські літери, символи "
+"підкреслення та дефіси, а також має починатися і закінчуватися літерою або "
+"цифрою."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "Необхідно вибрати принаймні одну роль."
+
+msgid "user.register.form.usernameExists"
+msgstr ""
+"Вказане ім'я користувача вже використовується в іншому обліковому записі."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "Пароль має складатися хоча б із {$length} знаків."
+
+msgid "user.register.registerAs"
+msgstr "Зареєструватися в \"{$contextName}\" як..."
+
+msgid "user.register"
+msgstr "Зареєструватися"
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"Ім'я користувача може складатися лише з маленьких букв, цифр, дефісів і "
+"підкреслень."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"Ви успішно зареєструвалися. <a href=\"{$profileUrl}\">Натисніть тут</a> tщоб "
+"заповнити свій профіль користувача."
+
+msgid "user.role.assistant"
+msgstr "Асистент"
+
+msgid "user.role.author"
+msgstr "Автор"
+
+msgid "user.role.author_s"
+msgstr "Автор(и)"
+
+msgid "user.role.authors"
+msgstr "Автори"
+
+msgid "user.role.editor"
+msgstr "Редактор"
+
+msgid "user.role.editors"
+msgstr "Редактори"
+
+msgid "user.role.reader"
+msgstr "Читач"
+
+msgid "user.role.readers"
+msgstr "Читачі"
+
+msgid "user.role.reviewer"
+msgstr "Рецензент"
+
+msgid "user.role.reviewers"
+msgstr "Рецензенти"
+
+msgid "user.role.siteAdmin"
+msgstr "Адміністратор вебсайту"
+
+msgid "user.role.siteAdmins"
+msgstr "Адміністратори вебсайту"
+
+msgid "user.role.copyeditor"
+msgstr "Літературний редактор"
+
+msgid "user.role.copyeditors"
+msgstr "Літературні редактори"
+
+msgid "user.role.proofreader"
+msgstr "Коректор"
+
+msgid "user.role.proofreaders"
+msgstr "Коректори"
+
+msgid "user.role.layoutEditor"
+msgstr "Верстальник"
+
+msgid "user.role.layoutEditors"
+msgstr "Верстальники"
+
+msgid "user.roles"
+msgstr "Ролі"
+
+msgid "user.sendPassword"
+msgstr "Підтвердження"
+
+msgid "user.sendPassword.description"
+msgstr "Надішліть мені листа з іменем користувача та паролем для доступу"
+
+msgid "user.signature"
+msgstr "Підпис"
+
+msgid "user.title"
+msgstr "Посада"
+
+msgid "user.url"
+msgstr "URL головної сторінки"
+
+msgid "user.userHome"
+msgstr "Головна користувача"
+
+msgid "user.username"
+msgstr "Ім'я користувача"
+
+msgid "user.workingLanguages"
+msgstr "Робочі мови"
+
+msgid "user.orcid"
+msgstr "ORCID ID"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"Ви вказали недійсний ORCID ID. Будь ласка, додайте повний URI (наприклад, "
+"\"https://orcid.org/0000-0002-1825-0097\")."
+
+msgid "user.profile.identity"
+msgstr "Ідентифікація"
+
+msgid "user.profile.contact"
+msgstr "Контактна інформація"
+
+msgid "user.profile.public"
+msgstr "Відкритий"
+
+msgid "user.apiKey"
+msgstr "Ключ API"
+
+msgid "user.apiKeyEnabled"
+msgstr ""
+"Дозволити зовнішнім додаткам за допомогою ключа API доступ до цього "
+"облікового запису"
+
+msgid "user.apiKey.generate"
+msgstr "Згенерувати новий ключ API"
+
+msgid "user.apiKey.remove"
+msgstr "Видалити"
+
+msgid "user.apiKey.generateWarning"
+msgstr ""
+"Створення нового ключа API призведе до того, що існуючий ключ стане "
+"недійсним для цього користувача."
+
+msgid "user.apiKey.removeWarning"
+msgstr ""
+"Видалення ключа скасує доступ до будь-якої програми, яка його використовує."
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "Ви впевнені, що хочете видалити цей ключ API?"
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"Перед створенням ключа API адміністратор вашого вебсайту повинен встановити "
+"таємний код у файлі конфігурації (\"api_key_secret\")."
+
+msgid "user.privacyLink"
+msgstr ""
+"Ваші дані зберігаються відповідно до нашої <a href=\"{$privacyUrl}\" target="
+"\"_blank\"> заяви про конфіденційність</a>."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr "Жодного користувача з указаною адресою електронної пошти не існує."
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr "Не вдається виконати запит на скидання пароля через {$reason}."
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr "Введіть новий пароль для оновлення пароля для входу."
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr "Пароль успішно оновлено. Будь ласка, увійдіть з оновленим паролем."
+
+msgid "user.usernameOrEmail"
+msgstr "Ім'я користувача або електронна пошта"
+
+msgid "user.authorization.submission.incomplete.workflowAccessRestrict"
+msgstr "Доступ до робочого процесу для неповного подання обмежено."
+
+msgid "orcid.displayName"
+msgstr "Плагін профілю ORCID"
+
+msgid "orcid.description"
+msgstr "Дозволяє імпортувати інформацію профілю користувача з ORCID."
+
+msgid "orcid.instructions"
+msgstr ""
+"Ви можете попередньо заповнити цю форму інформацією з профілю ORCID. Введіть "
+"адресу електронної пошти або ORCID ID, пов'язаний з профілем ORCID, і "
+"натисніть \"Подати\"."
+
+msgid "orcid.noData"
+msgstr "Не вдалося знайти дані від ORCID."
+
+msgid "orcid.emailOrOrcid"
+msgstr "Адреса електронної пошти або ORCID ID:"
+
+msgid "orcid.manager.orcidProfileSettings"
+msgstr "Налаштування профілю ORCID"
+
+msgid "orcid.manager.settings.description"
+msgstr ""
+"Будь ласка, налаштуйте доступ до API ORCID для використання з метою "
+"перенесення інформації профілю ORCID у профілі користувачів і авторів та "
+"оновлення підключених записів ORCID новими публікаціями (тільки для членів "
+"ORCID)."
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "API ORCID"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "Публічний"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "Публічний sandbox"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "Член"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "Членський sandbox"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "Клієнтський ID"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "Секрет клієнта"
+
+msgid "orcid.author.submission"
+msgstr "ORCID подання"
+
+msgid "orcid.author.submission.success"
+msgstr "Ваше подання успішно пов'язане з вашим ORCID iD."
+
+msgid "orcid.author.submission.failure"
+msgstr "Ваше подання не може бути успішно пов'язане з вашим ORCID iD. Будь ласка, зв'яжіться з менеджером журналу і повідомте йому ваше ім'я, ORCID iD та подробиці надісланого вами подання."
+
+msgid "orcid.authFailure"
+msgstr "Посилання для ORCID-авторизації вже використано або є недійсним."
+
+msgid "orcid.fieldset"
+msgstr "ORCID"
+
+msgid "orcid.connect"
+msgstr "Створіть або підключіть Ваш ORCID ID"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"Надіслати електронний лист для запиту ORCID-авторизації від авторів, коли "
+"статтю прийнято, наприклад, відправлено на літературне редагування"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "Помилки"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "Журнал запитів ORCID"
+
+msgid "orcid.author.accessDenied"
+msgstr "Доступ до ORCID було відхилено"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "Усе"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "Налаштування електронної пошти"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "Область доступу до профілю"
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr ""
+"API ORCID був налаштований глобально хостом. Такі облікові дані було "
+"збережено."
+
+msgid "orcid.manager.settings.hidden"
+msgstr "приховано"
+
+msgid "orcid.manager.settings.title"
+msgstr "Налаштування API ORCID"
+
+msgid "orcid.about.title"
+msgstr "Що таке ORCID?"
+
+msgid "orcid.verify.title"
+msgstr "ORCID-авторизація"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "Виберіть кількість записів до журналу, які робитимуться плагіном"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "Неправильний секрет клієнта"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "Неправильний клієнтський ID"
+
+msgid "orcid.about.display"
+msgstr ""
+"Щоб підтвердити, що Ви використовували свій iD і він був автентифікований, "
+"ми відображаємо значок ORCID iD <img src=\"https://info.orcid.org/wp-content/"
+"uploads/2020/12/ORCIDiD_icon16x16.png\" alt=\"iD icon\" width=\"16\" height="
+"\"16\" border=\"0\"> поряд із Вашим ім'ям на сторінці статті Вашого подання "
+"і на вашому загальнодоступному профілі користувача.<br>\n"
+"\t\tДізнайтеся більше в <a href=\"https://info.orcid.org/"
+"how-should-an-orcid-id-be-displayed/\">How should an ORCID iD be "
+"displayed.</a>"
+
+msgid "orcid.about.display.title"
+msgstr "Де відображаються ORCID ID?"
+
+msgid "orcid.about.howAndWhyMemberAPI"
+msgstr ""
+"Цей журнал збирає Ваш ORCID iD, щоб ми та широка спільнота могли бути "
+"впевнені, що Ви правильно ідентифіковані та пов'язані з Вашою публікацією(ми)"
+". Це гарантує, що Ваш зв'язок із повним обсягом твору залишиться з Вами "
+"протягом усієї Вашої кар'єри. <br>\n"
+"\tКоли ви натискаєте кнопку \"Авторизуватися\" у спливаючому вікні ORCID, ми "
+"попросимо Вас поділитися своїм iD за допомогою автентифікованого процесу - "
+"або зареєструвавши ORCID iD, або, якщо він у Вас уже є, увійшовши у свій "
+"обліковий запис ORCID, а потім надавши нам дозвіл на отримання Вашого ORCID "
+"iD. Ми робимо це, щоб переконатися, що Ви правильно ідентифіковані та "
+"надійно підключені до Вашого ORCID iD. <br>\n"
+"\tДізнайтеся більше в <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">Які є особливості входу.</a> <br>\n"
+"\tЦей журнал збиратиме та відображатиме iD автентифікованих авторів та "
+"співавторів на сторінці профілю OJS і статті. Крім того, метадані статті "
+"автоматично будуть переміщені до Вашого запису ORCID, що дозволить нам "
+"допомогти Вам підтримуватиВаш запис в актуальному стані з надійною "
+"інформацією. Дізнайтеся більше в <a href =\"https://info.orcid.org/"
+"six-ways-to-make-your-orcid-id-work-for-you/\">Six ways to make your ORCID "
+"iD work for you!</a>\n"
+
+msgid "orcid.about.howAndWhyPublicAPI"
+msgstr ""
+"Цей журнал збирає Ваш ORCID iD, щоб ми та широка спільнота могли бути "
+"впевнені, що Ви правильно ідентифіковані та пов'язані з Вашою публікацією(ми)"
+". Це гарантує, що Ваш зв'язок із повним обсягом твору залишиться з Вами "
+"протягом усієї Вашої кар'єри. <br>\n"
+"\tКоли ви натискаєте кнопку \"Авторизуватися\" у спливаючому вікні ORCID, ми "
+"попросимо Вас поділитися своїм iD за допомогою автентифікованого процесу - "
+"або зареєструвавши ORCID iD, або, якщо він у Вас уже є, увійшовши у свій "
+"обліковий запис ORCID, а потім надавши нам дозвіл на отримання Вашого ORCID "
+"iD. Ми робимо це, щоб переконатися, що Ви правильно ідентифіковані та "
+"надійно підключені до Вашого ORCID iD. <br>\n"
+"\tДізнайтеся більше в <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">Які є особливості входу.</a> <br>\n"
+"\tЦей журнал збиратиме та відображатиме iD автентифікованих авторів та "
+"співавторів на сторінці профілю OJS і статті."
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "Як і чому ми збираємо ORCID ID?"
+
+msgid "orcid.about.orcidExplanation"
+msgstr ""
+"ORCID є незалежною некомерційною організацією, яка надає постійний "
+"ідентифікатор – ORCID ID, який відрізняє Вас від інших дослідників, і "
+"механізм зв'язку Ваших результатів досліджень і діяльності з Вашим ID. ORCID "
+"інтегровано в багато систем, що використовуються видавцями, спонсорами, "
+"установами й іншими послугами, пов'язаними з дослідженнями. Дізнайтеся "
+"більше на <a href=\"https://orcid.org\">orcid.org</a>."
+
+msgid "orcid.authorise"
+msgstr "Авторизуйтеся та підключіть свій ORCID ID"
+
+msgid "orcid.failure.contact"
+msgstr ""
+"Будь ласка, зв'яжіться з менеджером журналу під своїм ім'ям, ORCID ID і з "
+"подробицями Вашого подання."
+
+msgid "orcid.verify.denied"
+msgstr "Вам було відмовлено в доступі до Вашого запису ORCID."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "ORCID ID вже було збережено для цього подання."
+
+msgid "orcid.verify.failure"
+msgstr "Не вдалося перевірити Ваш ORCID ID. Покликання більше не є дійсним."
+
+msgid "orcid.verify.success"
+msgstr "Ваш ORCID ID перевірено й успішно пов'язано з поданням."
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr "Подання буде додано до Вашого запису ORCID під час опублікування."
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr "Не вдалося додати подання до Вашого запису ORCID."
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "Подання додано до Вашого запису ORCID."
+
+msgid "orcid.author.unauthenticated"
+msgstr ""
+"ORCID ID не автентифіковано! Будь ласка, надішліть запит на автентифікацію "
+"від учасника."
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "Дивіться нижче для запиту автентифікованого ORCID ID"
+
+msgid "orcid.author.deleteORCID"
+msgstr "Видалити ORCID ID і токен доступу!"
+
+msgid "orcid.author.requestAuthorization"
+msgstr "Надіслати електронний лист, щоб запитати ORCID-авторизацію від учасника"
+
+msgid "orcid.author.accessTokenStored"
+msgstr "Доступ до запису ORCID, наданий {$orcidAccessScope}, дійсний до"
+
+msgid "orcid.manager.settings.saved"
+msgstr "Налаштування збережено"
+
+msgid "orcid.manager.settings.city"
+msgstr "Місто"
+
+msgid "orcid.invalidClient"
+msgstr "Недійсні облікові дані клієнта"
+
+msgid "orcid.manager.status.configuration.journal"
+msgstr "Налаштовано за журналом"
+
+msgid "orcid.manager.status.configuration.clientIdValid"
+msgstr "Клієнтський ID коректний"
+
+msgid "orcid.manager.status.configuration.clientSecretValid"
+msgstr "Клієнтський ключ (secret) коректний"
+
+msgid "orcid.manager.status.configuration.clientIdInvalid"
+msgstr "Клієнтський ID некоректний; будь ласка, перевірте введені дані"
+
+msgid "orcid.verify.duplicateOrcidAuthor"
+msgstr "Виявлено дублікати ORCID учасників."
+
+msgid "orcid.verify.hasUnauthenticatedOrcid"
+msgstr "Виявлено неавтентифіковані ORCID учасників."
+
+msgid "orcid.manager.status.configuration.clientSecretInvalid"
+msgstr "Клієнтський ID коректний; будь ласка, перевірте свої облікові дані"

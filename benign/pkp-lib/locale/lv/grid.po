@@ -1,0 +1,721 @@
+# Ieva Tiltina <pastala@gmail.com>, 2022, 2023, 2024.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-23 01:11+0000\n"
+"Last-Translator: Ieva Tiltina <pastala@gmail.com>\n"
+"Language-Team: Latvian <http://translate.pkp.sfu.ca/projects/pkp-lib/grid/lv/"
+">\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
+"19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "grid.noItems"
+msgstr "Nav vienību"
+
+msgid "grid.settings"
+msgstr "Iestatījumi"
+
+msgid "grid.noAuditors"
+msgstr "Nav auditoru"
+
+msgid "grid.remotelyHostedItem"
+msgstr "Šī vienība tiek mitināta attālināti."
+
+msgid "grid.action.uninstall"
+msgstr "Atinstalēt"
+
+msgid "grid.action.manageAccess"
+msgstr "Pārvaldīt piekļuvi"
+
+msgid "grid.action.sort"
+msgstr "Atlasīt"
+
+msgid "grid.action.addItem"
+msgstr "Pievienot vienību"
+
+msgid "grid.action.addNote"
+msgstr "Pievienot piezīmi"
+
+msgid "grid.action.addQuery"
+msgstr "Pievienot diskusiju"
+
+msgid "grid.action.readQuery"
+msgstr "Lasīt diskusiju"
+
+msgid "grid.action.deleteQuery"
+msgstr "Dzēst diskusiju"
+
+msgid "grid.action.updateQuery"
+msgstr "Atjaunināt diskusiju"
+
+msgid "grid.action.addUser"
+msgstr "Pievienot lietotāju"
+
+msgid "grid.action.unassignReviewer"
+msgstr "Atcelt šo recenzentu"
+
+msgid "grid.action.approveCopyedit"
+msgstr "Apstiprināt šo literāri rediģēto datni, lai to nosūtītu uz nākamo posmu"
+
+msgid "grid.action.reload"
+msgstr "Pārlādēt"
+
+msgid "grid.action.delete"
+msgstr "Dzēst"
+
+msgid "grid.action.deleteFile"
+msgstr "Dzēst datni"
+
+msgid "grid.action.deleteMedia"
+msgstr "Dzēst multivides datnes"
+
+msgid "grid.action.editMedia"
+msgstr "Rediģēt multivides datnes"
+
+msgid "grid.action.editSection"
+msgstr "Rediģēt sadaļu"
+
+msgid "grid.action.export"
+msgstr "Eksportēt"
+
+msgid "grid.action.deleteSection"
+msgstr "Dzēst sadaļu"
+
+msgid "grid.action.editorialHistory"
+msgstr "Redakcijas vēsture"
+
+msgid "grid.action.remove"
+msgstr "Noņemt"
+
+msgid "grid.action.edit"
+msgstr "Rediģēt"
+
+msgid "grid.action.approve"
+msgstr "Apstiprināt"
+
+msgid "grid.action.disapprove"
+msgstr "Neapstiprināt"
+
+msgid "grid.action.setApproval"
+msgstr "Iestatīt apstiprinājumu"
+
+msgid "grid.action.moreInformation"
+msgstr "Papildu informācija"
+
+msgid "grid.action.restoreDefaults"
+msgstr "Atjaunot noklusējuma iestatījumus"
+
+msgid "grid.action.restoreDefaults.confirm"
+msgstr "Vai tiešām vēlaties atjaunot noklusējuma iestatījumus?"
+
+msgid "grid.action.addAuthor"
+msgstr "Pievienot autoru"
+
+msgid "grid.action.editAuthor"
+msgstr "Rediģēt autoru"
+
+msgid "grid.action.deleteAuthor"
+msgstr "Dzēst autoru"
+
+msgid "grid.action.addAuditor"
+msgstr "Pievienot auditoru"
+
+msgid "grid.action.upgrade"
+msgstr "Atjaunināt"
+
+msgid "grid.action.order"
+msgstr "Kārtība"
+
+msgid "grid.action.saveOrdering"
+msgstr "Saglabāt kārtību"
+
+msgid "grid.action.cancelOrdering"
+msgstr "Atcelt kārtošanu"
+
+msgid "grid.action.extendAll"
+msgstr "Paplašināt visu"
+
+msgid "grid.action.collapse"
+msgstr "Sakļaut"
+
+msgid "grid.action.collapseAll"
+msgstr "Sakļaut visu"
+
+msgid "grid.action.wizard"
+msgstr "Iestatījumu vednis"
+
+msgid "grid.action.moveItem"
+msgstr "Pārvietot vienību"
+
+msgid "grid.action.downloadAll"
+msgstr "Lejupielādēt visus failus arhīva formātā"
+
+msgid "grid.action.readReview"
+msgstr "Lasīt šo recenziju"
+
+msgid "grid.action.email"
+msgstr "Sūtīt e-pastu"
+
+msgid "grid.action.addReviewer"
+msgstr "Pievienot recenzentu"
+
+msgid "grid.action.addFile"
+msgstr "Pievienot failu"
+
+msgid "grid.action.editFile"
+msgstr "Rediģēt failu"
+
+msgid "grid.action.selectFiles"
+msgstr "Atlasīt pārvaldāmos failus"
+
+msgid "grid.action.requestRevisions"
+msgstr "Pieprasīt šī iesniegtā materiāla labojumus"
+
+msgid "grid.action.accept"
+msgstr "Pieņemt šo materiālu"
+
+msgid "grid.action.decline"
+msgstr "Noraidīt šo materiālu"
+
+msgid "grid.action.internalReview"
+msgstr "Nosūtīt šo materiālu iekšējai recenzēšanai"
+
+msgid "grid.action.externalReview"
+msgstr "Nosūtīt šo materiālu ārējai recenzēšanai"
+
+msgid "grid.action.sendToProduction"
+msgstr "Nosūtīt šo materiālu izstrādei"
+
+msgid "grid.action.settings"
+msgstr "Iestatījumi"
+
+msgid "grid.action.importexport"
+msgstr "Satura vai vietnes datu importēšana vai eksportēšana"
+
+msgid "grid.action.orderItems"
+msgstr "Ieslēgt kārtošanas režīmu"
+
+msgid "grid.action.resetAll"
+msgstr "Visu vienību noklusējuma vērtību atiestatīšana"
+
+msgid "grid.action.addPreparedEmail"
+msgstr "Pievienot jaunu e-pasta veidni"
+
+msgid "grid.action.editPreparedEmail"
+msgstr "Rediģēt šo e-pasta veidni"
+
+msgid "grid.action.disableEmail"
+msgstr "Deaktivizēt šo e-pasta veidni"
+
+msgid "grid.action.resetEmail"
+msgstr "Atiestatīt šo e-pasta veidni uz noklusējuma iestatījumu"
+
+msgid "grid.action.expandAll"
+msgstr "Izvērst visu"
+
+msgid "grid.action.requestAccount"
+msgstr "Pievienot dalībnieku"
+
+msgid "grid.action.expand"
+msgstr "Izvērst"
+
+msgid "grid.action.notify"
+msgstr "Paziņot šim lietotājam"
+
+msgid "grid.action.addUserGroup"
+msgstr "Pievienot jaunu lietotāju grupu"
+
+msgid "grid.action.editUserGroup"
+msgstr "Rediģēt šo lietotāju grupu"
+
+msgid "grid.action.removeUserGroup"
+msgstr "Dzēst šo lietotāju grupu"
+
+msgid "grid.action.disable"
+msgstr "Atspējot"
+
+msgid "grid.action.details"
+msgstr "Skatīt šo vienību"
+
+msgid "grid.action.enrolExisting"
+msgstr "Reģistrēt esošo lietotāju kā recenzentu"
+
+msgid "grid.action.selectCreate"
+msgstr "Izveidot jaunu recenzentu"
+
+msgid "grid.action.search"
+msgstr "Meklēšana"
+
+msgid "grid.action.advancedSearch"
+msgstr "Izvērstā meklēšana"
+
+msgid "grid.action.viewLibrary"
+msgstr "Skatīt dokumentu bibliotēku"
+
+msgid "grid.action.viewMetadata"
+msgstr "Skatīt šī iesniegtā materiāla metadatus"
+
+msgid "grid.action.sendReminder"
+msgstr "Nosūtīt šim lietotājam uzdevuma atgādinājumu"
+
+msgid "grid.action.newRound"
+msgstr "Izveidot jaunu kārtu"
+
+msgid "grid.action.viewReviewGuidelines"
+msgstr "Skatīt Vadlīnijas recenzentiem"
+
+msgid "grid.action.viewCompetingInterestGuidelines"
+msgstr "Skatīt interešu konflikta vadlīniju politiku"
+
+msgid "grid.action.thankReviewer"
+msgstr "Nosūtīt pateicības ziņojumu šim recenzentam"
+
+msgid "grid.action.uploadFile"
+msgstr "Augšupielādēt failu"
+
+msgid "grid.action.addAnnouncementType"
+msgstr "Pievienot paziņojuma tipu"
+
+msgid "grid.action.addAnnouncement"
+msgstr "Pievienot paziņojumu"
+
+msgid "grid.action.addInstitution"
+msgstr "Pievienot iestādi"
+
+msgid "grid.action.mergeUser"
+msgstr "Apvienot lietotāju"
+
+msgid "grid.action.unassignUser"
+msgstr "Atcelt lietotāju"
+
+msgid "grid.action.history"
+msgstr "Skatīt vēsturi"
+
+msgid "grid.action.unconsiderReview"
+msgstr "Šī recenzēšana ir pabeigta, bet to var neņemt vērā"
+
+msgid "grid.action.enable"
+msgstr "Iespējot"
+
+msgid "grid.action.bookInfo"
+msgstr "Materiāla iesniegšanas informācija"
+
+msgid "grid.action.logInAs"
+msgstr "Pieteikties kā"
+
+msgid "grid.action.exportAllUsers"
+msgstr "Eksportēt visus lietotājus"
+
+msgid "grid.users.confirmExportAllUsers"
+msgstr "Vai tiešām vēlaties eksportēt visus lietotājus?"
+
+msgid "grid.action.activate"
+msgstr "Aktivizēt"
+
+msgid "grid.action.deactivate"
+msgstr "Deaktivizēt"
+
+msgid "grid.action.copy"
+msgstr "Kopēt"
+
+msgid "grid.action.preview"
+msgstr "Priekšskatīt"
+
+msgid "grid.action.install"
+msgstr "Uzstādīt"
+
+msgid "grid.action.moreItems"
+msgstr "Ielādēt vairāk"
+
+msgid "grid.action.users"
+msgstr "Skatīt/izvēlēties lietotājus"
+
+msgid "grid.task.status.completed"
+msgstr "Šis uzdevums ir izpildīts"
+
+msgid "grid.task.status.new"
+msgstr "Atzīmēts pēc apsvēršanas"
+
+msgid "grid.task.status.uploaded"
+msgstr "Slejas virsraksts norāda, kas augšupielādējis šo failu"
+
+msgid "grid.task.status.unfinished"
+msgstr "Uzdevums nav pabeigts"
+
+msgid "grid.task.status.reviewReady"
+msgstr ""
+"Šī recenzija ir gatava. Lai to izlasītu, noklikšķiniet uz piezīmes ikonas "
+"kreisajā pusē."
+
+msgid "grid.columns.actions"
+msgstr "Darbības"
+
+msgid "grid.columns.institution"
+msgstr "Iestāde"
+
+msgid "grid.columns.url"
+msgstr "URL"
+
+msgid "grid.columns.auditor"
+msgstr "Auditors"
+
+msgid "grid.columns.locale"
+msgstr "Lokalizācija"
+
+msgid "grid.columns.locale.code"
+msgstr "Kods"
+
+msgid "grid.sponsor.title"
+msgstr "Sponsorējošās organizācijas"
+
+msgid "grid.action.addSponsor"
+msgstr "Pievienot sponsoru"
+
+msgid "grid.action.deleteSponsor"
+msgstr "Dzēst sponsoru"
+
+msgid "grid.action.editSponsor"
+msgstr "Rediģēt sponsoru"
+
+msgid "grid.action.addSeries"
+msgstr "Pievienot sēriju"
+
+msgid "grid.action.editSeries"
+msgstr "Rediģēt sēriju"
+
+msgid "grid.action.deleteSeries"
+msgstr "Dzēst sēriju"
+
+msgid "grid.action.addCategory"
+msgstr "Pievienot kategoriju"
+
+msgid "grid.action.editCategory"
+msgstr "Rediģēt kategoriju"
+
+msgid "grid.action.deleteCategory"
+msgstr "Dzēst kategoriju"
+
+msgid "grid.contributor.title"
+msgstr "Atbalsta avoti"
+
+msgid "grid.action.addContributor"
+msgstr "Pievienot līdzautoru"
+
+msgid "grid.action.deleteContributor"
+msgstr "Dzēst līdzautoru"
+
+msgid "grid.action.deleteContributor.confirmationMessage"
+msgstr ""
+"Vai tiešām vēlaties noņemt {$name} kā līdzautoru? Šo darbību nevar atsaukt."
+
+msgid "grid.action.newVersion"
+msgstr "Izveidot jaunu versiju"
+
+msgid "grid.reviewForm.title"
+msgstr "Recenzijas veidlapas"
+
+msgid "grid.reviewFormElement.responseItems"
+msgstr "Atbildes iespējas"
+
+msgid "grid.noFiles"
+msgstr "Nav datņu"
+
+msgid "grid.libraryFiles.column.files"
+msgstr "Datnes"
+
+msgid "grid.libraryFiles.submission.title"
+msgstr "Iesniegto materiālu bibliotēka"
+
+msgid "grid.libraryFiles.editorial.title"
+msgstr "Redakcijas bibliotēka"
+
+msgid "grid.libraryFiles.review.title"
+msgstr "Recenzēšanas bibliotēka"
+
+msgid "grid.libraryFiles.production.title"
+msgstr "Izstrādes bibliotēka"
+
+msgid "grid.libraryFiles.productionTemplate.title"
+msgstr "Izstrādes veidņu bibliotēka"
+
+msgid "grid.submissionChecklist.title"
+msgstr "Materiāla iesniegšanas kontrolsaraksts"
+
+msgid "grid.submissionChecklist.column.checklistItem"
+msgstr "Kontrolsaraksta vienība"
+
+msgid "author.users.contributor.principalContact"
+msgstr "Galvenā kontaktpersona"
+
+msgid "author.users.contributor.setPrincipalContact"
+msgstr "Iestatīt galveno kontaktpersonu"
+
+msgid "contributor.listPanel.preview"
+msgstr "Priekšskatījums"
+
+msgid "contributor.listPanel.preview.description"
+msgstr "Šīs publikācijas līdzautori tiks norādīti šādos formātos."
+
+msgid "contributor.listPanel.preview.format"
+msgstr "Formāts"
+
+msgid "contributor.listPanel.preview.display"
+msgstr "Parādīt"
+
+msgid "contributor.listPanel.preview.abbreviated"
+msgstr "Saīsināts"
+
+msgid "contributor.listPanel.preview.publicationLists"
+msgstr "Publikāciju saraksti"
+
+msgid "contributor.listPanel.preview.full"
+msgstr "Pilns"
+
+msgid "grid.roles.currentRoles"
+msgstr "Pašreizējās lomas"
+
+msgid "grid.roles.add"
+msgstr "Izveidot jaunu lomu"
+
+msgid "grid.roles.stageAssignment"
+msgstr "Posma piešķiršana"
+
+msgid "grid.user.currentUsers"
+msgstr "Pašreizējie lietotāji"
+
+msgid "grid.user.currentEnrollment"
+msgstr "Pašreiz reģistrētie"
+
+msgid "grid.user.allRoles"
+msgstr "Visas lomas"
+
+msgid "grid.user.allPermissionLevels"
+msgstr "Visi pielaides līmeņi"
+
+msgid "grid.user.add"
+msgstr "Pievienot lietotāju"
+
+msgid "grid.user.enroll"
+msgstr "Reģistrēt lietotāju"
+
+msgid "grid.user.edit"
+msgstr "Rediģēt lietotāju"
+
+msgid "grid.user.email"
+msgstr "E-pasts"
+
+msgid "grid.user.enable"
+msgstr "Iespējot"
+
+msgid "grid.user.disable"
+msgstr "Atspējot"
+
+msgid "grid.user.disableReason"
+msgstr "Lietotāja atspējošanas iemesls"
+
+msgid "grid.user.enableReason"
+msgstr "Lietotāja iespējošanas iemesls"
+
+msgid "grid.user.error"
+msgstr ""
+"Šī lietotāja administrēšanā tika pieļauta kļūda. Lūdzu, mēģiniet vēlreiz."
+
+msgid "grid.user.errorEmail"
+msgstr ""
+"Nosūtot šo e-pastu, tika pieļauta kļūda. Lūdzu, pārliecinieties, ka e-pasta "
+"servera konfigurācija darbojas, un/vai sazinieties ar sistēmas "
+"administratoru."
+
+msgid "grid.user.cannotAdminister"
+msgstr ""
+"Jums nav pietiekamu atļauju, lai administrētu šo lietotāju. Lai administrētu "
+"lietotāju, jums jābūt vai nu vietnes administratoram, vai arī jāadministrē "
+"visi konteksti, kuros šis lietotājs ir reģistrēts."
+
+msgid "grid.user.mustProvideName"
+msgstr "Lūdzu, vispirms norādiet kaut vai lietotāja uzvārdu."
+
+msgid "grid.user.generatePassword"
+msgstr "Izveidot paroli"
+
+msgid "grid.user.generatePasswordDescription"
+msgstr "Izveidot šim lietotājam nejaušas izvēles paroli."
+
+msgid "grid.user.notifyUser"
+msgstr "Paziņot lietotājam"
+
+msgid "grid.user.notifyUserDescription"
+msgstr "Nosūtīt lietotājam sveiciena e-pastu."
+
+msgid "grid.user.mustChangePassword"
+msgstr "Mainīt paroli"
+
+msgid "grid.user.mustChangePasswordDescription"
+msgstr "Lietotājam nākamajā pieteikšanās reizē jāmaina parole."
+
+msgid "grid.user.mustChangePasswordDescriptionOld"
+msgstr "Pieprasīt lietotājam nomainīt paroli nākamajā pieteikšanās reizē."
+
+msgid "grid.user.moreDetails"
+msgstr "Lietotāja dati (sīkāk)"
+
+msgid "grid.user.lessDetails"
+msgstr "Lietotāja dati (mazāk)"
+
+msgid "grid.user.userDetails"
+msgstr "Lietotāja dati"
+
+msgid "grid.user.userRoles"
+msgstr "Lietotāja lomas"
+
+msgid "grid.user.userNoRoles"
+msgstr "Šim lietotājam nav lomu."
+
+msgid "grid.user.step1"
+msgstr "1. solis: Aizpildīt lietotāja datus"
+
+msgid "grid.user.step2"
+msgstr "2. solis: Pievienot lietotāja lomas {$userFullName}"
+
+msgid "grid.user.addRoles"
+msgstr "Pievienot lomas"
+
+msgid "grid.user.addRole"
+msgstr "Pievienot lomu"
+
+msgid "grid.user.selectUser"
+msgstr "Atlasīt lietotāju"
+
+msgid "grid.user.pleaseSelectUser"
+msgstr "Lūdzu, izvēlieties lietotāju"
+
+msgid "grid.user.confirmLogInAs"
+msgstr ""
+"Pieteikties sistēmā kā šim lietotājam? Visas jūsu veiktās darbības tiks "
+"attiecinātas uz šo lietotāju."
+
+msgid "grid.user.mergeUsers"
+msgstr "Apvienot lietotājus"
+
+msgid "grid.user.mergeUsers.mergeUser"
+msgstr "Apvienot lietotāju"
+
+msgid "grid.user.mergeUsers.mergeIntoUser"
+msgstr "Apvienot ar šo lietotāju"
+
+msgid "grid.user.mergeUsers.allUsers"
+msgstr "Visi reģistrētie lietotāji"
+
+msgid "grid.user.mergeUsers.confirm"
+msgstr ""
+"Vai tiešām vēlaties apvienot kontu ar lietotājvārdu \"{$oldUsername}\" ar "
+"kontu ar lietotājvārdu \"{$newUsername}\"? Konts ar lietotājvārdu \""
+"{$oldUsername}\" pēc tam neeksistēs. Šī darbība nav atgriezeniska."
+
+msgid "grid.preparedEmails.title"
+msgstr "Gatavas e-pasta veidnes"
+
+msgid "grid.preparedEmails.currentList"
+msgstr "Pašreizējais saraksts"
+
+msgid "grid.plugin.allCategories"
+msgstr "Visas kategorijas"
+
+msgid "grid.plugin.disable"
+msgstr "Vai tiešām vēlaties atspējot šo spraudni?"
+
+msgid "grid.action.fileUnconsider"
+msgstr "Veikti korektūras labojumi. Šo uzdevumu var neņemt vērā"
+
+msgid "grid.artworkFile.caption"
+msgstr "Paraksts"
+
+msgid "grid.artworkFile.credit"
+msgstr "Avots"
+
+msgid "grid.artworkFile.copyrightOwner"
+msgstr "Autortiesību īpašnieks"
+
+msgid "grid.artworkFile.copyrightContact"
+msgstr "Kontaktinformācija (ja nav autors/izdevējs)"
+
+msgid "grid.artworkFile.permissionTerms"
+msgstr "Atļaujas nosacījumi"
+
+msgid "grid.artworkFile.placement"
+msgstr "Ievietošana materiālā"
+
+msgid "grid.userGroup.assignStage"
+msgstr "Piešķirt posmu"
+
+msgid "grid.userGroup.unassignStage"
+msgstr "Atcelt posmu"
+
+msgid "grid.userGroup.allStages"
+msgstr "Visi darbplūsmas posmi"
+
+msgid "grid.userGroup.filter.listRoles"
+msgstr "Uzskaitīt lomas, kas piešķirtas"
+
+msgid "grid.userGroup.filter.permissionLevel"
+msgstr "Ar atļaujas līmeni, kas iestatīts uz"
+
+msgid "grid.userGroup.cantRemoveDefaultUserGroup"
+msgstr "Loma {$userGroupName} ir noklusējuma loma, un to nevar noņemt."
+
+msgid "grid.userGroup.cantRemoveUserGroup"
+msgstr ""
+"Nevar noņemt {$userGroupName} lomu. Pašlaik tai ir piešķirts {$usersCount} "
+"lietotājs(-i)."
+
+msgid "grid.userGroup.removed"
+msgstr "{$userGroupName} loma noņemta."
+
+msgid "grid.userGroup.assignedStage"
+msgstr "{$userGroupName} loma piešķirta {$stageName} posmam."
+
+msgid "grid.userGroup.unassignedStage"
+msgstr "{$userGroupName} loma nav piešķirta no {$stageName} posma."
+
+msgid "grid.submission.itemTitle"
+msgstr "Autors; Virsraksts"
+
+msgid "grid.submission.active.selectOrphaned"
+msgstr "Iekļaut nepilnīgus materiālus, kurus nav iesniedzis autors."
+
+msgid "grid.action.addNavigationMenu"
+msgstr "Pievienot izvēlni"
+
+msgid "grid.action.addNavigationMenuItem"
+msgstr "Pievienot vienību"
+
+msgid "grid.navigationMenus.navigationMenuItems.noneExist"
+msgstr "Nav navigācijas izvēlnes vienību"
+
+msgid "grid.navigationMenus.navigationMenu.noneExist"
+msgstr "Nav navigācijas izvēlnes"
+
+msgid "grid.navigationMenus.navigationMenu.selectType"
+msgstr "Izvēlēties tipu..."
+
+msgid "grid.action.view"
+msgstr "Skatīt"
+
+msgid "author.users.contributor.name"
+msgstr "Vārds"
+
+msgid "author.users.contributor.email"
+msgstr "E-pasts"
+
+msgid "author.users.contributor.role"
+msgstr "Loma"
+
+msgid "author.users.contributor.includeInBrowse"
+msgstr "Pārlūkošanas sarakstos"
+
+msgid "grid.action.editContributor"
+msgstr "Rediģēt līdzautoru"

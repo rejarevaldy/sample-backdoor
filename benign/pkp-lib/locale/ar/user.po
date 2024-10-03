@@ -1,0 +1,744 @@
+# M. Ali <vorteem@gmail.com>, 2022, 2023.
+# Salam Al-Khammasi <salam.alshemmari@uokufa.edu.iq>, 2023.
+# "M. Ali" <vorteem@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:49:39+00:00\n"
+"PO-Revision-Date: 2024-08-16 18:40+0000\n"
+"Last-Translator: \"M. Ali\" <vorteem@gmail.com>\n"
+"Language-Team: Arabic <http://translate.pkp.sfu.ca/projects/pkp-lib/user/ar/>"
+"\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.accountInformation"
+msgstr "معلومات الحساب"
+
+msgid "user.affiliation"
+msgstr "الانتماء"
+
+msgid "user.affiliation.description"
+msgstr "(المؤسسة التي تعمل فيها، مثلاً: \"جامعة بغداد\")"
+
+msgid "user.affiliations"
+msgstr "الانتماءات"
+
+msgid "user.authorization.accessDenied"
+msgstr "يتعذر الوصول."
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "رمز المصادقة للعملية مفقود أو غير صالح."
+
+msgid "user.authorization.contextRequired"
+msgstr ""
+"لا يمكنك استدعاء هذه العملية خارج السياق المناسب (صحافة، مجلة، مؤتمر... "
+"إلخ.)."
+
+msgid "user.authorization.loginRequired"
+msgstr "يتطلب الأمر تسجيل الدخول."
+
+msgid "user.authorization.privateOperation"
+msgstr "العملية التي تحاول الوصول إليها إما شخصية أو ليس لها وجود."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr "لقد تم رفض وصولك. الدخول إلى الموقع مقيد بالنسبة لك حالياً."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "الدور الحالي ليس له صلاحية الوصول إلى هذه العملية."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr "لم يسبق تعيينك لطلب التقديم هذا بدور يتيح لك الوصول إلى هذه العملية."
+
+msgid "user.authorization.userGroupRequired"
+msgstr "عليك أن تعد مجموعة مستخدمين صحيحة للوصول إلى هذه العملية."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"مستخدم بدور مدير (أي: محرر إنتاج) عليه أن يكون معيناً للمرحلة قبل أن تتمكن من "
+"المتابعة."
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr "ليس لديك حالياً حق الوصول إلى هذه المرحلة من المخطط الانسيابي."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "مرحلة المخطط الانسيابي لم تحدد بعد."
+
+msgid "user.authorization.pluginRequired"
+msgstr "لم يتم تحديد البرنامج الإضافي رغم أنه مطلوب حتماً."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "ليس لديك صلاحية الوصول إلى مهمة التحكيم هذه."
+
+msgid "user.authorization.submissionQuery"
+msgstr "ليس لديك صلاحية الوصول إلى هذه المناقشة."
+
+msgid "user.biography"
+msgstr "بيان السيرة الذاتية (مثل: القسم والمرتبة العلمية)"
+
+msgid "user.changeMyPassword"
+msgstr "تبديل كلمة مروري"
+
+msgid "user.changePassword"
+msgstr "تبديل كلمة المرور"
+
+msgid "user.dateLastLogin"
+msgstr "آخر عملية دخول"
+
+msgid "user.dateRegistered"
+msgstr "تأريخ التسجيل"
+
+msgid "user.editMyProfile"
+msgstr "تعديل ملفي الشخصي"
+
+msgid "user.email"
+msgstr "البريد الالكتروني"
+
+msgid "user.givenName"
+msgstr "الاسم"
+
+msgid "user.interests"
+msgstr "إهتمامات التحكيم"
+
+msgid "user.gossip"
+msgstr "ملاحظات التحرير"
+
+msgid "user.gossip.description"
+msgstr ""
+"سجل ملاحظاتك عن هذا المحكم والتي تريد إظهارها لغيرك من المشرفين، رؤساء "
+"التحرير، وكل المحررين. هذه الملاحظات ستكون ظاهرة من أجل مهام التحكيم "
+"المستقبلية."
+
+msgid "user.group"
+msgstr "مجموعة المستخدم"
+
+msgid "user.familyName"
+msgstr "اسم العائلة"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"صيغة ملف الصورة الشخصية غير صحيحة أو أن ملف الصورة كبير الحجم جداً. الصيغ "
+"المقبولة هي: .gif، .jpg، أو .png، وحجم الصورة ينبغي أن لا يتجاوز 150 × 150 "
+"بكسل."
+
+msgid "user.login.accountDisabledWithReason"
+msgstr "حسابك تم تعطيله للسبب الآتي: {$reason}"
+
+msgid "user.login.accountDisabled"
+msgstr "حسابك تم تعطيله. لطفاً، اتصل بالمشرف الإداري للمزيد من المعلومات."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"عنوان بريدك الالكتروني لم يجر التحقق من صحته بنجاح. لطفاً، تأكد من إملائه "
+"بالشكل الصحيح واتبع التعليمات الظاهرة أمامك. إن لم تتلق أي رسالة الكترونية "
+"رغم كل ذلك، قد تحتاج إلى الاتصال بالمشرف الإداري للموقع لطلب المساعدة."
+
+msgid "user.login.activate"
+msgstr "تفعيل الحساب"
+
+msgid "user.login.activated"
+msgstr ""
+"شكراً لقيامك بتفعيل الحساب. بإمكانك الآن الدخول إلى الموقع مستعملاً بيانات "
+"الدخول التي قدمتها عند تسجيلك في الموقع."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"عليك أن تختار لنفسك كلمة مرور أخرى قبل أن يتسنى لك الدخول إلى الموقع.<br /"
+"><br />لطفاً، أدخل اسم دخولك مع كلمة مرورك الحالية وكلمة مرورك الجديدة التي "
+"تريدها لتكون بديلة عن الحالية أدناه."
+
+msgid "user.login.forgotPassword"
+msgstr "أنسيت كلمة مرورك؟"
+
+msgid "user.login.loginError"
+msgstr "اسم الدخول أو كلمة المرور خاطئين. لطفاً، حاول مجدداً."
+
+msgid "user.login"
+msgstr "الدخول"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"رسالة تأكيد أُرسلت إلى عنوان بريدك الالكتروني إذا تم العثور على عنوان مطابق. "
+"لطفاً اتبع التعليمات التي تجدها في تلك الرسالة لإعادة تعيين كلمة مرورك."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"عذراً، الرابط الذي اتبعته قد انتهت صلاحيته أو ليس صحيحاً. لطفاً، جرب إعادة "
+"تعيين كلمة مرورك مرة أخرى."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"كلمة مرور جديدة أُرسلت إلى عنوان بريدك الالكتروني. بإمكانك الآن الدخول إلى "
+"الموقع مستعملاً كلمة المرور الجديدة."
+
+msgid "user.login.registeredEmail"
+msgstr "البريد الالكتروني للمستخدم المسجل في الموقع"
+
+msgid "user.login.registrationComplete"
+msgstr "إكتمل التسجيل"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "شكراً لقيامك بالتسجيل! ما الذي ترغب أن تقوم به لاحقاً؟"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "معاينة طلبات النشر"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "إنشاء طلب نشر جديد"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "متابعة التصفح"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "التسجيل ينتظر التحقق"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "أبقني مسجلاً لدخولي في الموقع"
+
+msgid "user.login.resetPassword"
+msgstr "إعادة تعيين كلمة المرور"
+
+msgid "user.logOut"
+msgstr "الخروج"
+
+msgid "user.logOutAs"
+msgstr "الخروج كأنني {$username}"
+
+msgid "user.hello"
+msgstr "مرحباً "
+
+msgid "user.mailingAddress"
+msgstr "عنوان المراسلة"
+
+msgid "user.myAccount"
+msgstr "حسابي"
+
+msgid "user.name"
+msgstr "الاسم"
+
+msgid "user.password"
+msgstr "كلمة المرور"
+
+msgid "user.repeatPassword"
+msgstr "أعد كلمة المرور"
+
+msgid "user.phone"
+msgstr "الهاتف"
+
+msgid "user.preferredPublicName"
+msgstr "الاسم الشائع المفضل"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"يرجى إعطاء الاسم الكامل كما ينبغي التعريف به في العمل المنشور. مثال: الدكتور "
+"علاء م. الصالحي"
+
+msgid "user.profile.changePasswordInstructions"
+msgstr ""
+"أدخل كلمة مرورك الحالية والجديدة أدناه للتمكن من تغيير كلمة مرورك في الموقع."
+
+msgid "user.profile.editProfile"
+msgstr "تعديل الملف الشخصي"
+
+msgid "user.profile.form.countryRequired"
+msgstr "البلد مطلوب حتماً."
+
+msgid "user.profile.form.emailRequired"
+msgstr "عنوان بريد الكتروني صحيح مطلوب حتماً."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "الاسم مطلوب حتماً."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"لقد أدخلت اسم العائلة ضمن لغة النظام التي تفتقر إلى الاسم الأول. لطفاً، أدخل "
+"ذلك الاسم لتلك اللغة."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "عنوان البريد الالكتروني مطلوب حتماً."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "عليك أن تدخل كلمة مرورك الجديدة."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "كلمة المرور الحالية التي أدخلتها غير صحيحة."
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "إشعار البريد الالكتروني لصدور عدد مجاني"
+
+msgid "user.profile.form.passwordRequired"
+msgstr "كلمة المرور مطلوبة حتماً."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "كلمة مرورك الجديدة مطابقة للحالية."
+
+msgid "user.profile.form.profileImage"
+msgstr "صورة الملف الشخصي"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "إشعار صدور العدد الجديد من المجلة"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"العنوان المحدد غير صحيح. لطفاً، تحقق من صحته جيداً وحاول مجدداً. (تلميح: حاول "
+"إضافة http:// إلى بداية العنوان.)"
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "مجموعة المستخدم مطلوبة حتماً."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "اسم الدخول مطلوب حتماً."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr "لا بد لك من الموافقة على فقرات بيان الخصوصية."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr "أترك حقول كلمة المرور خالية للحفاظ على كلمة مرورك الحالية."
+
+msgid "user.profile.newPassword"
+msgstr "كلمة المرور الجديدة"
+
+msgid "user.profile.oldPassword"
+msgstr "كلمة المرور الحالية"
+
+msgid "user.profile"
+msgstr "الملف الشخصي"
+
+msgid "user.profile.publicProfile"
+msgstr "ملف المستخدم الشخصي"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "أعد كلمة المرور الجديدة"
+
+msgid "user.login.registerNewAccount"
+msgstr "التسجيل"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"أدخل عنوان بريدك الالكتروني المتعلق بحسابك أدناه، وستتم مراسلتك برسالة تتضمن "
+"تعليمات توضح كيفية تصفير كلمة مرورك."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"نعم، أوافق على جمع بياناتي وخزنها وفق ما ورد في <a href=\"{$privacyUrl}\" "
+"target=\"_blank\">بيان الخصوصية</a>."
+
+msgid "user.register.form.emailConsent"
+msgstr "نعم، أود الحصول على إشعارات بشأن الإصدارات والإعلانات الجديدة."
+
+msgid "user.register.form.emailExists"
+msgstr "عنوان البريد الالكتروني هذا مستعمل سلفاً من قبل مستخدم آخر."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "كلمتا المرور لا تتطابقان."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "حقلا العنوان البريدي لا يتطابقان."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"اسم المستخدم يتكون من رموز حرفية ورقمية، خطوط تحتانية، شُرط، وينبغي أن يبدأ "
+"وينتهي بحرف أو رقم حصراً."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "لا بد من اختيار دور واحد على الأقل."
+
+msgid "user.register.form.usernameExists"
+msgstr "اسم الدخول الذي اخترته مستعمل سلفاً من قبل مستخدم آخر."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr ""
+"كلمة المرور ينبغي أن تتكون من {$length} (حروف لاتينية ورموز وأرقام) على "
+"الأقل."
+
+msgid "user.register.registerAs"
+msgstr "سجل في {$contextName} بصفة..."
+
+msgid "user.register"
+msgstr "سجل"
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"اسم المستخدم ينبغي أن يتضمن حروفاً لاتينية صغيرة فقط، أرقام، شُرط، أو خطوط "
+"تحتانية."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"لقد سجلت بنجاح. <a href=\"{$profileUrl}\">أنقر هنا</a> لإكمال ملفك الشخصي."
+
+msgid "user.role.assistant"
+msgstr "مساعد"
+
+msgid "user.role.author"
+msgstr "مؤلف"
+
+msgid "user.role.author_s"
+msgstr "مؤلف/مؤلفون"
+
+msgid "user.role.authors"
+msgstr "المؤلفون"
+
+msgid "user.role.editor"
+msgstr "محرر"
+
+msgid "user.role.editors"
+msgstr "المحررون"
+
+msgid "user.role.reader"
+msgstr "قارئ"
+
+msgid "user.role.readers"
+msgstr "القراء"
+
+msgid "user.role.reviewer"
+msgstr "محكم"
+
+msgid "user.role.reviewers"
+msgstr "المحكمون"
+
+msgid "user.role.siteAdmin"
+msgstr "الإشراف الإداري العام للموقع"
+
+msgid "user.role.siteAdmins"
+msgstr "مشرفون إداريون للموقع"
+
+msgid "user.role.copyeditor"
+msgstr "مدقق"
+
+msgid "user.role.copyeditors"
+msgstr "المدققون"
+
+msgid "user.role.proofreader"
+msgstr "مصحح لغوي"
+
+msgid "user.role.proofreaders"
+msgstr "مصححو اللغة"
+
+msgid "user.role.layoutEditor"
+msgstr "محرر اللوح الطباعي"
+
+msgid "user.role.layoutEditors"
+msgstr "محررو الألواح الطباعية"
+
+msgid "user.roles"
+msgstr "الأدوار"
+
+msgid "user.sendPassword"
+msgstr "التأكيد"
+
+msgid "user.sendPassword.description"
+msgstr "أرسل لي رسالة بالبريد الالكتروني تتضمن اسم دخولي وكلمة مروري"
+
+msgid "user.signature"
+msgstr "التوقيع"
+
+msgid "user.title"
+msgstr "العنوان"
+
+msgid "user.url"
+msgstr "رابط الصفحة الشخصية"
+
+msgid "user.userHome"
+msgstr "السكن"
+
+msgid "user.username"
+msgstr "اسم الدخول"
+
+msgid "user.workingLanguages"
+msgstr "اللغات العاملة"
+
+msgid "user.orcid"
+msgstr "ORCID iD"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"إن رمز ORCID iD الذي حددته غير صحيح. لطفاً، أدرج الرابط كاملاً (مثلاً: "
+"\"https://orcid.org/0000-0002-1825-0097\")."
+
+msgid "user.profile.identity"
+msgstr "الهوية"
+
+msgid "user.profile.contact"
+msgstr "اسم الاتصال"
+
+msgid "user.profile.public"
+msgstr "عمومي"
+
+msgid "user.apiKey"
+msgstr "مفتاح API"
+
+msgid "user.apiKeyEnabled"
+msgstr ""
+"تمكين التطبيقات الخارجية التي تملك مفتاح API هذا من الوصول إلى هذا الحساب"
+
+msgid "user.apiKey.generate"
+msgstr "إنشاء مفتاح API جديد"
+
+msgid "user.apiKey.remove"
+msgstr "حذف"
+
+msgid "user.apiKey.generateWarning"
+msgstr "توليد مفتاح API جديد سيؤدي إلى إبطال أي مفتاح حالي لهذا المستخدم."
+
+msgid "user.apiKey.removeWarning"
+msgstr "حذف المفتاح سيؤدي إلى سحب إمكانية الوصول من جانب أي تطبيق يستعمله."
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "هل أنت متأكد من رغبتك في حذف مفتاح واجهة برمجة التطبيق هذا؟"
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"قبل توليد مفتاح API، لا بد للمشرف على موقعك من وضع كلمة سر في ملف التهيئة "
+"تحت مسمى (\"api_key_secret\")."
+
+msgid "user.privacyLink"
+msgstr ""
+"إن بياناتك محفوظة حسب <a href=\"{$privacyUrl}\" target=\"_blank\">بيان "
+"الخصوصية</a> الخاص بنا."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr "لا يوجد مستخدم بعنوان البريد الالكتروني المحدد."
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr "تعذر إكمال طلب إعادة تعيين كلمة المرور لأن {$reason}."
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr "أدخل كلمة مرور جديدة لتحديث كلمة المرور المستعملة في تسجيل الدخول."
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr "تم تحديث كلمة المرور بنجاح. يرجى الدخول بكلمة المرور الجديدة."
+
+msgid "user.usernameOrEmail"
+msgstr "اسم المستخدم أو البريد الالكتروني"
+
+msgid "orcid.displayName"
+msgstr "إضافة الملف التعريفي ORCID"
+
+msgid "orcid.description"
+msgstr "تسمح باستيراد بيانات الملف الشخصي للمستخدم من ORCID."
+
+msgid "orcid.instructions"
+msgstr "بإمكانك توطين هذا النموذج ببيانات من ملف تعريفي مسجل في ORCID. أدخل عنوان البريد الالكتروني أو معرف ORCID المتعلق بالملف الشخصي في ORCID ثم أنقر \"تقديم\"."
+
+msgid "orcid.noData"
+msgstr "تعذر العثور على أي بيانات من ORCID."
+
+msgid "orcid.emailOrOrcid"
+msgstr "البريد الالكتروني أو معرف ORCID:"
+
+msgid "orcid.manager.settings.title"
+msgstr "إعدادات واجهة برمجة التطبيق لـ ORCID"
+
+msgid "orcid.manager.settings.hidden"
+msgstr "مخفي"
+
+msgid "orcid.manager.settings.description"
+msgstr "لطفاً، قم بتهيئة API الخاصة بـ ORCID لاستعمالها في سحب البيانات الشخصية من قاعدة بيانات ORCID إلى الملف الشخصي للمستخدم وتحديث السجلات المرتبطة بـ ORCID مع المنشورات الجديدة (هذا لأعضاء ORCID حصراً)."
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr "إن واجهة برمجة التطبيق لـ ORCID قد تمت تهيئتها على مستوى النظام من قبل المضيف. بيانات الدخول الآتية قد تم حفظها."
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "ORCID API"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "عام"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "صلاحيات عامة"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "عضو"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "صلاحيات عضو"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "الرمز التعريفي للعميل"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "الرقم السري للعميل"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "مدى صلاحيات الحساب"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "إعدادات البريد الالكتروني"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "سجل وقوعات مطالبات ORCID"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "إختر حجم مخرجات سجل الوقوعات الذي تحتفظ به هذه الإضافة"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "أخطاء"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "الكل"
+
+msgid "orcid.author.accessDenied"
+msgstr "تم رفض الوصول من قبل ORCID عند"
+
+msgid "orcid.author.accessTokenStored"
+msgstr "تم السماح بالوصول إلى سجل ORCID بمدى {$orcidAccessScope}، وهو متاح حتى"
+
+msgid "orcid.author.requestAuthorization"
+msgstr "إبعث رسالة للمطالبة بتفويض من المساهمين في العمل في ORCID"
+
+msgid "orcid.author.deleteORCID"
+msgstr "حذف معرف ORCID ورمز الوصول!"
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "أنظر أدناه للمطالبة برمز تفويض أصلي من ORCID"
+
+msgid "orcid.author.unauthenticated"
+msgstr "رمز ORCID غير مفوض! لطفاً، إلتمس التفويض من المساهم."
+
+msgid "orcid.verify.title"
+msgstr "تفويض ORCID"
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "طلب التقديم قد تمت إضافته إلى حسابك في ORCID."
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr "تعذرت إضافة طلب التقديم إلى حسابك في ORCID."
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr "طلب التقديم ستتم إضافته إلى حسابك في ORCID خلال عملية النشر."
+
+msgid "orcid.verify.success"
+msgstr "تم التحقق من رمزك في ORCID وربطه مع طلب تقديمك بنجاح."
+
+msgid "orcid.verify.failure"
+msgstr "تعذر التحقق من رمزك في ORCID. الرابط لم يعد صحيحاً."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "لقد تم سابقاً حفظ رمز ORCID لطلب التقديم هذا."
+
+msgid "orcid.verify.denied"
+msgstr "لقد قمت بمنع الوصول إلى حسابك في ORCID."
+
+msgid "orcid.authFailure"
+msgstr "رابط تفويض ORCID قد سبق استعماله أو هو غير صحيح."
+
+msgid "orcid.failure.contact"
+msgstr "لطفاً، اتصل برئيس التحرير وأبلغه اسمك، رمزك في ORCID، وتفاصيل طلب تقديمك."
+
+msgid "orcid.fieldset"
+msgstr "ORCID"
+
+msgid "orcid.connect"
+msgstr "إنشئ رمزك التعريفي في ORCID أو أربطه"
+
+msgid "orcid.authorise"
+msgstr "تفويض وربط رمزك في ORCID"
+
+msgid "orcid.about.title"
+msgstr "ما هو ORCID?"
+
+msgid "orcid.about.orcidExplanation"
+msgstr "إن ORCID هي منظمة مستقلة غير ربحية تقدم معرفاً دائمياً يسمى – رمز ORCID – يعمل على تمييزك من بين غيرك من الباحثين مع آلية لربط مخرجات أبحاثك ونشاطاتك مع هذا الرمز. إن ORCID متكامل مع العديد من الأنظمة المستعملة من قبل الناشرين، الممولين، المؤسسات، وغيرها من الخدمات ذات الصلة بالأبحاث. لمعرفة المزيد <a href=\"https://orcid.org\">orcid.org</a>."
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "لماذا وكيف نقوم بجمع رموز ORCID ؟"
+
+msgid "orcid.about.howAndWhyPublicAPI"
+msgstr ""
+"هذه المجلة تقوم بالحصول على رمزك في ORCID من أجل أن [نضيف غرضاً للتمييز ما "
+"بين API الأعضاء و API العامة].\n"
+"\tعندما تنقر على زر “التفويض” في الواجهة المنبثقة لـ ORCID، سنطالبك بمشاركة "
+"رمزك عبر عملية التفويض: إما عبر <a href=\"https://support.orcid.org/hc/en-us/"
+"articles/360006897454\">التسجيل للحصول على رمز ORCID</a> أو، إذا كان لديك "
+"مسبقاً هذا الرمز، <a href=\"https://support.orcid.org/hc/en-us/categories/"
+"360000661673\">تسجيل الدخول إلى حسابك في ORCID</a>، ومن ثم منحنا صلاحية "
+"الحصول على رمزك. نحن نقوم بهذا للتأكد من كونك معرَّف وتتصل بشكل آمن مع حسابك "
+"في ORCID.<br>\n"
+"\tتعرف على المزيد في <a href=\"https://info.orcid.org/blog/2017/02/20/"
+"whats-so-special-about-signing-in/\">ما هو المميز بشأن تسجيل الدخول؟.</a>br>"
+"\n"
+"هذه المجلة ستجمع وتعرض رموز المؤلفين والمؤلفين المشاركين المفوضين في صفحة "
+"الملف الشخصي لنظام المجلات المفتوحة فضلاً عن صفحة المقالة."
+
+msgid "orcid.about.display.title"
+msgstr "أين يتم عرض رموز ORCID ؟"
+
+msgid "orcid.about.display"
+msgstr ""
+"للتعرف على أنك قمت مسبقاً باستعمال رمزك وأنه مفوض من قبلك، نقوم بعرض إيقونة "
+"رمز ORCID <img src=\"https://info.orcid.org/sites/default/files/images/"
+"orcid_16x16(1).gifwp-content/uploads/2020/12/ORCIDiD_icon16x16.png\" alt=\""
+"إيقونة الرمز\" width=\"16\" height=\"16\" border=\"0\"> بجوار اسمك على صفحة "
+"المقالة الخاصة بطلب تقديمك وعلى صفحة حسابك الشخصي.<br>\n"
+"\tتعرف على المزيد في <a href=\"https://info.orcid.org/blog/2013/02/22/"
+"how-should-an-orcid-id-be-displayed/\">كيف يجب عرض رمز ORCID.</a>"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"أرسل رسالة الكترونية ملتمساً تفويض ORCID من المؤلفين عند قبول المقالة. أي "
+"عند الإرسال لمرحلة التدقيق"
+
+msgid "orcid.about.howAndWhyMemberAPI"
+msgstr ""
+"هذه المجلة تجمع مُعرَّف ORCID iD الخاص بك لكي نكون نحن وغيرنا على ثقة بأنك "
+"مُعرَّف بشكل صحيح ومتصل بمنشوراتك. هذا سيضمن صلتك الكاملة بأعمالك على امتداد "
+"حياتك المهنية.<br>\n"
+"\tعندما تنقر زر “التفويض” في النافذة المنبثقة من ORCID، سنلتمس منك مشاركة "
+"مُعرَّفك iD باستعمال عملية مصادقة—إما عبر تسجيل حساب في ORCID، أو، إن كان "
+"لديك حساب سلفاً، عبر تسجيل الدخول إلى حسابك في ORCID، ثم منحنا صلاحية الوصول "
+"إلى مُعرَّفك ORCID iD. نحن نقوم بذلك للتأكد من أنك مُعرَّف بشكل صحيح ومتصل "
+"بشكل آمن بهذا الحساب.<br>\n"
+"\tتعلم المزيد في <a href=\"https://info.orcid.org/blog/2017/02/20/"
+"whats-so-special-about-signing-in/\">ما الذي يجعل تسجيل الدخول "
+"مميزاً.</a><br>\n"
+"\tهذه المجلة ستجمع مُعرَّفات المؤلفين المفوضين ومساعديهم وستعرضها في صفحات "
+"الملفات الشخصية لهم وكذلك في صفحة المقالة. فضلاً عن ذلك، البيانات الوصفية "
+"للمقالة ستوضع لك تلقائياً ضمن حسابك في ORCID، مما يمكننا من الحفاظ على حسابك "
+"محدثاً بمعلومات موثوقة. لمعرفة المزيد <a href=\"https://info.orcid.org/blog/"
+"2017/08/10/six-ways-to-make-your-orcid-id-work-for-you/\">ست طرق لجعل ORCID "
+"iD الخاص بك يعمل لحسابك!</a>\n"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "سر العميل غير صحيح"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "مُعرَّف العميل غير صحيح"
+
+msgid "orcid.manager.settings.saved"
+msgstr "تم حفظ الإعدادات"
+
+msgid "orcid.manager.settings.city"
+msgstr "المدينة"
+
+msgid "orcid.invalidClient"
+msgstr "معطيات العميل خاطئة"
+
+msgid "orcid.manager.status.configuration.journal"
+msgstr "مُهيَّأة على عموم المجلة"
+
+msgid "orcid.manager.status.configuration.clientIdValid"
+msgstr "مُعرَّف العميل صحيح"
+
+msgid "orcid.manager.status.configuration.clientSecretValid"
+msgstr "سر العميل صحيح"
+
+msgid "orcid.manager.status.configuration.clientSecretInvalid"
+msgstr "سر العميل خاطئ، يرجى التأكد من معطياتك"
+
+msgid "orcid.manager.status.configuration.clientIdInvalid"
+msgstr "مُعرَّف العميل خاطئ، يرجى التأكد من إدخالك"
+
+msgid "orcid.verify.duplicateOrcidAuthor"
+msgstr "تم الكشف عن مُعرَّفات ORCiD مكررة للمساهمين."
+
+msgid "orcid.verify.hasUnauthenticatedOrcid"
+msgstr "تم الكشف عن مُعرَّفات ORCiD غير مرخصة للمساهمين."
+
+msgid "user.authorization.submission.incomplete.workflowAccessRestrict"
+msgstr "الوصول لمجريات العمل مقيد بالنسبة إلى طلبات التقديم غير المكتملة."

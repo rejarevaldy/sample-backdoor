@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/11.2/phpunit.xsd"
+    cacheResult="true"
+    beStrictAboutOutputDuringTests="true"
+    backupGlobals="false"
+    bootstrap="phpunit-bootstrap.php"
+    colors="true"
+    testdox="true"
+    processIsolation="false"
+    stopOnFailure="true"
+    cacheDirectory=".phpunit.cache"
+    backupStaticProperties="false"
+>
+  <testsuites>
+        <testsuite name="LibraryJobs">
+            <directory suffix="Test.php">jobs</directory>
+        </testsuite>
+        <testsuite name="ApplicationJobs">
+            <directory suffix="Test.php">../../../tests/jobs</directory>
+        </testsuite>
+        <testsuite name="LibraryClasses">
+            <directory suffix="Test.php">classes</directory>
+        </testsuite>
+        <testsuite name="ApplicationClasses">
+            <directory suffix="Test.php">../../../tests/classes</directory>
+        </testsuite>
+        <testsuite name="LibraryPlugins">
+            <directory suffix="Test.php">../plugins/*/*/tests</directory>
+        </testsuite>
+        <testsuite name="ApplicationPlugins">
+            <directory suffix="Test.php">../../../plugins/*/*/tests</directory>
+        </testsuite>
+    </testsuites>
+    <coverage>
+        <report>
+            <text 
+                outputFile="results/coverage.txt"
+                showUncoveredFiles="false"
+                showOnlySummary="true"
+            />
+        </report>
+    </coverage>
+    <source>
+        <include>
+            <directory suffix=".php">./../classes</directory>
+            <directory suffix=".php">./../api</directory>
+            <directory suffix=".php">./../controllers</directory>
+            <directory suffix=".php">./../pages</directory>
+        </include>
+    </source>
+    <php>
+        <env name="DATABASEDUMP" value="database.sql.gz" />
+    </php>
+</phpunit>

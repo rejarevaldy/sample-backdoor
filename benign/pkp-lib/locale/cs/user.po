@@ -1,0 +1,802 @@
+# Jiří Dlouhý <jiri.dlouhy@czp.cuni.cz>, 2021, 2022, 2023, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:49:41+00:00\n"
+"PO-Revision-Date: 2024-06-04 21:35+0000\n"
+"Last-Translator: Jiří Dlouhý <jiri.dlouhy@czp.cuni.cz>\n"
+"Language-Team: Czech <http://translate.pkp.sfu.ca/projects/pkp-lib/user/cs/>"
+"\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.accountInformation"
+msgstr "Informace o účtu"
+
+msgid "user.affiliation"
+msgstr "Příslušnost (pracoviště)"
+
+msgid "user.affiliation.description"
+msgstr "(Vaše instituce, např. \"Simon Fraser University\")"
+
+msgid "user.affiliations"
+msgstr "Pracoviště"
+
+msgid "user.authorization.accessDenied"
+msgstr "Přístup zakázán."
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "Token pro proces ověření chybí, nebo je neplatný."
+
+msgid "user.authorization.contextRequired"
+msgstr ""
+"Nemůžete volat tuto operaci bez obsahu (tisk, časopis, konference, atd.)."
+
+msgid "user.authorization.loginRequired"
+msgstr "Je vyžadováno přihlášení."
+
+msgid "user.authorization.privateOperation"
+msgstr "Operace, kterou se snažíte použít je buď soukromá, nebo neexistuje."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr ""
+"Byl vám zakázán přístup. Přístup na tyto stránky je v současnosti omezen."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "Současná role nemá přístup k této operaci."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr ""
+"Pro tento příspěvek nemáte přiřazenu roli, která by umožňovala přístup k "
+"této operaci."
+
+msgid "user.authorization.userGroupRequired"
+msgstr "Musíte zvolit platnou uživatelskou skupinu pro přístup k této operaci."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"Uživatel s úlohou Manažera (např. Produkční Editor) musí být přiřazen k této "
+"fázi, než bude moci pokračovat."
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr "V současnosti nemáte přístup do této etapy workflow."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "Etapa workflow není specifikována."
+
+msgid "user.authorization.pluginRequired"
+msgstr "Plugin nebyl specifikován a je vyžadován."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "Nemáte oprávnění přistupovat k přiřazení recenzních úloh."
+
+msgid "user.authorization.submissionQuery"
+msgstr "Nemáte oprávnění přistupovat do této diskuse."
+
+msgid "user.biography"
+msgstr "Biografické údaje"
+
+msgid "user.changeMyPassword"
+msgstr "Změnit moje heslo"
+
+msgid "user.changePassword"
+msgstr "Změnit heslo"
+
+msgid "user.dateLastLogin"
+msgstr "Poslední přihlášení"
+
+msgid "user.dateRegistered"
+msgstr "Datum registrace"
+
+msgid "user.editMyProfile"
+msgstr "Upravit můj profil"
+
+msgid "user.email"
+msgstr "E-mail"
+
+msgid "user.givenName"
+msgstr "Křestní jméno"
+
+msgid "user.interests"
+msgstr "Zájem o recenzování"
+
+msgid "user.gossip"
+msgstr "Soukromé poznámky"
+
+msgid "user.gossip.description"
+msgstr ""
+"Nahrajte poznámky o tomto recenzentovi, které chcete, aby viděli ostatní "
+"správci, manažeři a všichni redaktoři. Poznámky budou viditelné pro budoucí "
+"přiřazení recenzí."
+
+msgid "user.group"
+msgstr "Uživatelská skupina"
+
+msgid "user.familyName"
+msgstr "Příjmení"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"Neplatný formát obrázku profilu nebo příliš velký obrázek. Akceptované "
+"formáty jsou .gif, .jpg nebo .png a obrázek nesmí překročit 150x150 pixelů."
+
+msgid "user.login.accountDisabledWithReason"
+msgstr "Váš účet byl zablokován z následujícího důvodu: {$reason}"
+
+msgid "user.login.accountDisabled"
+msgstr ""
+"Váš účet byl zablokován. Pro více informací kontaktujte prosím "
+"administrátora."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"Na email {$email} jsme vám zaslali potvrzovací e-mail. Pro aktivaci nového "
+"účtu postupujte podle pokynů v tomto emailu. Pokud email nevidíte, "
+"zkontrolujte, zda nebyl uložen do složky s nevyžádanou poštou."
+
+msgid "user.login.activate"
+msgstr "Aktivovat účet"
+
+msgid "user.login.activated"
+msgstr ""
+"Děkujeme za aktivaci Vašeho účtu. Nyní se můžete pomocí údajů poskytnutých "
+"při vyváření Vašeho účtu přihlásit."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"Musíte si zvolit nové heslo před tím, než se budete moci přihlásit na tuto "
+"stránku.<br /><br />Pro změnu hesla k Vašemu účet vložte prosím níže Vaše "
+"uživatelské jméno a Vaše současné a nové heslo."
+
+msgid "user.login.forgotPassword"
+msgstr "Zapomenuté heslo?"
+
+msgid "user.login.loginError"
+msgstr "Neplatné uživatelské jméno/email nebo heslo. Zkuste to prosím znovu."
+
+msgid "user.login"
+msgstr "Přihlášení"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"Na vaši e-mailovou adresu bylo odesláno potvrzení, pokud byl nalezen "
+"odpovídající účet. Při obnově hesla postupujte podle pokynů v e-mailu."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"Promiňte, odkaz, na který jste kliknul, vypršel nebo není platný. Pokuste se "
+"prosím znovu resetovat heslo."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"Nové heslo bylo odesláno na Vaši emailovou adresu. Nyní se můžete přihlásit "
+"pomocí nového hesla."
+
+msgid "user.login.registeredEmail"
+msgstr "Email registrovaného uživatele"
+
+msgid "user.login.registrationComplete"
+msgstr "Registrace je dokončena"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "Díky za registraci! Co chcete dělat nyní?"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Prohlédnout příspěvek"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Nahrát nový příspěvek"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "Pokračovat v procházení"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "Registrace očekává potvrzení"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "Neodhlašovat mne"
+
+msgid "user.login.resetPassword"
+msgstr "Resetovat heslo"
+
+msgid "user.logOut"
+msgstr "Odhlásit"
+
+msgid "user.logOutAs"
+msgstr "Odlášení z {$username}"
+
+msgid "user.hello"
+msgstr "Dobrý den, "
+
+msgid "user.mailingAddress"
+msgstr "Poštovní adresa"
+
+msgid "user.myAccount"
+msgstr "Můj účet"
+
+msgid "user.name"
+msgstr "Jméno"
+
+msgid "user.password"
+msgstr "Heslo"
+
+msgid "user.repeatPassword"
+msgstr "Opakujte heslo"
+
+msgid "user.phone"
+msgstr "Telefon"
+
+msgid "user.preferredPublicName"
+msgstr "Upřednostňované veřejné jméno"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"Uveďte prosím celé jméno jak by autor měl být uveden v publikované práci. "
+"Příklad: Dr. Alan P. Mwandenga"
+
+msgid "user.profile.changePasswordInstructions"
+msgstr "Pro změnu hesla k Vašemu účtu vložte níže Vaše současné a nové heslo."
+
+msgid "user.profile.editProfile"
+msgstr "Editovat profil"
+
+msgid "user.profile.form.countryRequired"
+msgstr "Stát je vyžadován."
+
+msgid "user.profile.form.emailRequired"
+msgstr "Je vyžadována platná emailová adresa."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "Je nutné zadat jméno."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"Přidali jste příjmení pro jazyk, kterému chybí jméno. Přidejte prosím jméno "
+"i do tohoto jazyka."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "Emailová adresa je vyžadována."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "Musíte vložit Vaše nové heslo."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "Současné heslo, které jste vložil nebylo správné."
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "Emailová oznámení o otevřeném přístupu k číslu"
+
+msgid "user.profile.form.passwordRequired"
+msgstr "Je vyžadováno heslo."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "Vaše nové heslo je shodné s původním."
+
+msgid "user.profile.form.profileImage"
+msgstr "Obrázek profilu"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "Emailová oznámení o vydání nového čísla"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"Specifikovaná URL není platná. Překontrolujte URL a zkuste to znovu. (Tip: "
+"Zkuste přidat http:// na začátek URL.)"
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "Je vyžadováno zadání uživatelské skupiny."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "Je vyžadováno uživatelské jméno."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr "Musíte souhlasit s naším prohlášení o ochraně soukromí."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr ""
+"Aby bylo zachováno současné heslo, nechte políčka pro zadání hesla prázdná."
+
+msgid "user.profile.newPassword"
+msgstr "Nové heslo"
+
+msgid "user.profile.oldPassword"
+msgstr "Současné heslo"
+
+msgid "user.profile"
+msgstr "Profil"
+
+msgid "user.profile.publicProfile"
+msgstr "Profil uživatele"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "Nové heslo znovu"
+
+msgid "user.login.registerNewAccount"
+msgstr "Registrovat"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"Vložte email k vašemu účtu. Na tento email budou poslány pokyny v případě "
+"potřeby obnovení hesla."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"Ano, souhlasím s tím, že moje osobní údaje budou shromažďovány a ukládány "
+"podle <a href=\"{$privacyUrl}\" target=\"_blank\">Prohlášení o ochraně "
+"soukromí</a>."
+
+msgid "user.register.form.emailConsent"
+msgstr ""
+"Ano, rád bych byl informován o nově publikovaných článcích a dostával "
+"oznámení časopisu."
+
+msgid "user.register.form.emailExists"
+msgstr "Zvolenou emailovou adresu již používá jiný uživatel."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "Hesla nejsou totožná."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "Emailové adresy v obou polích nesouhlasí."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"Uživatelské jméno může obsahovat pouze malá písmena, čísla, podtržítko a "
+"pomlčku a musí začínat a končit alfanumerickým znakem."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "Minimálně jedna role musí být vybrána."
+
+msgid "user.register.form.usernameExists"
+msgstr "Zvolené uživatelské jméno již používá jiný uživatel."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "Heslo musí mít minimálně {$length} znaků."
+
+msgid "user.register.registerAs"
+msgstr "Zaregistrovat v {$contextName} jako..."
+
+msgid "user.register"
+msgstr "Registrovat"
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"Uživatelské jméno může obsahovat pouze malá písmena, číslice a pomlčky/"
+"podtržítka."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"Úspěšně jste se zaregistrovali. <a href=\"{$profileUrl}\">Klikněte zde</a> k "
+"dokončení vašeho uživatelského profilu."
+
+msgid "user.role.assistant"
+msgstr "Asistent"
+
+msgid "user.role.author"
+msgstr "Autor"
+
+msgid "user.role.author_s"
+msgstr "Autor(ři)"
+
+msgid "user.role.authors"
+msgstr "Autoři"
+
+msgid "user.role.editor"
+msgstr "Editor"
+
+msgid "user.role.editors"
+msgstr "Editoři"
+
+msgid "user.role.reader"
+msgstr "Čtenář"
+
+msgid "user.role.readers"
+msgstr "Čtenáři"
+
+msgid "user.role.reviewer"
+msgstr "Recenzent"
+
+msgid "user.role.reviewers"
+msgstr "Recenzenti"
+
+msgid "user.role.siteAdmin"
+msgstr "Administrátor stránky"
+
+msgid "user.role.siteAdmins"
+msgstr "Administrátoři stránky"
+
+msgid "user.role.copyeditor"
+msgstr "Copyeditor/ka"
+
+msgid "user.role.copyeditors"
+msgstr "Copyeditoři"
+
+msgid "user.role.proofreader"
+msgstr "Korektor"
+
+msgid "user.role.proofreaders"
+msgstr "Korektoři"
+
+msgid "user.role.layoutEditor"
+msgstr "Editor sazby"
+
+msgid "user.role.layoutEditors"
+msgstr "Editoři sazby"
+
+msgid "user.roles"
+msgstr "Role"
+
+msgid "user.sendPassword"
+msgstr "Potvrzení"
+
+msgid "user.sendPassword.description"
+msgstr "Pošli mi e-mail s potvrzením obsahující mé uživatelské jméno a heslo"
+
+msgid "user.signature"
+msgstr "Podpis"
+
+msgid "user.title"
+msgstr "Titul"
+
+msgid "user.url"
+msgstr "URL"
+
+msgid "user.userHome"
+msgstr "Uživatel"
+
+msgid "user.username"
+msgstr "Uživatelské jméno"
+
+msgid "user.workingLanguages"
+msgstr "Pracovní jazyky"
+
+msgid "user.orcid"
+msgstr "ORCID iD"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"ORCID iD, které jste zadali není platné. Vložte, prosím plné URI (např. "
+"\"https://orcid.org/0000-0002-1825-0097\")."
+
+msgid "user.profile.identity"
+msgstr "Identita"
+
+msgid "user.profile.contact"
+msgstr "Kontakt"
+
+msgid "user.profile.public"
+msgstr "Veřejný"
+
+msgid "user.apiKey"
+msgstr "API klíč"
+
+msgid "user.apiKeyEnabled"
+msgstr "Povolit externím aplikacím s API klíčem přístup k tomuto účtu"
+
+msgid "user.apiKey.generate"
+msgstr "Vygenerovat API klíč"
+
+msgid "user.apiKey.remove"
+msgstr "Smazat"
+
+msgid "user.apiKey.generateWarning"
+msgstr ""
+"Vytvoření nového API klíče zneplatní původní API klíč tohoto uživatele."
+
+msgid "user.apiKey.removeWarning"
+msgstr ""
+"Odstraněním klíče se zruší přístup ke všem aplikacím, které jej používají."
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "Opravdu chcete tento API klíč odstranit?"
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"Před vytvořením API klíče musí správce webu nastavit "
+"„tajemství“ („api_key_secret“) v konfiguračním souboru."
+
+msgid "user.privacyLink"
+msgstr ""
+"Vaše data jsou ukládána v souladu s naším <a href=\"{$privacyUrl}\" target="
+"\"_blank\">prohlášením o ochraně soukromí</a>."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr "Žádný uživatel se zadanou e-mailovou adresou neexistuje."
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr "Nelze dokončit požadavek na obnovení hesla, protože {$důvod}."
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr "Pro aktualizaci přihlašovacího hesla zadejte nové heslo."
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr ""
+"Heslo bylo úspěšně aktualizováno. Přihlaste se, prosím, aktualizovaným "
+"heslem."
+
+#~ msgid "user.firstName"
+#~ msgstr "Jméno"
+
+#~ msgid "user.initialsExample"
+#~ msgstr "Jan Novák = JN"
+
+#~ msgid "user.initials"
+#~ msgstr "Iniciály"
+
+#~ msgid "user.lastName"
+#~ msgstr "Příjmení"
+
+#~ msgid "user.middleName"
+#~ msgstr "Druhé jméno"
+
+#~ msgid "user.profile.form.firstNameRequired"
+#~ msgstr "Je vyžadováno jméno."
+
+#~ msgid "user.profile.form.lastNameRequired"
+#~ msgstr "Je vyžadováno příjmení."
+
+#~ msgid "user.salutation"
+#~ msgstr "Oslovení"
+
+#~ msgid "user.suffix"
+#~ msgstr "Za jménem"
+
+msgid "user.usernameOrEmail"
+msgstr "Uživatelské jméno nebo email"
+
+msgid "user.authorization.submission.incomplete.workflowAccessRestrict"
+msgstr "Přístup k pracovním postupům pro neúplná podání je omezen."
+
+msgid "orcid.displayName"
+msgstr "Plugin pro profil ORCID"
+
+msgid "orcid.description"
+msgstr "Umožňuje import informací o uživatelských profilech z ORCID."
+
+msgid "orcid.instructions"
+msgstr "Tento formulář můžete předvyplnit informacemi z profilu ORCID. Zadejte emailovou adresu nebo ORCID iD přidruženou k profilu ORCID a klikněte na tlačítko Odeslat."
+
+msgid "orcid.noData"
+msgstr "Nelze získat z ORCID žádná data."
+
+msgid "orcid.emailOrOrcid"
+msgstr "Emailová adresa nebo ORCID iD:"
+
+msgid "orcid.manager.orcidProfileSettings"
+msgstr "Nastavení profilu ORCID"
+
+msgid "orcid.manager.settings.description"
+msgstr "Nakonfigurujte rozhraní ORCID API pro použití při stahování informací z profilu ORCID do profilu uživatele."
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "ORCID API"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "Veřejný"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "Veřejné „pískoviště“"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "Člen"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "Členské „pískovištěô"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "ID klienta"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "\"Client Secret\" (tajemství klienta)"
+
+msgid "orcid.author.submission"
+msgstr "ORCID příspěvku"
+
+msgid "orcid.author.submission.success"
+msgstr "Váš příspěvek byl úspěšně přidružen k vaší ORDID iD."
+
+msgid "orcid.author.submission.failure"
+msgstr "Váš příspěvek nemohl být úspěšně přidružen k vašemu ORDID iD. Obraťte se na správce časopisu se svým jménem, ORCID ID a podrobnostmi o vašem příspěvku."
+
+msgid "orcid.authFailure"
+msgstr "Systém OJS nebyl schopen komunikovat se službou ORCID. Obraťte se na správce časopisu se svým jménem, ORCID iD a podrobnostmi o vašem příspěvku."
+
+msgid "orcid.fieldset"
+msgstr "ORCID"
+
+msgid "orcid.connect"
+msgstr "Vytvořte či připojte vaše ORCID iD"
+
+msgid "orcid.manager.settings.hidden"
+msgstr "skryté"
+
+msgid "orcid.manager.settings.title"
+msgstr "Nastavení ORCID API"
+
+msgid "orcid.about.display"
+msgstr ""
+"Abychom potvrdili, že jste použili svůj iD a že byl ověřen, zobrazujeme "
+"ikonu ORCID iD <img src = \"https://info.orcid.org/wp-content/uploads/2020/"
+"12/ORCIDiD_icon16x16.png\" alt=\"ikona iD\" width=\"16\" height=\"16\" "
+"border=\"0\">vedle vašeho jména na stránce článku vašeho příspěvku a ve "
+"vašem veřejném uživatelském profilu. <br>\n"
+"Další informace naleznete v <a href=\"https://info.orcid.org/"
+"how-should-an-orcid-id-be-displayed/\">Jak by se měl zobrazit ORCID iD.</a>"
+
+msgid "orcid.about.display.title"
+msgstr "Kde jsou zobrazeny ORCID iD?"
+
+msgid "orcid.about.howAndWhyPublicAPI"
+msgstr ""
+"Tento časopis shromažďuje vaše ORCID iD, abychom si my i širší komunita byli "
+"jisti tím, že jste správně identifikován(a) jako autor vaší publikace/vašich "
+"publikací. To zajistí, aby byla plná kolekce vašich výstupů propojena s vámi "
+"po celou dobu vaší kariéry..<br>\n"
+"Když v rozbalovací nabídce ORCID kliknete na tlačítko „Autorizovat“, "
+"požádáme vás o sdílení vašeho iD pomocí autentifikačního procesu: buď <a "
+"href = \"https://support.orcid.org/hc/en-us/articles/360006897454\">"
+"registrací v systému ORCID iD</a> nebo, pokud již ORCID iD máte, <a href=\""
+"https://support.orcid.org/hc/en-us/categories/360000661673\">k přihlášení "
+"svůj účet ORCID</a>, udělením oprávnění získat váš ORCID iD. Děláme to "
+"proto, abychom zajistili správnou identifikaci a bezpečné připojení vašeho "
+"ORCID iD. <br>\n"
+"Další informace naleznete na následujícím odkazu ORCID <a href=\""
+"https://info.orcid.org/whats-so-special-about-signing-in/\">What’s so "
+"special about signing in.</a><br>\n"
+"Tento časopis bude shromažďovat a zobrazovat iD autentifikovaných autorů a "
+"spoluautorů v OJS profilu a na stránce článku."
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "Jak a proč shromažďujeme ORCID iD?"
+
+msgid "orcid.about.orcidExplanation"
+msgstr ""
+"ORCID je nezávislá nezisková organizace, která poskytuje trvalý "
+"identifikátor - ORCID iD -, který vás odlišuje od ostatních vědců a "
+"mechanismus pro propojení výstupů a činností z výzkumu s vaším iD. ORCID je "
+"integrován do mnoha systémů používaných vydavateli, investory, institucemi a "
+"dalšími službami souvisejícími s výzkumem. Další informace naleznete na "
+"adrese <a href=\"https://orcid.org\">orcid.org</a>."
+
+msgid "orcid.about.title"
+msgstr "Co je ORCID?"
+
+msgid "orcid.authorise"
+msgstr "Autorizujte a připojte svůj ORCID iD"
+
+msgid "orcid.failure.contact"
+msgstr ""
+"Obraťte se na manažera časopisu se svým jménem, ORCID iD a podrobnostmi o "
+"vašem příspěvku."
+
+msgid "orcid.verify.denied"
+msgstr "Odepřeli jste přístup k vašemu záznamu ORCID."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "Pro tento příspěvek již bylo ORCID iD uloženo."
+
+msgid "orcid.verify.failure"
+msgstr "Vaše ORCID iD se nepodařilo ověřit. Odkaz již není platný."
+
+msgid "orcid.verify.success"
+msgstr "Vaše ORCID iD bylo ověřeno a úspěšně spojeno s odesláním."
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr "Při publikování bude odesláno do vašeho záznamu ORCID."
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr "Odeslání nebylo možné přidat do vašeho záznamu ORCID."
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "Odeslání bylo přidáno do vašeho záznamu ORCID."
+
+msgid "orcid.verify.title"
+msgstr "Autorizace ORCID"
+
+msgid "orcid.author.unauthenticated"
+msgstr "ORCID iD není ověřen! Požádejte o ověření od přispěvatele."
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "Níže naleznete žádost o autentizovaný ORCID iD"
+
+msgid "orcid.author.deleteORCID"
+msgstr "Odstraňte ORCID iD a přístupový token!"
+
+msgid "orcid.author.requestAuthorization"
+msgstr "Pošlete e-mail a požádejte o autorizaci ORCID od přispěvatele"
+
+msgid "orcid.author.accessTokenStored"
+msgstr "Přístup k záznamu ORCID s rozsahem {$orcidAccessScope}, platný do"
+
+msgid "orcid.author.accessDenied"
+msgstr "Přístup ORCID byl odepřen na"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "Vše"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "Chyby"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "Vyberte množství protokolovaného výstupu zapsaného pluginem"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "Protokol požadavků ORCID"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"Pošlete e-mail a požádejte autory o autorizaci ORCID, pokud je článek "
+"přijat, tj. odeslán k editaci"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "Nastavení e-mailu"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "Rozsah přístupu k profilu"
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr ""
+"ORCID API bylo nakonfigurováno hostitelem globálně. Následující pověření "
+"byla uložena."
+
+msgid "orcid.about.howAndWhyMemberAPI"
+msgstr ""
+"Tento časopis shromažďuje vaše ORCID iD, abychom si my i širší komunita byli "
+"jisti tím, že jste správně identifikován(a) jako autor vaší publikace/vašich "
+"publikací. To zajistí, aby byla plná kolekce vašich výstupů propojena s vámi "
+"po celou dobu vaší kariéry..<br>\n"
+"\tPokud kliknete na tlačítko „Autorizovat“ ve vyskakovacím okně ORCID, "
+"budete požádáni o sdílení vašeho iD pomocí autorizačního procesu – buď "
+"registrací u ORCID iD, nebo, pokud již ORCID iD máte, přihlášením k vašemu "
+"ORCID účtu – to nám zajistí povolení použít vaše ORCID iD. To potřebujeme, "
+"abychom zajistili, že jste správně identifikováni a propojeni s vaším ORCID "
+"iD.<br>\n"
+"\tVíce najdete na stránkách ORCID <a href=\"https://info.orcid.org/whats-so-"
+"special-about-signing-in\">What’s so special about signing in.</a><br>\n"
+"\tTento časopis bude shromažďovat a zobrazovat iD autentifikovaných autorů a "
+"spoluautorů v OJS profilu a na stránce článku. Navíc, metadata článku budou "
+"automaticky přidány do vašeho záznamu ORCID – tím vám pomůžeme zachovat "
+"tento záznam aktuální a ověřený. Více najdete na následujícím odkazu <a href="
+"\"https://info.orcid.org/six-ways-to-make-your-orcid-id-work-for-you/\">Six "
+"ways to make your ORCID iD work for you!</a>\n"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "Neplatné tajemství klienta"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "Neplatné ID klienta"
+
+msgid "orcid.manager.settings.city"
+msgstr "Město"
+
+msgid "orcid.invalidClient"
+msgstr "Neplatné přihlašovací údaje klienta"
+
+msgid "orcid.manager.status.configuration.journal"
+msgstr "Konfigurace podle časopisu"
+
+msgid "orcid.manager.status.configuration.clientIdValid"
+msgstr "Id klienta je platné"
+
+msgid "orcid.manager.status.configuration.clientSecretValid"
+msgstr "Tajný kód klienta je platný"
+
+msgid "orcid.manager.settings.saved"
+msgstr "Uložena nastavení"
+
+msgid "orcid.manager.status.configuration.clientIdInvalid"
+msgstr "Id klienta je neplatné, zkontrolujte, prosím, zadání"
+
+msgid "orcid.manager.status.configuration.clientSecretInvalid"
+msgstr "Tajný kód klienta je neplatný, zkontrolujte si prosím své údaje"
+
+msgid "orcid.verify.duplicateOrcidAuthor"
+msgstr "Zjištěny duplicitní ORCiD pro přispěvatele."
+
+msgid "orcid.verify.hasUnauthenticatedOrcid"
+msgstr "Zjištěny neověřené ORCiD pro přispěvatele."

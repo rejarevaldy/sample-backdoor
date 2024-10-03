@@ -1,0 +1,86 @@
+{
+	"require": {
+		"php": "^8.2",
+		"composer/semver": "^3.4",
+		"cweagans/composer-patches": "^1.7",
+		"dflydev/base32-crockford": "^1.0",
+		"elcobvg/laravel-opcache": "^0.5.0",
+		"ezyang/htmlpurifier": "^4.17",
+		"firebase/php-jwt": "6.*",
+		"geoip2/geoip2": "~3.0",
+		"gettext/gettext": "5.*",
+		"gettext/translator": "1.2.*",
+		"guzzlehttp/guzzle": "^7.0",
+		"kevinlebrun/colors.php": "^1.0",
+		"kirkbushell/eloquence": "^11.0",
+		"laravel/framework": "^11.0",
+		"league/flysystem": "^3.0",
+		"league/flysystem-ftp": "^3.0",
+		"league/flysystem-sftp-v3": "^3.0",
+		"michelf/php-markdown": "2.*",
+		"moxiecode/plupload": "2.*",
+		"phpmailer/phpmailer": "6.*",
+		"ralouphie/getallheaders": "*",
+		"smarty/smarty": "4.*",
+		"sokil/php-isocodes": "^4.1",
+		"sokil/php-isocodes-db-i18n": "^4.0",
+		"symfony/mailer": "^7.0",
+		"tinymce/tinymce": "^5.7",
+		"wikimedia/less.php": "3.*"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~11",
+		"psy/psysh": "@stable",
+		"friendsofphp/php-cs-fixer": "^3.8",
+		"mockery/mockery": "^1.6",
+		"captainhook/captainhook": "^5.10",
+		"captainhook/plugin-composer": "^5.3"
+	},
+	"config": {
+		"component-dir": "lib/components",
+		"vendor-dir": "lib/vendor",
+		"platform": {
+			"php": "8.2.0"
+		},
+		"allow-plugins": {
+			"cweagans/composer-patches": true,
+			"captainhook/plugin-composer": true
+		},
+		"sort-packages": true
+	},
+	"scripts": {
+		"fix": "PHP_CS_FIXER_IGNORE_ENV=1 ./lib/vendor/bin/php-cs-fixer fix --allow-risky=yes",
+		"post-install-cmd": [
+			"@isoFileCheck",
+			"@weblateFilesDownload"
+		],
+		"isoFileCheck": [
+			"PKP\\dev\\ComposerScript::isoFileCheck"
+		],
+		"weblateFilesDownload": [
+			"PKP\\dev\\ComposerScript::weblateFilesDownload"
+		]
+	},
+	"autoload": {
+		"psr-4": {
+			"PKP\\controllers\\": "controllers/",
+			"APP\\controllers\\": "../../controllers/",
+			"PKP\\API\\": "api/",
+			"APP\\API\\": "../../api/",
+			"PKP\\pages\\": "pages/",
+			"APP\\pages\\": "../../pages/",
+			"PKP\\": "classes/",
+			"APP\\": "../../classes/",
+			"PKP\\plugins\\": "plugins/",
+			"APP\\plugins\\": "../../plugins/",
+			"PKP\\jobs\\": "jobs/",
+			"APP\\jobs\\": "../../jobs/"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"PKP\\tests\\": "tests/",
+			"APP\\tests\\": "../../tests/"
+		}
+	}
+}

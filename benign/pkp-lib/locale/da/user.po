@@ -1,0 +1,797 @@
+# Alexandra Fogtmann-Schulz <alfo@kb.dk>, 2021, 2022, 2023, 2024.
+# Jesper B. Thestrup <jbt@kb.dk>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:49:43+00:00\n"
+"PO-Revision-Date: 2024-06-06 18:05+0000\n"
+"Last-Translator: Alexandra Fogtmann-Schulz <alfo@kb.dk>\n"
+"Language-Team: Danish <http://translate.pkp.sfu.ca/projects/pkp-lib/user/da/>"
+"\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.accountInformation"
+msgstr "Kontoinformation"
+
+msgid "user.affiliation"
+msgstr "Tilhørsforhold"
+
+msgid "user.affiliation.description"
+msgstr "(Din institution, fx \"Aarhus Universitet\")"
+
+msgid "user.affiliations"
+msgstr "Tilhørsforhold"
+
+msgid "user.authorization.accessDenied"
+msgstr "Adgang nægtet."
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "Procesgodkendelse mangler eller er ugyldig."
+
+msgid "user.authorization.contextRequired"
+msgstr ""
+"Du kan ikke vælge den handling uden en kontekst (forlag, tidsskrift, "
+"konference osv.)."
+
+msgid "user.authorization.loginRequired"
+msgstr "Kræver login."
+
+msgid "user.authorization.privateOperation"
+msgstr ""
+"Den handling, du forsøgte at få adgang til, er enten privat eller eksisterer "
+"ikke."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr ""
+"Du er blevet nægtet adgang. Der er i øjeblikket begrænset adgang til dette "
+"websted."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "Den nuværende rolle har ikke adgang til denne handling."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr ""
+"Du er ikke blevet tildelt denne indsendelse med en rolle, der giver dig "
+"adgang til denne handling."
+
+msgid "user.authorization.userGroupRequired"
+msgstr ""
+"Du skal oprette en gyldig brugergruppe for at få adgang til denne handling."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"En bruger med en redaktør-rolle (dvs. produktionsredaktør) skal tilknyttes "
+"dette trin, før du kan gå videre."
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr "Du har på nuværende tidspunkt ikke adgang til dette workflow-trin."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "Der blev ikke angivet et workflow-trin."
+
+msgid "user.authorization.pluginRequired"
+msgstr "Der mangler at blive anvist en plugin."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "Du har ikke adgangtilladelse til denne bedømmelsestildeling."
+
+msgid "user.authorization.submissionQuery"
+msgstr "Du har ikke adgangstilladelse til denne drøftelse."
+
+msgid "user.biography"
+msgstr "Biografi (f.eks. afdeling og stillingbetegnelse)"
+
+msgid "user.changeMyPassword"
+msgstr "Redigér min adgangskode"
+
+msgid "user.changePassword"
+msgstr "Skift adgangskode"
+
+msgid "user.dateLastLogin"
+msgstr "Seneste login"
+
+msgid "user.dateRegistered"
+msgstr "Registreringsdato"
+
+msgid "user.editMyProfile"
+msgstr "Redigér min profil"
+
+msgid "user.email"
+msgstr "E-mail"
+
+msgid "user.givenName"
+msgstr "Fornavn"
+
+msgid "user.interests"
+msgstr "Bedømmelsesinteresser"
+
+msgid "user.gossip"
+msgstr "Private bemærkninger"
+
+msgid "user.gossip.description"
+msgstr ""
+"Registrer optegnelser om denne bedømmer, som du gerne vil synliggøre for "
+"andre administratorer og redaktører. Optegnelserne vil være synlige i "
+"forbindelse med fremtidige valg af bedømmere."
+
+msgid "user.group"
+msgstr "Brugergruppe"
+
+msgid "user.familyName"
+msgstr "Efternavn"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"Profilbilledets format er ugyldigt, eller også er billedet for stort. De "
+"accepterede formater er .gif, .jpg og .png, og billedet må ikke overskride "
+"150 x 150 pixels."
+
+msgid "user.login.accountDisabledWithReason"
+msgstr "Din konto er blevet deaktiveret af følgende årsag: {$reason}"
+
+msgid "user.login.accountDisabled"
+msgstr ""
+"Din konto er blevet deaktiveret. Kontakt administratoren for at få flere "
+"oplysninger."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"Vi har sendt en bekræftelses-e-mail til dig på {$email}. For at aktivere din "
+"nye konto skal du følge de angivne instruktioner i e-mailen. Hvis du ikke "
+"kan se nogen e-mail, bedes du tjekke din spam-mappe."
+
+msgid "user.login.activate"
+msgstr "Aktivér konto"
+
+msgid "user.login.activated"
+msgstr ""
+"Tak, fordi du har aktiveret din konto. Du kan nu logge på ved hjælp af de "
+"brugeroplysninger, du angav, da du oprettede kontoen."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"Du skal vælge en ny adgangskode, inden du kan logge på dette websted.<br /"
+"><br />Angiv dit brugernavn samt din aktuelle og din nye adgangskode "
+"nedenfor for at ændre adgangskoden til din konto."
+
+msgid "user.login.forgotPassword"
+msgstr "Har du glemt din adgangskode?"
+
+msgid "user.login.loginError"
+msgstr "Ugyldigt brugernavn/e-mail eller ugyldig adgangskode. Forsøg igen."
+
+msgid "user.login"
+msgstr "Login"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"En bekræftelse er blevet sendt til din e-mailadresse, hvis en matchende "
+"konto blev fundet. Følg instruktionerne i e-mailen for at nulstille din "
+"adgangskode."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"Det link, du har klikket på, er udløbet eller er ikke gyldigt. Forsøg at "
+"nulstille din adgangskode igen."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"Der er sendt en ny adgangskode til din e-mail-adresse. Du kan nu logge på "
+"webstedet med din nye adgangskode."
+
+msgid "user.login.registeredEmail"
+msgstr "E-mail-adresse på registreret bruger"
+
+msgid "user.login.registrationComplete"
+msgstr "Registrering fuldført"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "Tak for registreringen! Hvad ønsker du at foretage dig efterfølgende?"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Se indsendelser"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Foretag en ny indsendelse"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "Fortsæt browsing"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "Registrering afventer bekræftelse"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "Forbliv logget ind"
+
+msgid "user.login.resetPassword"
+msgstr "Nulstil adgangskode"
+
+msgid "user.logOut"
+msgstr "Log ud"
+
+msgid "user.logOutAs"
+msgstr "Log ud som {$username}"
+
+msgid "user.hello"
+msgstr "Hej "
+
+msgid "user.mailingAddress"
+msgstr "Postadresse"
+
+msgid "user.myAccount"
+msgstr "Min konto"
+
+msgid "user.name"
+msgstr "Navn"
+
+msgid "user.password"
+msgstr "Adgangskode"
+
+msgid "user.repeatPassword"
+msgstr "Gentag adgangskode"
+
+msgid "user.phone"
+msgstr "Telefon"
+
+msgid "user.preferredPublicName"
+msgstr "Foretrukket offentligt navn"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"Angiv forfatterens fulde navn, som det skal stå på udgivelsen. Fx: Dr. Alan "
+"P. Mwandenga"
+
+msgid "user.profile.changePasswordInstructions"
+msgstr ""
+"Angiv din aktuelle og din nye adgangskode nedenfor for at ændre adgangskoden "
+"til din konto."
+
+msgid "user.profile.editProfile"
+msgstr "Redigér profil"
+
+msgid "user.profile.form.countryRequired"
+msgstr "Et land er påkrævet."
+
+msgid "user.profile.form.emailRequired"
+msgstr "En gyldig e-mail-adresse er påkrævet."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "Der kræves et fornavn."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"Du har tilføjet et efternavn til et sprog, der mangler fornavnet. Tilføj et "
+"fornavn til dette sprog."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "En e-mailadresse er påkrævet."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "Du skal angive din nye adgangskode."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "Den aktuelle adgangskode, du har angivet, er forkert."
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "E-mail-beskeder om Open Access til nummer"
+
+msgid "user.profile.form.passwordRequired"
+msgstr "En adgangskode er påkrævet."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "Din nye adgangskode er den samme som din gamle adgangskode."
+
+msgid "user.profile.form.profileImage"
+msgstr "Profilbillede"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "E-mail-beskeder om publicering af nyt nummer"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"Den angivne URL-adresse er ikke gyldig. Kontroller URL-adressen, og forsøg "
+"igen. (Tip: Sæt http:// foran URL-adressen.)"
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "En brugergruppe er påkrævet."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "Et brugernavn er påkrævet."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr ""
+"Du skal acceptere betingelserne i erklæring om beskyttelse af personlige "
+"oplysninger."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr ""
+"Undlad at udfylde adgangskodefelterne, hvis du vil bevare den aktuelle "
+"adgangskode."
+
+msgid "user.profile.newPassword"
+msgstr "Ny adgangskode"
+
+msgid "user.profile.oldPassword"
+msgstr "Aktuel adgangskode"
+
+msgid "user.profile"
+msgstr "Profil"
+
+msgid "user.profile.publicProfile"
+msgstr "Brugerprofil"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "Gentag ny adgangskode"
+
+msgid "user.login.registerNewAccount"
+msgstr "Registrér"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"Registrér din kontos e-mailadresse nedenfor. Du vil efterfølgende modtage en "
+"e-mail med en vejledning i, hvordan du nulstiller dit password."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"Ja, jeg accepterer at få mine data indsamlet og opbevaret i overensstemmelse "
+"med vores <a href=\"{$privacyUrl}\" target=\"_blank\">Erklæring om "
+"beskyttelse af personlige oplysninger</a>."
+
+msgid "user.register.form.emailConsent"
+msgstr ""
+"Ja, jeg vil gerne holdes underrettet om nye publikationer og meddelelser."
+
+msgid "user.register.form.emailExists"
+msgstr "Den valgte e-mail-adresse benyttes allerede af en anden bruger."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "Adgangskoderne stemmer ikke overens."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "Felterne for e-mail-adresse stemmer ikke overens."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"Brugernavnet må kun indeholde små bogstaver og tal, \"_\" og \"-\". Det skal "
+"begynde og slutte med et bogstav eller tal."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "Du skal vælge mindst én rolle."
+
+msgid "user.register.form.usernameExists"
+msgstr "Det valgte brugernavn benyttes allerede af en anden bruger."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "Adgangskoden skal være på mindst {$length} tegn."
+
+msgid "user.register.registerAs"
+msgstr "Registrér i {$contextName} som..."
+
+msgid "user.register"
+msgstr "Registrér"
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"Brugernavnet må kun indeholde små bogstaver, tal og bindestreger/"
+"understregningstegn."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"Registreringen er gennemført. <a href=\"{$profileUrl}\">Klik her</a> for at "
+"færdigredigere din profil."
+
+msgid "user.role.assistant"
+msgstr "Assistent"
+
+msgid "user.role.author"
+msgstr "Forfatter"
+
+msgid "user.role.author_s"
+msgstr "Forfatter(e)"
+
+msgid "user.role.authors"
+msgstr "Forfattere"
+
+msgid "user.role.editor"
+msgstr "Redaktør"
+
+msgid "user.role.editors"
+msgstr "Redaktører"
+
+msgid "user.role.reader"
+msgstr "Læser"
+
+msgid "user.role.readers"
+msgstr "Læsere"
+
+msgid "user.role.reviewer"
+msgstr "Bedømmer"
+
+msgid "user.role.reviewers"
+msgstr "Bedømmere"
+
+msgid "user.role.siteAdmin"
+msgstr "Webstedsadministrator"
+
+msgid "user.role.siteAdmins"
+msgstr "Webstedsadministratorer"
+
+msgid "user.role.copyeditor"
+msgstr "Manuskriptredaktør"
+
+msgid "user.role.copyeditors"
+msgstr "Manuskriptredaktører"
+
+msgid "user.role.proofreader"
+msgstr "Korrekturlæser"
+
+msgid "user.role.proofreaders"
+msgstr "Korrekturlæsere"
+
+msgid "user.role.layoutEditor"
+msgstr "Layoutredaktør"
+
+msgid "user.role.layoutEditors"
+msgstr "Layoutredaktører"
+
+msgid "user.roles"
+msgstr "Roller"
+
+msgid "user.sendPassword"
+msgstr "Bekræftelse"
+
+msgid "user.sendPassword.description"
+msgstr ""
+"Send mig en bekræftelse via e-mail med mit brugernavn og min adgangskode"
+
+msgid "user.signature"
+msgstr "Signatur"
+
+msgid "user.title"
+msgstr "Titel"
+
+msgid "user.url"
+msgstr "Hjemmeside-URL"
+
+msgid "user.userHome"
+msgstr "Brugerstartside"
+
+msgid "user.username"
+msgstr "Brugernavn"
+
+msgid "user.workingLanguages"
+msgstr "Arbejdssprog"
+
+msgid "user.orcid"
+msgstr "ORCID iD"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"Det ORCID iD du angav er ikke gyldig. Husk at inkludere den hele URI (e.g. "
+"\"https://orcid.org/0000-0002-1825-0097\")."
+
+msgid "user.profile.identity"
+msgstr "Identitet"
+
+msgid "user.profile.contact"
+msgstr "Kontakt"
+
+msgid "user.profile.public"
+msgstr "Offentlig"
+
+msgid "user.apiKey"
+msgstr "API-nøgle"
+
+msgid "user.apiKeyEnabled"
+msgstr ""
+"Aktivér eksterne applikationer med API-nøglen for at få adgang til denne "
+"konto"
+
+msgid "user.apiKey.generate"
+msgstr "Generér API-nøgle"
+
+msgid "user.apiKey.remove"
+msgstr "Slet"
+
+msgid "user.apiKey.generateWarning"
+msgstr ""
+"Generering af en ny API-nøgle vil ugyldiggøre enhver eksisterende nøgle til "
+"denne bruger."
+
+msgid "user.apiKey.removeWarning"
+msgstr ""
+"Sletning af en nøgle vil stoppe adgangen for enhver applikation, der bruger "
+"den."
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "Er du sikker på, at du vil slette denne API-nøgle?"
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"Før du genererer en API-nøgle, skal din webstedsadministrator angive en "
+"hemmelig i config-filen (\"api_key_secret\")."
+
+msgid "user.privacyLink"
+msgstr ""
+"Dine data er gemt i overensstemmelse med vores <a href=\"{$privacyUrl}\" "
+"target=\"_blank\">Erklæring om beskyttelse af personlige oplysninger</a>."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr "Der eksisterer ingen bruger med den angivne e-mailadresse."
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr ""
+"Kan ikke gennemføre anmodningen om nulstilling af adgangskode, fordi "
+"{$reason}."
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr "Indtast ny adgangskode for at opdatere login-adgangskoden."
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr ""
+"Adgangskoden er blevet opdateret. Log venligst på med opdateret adgangskode."
+
+msgid "user.usernameOrEmail"
+msgstr "Brugernavn eller e-mail"
+
+msgid "user.authorization.submission.incomplete.workflowAccessRestrict"
+msgstr "Adgang til workflow'et for ufærdige indsendelser er begrænset."
+
+msgid "orcid.displayName"
+msgstr "ORCID profil-plugin"
+
+msgid "orcid.description"
+msgstr "Tillader import af brugerprofilinformationer fra ORCID."
+
+msgid "orcid.instructions"
+msgstr "Du kan udfylde denne formular på forhånd med information fra en ORCID-profil. Indsæt e-mailadressen eller ORCID-iD tilknyttet ORCID-profilen og klik 'Indsend'."
+
+msgid "orcid.noData"
+msgstr "Kunne ikke finde data fra ORCID."
+
+msgid "orcid.emailOrOrcid"
+msgstr "E-mailadresse eller ORCID-iD:"
+
+msgid "orcid.manager.orcidProfileSettings"
+msgstr "ORCID profilindstillinger"
+
+msgid "orcid.manager.settings.description"
+msgstr ""
+"Konfigurér ORCID API-adgangen så du kan trække ORCID-profiloplysninger ind i "
+"bruger- og forfatterprofiler og opdatere tilsluttede ORCID-registreringer "
+"med nye publikationer (kun for ORCID-medlemmer)."
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "ORCID API"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "Offentlig"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "Offentlig sandbox"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "Medlem"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "Medlems-sandbox"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "Klient-ID"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "Klienthemmelighed (Client Secret)"
+
+msgid "orcid.author.submission"
+msgstr "Indsendelses-ORCID"
+
+msgid "orcid.author.submission.success"
+msgstr "Din indsendelse blev forbundet med din ORCID-iD"
+
+msgid "orcid.author.submission.failure"
+msgstr "Din indsendelse kunne ikke forbindes med din ORCID iD. Kontakt tidsskriftschefen med oplysning om dit navn, ORCID og indsendelsesdetaljer."
+
+msgid "orcid.authFailure"
+msgstr "ORCID-autorisationslinket er allerede brugt eller er ugyldigt."
+
+msgid "orcid.fieldset"
+msgstr "ORCID"
+
+msgid "orcid.connect"
+msgstr "Opret eller tilslut din ORCID iD"
+
+msgid "orcid.about.display"
+msgstr ""
+"For at anerkende, at du har brugt dit iD, og at det er godkendt, viser vi "
+"ORCID iD-ikonet <img src=\"https://info.orcid.org/wp-content/uploads/2020/12/"
+"ORCIDiD_icon16x16.png\" alt=\"iD icon\" width=\"16\" height=\"16\" border=\""
+"0\"> ved siden af dit navn på din indsendelses artikelside og på din "
+"offentlige brugerprofil. <br>\n"
+"  Lær mere i in <a href=\"https://info.orcid.org/"
+"how-should-an-orcid-id-be-displayed/\"> Hvordan skal en ORCID iD vises.</a>"
+
+msgid "orcid.about.display.title"
+msgstr "Hvor vises ORCID iD'er?"
+
+msgid "orcid.about.howAndWhyPublicAPI"
+msgstr ""
+"Dette tidsskrift indhenter dit ORCID iD, så vi kan være sikre på, at du er "
+"korrekt identificeret og forbundet med din(e) publikation(er). Dette vil "
+"sikre, at du tilknyttes din samlede værkproduktion gennem hele din karriere. "
+"<br> \n"
+" Når du klikker på knappen \"Godkend\" i ORCID-pop op-vinduet, vil vi bede "
+"dig om at dele dit iD via en godkendt proces - enten ved tilmelding til et "
+"ORCID iD eller, hvis du allerede har et, ved at logge ind på din ORCID-konto "
+"og give os tilladelse til at få din ORCID iD. Vi gør dette for at sikre, at "
+"du er korrekt identificeret og sikkert knyttet til din ORCID iD.<br>\n"
+"Lær mere i <a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\"> Hvad er så specielt ved at logge "
+"ind.</a><br>\n"
+"Dette tidsskrift samler og viser godkendte forfattere og medforfatteres "
+"iD'er på OJS-profilen og artikelsiden."
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "Hvordan og hvorfor vi indsamler ORCID iD'er?"
+
+msgid "orcid.about.orcidExplanation"
+msgstr ""
+"ORCID er en uafhængig nonprofit organisation, der leverer en persistent "
+"identifikator - et ORCID iD - der kan skelne dig fra andre forskere og en "
+"teknik til at knytte dine forskningsresultater og aktiviteter til din iD. "
+"ORCID er integreret i mange systemer, der bruges af udgivere, sponsorer, "
+"institutioner og andre forskningsrelaterede tjenester. Lær mere på <a href=\""
+"https://orcid.org\"> orcid.org </a>."
+
+msgid "orcid.about.title"
+msgstr "Hvad er ORCID?"
+
+msgid "orcid.authorise"
+msgstr "Godkend og tilslut dit ORCID iD"
+
+msgid "orcid.failure.contact"
+msgstr ""
+"Kontakt tidsskrifschefen med dit navn, ORCID iD og detaljerede oplysninger "
+"om din indsendelse."
+
+msgid "orcid.verify.denied"
+msgstr "Du er blevet nægtet adgang til din ORCID-optegnelse."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "En ORCID iD blev allerede gemt i forbindelse med denne indsendelse."
+
+msgid "orcid.verify.failure"
+msgstr "Din ORCID iD kunne ikke verificeres. Linket er ikke længere gyldigt."
+
+msgid "orcid.verify.success"
+msgstr "Din ORCID iD er verificeret og blevet tilknyttet indsendelsen."
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr "Indsendelsen føjes til din ORCID-optegnelse under publiceringen."
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr "Indsendelsen kunne ikke føjes til din ORCID-optegnelse."
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "Indsendelsen er føjet til din ORCID-optegnelse."
+
+msgid "orcid.verify.title"
+msgstr "ORCID-godkendelse"
+
+msgid "orcid.author.unauthenticated"
+msgstr "ORCID iD ikke godkendt! Anmod om godkendelse fra bidragyderen."
+
+msgid "orcid.author.accessDenied"
+msgstr "ORCID-adgang blev nægtet kl."
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "Se nedenfor for at anmode om godkendt ORCID iD"
+
+msgid "orcid.author.deleteORCID"
+msgstr "Slet ORCID iD og access token!"
+
+msgid "orcid.author.requestAuthorization"
+msgstr "Send e-mail for at anmode om ORCID-godkendelse fra bidragyderen"
+
+msgid "orcid.author.accessTokenStored"
+msgstr ""
+"ORCID log-adgang tildelt med følgende omfang {$orcidAccessScope}, gyldig "
+"indtil"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "Alt"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "Fejl"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "Vælg mængden af dataindsamling (logging output) skrevet af pluginen"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "ORCID-anmodningslog"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"Send e-mail for at anmode om ORCID-autorisation fra forfattere, når en "
+"artikel accepteres, dvs. bliver sendt til manuskriptredigering"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "E-mail-indstillinger"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "Profils adgangsområde"
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr ""
+"ORCID API blev konfigureret globalt af værten. Følgende "
+"legitimationsoplysninger er blevet gemt."
+
+msgid "orcid.manager.settings.hidden"
+msgstr "skjult"
+
+msgid "orcid.manager.settings.title"
+msgstr "ORCID API indstillinger"
+
+msgid "orcid.about.howAndWhyMemberAPI"
+msgstr ""
+"Dette tidsskrift indhenter din ORCID iD, så vi kan være sikre på, at du er "
+"korrekt identificeret og knyttet til din(e) publikation(er). Dette vil "
+"sikre, at du linkes til din samlede værkproduktion gennem hele din karriere. "
+"<br>\n"
+" Når du klikker på knappen \"Godkend\" i ORCID-pop op-vinduet, beder vi dig "
+"om at dele din iD ved hjælp af en godkendt proces - enten ved at tilmelde "
+"dig en ORCID iD eller, hvis du allerede har en, ved at logge ind på din "
+"ORCID-konto og derefter give os tilladelse til at få din ORCID iD. Vi gør "
+"dette for at sikre, at du er korrekt identificeret og fået oprettet en "
+"sikker forbindelse til din ORCID iD. <br>\n"
+" Få flere oplysninger her<a href=\"https://info.orcid.org/"
+"whats-so-special-about-signing-in/\">Hvad er så specielt ved at logge ind. "
+"</a> <br>\n"
+" Dette tidsskrift samler og viser godkendte forfattere og medforfatteres "
+"iD'er på OJS-profilen og artikelsiden. Derudover vil artikelmetadata "
+"automatisk blive overført til din ORCID-post, så vi kan hjælpe dig med at "
+"holde din post opdateret med pålidelige oplysninger. Lær mere her: <a href=\""
+"https://info.orcid.org/six-ways-to-make-your-orcid-id-work-for-you/\">Seks "
+"måder at få din ORCID iD til at arbejde for dig!</a>\n"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "Ugyldigt klient-kode (client secret)"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "Ugyldigt klient-id"
+
+msgid "orcid.manager.settings.saved"
+msgstr "Indstillinger gemt"
+
+msgid "orcid.manager.settings.city"
+msgstr "By"
+
+msgid "orcid.invalidClient"
+msgstr "Ugyldige legitimationsoplysninger"
+
+msgid "orcid.manager.status.configuration.journal"
+msgstr "Konfigureret per tidsskrift"
+
+msgid "orcid.manager.status.configuration.clientIdValid"
+msgstr "Klient ID er gyldig"
+
+msgid "orcid.manager.status.configuration.clientIdInvalid"
+msgstr "Klient ID er ugyldig, tjek venligst dit input"
+
+msgid "orcid.manager.status.configuration.clientSecretValid"
+msgstr "Klient hemmelighed er gyldig"
+
+msgid "orcid.manager.status.configuration.clientSecretInvalid"
+msgstr ""
+"Klient hemmelighed er ugyldig, tjek venligst dine legitimationsoplysninger"
+
+msgid "orcid.verify.duplicateOrcidAuthor"
+msgstr "Der er detekteret dubletter blandt de angivne ORCiD's for bidragyderne."
+
+msgid "orcid.verify.hasUnauthenticatedOrcid"
+msgstr "Der blev detekteret ikke-godkendte ORCiDs for nogle bidragydere."

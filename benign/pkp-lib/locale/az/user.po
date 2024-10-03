@@ -1,0 +1,732 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2023, 2024.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-20 00:03+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"user/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "user.preferredPublicName"
+msgstr "Tərcih edilən ümumi ad"
+
+msgid "user.accountInformation"
+msgstr "Hesab məlumatları"
+
+msgid "user.affiliation.description"
+msgstr "(Müəssisəniz: \"Universitet, fakültə, kafedra\" şəklində qeyd edin.)"
+
+msgid "user.affiliations"
+msgstr "Qurumlar"
+
+msgid "user.biography"
+msgstr "Tərcümeyi-hal"
+
+msgid "user.changeMyPassword"
+msgstr "Şifrəmi dəyişdirin"
+
+msgid "user.changePassword"
+msgstr "Şifrə dəyişdirmə"
+
+msgid "user.dateLastLogin"
+msgstr "Son giriş"
+
+msgid "user.dateRegistered"
+msgstr "Qeydiyyat tarixi"
+
+msgid "user.editMyProfile"
+msgstr "Profilimi düzəldin"
+
+msgid "user.email"
+msgstr "Email"
+
+msgid "user.givenName"
+msgstr "Ad"
+
+msgid "user.interests"
+msgstr "İxtisas"
+
+msgid "user.gossip"
+msgstr "Xüsusi qeydlər"
+
+msgid "user.group"
+msgstr "Üzv qrupu"
+
+msgid "user.familyName"
+msgstr "Soyadı"
+
+msgid "user.login.accountDisabledWithReason"
+msgstr "Hesabınız aşağıdakı səbəbə görə passivdir: {$reason}"
+
+msgid "user.login.activate"
+msgstr "Hesabın aktivləşdirilməsi"
+
+msgid "user.login.forgotPassword"
+msgstr "Şifrənizi unutmusunuz?"
+
+msgid "user.login"
+msgstr "Daxil ol"
+
+msgid "user.login.registeredEmail"
+msgstr "Qeydiyyatlı istifadəçinin email ünvanı"
+
+msgid "user.login.registrationComplete"
+msgstr "Qeydiyyat tamamlandı"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr ""
+"Qeydiyyatdan keçdiyiniz üçün təşəkkürlər! Bundan sonra nə etmək istəyirsiniz?"
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Məqalələri göstər"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Yeni bir göndərmə hazırla"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "Sıralamağa davam edin"
+
+msgid "user.login.registrationPendingValidation"
+msgstr "Təsdiqlənmə gözləyən qeydiyyat"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "Məni xətdə saxlayın"
+
+msgid "user.login.resetPassword"
+msgstr "Şifrəni sıfırlayın"
+
+msgid "user.logOut"
+msgstr "Çıxış"
+
+msgid "user.logOutAs"
+msgstr "{$username} adına çıxış"
+
+msgid "user.mailingAddress"
+msgstr "Email ünvanı"
+
+msgid "user.myAccount"
+msgstr "Mənim hesabım"
+
+msgid "user.name"
+msgstr "Ad"
+
+msgid "user.password"
+msgstr "Şifrə"
+
+msgid "user.repeatPassword"
+msgstr "Şifrə təkrarlanması"
+
+msgid "user.phone"
+msgstr "Telefon"
+
+msgid "user.preferredPublicName.description"
+msgstr ""
+"Müəllifin yayınlanmış əsərdə qeyd olunması lazım olduğundan zəhmət olmazsa "
+"tam adı qeyd edin.Nümunə: Dr. Alan P. Mwandenga"
+
+msgid "user.profile.editProfile"
+msgstr "Profilə düzəliş et"
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "Açıq giriş email bildirişləri"
+
+msgid "user.profile.form.profileImage"
+msgstr "Profil şəkli"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "Nəşr olunmuş yeni nömrə üçün xəbərdarlıq emaili"
+
+msgid "user.profile.form.urlInvalid"
+msgstr ""
+"Göstərilən URL etibarlı deyil. Zəhmət olmasa URL ünvanını yoxlamaqla yenidən "
+"cəhd edin. (İpucu: URL başına http:// əlavə edin.)"
+
+msgid "user.profile.newPassword"
+msgstr "Yeni şifrə"
+
+msgid "user.profile.oldPassword"
+msgstr "Hazırkı şifrə"
+
+msgid "user.profile"
+msgstr "Profil"
+
+msgid "user.profile.publicProfile"
+msgstr "İstifadəçi profili"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "Yeni şifrəni təkrarlayın"
+
+msgid "user.login.registerNewAccount"
+msgstr "Qeydiyyat"
+
+msgid "user.register"
+msgstr "Qeydiyyat"
+
+msgid "user.role.assistant"
+msgstr "Köməkçi"
+
+msgid "user.role.author"
+msgstr "Müəllif"
+
+msgid "user.role.author_s"
+msgstr "Müəllif(lər)"
+
+msgid "user.role.authors"
+msgstr "Müəlliflər"
+
+msgid "user.role.editor"
+msgstr "Redaktor"
+
+msgid "user.role.editors"
+msgstr "Redaktorlar"
+
+msgid "user.role.reader"
+msgstr "Oxucu"
+
+msgid "user.role.readers"
+msgstr "Oxucular"
+
+msgid "user.affiliation"
+msgstr "Qurum"
+
+msgid "user.authorization.accessDenied"
+msgstr "Giriş rədd edildi."
+
+msgid "user.authorization.loginRequired"
+msgstr "Üzv girişi tələb olunur."
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "Cari səlahiyyətiniz bu əməliyyatı həyata keçirmək üçün kifayət etmir."
+
+msgid "user.authorization.assignedStageRoleBasedAccessDenied"
+msgstr ""
+"Bu məqaləyə, bu əməliyyata giriş icazəsi verilən bir rola sahib deyilsiniz."
+
+msgid "user.authorization.userGroupRequired"
+msgstr ""
+"Bu əməliyyatı həyata keçirmək üçün etibarlı bi istifadəçi qrupu "
+"müəyyənləşdirməlisiniz."
+
+msgid "user.authorization.managerRequired"
+msgstr ""
+"Davam etməzdən əvvəl aşağıda Çap İdarəçisi roluna sahib biri təyin "
+"edilməlidir. (Məsələn; çap və ya istehsal redaktoru)"
+
+msgid "user.authorization.accessibleWorkflowStage"
+msgstr "Hal hazırda iş axışının bu mərhələsinə girişiniz yoxdur."
+
+msgid "user.authorization.workflowStageRequired"
+msgstr "Heç bir iş axışı mərhələsi qeyd edilməyib."
+
+msgid "user.login.changePasswordInstructions"
+msgstr ""
+"Saytı daxil etmək üçün əvvəlcə yeni bir şifrə təyin etməlisiniz. <br /> <br /"
+"> şifrənizi dəyişdirmək üçün istifadəçi adınızı, cari şifrənizi və yeni "
+"şifrənizi daxil edin."
+
+msgid "user.hello"
+msgstr "Salam, "
+
+msgid "user.profile.changePasswordInstructions"
+msgstr ""
+"İstifadəçi hesabınızın şifrəsini dəyişdirmək üçün hazırkı və yeni şifrənizi "
+"daxil edin."
+
+msgid "user.profile.form.oldPasswordInvalid"
+msgstr "Daxil etdiyiniz şifrə xətalıdır."
+
+msgid "user.profile.form.passwordRequired"
+msgstr "Şifrə tələb olunur."
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "Yeni şifrəniz əvvəlki şifrənizlə eynidir."
+
+msgid "user.profile.form.usergroupRequired"
+msgstr "Üzv qrupu tələb olunur."
+
+msgid "user.profile.form.usernameRequired"
+msgstr "İstifadəçi adı girməlisiniz."
+
+msgid "user.profile.form.privacyConsentRequired"
+msgstr "Məxfilik bəyannaməsinin şərtlərini qəbul etməlisiniz."
+
+msgid "user.profile.leavePasswordBlank"
+msgstr "Cari şifrə ilə davam etmək üçün şifrə xanasını boş buraxın."
+
+msgid "user.register.usernameRestriction"
+msgstr ""
+"İstifadəçi adı sadəcə kiçik hərfləri, sayları, tire işarəsini və alt xətdən "
+"ibarət olmalıdır."
+
+msgid "user.register.registrationCompleted"
+msgstr ""
+"Uğurla qeydiyyatdan keçmisiniz. Profilinizi doldurmaq üçün buraya vurun <a "
+"href=\" $frofileurl }\"> </a>."
+
+msgid "user.role.reviewer"
+msgstr "Rəyçi"
+
+msgid "user.role.reviewers"
+msgstr "Rəyçi"
+
+msgid "user.profile.identity"
+msgstr "Şəxsiyyət"
+
+msgid "user.authorization.processAuthenticationTokenRequired"
+msgstr "Əməliyyat kimlik identifikasiyası əskik və ya etibarsızdır."
+
+msgid "user.authorization.contextRequired"
+msgstr ""
+"Bir mənbə olmadan bu əməliyyat üçün çağırış edə bilməzsiniz (Jurnal, "
+"konfrans, vs.)"
+
+msgid "user.authorization.privateOperation"
+msgstr "Bu əməliyyat xüsusidir və ya mövcud deyildir."
+
+msgid "user.authorization.restrictedSiteAccess"
+msgstr "Girişiniz rədd edildi. Bu səhifəyə giriş məhdudlaşdırılıb."
+
+msgid "user.authorization.pluginRequired"
+msgstr "Bir qoşma qeyd edilməyib; ancaq qoşma zəruridir."
+
+msgid "user.authorization.invalidReviewAssignment"
+msgstr "Bu yazı üçün etibarlı bir rəyçi olmadığınız üçün girişiniz rədd edildi"
+
+msgid "user.authorization.submissionQuery"
+msgstr "Bu müzakirəyə daxilolma icazəniz yoxdur."
+
+msgid "user.gossip.description"
+msgstr ""
+"Buraya daxil olan qeydlər sadəcə idarəçilər, jurnal idarəçiləri redaktorlar "
+"və köməkçi redaktorlar tərəfindən görülə bilər."
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr ""
+"Şəkillər .gif, .jpg veya .png formalarından biri olmalıdır ve ölçüləri ən "
+"çox 150X150 olmalıdır."
+
+msgid "user.login.accountDisabled"
+msgstr "Hesabınız passivdir. Daha çox məlumat üçün idarəçi ilə əlaqə saxlayın."
+
+msgid "user.login.accountNotValidated"
+msgstr ""
+"Sizə {$email} adresindən bir təsdiq emaili göndərildi. Zəhmət olmasa, yeni "
+"hesabınızı aktivləşdirmək üçün bu emaildəki təlimatları izləyin. Bir email "
+"almamısınızsa, emailin spam qovluğuna düşüb düşmədiyini yoxlayın."
+
+msgid "user.login.activated"
+msgstr ""
+"Hesabınızı aktivləşdirdiyiniz üçün təşəkkür edirik. İndi hesabınızı "
+"formalaşdırarkən sizə verilən kimlik məlumatlarını istifadə edərək daxil ola "
+"bilərsiniz."
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr ""
+"Doğrulama mesajı email ünvanınıza göndərildi. Şifrənizi yeniləmək üçün bu "
+"emaildəki təlimatları tətbiq edin."
+
+msgid "user.login.loginError"
+msgstr ""
+"İstifadəçi adı və ya şifrə yanlış daxil edildi. Böyük-kiçik hərf uyğunluğuna "
+"diqqət edərək yenidən cəhd edin."
+
+msgid "user.login.lostPassword.invalidHash"
+msgstr ""
+"Bağışlayın, bu əlaqə etibarlı deyil. Şifrənizi yeniləmək üçün yenidən cəhd "
+"edin."
+
+msgid "user.login.lostPassword.passwordSent"
+msgstr ""
+"Yeni şifrəniz e-poçt ünvanınıza göndərildi. Yeni şifrənizi istifadə edərək "
+"saytımızla əlaqə qura bilərsiniz."
+
+msgid "user.profile.form.countryRequired"
+msgstr "Bir ölkə zəruridir."
+
+msgid "user.profile.form.emailRequired"
+msgstr "Etibarlı bir email ünvanı tələb olunur."
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "Müəyyən bir ad tələb olunur."
+
+msgid "user.profile.form.givenNameRequired.locale"
+msgstr ""
+"Qeyd olunan adın əskik olduğu bir dil üçün soyad əlavə etmisiniz. Zəhmət "
+"olmazsa bu dil üçün verilmiş ad əlavə edin."
+
+msgid "user.profile.form.mailingAddressRequired"
+msgstr "Bir email ünvanı tələb olunur."
+
+msgid "user.profile.form.newPasswordRequired"
+msgstr "Yeni şifrənizi daxil etməlisiniz."
+
+msgid "user.login.resetPasswordInstructions"
+msgstr ""
+"Hesabınızın e-poçt ünvanını aşağıya daxil etsəniz parolunuzu necə sıfırlamaq "
+"barədə təlimatlar ehtiva edən e-poçt göndəriləcək."
+
+msgid "user.register.form.privacyConsent"
+msgstr ""
+"Bəli, məlumatlarımın <a href=\"{$privacyUrl}\" target=\"_blank\">məxfilik "
+"bəyanatına</a> uyğun olaraq toplanması və saxlanmasını qəbul edirəm. <a href="
+"\"{$privacyUrl}\" target=\"_blank\">privacy statement</a>."
+
+msgid "user.register.form.emailConsent"
+msgstr "Bəli, yeni nəşrlər və elanlardan xəbərdar olmaq istəyirəm."
+
+msgid "user.register.form.emailExists"
+msgstr ""
+"Seçdiyiniz email ünvanı artıq başqa bir istifadəçi tərəfindən istifadə "
+"olunur."
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "Şifrələr uyğun gəlmir."
+
+msgid "user.register.form.emailsDoNotMatch"
+msgstr "Email ünvanı sahələri uyğun gəlmir."
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr ""
+"İstifadəçi adı yalnızca kiçik hərfli alfanumerik, alt xətt ve tire ola bilər."
+
+msgid "user.register.form.userGroupRequired"
+msgstr "Ən azı bir vəzifə seçməlisiniz"
+
+msgid "user.register.form.usernameExists"
+msgstr "Seçdiyiniz istifadəçi adı artıq başqası tərəfindən istifadə olunur."
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "Şifrə ən az {$length} xarakter olmalıdır."
+
+msgid "user.register.registerAs"
+msgstr "{$contextName} formasında qeydiyyatdan keçin..."
+
+msgid "user.role.siteAdmin"
+msgstr "Sayt idarəçisi"
+
+msgid "user.role.siteAdmins"
+msgstr "Sayt idarəçiləri"
+
+msgid "user.role.copyeditor"
+msgstr "Səhifə Tərtibatı Redaktoru"
+
+msgid "user.role.copyeditors"
+msgstr "Səhifə tərtibatı redaktorları"
+
+msgid "user.role.proofreader"
+msgstr "Test Dizayn Korrektoru"
+
+msgid "user.role.proofreaders"
+msgstr "Test dizayn korrektorları"
+
+msgid "user.role.layoutEditor"
+msgstr "Layout redaktoru"
+
+msgid "user.role.layoutEditors"
+msgstr "Layout redaktorları"
+
+msgid "user.roles"
+msgstr "Rol"
+
+msgid "user.sendPassword"
+msgstr "Təsdiqləmə"
+
+msgid "user.sendPassword.description"
+msgstr "İstifadəçi adı və şifrəm daxil olmaqla bir təsdiq e-poçtunu mənə Göndər"
+
+msgid "user.signature"
+msgstr "İmza"
+
+msgid "user.title"
+msgstr "Başlıq"
+
+msgid "user.url"
+msgstr "Ana səhifə URL"
+
+msgid "user.userHome"
+msgstr "İstifadəçi evi"
+
+msgid "user.username"
+msgstr "İstifadəçi adı"
+
+msgid "user.usernameOrEmail"
+msgstr "İstifadəçi adı və ya e-poçt"
+
+msgid "user.workingLanguages"
+msgstr "İşgüzar"
+
+msgid "user.orcid"
+msgstr "Orcid ID"
+
+msgid "user.orcid.orcidInvalid"
+msgstr ""
+"Göstərdiyiniz orcid şəxsiyyət etibarsızdır. Zəhmət olmasa, tam Uri (məsələn, "
+"https://orcid.org/0000-0002-1825-0097 \")."
+
+msgid "user.profile.contact"
+msgstr "Əlaqə"
+
+msgid "user.profile.public"
+msgstr "İctimai"
+
+msgid "user.apiKey"
+msgstr "API açarı"
+
+msgid "user.apiKeyEnabled"
+msgstr ""
+"Bu hesaba daxil olmaq üçün API açarı ilə xarici tətbiqləri aktivləşdirin"
+
+msgid "user.apiKey.generate"
+msgstr "Yeni API açarı yaradın"
+
+msgid "user.apiKey.remove"
+msgstr "Silin"
+
+msgid "user.apiKey.generateWarning"
+msgstr ""
+"Yeni API açarı yaratmaq bu istifadəçi üçün mövcud düyməni etibarsız "
+"edəcəkdir."
+
+msgid "user.apiKey.removeWarning"
+msgstr ""
+"Açarın silinməsi onu istifadə edən hər hansı proqrama girişi ləğv edəcək."
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "Bu API açarını silmək istədiyinizə əminsiniz?"
+
+msgid "user.apiKey.secretRequired"
+msgstr ""
+"Bir API açarı yaratmadan əvvəl sayt administratoru konfiqurasiya faylında ("
+"\"api_key_secret\") sirrini təyin etməlidir."
+
+msgid "user.privacyLink"
+msgstr ""
+"Məlumatlarınız <a href=\"{$privacyurl} - hədəf=\"_blank\"> Məxfilik Bəyanatı "
+"</a> -ə uyğun olaraq saxlanılır."
+
+msgid "user.login.lostPassword.invalidUser"
+msgstr "Göstərilən e-poçt ünvanı olan istifadəçi yoxdur."
+
+msgid "user.login.lostPassword.confirmationSentFailedWithReason"
+msgstr "{$reason} səbəbindən parol sıfırlama tələbi yerinə yetirilmədi."
+
+msgid "user.login.passwordResetProcessInstructions"
+msgstr "Giriş şifrənizi yeniləmək üçün yeni bir parol daxil edin."
+
+msgid "user.login.resetPassword.passwordUpdated"
+msgstr "Şifrə uğurla yeniləndi. Zəhmət olmasa yenilənmiş parol ilə daxil olun."
+
+msgid "orcid.displayName"
+msgstr "Orcid Profil əlavəsi"
+
+msgid "orcid.emailOrOrcid"
+msgstr "Email adresi və ya ORCID:"
+
+msgid "orcid.manager.settings.title"
+msgstr "Orcid API tənzimləri"
+
+msgid "orcid.description"
+msgstr ""
+"ORCID-dən istifadəçi məlumatlarının içəriyə transfer edilməsinə icazə verir"
+
+msgid "orcid.instructions"
+msgstr ""
+"ODCID profilinizdəki məlumatları bu forma avtomatik olaraq transfer edə "
+"bilərsiniz. ORCID profili ilə əlaqəli email adresi və ya ORCID ID-ni daxil "
+"edin, sonra isə \"Göndər\" seçimini klikləyin."
+
+msgid "orcid.noData"
+msgstr "ORCID-də heç bir data tapılmadı"
+
+msgid "orcid.manager.settings.description"
+msgstr ""
+"Orcid profili məlumatlarının istifadəçi profilinə çəkilməsi üçün ODCID API-"
+"sini konfiqurasiya edin"
+
+msgid "orcid.manager.settings.description.globallyconfigured"
+msgstr ""
+"Orcid API ümumi olaraq konfiqurasiya edilir. Aşağıdakı məlumatlar yadda "
+"saxlandı"
+
+#, fuzzy
+msgid "orcid.manager.settings.saved"
+msgstr "Parametrlər qurtarıldı"
+
+#, fuzzy
+msgid "orcid.manager.settings.city"
+msgstr "Şəhər"
+
+#, fuzzy
+msgid "orcid.author.unauthenticated"
+msgstr ""
+"Orcid iD kimliyi təsdiqlənmədi! Zəhmət olmasa iştirakçıdan kimlik "
+"təsdiqləməsi tələb edin."
+
+msgid "orcid.verify.sendSubmissionToOrcid.success"
+msgstr "Məqalə ORCID qeydiyyatınıza əlavə edildi"
+
+msgid "orcid.verify.sendSubmissionToOrcid.failure"
+msgstr "Məqalə ORCID qeydiyyatınıza əlavə edilə bilmədi"
+
+msgid "orcid.verify.denied"
+msgstr "Orcid qeydiyyatınıza girişi ləğv etdiniz."
+
+msgid "orcid.authorise"
+msgstr "Orcid ID-nizi səlahiyyətləndirin və qoşun"
+
+#, fuzzy
+msgid "orcid.verify.hasUnauthenticatedOrcid"
+msgstr "Töhfəçilər üçün təsdiqlənməmiş orcidlər aşkarlandı."
+
+msgid "orcid.manager.settings.hidden"
+msgstr "gizli"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath"
+msgstr "Orcid API"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.public"
+msgstr "Ümumi"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.publicSandbox"
+msgstr "Ümumi Sandbox"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.member"
+msgstr "Üzv"
+
+msgid "orcid.manager.settings.orcidProfileAPIPath.memberSandbox"
+msgstr "Üzv Sandbox"
+
+msgid "orcid.manager.settings.orcidClientId"
+msgstr "Müştəri ID"
+
+msgid "orcid.manager.settings.orcidClientSecret"
+msgstr "Müştəri məxfiliyi"
+
+msgid "orcid.manager.settings.orcidScope"
+msgstr "Profil Giriş əhatəsi"
+
+msgid "orcid.manager.settings.mailSectionTitle"
+msgstr "Email tənzimləri"
+
+msgid "orcid.manager.settings.sendMailToAuthorsOnPublication"
+msgstr ""
+"Bir məqalə qəbul edildiyi zaman ORCID səlahiyyəti istəmək üçün email göndər. "
+"Məs: nüsxə redaktə üçün göndərildi"
+
+msgid "orcid.manager.settings.logSectionTitle"
+msgstr "Orcid istək gündəliyi"
+
+msgid "orcid.manager.settings.logLevel.help"
+msgstr "Əlavə tərəfindən yazılan gündəlik hasilatın miqdarını seçin"
+
+msgid "orcid.manager.settings.logLevel.error"
+msgstr "Xətalar"
+
+msgid "orcid.manager.settings.logLevel.all"
+msgstr "Hamısı"
+
+msgid "orcid.author.accessDenied"
+msgstr "Orcid girişi rədd edildi"
+
+msgid "orcid.author.accessTokenStored"
+msgstr ""
+"{$orcidAccessScope} əhatəsilə verilən ORCID qeydiyyat girişi, bu tarixə "
+"qədər etibarlıdır"
+
+msgid "orcid.author.requestAuthorization"
+msgstr "İştirakçıdan ORCID səlahiyyətləndirmə istəmək üçün email göndər"
+
+msgid "orcid.author.deleteORCID"
+msgstr "Orcid iD və giriş açarını silin!"
+
+msgid "orcid.author.orcidEmptyNotice"
+msgstr "Kimliyi təsdiqlənmiş ORCID ID istəmək üçün aşağıya baxın"
+
+msgid "orcid.verify.title"
+msgstr "Orcid səlahiyyətləndirməsi"
+
+msgid "orcid.fieldset"
+msgstr "Orcid"
+
+msgid "orcid.connect"
+msgstr "Orc ID-nizi yaradın və ya qoşun"
+
+msgid "orcid.about.title"
+msgstr "Orcid nədir?"
+
+msgid "orcid.about.howAndWhy.title"
+msgstr "ORCID ID-lərinizi necə və niyə toplayırıq?"
+
+msgid "orcid.about.display.title"
+msgstr "Orcid ID-ləri harada göstərilir?"
+
+msgid "orcid.manager.settings.orcidClientId.error"
+msgstr "Etibarsız müştəri şəxsiyyəti"
+
+msgid "orcid.manager.settings.orcidClientSecret.error"
+msgstr "Etibarsız müştəri sirri"
+
+msgid "orcid.verify.sendSubmissionToOrcid.notpublished"
+msgstr "Məqalə nəşr əsnasında ORCID qeydiyyatınıza əlavə ediləcəkdir."
+
+msgid "orcid.verify.success"
+msgstr "Orcid iD-niz təsdiqləndi və Məqalə ilə uğurla əlaqələndirildi"
+
+msgid "orcid.verify.failure"
+msgstr "Orcid iD-niz təsdiqlənə bilmədi. Link etibarlı deyil."
+
+msgid "orcid.verify.duplicateOrcid"
+msgstr "Bu məqalə üçün bir ORCID iD artıq mövcuddur."
+
+msgid "orcid.authFailure"
+msgstr ""
+"OJS, ORCID xidməti ilə əlaqə saxlaya bilmədi. Zəhmət olmasa jurnaldan məsul "
+"şəxs ilə adınızı, ORCID və tələbinizin təfərrüatları üçün əlaqə saxlayın."
+
+#, fuzzy
+msgid "orcid.invalidClient"
+msgstr "Yanlış müştəri etimadnaməsi"
+
+msgid "orcid.failure.contact"
+msgstr ""
+"Zəhmət olmasa adınız, ODCID ID-niz və məqalə məlumatlarınızla birlikdə "
+"jurnal idarəçisinə müraciət edin."
+
+msgid "orcid.about.orcidExplanation"
+msgstr ""
+"ORCID, sizi digər tədqiqatçılardan fərqləndirən daimi bir təsviredici və "
+"araşdırma buraxılışlarınızı və fəaliyyətlərinizi ID-nizə qoşmaq üçün bir "
+"mexanizm təmin edən, qazanc məqsədi güdməyən müstəqil bir quruluşdur. ORCID, "
+"naşirlər, fond təmin edənlər, qurumlar və araşdırma ilə bağlı digər "
+"xidmətlər tərəfindən istifadə edilən bir neçə sistemə inteqrasiya edilir. "
+"Daha ətraflı məlumat almaq üçün <a href=\"https://orcid.org\">orcid.org</"
+"a>adresini ziyarət edin."
+
+#, fuzzy
+msgid "orcid.manager.status.configuration.journal"
+msgstr "Jurnal-müdrik konfiqurasiya edildi"
+
+#, fuzzy
+msgid "orcid.manager.status.configuration.clientIdValid"
+msgstr "Müştəri ID etibarlıdır"
+
+#, fuzzy
+msgid "orcid.manager.status.configuration.clientIdInvalid"
+msgstr "Müştəri ID etibarsızdır, lütfən girişinizi yoxlayın"
+
+#, fuzzy
+msgid "orcid.manager.status.configuration.clientSecretValid"
+msgstr "Müştəri sirri etibarlıdır"
+
+#, fuzzy
+msgid "orcid.manager.status.configuration.clientSecretInvalid"
+msgstr "Müştəri sirri etibarsızdır, zəhmət olmasa etimadnamənizi yoxlayın"
+
+#, fuzzy
+msgid "orcid.verify.duplicateOrcidAuthor"
+msgstr "Töhfə verənlər üçün dublikat orcids aşkar edildi."

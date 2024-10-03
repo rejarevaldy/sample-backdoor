@@ -1,0 +1,673 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2023, 2024.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-20 00:03+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"editor/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "editor.submission.fileAuditor.skipEmail"
+msgstr "Nəzarətçiyə email göndərmə"
+
+msgid "editor.submission.uploadSelectFiles"
+msgstr "Faylları seçin/J4846yükləyin"
+
+msgid "editor.submission.selectFiles"
+msgstr "Faylları seçin"
+
+msgid "editor.decision.dontSkipEmail"
+msgstr ""
+
+msgid "editor.decision.recordDecision"
+msgstr ""
+
+msgid "editor.decision.skipEmail"
+msgstr ""
+
+msgid "editor.submission.revisions"
+msgstr "Düzəlişlər"
+
+msgid "editor.submissionArchive.confirmDelete"
+msgstr "Bu qeydi tamamilə silmək istədiyinizdən əminsinizmi?"
+
+msgid "editor.activityLog"
+msgstr "Fəaliyyət gündəliyi"
+
+msgid "editor.submissionLibrary"
+msgstr "Kitabxana"
+
+msgid "editor.submission.workflowDecision.submission"
+msgstr "Qərar qeydə alındı"
+
+msgid "editor.submission.workflowDecision.changeDecision"
+msgstr "Qərarı dəyişdirin"
+
+msgid "editor.submission.copyediting.personalMessageToUser"
+msgstr "İstifadəçiyə bir mesaj göndər"
+
+msgid "editor.submission.addReviewer"
+msgstr "Rəyçi əlavə edin"
+
+msgid "editor.submission.findAndSelectReviewer"
+msgstr "Bir rəyçi təyin edin"
+
+msgid "editor.submission.findAndSelectUser"
+msgstr "Bir istifadəçi təyin edin"
+
+msgid "editor.submission.review.currentFiles"
+msgstr "{$round}-ci tur üçün etibarlı incələmə faylları"
+
+msgid "editor.submission.backToSearch"
+msgstr "Axtarışa qayıdın"
+
+msgid "editor.review.createReviewer"
+msgstr "Yeni bir rəyçi yaradın"
+
+msgid "editor.review.enrollReviewer.short"
+msgstr "Mövcud istifadəçini səlahiyyətləndirin"
+
+msgid "editor.review.unassignReviewer"
+msgstr "Rəyçinin təyinatını ləğv edin"
+
+msgid "editor.review.cancelReviewer"
+msgstr "Rəyçini ləğv edin"
+
+msgid "editor.review.reinstateReviewer"
+msgstr "Rəyçini təkrar təyin edin"
+
+msgid "editor.submissionReview.sendEmail.editors"
+msgstr "{$authorName} adlı redaktor(lar)a bir email bildirişi göndər"
+
+msgid "editor.submissionReview.skipEmail"
+msgstr "Email bildirişi göndərməyin"
+
+msgid "editor.submissionReview.reviewType"
+msgstr "Dəyərəndirmə növü"
+
+msgid "editor.submissionReview.sendEmail"
+msgstr "{$authorName} adlı müəllif(lər)ə bir email bildirişi göndər"
+
+msgid "editor.submissionReview.open"
+msgstr "Açıq"
+
+msgid "editor.submissionReview.anonymous"
+msgstr "Anonim rəyçi/Açıq Müəllif"
+
+msgid "editor.submissionReview.doubleAnonymous"
+msgstr "Anonim rəyçi/Anonim müəllif"
+
+msgid "editor.submissionReview.restrictFiles"
+msgstr "Dəyərləndiriləcək fayllar"
+
+msgid "editor.submissionReview.restrictFiles.hide"
+msgstr "Fayl seçimini bağlayın"
+
+msgid "editor.submissionReview.editReview"
+msgstr "Dəyərləndirməni redaktə edin"
+
+msgid "editor.review.anonymousReviewer"
+msgstr "Anonim rəyçi"
+
+msgid "editor.review.personalMessageToReviewer"
+msgstr "Rəyçiyə email göndəriləcək"
+
+msgid "editor.review.importantDates"
+msgstr "Vacib tarixlər"
+
+msgid "editor.review.uploadRevision"
+msgstr "Reviziya yükləyin"
+
+msgid "editor.review.newReviewRound"
+msgstr "Yeni dəyərləndirmə turu lazımdır"
+
+msgid "editor.review.dateAccepted"
+msgstr "Dəyərləndirmə qəbul tarixi"
+
+msgid "editor.review.noReviews"
+msgstr "İdxal ediləcək rəyçi dəyərləndirməsi yoxdur"
+
+msgid "editor.review.reminder"
+msgstr "Dəyərləndirmə üçün xatırlatma"
+
+msgid "editor.review.thankReviewer"
+msgstr "Rəyçiyə təşəkkür edin"
+
+msgid "editor.review.reminderError"
+msgstr "Dəyərləndirmə məqalə xətası"
+
+msgid "editor.review.thankReviewerError"
+msgstr "Rəyçiyə təşəkkür məqalə xətası"
+
+msgid "editor.review.sendReminder"
+msgstr "Xatırlatma göndər"
+
+msgid "editor.review.readReview"
+msgstr "Dəyərləndirməni oxuyun"
+
+msgid "editor.review.readNewReview"
+msgstr "Yeni rəyi oxuyun"
+
+msgid "editor.review.responseDue"
+msgstr "Cavab tarixi: {$date}"
+
+msgid "editor.review.requestSent"
+msgstr "Tələb göndərildi"
+
+msgid "editor.review.requestAccepted"
+msgstr "Sorğu qəbul edildi"
+
+msgid "editor.review.requestDeclined"
+msgstr "Tələb rədd edildi"
+
+msgid "editor.review.requestCancelled"
+msgstr "Tələb ləğv edildi"
+
+msgid "editor.review.revertDecision"
+msgstr "Qaytarma səbəbi"
+
+msgid "editor.review.reviewDue"
+msgstr "Yoxlama Tarixi: {$date}"
+
+msgid "editor.review.reviewDueDate"
+msgstr "Son dəyərləndirmə tarixi"
+
+msgid "editor.review.reviewCompleted"
+msgstr "Dəyərləndirmə başa çatdı"
+
+msgid "editor.review.reviewConfirmed"
+msgstr "Dəyərləndirmə təsdiq edildi"
+
+msgid "editor.review.reviewSubmitted"
+msgstr "Dəyərləndirmə göndərildi"
+
+msgid "editor.review.reviewerThanked"
+msgstr "Rəyçiyə təşəkkür edildi"
+
+msgid "editor.review.reviewerComments"
+msgstr "Dəyərləndirmə şərhləri"
+
+msgid "editor.review.rateReviewer"
+msgstr "Rəyçi qiymətləndirmə"
+
+msgid "editor.review.reviewerRating.none"
+msgstr "Reytinq yoxdur"
+
+msgid "editor.review.mustSelect"
+msgstr "Bir rəyçi seçməlisiniz"
+
+msgid "editor.review.userGroupSelect"
+msgstr "Bu rəyçi qrupunda olan bir rəyçini səlahiyyətləndirin"
+
+msgid "editor.review.unconsiderReview"
+msgstr "Bu rəyi nəzərə almayın"
+
+msgid "editor.submission.schedulePublication"
+msgstr "Nəşr üçün planlaşdırın"
+
+msgid "editor.submission.selectCopyedingFiles"
+msgstr "Düzəltmə kopyası faylları"
+
+msgid "editor.submission.selectReviewer"
+msgstr "Rəyçi seçin"
+
+msgid "editor.submission.taskDueDate"
+msgstr "Tapşırıq bitmə tarixi"
+
+msgid "editor.submission.taskSchedule"
+msgstr "Tapşırıq təqvimi"
+
+msgid "editor.review.enrollReviewer"
+msgstr "Mövcud bir istifadəçini rəyçi kimi səlahiyyətləndirin"
+
+msgid "editor.submission.noAuditRequested"
+msgstr "Bu fayl üçün heç bir incələnmə tələb edilmir"
+
+msgid "editor.submission.personalMessageToUser"
+msgstr "Email istifadəçiyə göndəriləcək"
+
+msgid "editor.submission.proof.reminder"
+msgstr "Korrektor xatırlatması"
+
+msgid "editor.submission.editorial.approveCopyeditDescription"
+msgstr ""
+"Dəyərləndirmə faylının çap mərhələsinə göndərilməzdən əvvəl təsdiq edilməsi "
+"lazımdır. Bu faylı təsdiq etmək istəyirsinizmi?"
+
+msgid "editor.submission.editorial.disapproveCopyeditDescription"
+msgstr ""
+"Bu dəyərləndirmə faylı rədd ediliyi zaman, çap mərhələsinə göndərilməsi "
+"mümkün olmayacaq. Bu faylı rədd etmək istəyirsinizmi?"
+
+msgid "editor.submission.addAuditor"
+msgstr "Rəyçi təyin edin"
+
+msgid "editor.review"
+msgstr "Dəyərləndirin"
+
+msgid "editor.review.reviewDetails"
+msgstr "Dəyərləndirmə detalları"
+
+msgid "editor.review.noReviewFilesUploaded"
+msgstr "Heç bir fayl yüklənmədi"
+
+msgid "editor.review.emailReviewer"
+msgstr "Email dəyərləndirməsi"
+
+msgid "editor.submission.production.productionReadyFiles"
+msgstr "Çapa hazır fayllar"
+
+msgid "editor.submission.newRound"
+msgstr "Yeni dəyərləndirmə turu"
+
+msgid "editor.submissionReview.recordDecision"
+msgstr "Redaksiya qərarını qeyd edin"
+
+msgid "editor.submissionReview.recordRecommendation"
+msgstr "Redaksiya təklifini qeyd edin"
+
+msgid "editor.submissionReview.recordRecommendation.notifyEditors"
+msgstr "Redaktorlara məlumat verin"
+
+msgid "editor.submission.createNewRound"
+msgstr "Yeni dəyərləndirmə turu yaradın"
+
+msgid "editor.article.reviewForms"
+msgstr "Dəyərləndirmə formaları"
+
+msgid "editor.article.selectReviewForm"
+msgstr "Dəyərləndirmə formu seçin"
+
+msgid "editor.submission.noReviewerFilesSelected"
+msgstr "Heç bir fayl seçilmədi"
+
+msgid "editor.article.confirmChangeReviewForm"
+msgstr ""
+"Xəbərdarlıq: Dəyərləndirmə formunun dəyişdirilməsi, rəyçilərin bu formu "
+"istifadə edərək etdikləri cavablara təsir edəcəkdir. Davam etmək "
+"istədiyinizdən əminsinizmi?"
+
+msgid "submission.queries.attachedFiles"
+msgstr "Əlavə edilmiş fayllar"
+
+msgid "grid.action.editQuery"
+msgstr "Müzakirəni redaktə edin"
+
+msgid "editor.submission.selectedReviewer"
+msgstr "Seçilmiş rəyçi"
+
+msgid "editor.submission.proofreading.approveProof"
+msgstr "Düzəlişi təsdiqləyin"
+
+msgid "editor.submission.proofreading.revokeProofApproval"
+msgstr "Düzəliş təsdiqini ləğv edin"
+
+msgid "editor.submission.revertDeclineDescription"
+msgstr ""
+"Bu namizəd məqaləni rədd etmə qərarını ləğv etmək istədiyinizə əminsinizmi?"
+
+msgid "reviewer.list.filterRating"
+msgstr "Ən azı reytinq"
+
+msgid "reviewer.list.activeReviews"
+msgstr "Aktiv {$count}"
+
+msgid "reviewer.list.activeReviewsDescription"
+msgstr "Hal-hazırda təyin edilmiş aktiv rəyçilər"
+
+msgid "reviewer.list.completedReviews"
+msgstr "Dəyərləndirmə başa çatdı"
+
+msgid "reviewer.list.declinedReviews"
+msgstr "Dəyərləndirmə tələbləri rədd edildi"
+
+msgid "reviewer.list.cancelledReviews"
+msgstr "Dəyərləndirmə tələbi ləğv edildi"
+
+msgid "reviewer.list.reviewerRating"
+msgstr "Rəyçi reytinqi: {$rating}"
+
+msgid "reviewer.list.daysSinceLastAssignment"
+msgstr "{$days} gün əvvəl"
+
+msgid "reviewer.list.daySinceLastAssignment"
+msgstr "Dünən"
+
+msgid "reviewer.list.daysSinceLastAssignmentDescription"
+msgstr "Son dəyərləndirmə tarixindən bu tərəfə keçən gün sayı"
+
+msgid "reviewer.list.averageCompletion"
+msgstr "Ortalama/təxmini dəyərləndirmə gün sayı"
+
+msgid "reviewer.list.neverAssigned"
+msgstr "Təyinat edilmədi"
+
+msgid "reviewer.list.reassign"
+msgstr "Yenidən təyin edin"
+
+#, fuzzy
+msgid "reviewer.list.reassign.withName"
+msgstr "Remap {$name}"
+
+msgid "reviewer.list.warnOnAssign"
+msgstr ""
+"Bu rəyçiyə, müəllifin kimliyini görməsinə icazə verən bir rol verildiyinə "
+"görə kilidlənib. Anonim rəyçi dəyərləndirməsinə təminat verilə bilməz. Yenə "
+"də bu rəyçiyə icazə vermək istəyərsinizmi?"
+
+msgid "reviewer.list.warnOnAssignUnlock"
+msgstr "İcazə verin"
+
+msgid "reviewer.list.reviewInterests"
+msgstr "Rəyçinin tədqiqat sahələri"
+
+msgid "reviewer.list.biography"
+msgstr "Bioqrafiya"
+
+msgid "reviewer.list.empty"
+msgstr "Rəyçi yoxdur"
+
+#, fuzzy
+msgid "reviewer.list.showOnlyReviewersFromPreviousRound"
+msgstr "Əvvəlki tura təyin edildi"
+
+#, fuzzy
+msgid "editor.decision.cancelDecision"
+msgstr "Qərarı ləğv edin"
+
+#, fuzzy
+msgid "editor.decision.cancelDecision.confirmation"
+msgstr "Bu qərarı ləğv etmək istədiyinizə əminsinizmi?"
+
+#, fuzzy
+msgid "editor.decision.completeSteps"
+msgstr "Bu qərarı vermək üçün bu addımları izləyin"
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.submission.declined"
+msgstr "məqalə rədd edildi."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.submission.accepted"
+msgstr "Məqalə qəbul edildi."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.submission.published"
+msgstr "Məqalə yayımlandı"
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.submission.reviewRound"
+msgstr "Yeni bir dəyərləndirmə turu üçün göndərildi"
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.submission.production"
+msgstr "Çapa göndərildi"
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.typeInvalid"
+msgstr "Bu qərar tapılmadı. Zəhmət olmasa tanınan bir qərar növü verin."
+
+#, fuzzy
+msgid "editor.submission.fileAuditor.form.fileRequired"
+msgstr "İstifadəçiyə təyin etmək üçün ən azı bir fayl seçmək lazımdır."
+
+#, fuzzy
+msgid "editor.submission.fileAuditor.form.messageRequired"
+msgstr "Şəxsi mesaj əlavə etməlisiniz."
+
+#, fuzzy
+msgid "editor.submission.fileList.includeAllStages"
+msgstr "Bütün əlçatan iş axışı mərhələlərindən faylları göstərin"
+
+#, fuzzy
+msgid "editor.review.resendRequestReviewer"
+msgstr "Rəyçi dəyərləndirmə istəyini yenidən göndərin"
+
+#, fuzzy
+msgid "editor.review.NotifyAuthorRevisions"
+msgstr "Düzəlişlər yeni bir rəyçi dəyərləndirməsinə göndərilməyəcək."
+
+#, fuzzy
+msgid "editor.review.NotifyAuthorResubmit"
+msgstr "Düzəlişlər yeni bir rəyçi dəyərləndirməsinə göndəriləcək."
+
+#, fuzzy
+msgid "editor.review.reviewsAdded"
+msgstr "Dəyərləndirmələr mesajın məzmununa əlavə edildi.J4881"
+
+#, fuzzy
+msgid "editor.review.skipEmail"
+msgstr "Rəyçiyə email göndərməyin"
+
+#, fuzzy
+msgid "editor.review.requestDeclined.tooltip"
+msgstr "Rəyçi bu dəyərləndirmə tələbini rədd etdi"
+
+#, fuzzy
+msgid "editor.review.ReviewerResendRequest"
+msgstr "Rədd Etmə Tələbi"
+
+#, fuzzy
+msgid "editor.review.rateReviewer.description"
+msgstr ""
+"Dəyərləndirmənin keyfiyyətini incələyin. Bu dəyərləndirmə rəyçi ilə "
+"bölüşülmür."
+
+#, fuzzy
+msgid "editor.review.errorAddingReviewer"
+msgstr "Rəyçi əlavə edərkən səhv oldu.  Xahiş edirəm yenidən cəhd edin."
+
+#, fuzzy
+msgid "editor.review.errorDeletingReviewer"
+msgstr "Rəyçinin silinməsində bir səhv oldu.  Xahiş edirəm yenidən cəhd edin."
+
+#, fuzzy
+msgid "editor.review.errorReinstatingReviewer"
+msgstr ""
+"Rəyçinin işini bərpa edərkən bir səhv oldu.  Xahiş edirəm yenidən cəhd edin."
+
+#, fuzzy
+msgid "editor.review.readConfirmation"
+msgstr ""
+"Bu dəyərləndirməni oxuduqdan sonra, dəyərləndirmə prosesinə davam edə bilmək "
+"üçün \"Təsdiq\"ə basın. Dəyərləndirmə edən, başqa bir yerdə incələməsini "
+"edibsə, aşağıda fayl yükləyə bilər və davam etmək üçün \"Təsdiq\"ə basa "
+"bilər."
+
+#, fuzzy
+msgid "editor.discussion.errorAnonymousParticipants"
+msgstr ""
+"Dəyərləndirmə prosesinin anonim rəyçilik prosesinə təsir edəcəyi üçün "
+"seçilən şəxslərlə müzakirə yaradıla bilməz."
+
+#, fuzzy
+msgid "editor.discussion.errorNotStageParticipant"
+msgstr "Seçilən şəxs bu mərhələyə təyin edilməz."
+
+#, fuzzy
+msgid "editor.submission.copyedit.manageCopyeditFilesDescription"
+msgstr ""
+"Hər hansı bir Məqalə mərhələsinə əvvəlcədən yüklənmiş bütün fayllar "
+"aşağıdakı Məzmunu Əlavə et qutusunu işarələyərək və Axtarışı klikləyib "
+"Dəyərləndirmə Faylları siyahısına əlavə edilə bilər: Bütün mövcud fayllar "
+"sadalanar və əlavə ediləcək formada seçilə bilər. Bir fayla zatən "
+"yüklənməmiş əlavə fayllar, Fayl Yüklə linkini kilikləyərək siyahıya əlavə "
+"edilə bilər."
+
+#, fuzzy
+msgid "editor.review.noReviewFilesUploaded.details"
+msgstr "Heç bir dəyərləndirmə faylı yüklənmədi"
+
+#, fuzzy
+msgid "editor.review.errorResendingReviewerRequest"
+msgstr ""
+"Rəyçinin nəzərdən keçirmə dəvətini yenidən nəzərdən keçirməsini tələb edən "
+"bir səhv oldu.  Xahiş edirəm yenidən cəhd edin."
+
+#, fuzzy
+msgid "editor.review.unconsiderReviewText"
+msgstr ""
+"Bu rəyi nəzərdən keçirilməmiş kimi qeyd etmək istəyirsiniz?  Rəylərin tarixi "
+"qeyd olunacaq."
+
+#, fuzzy
+msgid "editor.submissionReview.recordRecommendation.skipEmail"
+msgstr "Redaktorlara email göndərməyin"
+
+#, fuzzy
+msgid "editor.submissionReview.recordRecommendation.createDiscussion"
+msgstr "Bu təklif haqqında bir dəyərləndirmə müzakirəsi yaradın"
+
+#, fuzzy
+msgid "editor.submissionReview.recordRecommendation.skipDiscussion"
+msgstr "Dəyərləndirmə mübahisəsi yaratmayın"
+
+#, fuzzy
+msgid "editor.submission.noReviewerFilesSelected.details"
+msgstr "Dəyərləndiriləcək Məqalə üçün heç bir fayl seçmədiniz"
+
+#, fuzzy
+msgid "submission.queries.subjectRequired"
+msgstr "Müzakirə mövzusu tələb olunur."
+
+#, fuzzy
+msgid "submission.queries.messageRequired"
+msgstr "Müzakirə mesajı tələb olunur."
+
+#, fuzzy
+msgid "editor.submission.query.manageQueryNoteFilesDescription"
+msgstr ""
+"Aşağıdakı siyahıdan bu müzakirəyə əlavə etmək üçün fayllar əlavə edilə bilər."
+
+#, fuzzy
+msgid "editor.submission.proofreading.confirmCompletion"
+msgstr ""
+"Düzəliş prosesinin başa çatdığı və faylın nəşrə hazır olduğunu göstərmək "
+"üçün düzəlişi təsdiqləyin."
+
+#, fuzzy
+msgid "editor.submission.newRoundDescription"
+msgstr ""
+"Bu müraciət üçün yeni bir yoxlama turu yaradacaqsınız.  Aşağıda digər "
+"yoxlama turlarında istifadə olunmayan sənədlər verilmişdir."
+
+#, fuzzy
+msgid "editor.publicIdentificationNumericNotAllowed"
+msgstr "{$publicIdentifier} ümumi müəyyənləşdirici bir say olmamalıdır."
+
+#, fuzzy
+msgid "editor.publicIdentificationPatternNotAllowed"
+msgstr "Müştərək tərifedici üçün {$pattern} modelinə icazə verilməz."
+
+#, fuzzy
+msgid "reviewer.list.assignedToLastRound"
+msgstr "Bu rəyçi son turda bir araşdırma tamamladı."
+
+#, fuzzy
+msgid "editor.decision.emailSkipped"
+msgstr "Bu addım atlandı və heç bir e-poçt göndərilməyəcək."
+
+#, fuzzy
+msgid "editor.decision.stepError"
+msgstr "{$stepName} addımında problem var idi."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.submission.underReview"
+msgstr "Məqalə dəyərləndirmə üçün qəbul edildi"
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.disallowedDecision"
+msgstr "Bu təqdimat barədə bu qərarı qeyd etmək icazəniz yoxdur."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.invalidEditor"
+msgstr ""
+"Redaktor tanınmadı və bu təqdimat haqqında bir qərar yazmağa icazəsi olmaya "
+"bilər."
+
+msgid "editor.submission.workflowDecision.invalidRecipients"
+msgstr "Aşağıdakı alıcılara bir e-poçt göndərə bilməzsiniz: {$adlar}."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.invalidReviewRound"
+msgstr "Bu baxış turu tapılmadı."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.invalidReviewRoundStage"
+msgstr ""
+"Bir baxış mərhələsi təmin edildi, ancaq bu qərar bir araşdırma mərhələsi "
+"zamanı alınmır."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.invalidReviewRoundSubmission"
+msgstr "Bu baxış turu bu təqdimatın bir hissəsi deyil."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.invalidStage"
+msgstr ""
+"Təqdimat bu qərarı götürmək üçün iş axınının müvafiq mərhələsində deyil."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.noUnassignedDecisions"
+msgstr "Redaksiya qərarını qeyd etmək üçün bu təqdimata təyin olunmalısınız."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.requiredReviewRound"
+msgstr ""
+"Bu qərarı götürmək üçün bir baxış dəyirmi şəxsiyyəti nəzərdə tutulmuş "
+"olmalıdır."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.requiredDecidingEditor"
+msgstr ""
+"Son qərar qəbul edə bilən bu mərhələyə bir redaktor təyin olunmadığı "
+"təqdirdə tövsiyə edilə bilməz."
+
+#, fuzzy
+msgid "editor.submission.workflowDecision.submissionInvalid"
+msgstr ""
+"Bu təqdimata qərar qəbul edilə bilmədi. Göndərmə ID yoxdur və ya tələb "
+"olunan təqdimata uyğun gəlmir."
+
+#, fuzzy
+msgid "editor.review.notInitiated"
+msgstr "Dəyərləndirmə prosesi hələ başlamamışdır."
+
+#, fuzzy
+msgid "editor.submission.externalReviewDescription"
+msgstr "Dəyərləndirmə mərhələsinə göndərmək üçün aşağıdakı faylları seçin"
+
+#, fuzzy
+msgid "editor.submission.fileAuditor.form.userRequired"
+msgstr "Təyin etmək üçün bir istifadəçi seçməlisiniz."
+
+#, fuzzy
+msgid "editor.submission.review.reviewersDescription"
+msgstr ""
+"Oxucuları məqalələri dəyərləndirməyə dəvət etmək üçün<em>+rəyçi Əlavə et</"
+"em>'i istifadə edin. Noutbuk simvolu, bir dəyərləndirmənin göndərildiyini və "
+"sonrasında da <em>Təsdiqləndiyini</em>göstərir. Dəyərləndirmələr geçikdiyi "
+"zaman, rəyçilərə xatırlatmaq üçün qırmızı bir zərf simvolu göstərilir."
+
+#, fuzzy
+msgid "editor.review.NotifyAuthorRevisions.recommendation"
+msgstr "Düzəlişlər yeni bir rəylərin yeni bir dövrünə məruz qalmamalıdır."
+
+#, fuzzy
+msgid "editor.review.NotifyAuthorResubmit.recommendation"
+msgstr "Düzəlişlər yeni bir rəylərə məruz qalmalıdır."
+
+#, fuzzy
+msgid "editor.review.requestCancelled.tooltip"
+msgstr "Redaktor bu dəyərləndirmə tələbini ləğv etdi"
+
+#, fuzzy
+msgid "editor.submission.proofreading.confirmRemoveCompletion"
+msgstr ""
+"Düzəliş prosesinin başa çatmadığını və faylın nəşrə hazır olmadığını "
+"göstərmək üçün bu düzəliş təsdiqini ləğv edin."

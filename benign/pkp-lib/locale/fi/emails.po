@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-02T16:17:17-08:00\n"
+"PO-Revision-Date: 2024-03-13 17:13+0000\n"
+"Last-Translator: Antti-Jussi Nygård <ajnyga@gmail.com>\n"
+"Language-Team: Finnish <http://translate.pkp.sfu.ca/projects/pkp-lib/emails/"
+"fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "emails.submissionAck.subject"
+msgstr "Kiitos käsikirjoituksesta - {$contextName}"
+
+msgid "emails.submissionAck.body"
+msgstr ""
+"<p>Hyvä {$recipientName},</p><p>Kiitos käsikirjoituksen lähettämisestä. "
+"Olemme vastaanottaneet käsikirjoituksenne {$submissionTitle}, ja "
+"toimituksemme jäsen näkee sen pian. Saatte sähköpostia, kun alustava päätös "
+"on tehty, ja saatamme ottaa teihin yhteyttä saadaksemme lisätietoja.</"
+"p><p>Voitte seurata käsikirjoituksen etenemistä toimitusprosessissa "
+"kirjautumalla verkkosivustollemme:</p><p>Käsikirjoituksen URL: "
+"{$authorSubmissionUrl}</p><p>Jos olette kirjautuneet ulos, voitte kirjautua "
+"uudelleen käyttäjätunnuksella {$recipientUsername}.</p><p>Jos teillä on "
+"kysyttävää, otattehan yhteyttä minuun <a href=\"{$authorSubmissionUrl}\""
+">aloittamalla keskustelun käsikirjoituksenne "
+"yhteydessä</a>.</p><p>{$contextName} haluaa kiittää, että valitsitte meidät "
+"työnne julkaisuun.</p>{$contextSignature}"
+
+msgid "emails.submissionAck.description"
+msgstr ""
+"Tämä sähköposti lähetetään kirjoittajalle automaattisesti, kun hän lähettää "
+"käsikirjoituksensa."
+
+msgid "emails.reviewAck.subject"
+msgstr "Kiitos arvioinnista"
+
+msgid "emails.reviewAck.body"
+msgstr ""
+"<p>Hyvä {$recipientName},</p>\n"
+"<p>Kiitos käsikirjoitusta {$submissionTitle} koskevan arvioinnin "
+"lähettämisestä. Arvostamme panostanne julkaisemamme työn laadun hyväksi.</p>"
+"\n"
+"<p>On ollut ilo työskennellä kanssasi ja toivomme, että saamme tilaisuuden "
+"työskennellä kanssasi uudelleen tulevaisuudessa.</p>\n"
+"<p>Ystävällisin terveisin,</p>\n"
+"<p>{$signature}</p>"
+
+msgid "emails.decision.notifyReviewers.subject"
+msgstr "Kiitos arvioinnista"
+
+msgid "emails.decision.notifyReviewers.body"
+msgstr ""
+
+msgid "emails.decision.notifyOtherAuthors.subject"
+msgstr ""
+
+msgid "emails.decision.notifyOtherAuthors.body"
+msgstr ""
+
+#, fuzzy
+msgid "emails.editorDecisionSendToExternal.subject"
+msgstr "Toimittajan päätös"
+
+#, fuzzy
+msgid "emails.editorDecisionSendToExternal.body"
+msgstr ""
+"Hyvä {$authors},<br />\n"
+"<br />\n"
+"Olemme tehneet päätöksen julkaisuun {$contextName} lähettämäänne "
+"käsikirjoitusta &quot;{$submissionTitle}&quot; koskien.<br />\n"
+"<br />\n"
+"Päätöksemme on: Lähetetään arvioitavaksi<br />\n"
+"<br />\n"
+"Käsikirjoituksen URL: {$submissionUrl}"
+
+#, fuzzy
+msgid "emails.editorDecisionSendToProduction.subject"
+msgstr "Toimittajan päätös"
+
+#, fuzzy
+msgid "emails.editorDecisionSendToProduction.body"
+msgstr ""
+"Hyvä {$authors},<br />\n"
+"<br />\n"
+"Käsikirjoituksenne &quot;{$submissionTitle},&quot; on nyt toimitettu ja "
+"lähetämme sen tuotantoon.<br />\n"
+"<br />\n"
+"Käsikirjoituksen URL: {$submissionUrl}"
+
+#, fuzzy
+msgid "emails.editorDecisionRevisions.subject"
+msgstr "Toimittajan päätös"
+
+#, fuzzy
+msgid "emails.editorDecisionRevisions.body"
+msgstr ""
+"Hyvä {$authors},<br />\n"
+"<br />\n"
+"Olemme tehneet päätöksen julkaisuun {$contextName} lähettämäänne "
+"käsikirjoitusta &quot;{$submissionTitle}&quot; koskien.<br />\n"
+"<br />\n"
+"Päätöksemme on: Vaatii korjauksia"
+
+#, fuzzy
+msgid "emails.editorDecisionResubmit.subject"
+msgstr "Toimittajan päätös"
+
+#, fuzzy
+msgid "emails.editorDecisionResubmit.body"
+msgstr ""
+"Hyvä {$authors},<br />\n"
+"<br />\n"
+"Olemme tehneet päätöksen julkaisuun {$contextName} lähettämäänne "
+"käsikirjoitusta &quot;{$submissionTitle}&quot; koskien.<br />\n"
+"<br />\n"
+"Päätöksemme on: Lähetettävä uudelleen arvioitavaksi"
+
+#, fuzzy
+msgid "emails.editorDecisionDecline.subject"
+msgstr "Toimittajan päätös"
+
+#, fuzzy
+msgid "emails.editorDecisionDecline.body"
+msgstr ""
+"Hyvä {$authors},<br />\n"
+"<br />\n"
+"Olemme tehneet päätöksen julkaisuun {$contextName} lähettämäänne "
+"käsikirjoitusta &quot;{$submissionTitle}&quot; koskien.<br />\n"
+"<br />\n"
+"Päätöksemme on: Käsikirjoitus on hylätty"
+
+#, fuzzy
+msgid "emails.editorRecommendation.subject"
+msgstr "Toimittajan suositus"
+
+#, fuzzy
+msgid "emails.editorRecommendation.body"
+msgstr ""
+"{$editors}:<br />\n"
+"<br />\n"
+"Julkaisun {$contextName} käsikirjoitusta &quot;{$submissionTitle}&quot; "
+"koskeva suositus on: {$recommendation}"
+
+#, fuzzy
+msgid "emails.copyeditRequest.subject"
+msgstr "Teknistä toimittamista pyydetään"
+
+#, fuzzy
+msgid "emails.copyeditRequest.body"
+msgstr ""
+"Hyvä {$recipientName},<br />\n"
+"<br />\n"
+"Pyytäisin teitä toimittamaan teknisesti käsikirjoituksen &quot;"
+"{$submissionTitle}&quot; julkaisulle {$contextName}, seuraavia vaiheita "
+"noudattaen:<br />\n"
+"1. Klikatkaa alla olevaa käsikirjoituksen URL-osoitetta.<br />\n"
+"2. Avatkaa Luonnostiedostot-otsikon alla olevat tiedostot ja toimittakaa ne "
+"teknisesti. Voitte samalla lisätä tekniseen toimittamiseen liittyviä "
+"keskusteluja tarpeen mukaan.<br />\n"
+"3. Tallentakaa teknisesti toimitetut tiedostot ja ladatkaa ne Teknisesti "
+"toimitettu -paneeliin.<br />\n"
+"4. Ilmoittakaa toimittajalle, että kaikki tiedostot ovat valmiina, ja että "
+"tuotantoprosessi voidaan aloittaa.<br />\n"
+"<br />\n"
+"{$contextName} URL: {$contextUrl}<br />\n"
+"Käsikirjoituksen URL: {$submissionUrl}<br />\n"
+"Käyttäjätunnus: {$recipientUsername}"
+
+msgid "emails.editorDecisionNewReviewRound.subject"
+msgstr ""
+
+msgid "emails.editorDecisionNewReviewRound.body"
+msgstr ""
+
+msgid "emails.editorDecisionRevertDecline.subject"
+msgstr ""
+
+msgid "emails.editorDecisionRevertDecline.body"
+msgstr ""
+
+msgid "emails.editorDecisionRevertInitialDecline.subject"
+msgstr ""
+
+msgid "emails.editorDecisionRevertInitialDecline.body"
+msgstr ""
+
+#, fuzzy
+msgid "emails.editorDecisionInitialDecline.subject"
+msgstr "Toimittajan päätös"
+
+#, fuzzy
+msgid "emails.editorDecisionInitialDecline.body"
+msgstr ""
+"\n"
+"\t\t\tHyvä {$authors},<br />\n"
+"<br />\n"
+"Olemme tehneet päätöksen julkaisuun {$contextName} lähettämäänne "
+"käsikirjoitusta &quot;{$submissionTitle}&quot; koskien.<br />\n"
+"<br />\n"
+"Päätöksemme on: Käsikirjoitus on hylätty"
+
+msgid "emails.editorialReminder.subject"
+msgstr ""
+
+msgid "emails.editorialReminder.body"
+msgstr ""
+
+msgid "discussion.notification.description"
+msgstr ""
+
+msgid "emails.editorDecisionBackFromProduction.subject"
+msgstr ""
+
+msgid "emails.editorDecisionBackFromProduction.body"
+msgstr ""
+
+msgid "emails.editorDecisionBackFromCopyediting.subject"
+msgstr ""
+
+msgid "emails.editorDecisionBackFromCopyediting.body"
+msgstr ""
+
+msgid "emails.editorDecisionCancelReviewRound.subject"
+msgstr ""
+
+msgid "emails.editorDecisionCancelReviewRound.body"
+msgstr ""
+
+msgid "emails.reviewResendRequest.subject"
+msgstr ""
+
+msgid "emails.reviewResendRequest.body"
+msgstr ""
+
+msgid "emails.footer.unsubscribe"
+msgstr ""
+
+msgid "emails.footer.unsubscribe.discussion"
+msgstr ""
+
+msgid "emails.footer.unsubscribe.automated"
+msgstr ""
+
+msgid "emailTemplate.variable.unsubscribe"
+msgstr ""
+
+#, fuzzy
+msgid "emails.discussion.subject"
+msgstr "Viesti julkaisua {$contextName} koskien"
+
+msgid "emails.discussion.body"
+msgstr "Kirjoita viesti."
+
+msgid "emails.versionCreated.subject"
+msgstr ""
+
+msgid "emails.versionCreated.body"
+msgstr ""
+
+msgid "emails.reviewComplete.subject"
+msgstr ""
+
+msgid "emails.reviewComplete.body"
+msgstr ""
+
+msgid "emails.reviewEdit.subject"
+msgstr ""
+
+msgid "emails.reviewEdit.body"
+msgstr ""
+
+#, fuzzy
+msgid "emails.reviewConfirm.subject"
+msgstr "Arvioinnin hyväksyminen"
+
+#, fuzzy
+msgid "emails.reviewConfirm.body"
+msgstr ""
+"Hyvät toimittajat,<br />\n"
+"<br />\n"
+"Olen halukas arvioimaan käsikirjoituksen &quot;{$submissionTitle}&quot; "
+"julkaisulle {$contextName}. Kiitos, että pyysitte minua tähän tehtävään. "
+"Suoritan arvioinnin viimeistään sen määräaikaan {$reviewDueDate} mennessä."
+"<br />\n"
+"<br />\n"
+"{$senderName}"
+
+msgid "emails.submissionSavedForLater.subject"
+msgstr ""
+
+msgid "emails.submissionSavedForLater.body"
+msgstr ""
+
+msgid "emails.submissionNeedsEditor.subject"
+msgstr ""
+
+msgid "emails.submissionNeedsEditor.body"
+msgstr ""
+
+msgid "emails.submissionAckNotUser.description"
+msgstr ""
+
+msgid "emails.submissionAckNotAuthor.subject"
+msgstr "Käsikirjoituksesi on vastaanotettu"
+
+#, fuzzy
+msgid "emails.submissionAckNotAuthor.body"
+msgstr ""
+"Hei,<br />\n"
+"<br />\n"
+"{$submitterName} on lähettänyt julkaisuumme {$contextName} käsikirjoituksen "
+"&quot;{$submissionTitle}&quot;.<br />\n"
+"<br />\n"
+"Jos teillä on kysyttävää, otattehan yhteyttä minuun. Kiitos, että valitsitte "
+"tämän julkaisun työllenne.<br />\n"
+"<br />\n"
+"{$contextSignature}"
+
+#, fuzzy
+#~ msgid "emails.reviewAck.description"
+#~ msgstr ""
+#~ "This email is sent by a Section Editor to confirm receipt of a completed "
+#~ "review and thank the reviewer for their contributions."
+
+msgid "emails.orcidCollectAuthorId.subject"
+msgstr "Käsikirjoituksen ORCID-tunnisteet"
+
+msgid "emails.orcidCollectAuthorId.body"
+msgstr ""
+"Arvoisa {$recipientName},<br/>\n"
+"<br/>\n"
+"Teidät mainitaan yhtenä kirjoittajana käsikirjoituksessa \"{$submissionTitle}\", joka on lähetetty julkaisuun {$contextName}.<br/>\n"
+"<br/>\n"
+"Varmistaaksesi tekijyytesi, ole hyvä ja lisää ORCID-tunnisteesi käsikirjoitukseen vierailemalla alla olevassa linkissä ja seuraamalla ohjeita.<br/>\n"
+"<br/>\n"
+"<a href=\"{$authorOrcidUrl}\"><img id=\"orcid-id-logo\" src=\"https://orcid.org/sites/default/files/images/orcid_16x16.png\" width='16' height='16' alt=\"ORCID iD icon\" style=\"display: block; margin: 0 .5em 0 0; padding: 0; float: left;\"/>Rekisteröi tai yhdistä ORCID</a><br/>\n"
+"<br/>\n"
+"<br/>\n"
+"<a href=\"{$orcidAboutUrl}\">Lisätietoja ORCID-tunnisteista julkaisussa {$contextName}</a><br/>\n"
+"<br/>\n"
+"Mikäli teillä on jotain kysymyksiä, olkaa yhteydessä.<br/>\n"
+"<br/>\n"
+"{$principalContactSignature}<br/>\n"
+""
+
+msgid "emails.orcidCollectAuthorId.description"
+msgstr "Tätä sähköpostipohjaa käytetään kirjoittajien ORCID-tunnisteiden keräämiseen."
+
+msgid "emails.orcidRequestAuthorAuthorization.subject"
+msgstr "ORCID-pääsyn pyyntö"
+
+msgid "emails.orcidRequestAuthorAuthorization.body"
+msgstr ""
+"Dear {$recipientName},<br>\n"
+"<br/>\n"
+"Teidät mainitaan yhtenä kirjoittajana käsikirjoituksessa \"{$submissionTitle}\", joka on lähetetty julkaisuun {$contextName}.<br/>\n"
+"<br/>\n"
+"Varmistaaksesi tekijyytesi, ole hyvä ja lisää ORCID-tunnisteesi käsikirjoitukseen vierailemalla alla olevassa linkissä ja seuraamalla ohjeita. Artikkelin julkaisun jälkeen sitä koskevat tiedot voidaan liittää ORCID-tiliisi, jos olet antanut siihen luvan.<br/>\n"
+"<br/>\n"
+"<a href=\"{$authorOrcidUrl}\"><img id=\"orcid-id-logo\" src=\"https://orcid.org/sites/default/files/images/orcid_16x16.png\" width='16' height='16' alt=\"ORCID iD icon\" style=\"display: block; margin: 0 .5em 0 0; padding: 0; float: left;\"/>Rekisteröi tai yhdistä ORCID</a><br/>\n"
+"<br/>\n"
+"<br/>\n"
+"<a href=\"{$orcidAboutUrl}\">Lisätietoja ORCID-tunnisteista julkaisussa {$contextName}</a><br/>\n"
+"<br/>\n"
+"Mikäli teillä on jotain kysymyksiä, olkaa yhteydessä.<br/>\n"
+"<br/>\n"
+"{$principalContactSignature}<br/>\n"
+""
+
+msgid "emails.orcidRequestAuthorAuthorization.description"
+msgstr ""
+"Tätä sähköpostipohjaa käytetään ORCID-pääsyn pyytämiseen muilta "
+"kirjoittajilta."
+
+msgid "emailTemplate.variable.authorOrcidUrl"
+msgstr "ORCID OAuth -valtuutuslinkki"
+
+msgid "emailTemplate.variable.orcidAboutUrl"
+msgstr "URL-osoite ORCID-tunnuksista kertovalle sivulle"

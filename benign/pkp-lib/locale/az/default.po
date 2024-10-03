@@ -1,0 +1,201 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2023.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-02 20:57+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"default/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "default.contextSettings.emailSignature"
+msgstr ""
+"<br/><hr /><br/><p><a href=\"{$contextUrl}\""
+">{$contextName}</a></p><p>{$mailingAddress}</p><p>{$contactName}, <a href="
+"\"mailto: {$contactEmail}\">{$contactEmail}</a></p>"
+
+msgid "default.groups.name.siteAdmin"
+msgstr "Sayt idarəçisi"
+
+msgid "default.groups.plural.siteAdmin"
+msgstr "Sayt idarəçiləri"
+
+msgid "default.groups.name.productionEditor"
+msgstr "İstehsal redaktoru"
+
+msgid "default.groups.name.internalReviewer"
+msgstr "Daxili rəyçi"
+
+msgid "default.groups.plural.productionEditor"
+msgstr "İstehsal redaktorları"
+
+msgid "default.groups.abbrev.productionEditor"
+msgstr "ÜrE"
+
+msgid "default.groups.name.copyeditor"
+msgstr "Redaktor"
+
+msgid "default.groups.plural.copyeditor"
+msgstr "Redaktorlar"
+
+msgid "default.groups.abbrev.copyeditor"
+msgstr "Rd"
+
+msgid "default.groups.plural.internalReviewer"
+msgstr "Daxili rəyçilər"
+
+msgid "default.groups.abbrev.internalReviewer"
+msgstr "Dh"
+
+msgid "default.groups.name.proofreader"
+msgstr "Korrektor"
+
+msgid "default.groups.plural.proofreader"
+msgstr "Korrektorlar"
+
+msgid "default.groups.abbrev.proofreader"
+msgstr "Düz"
+
+msgid "default.groups.name.designer"
+msgstr "Dizayner"
+
+msgid "default.groups.plural.designer"
+msgstr "Dizaynerlər"
+
+msgid "default.groups.abbrev.designer"
+msgstr "Dizayn"
+
+msgid "default.groups.name.marketing"
+msgstr "Marketinq və satış koordinatoru"
+
+msgid "default.groups.plural.marketing"
+msgstr "Marketinq və satış koordinatorları"
+
+msgid "default.groups.abbrev.marketing"
+msgstr "Pk"
+
+msgid "default.groups.name.funding"
+msgstr "Fond koordinatoru"
+
+msgid "default.groups.plural.funding"
+msgstr "Fond koordinatorları"
+
+msgid "default.groups.abbrev.funding"
+msgstr "Fk"
+
+msgid "default.groups.name.indexer"
+msgstr "İndeksləyici"
+
+msgid "default.groups.plural.indexer"
+msgstr "İndeksləyicilər"
+
+msgid "default.groups.abbrev.indexer"
+msgstr "İND"
+
+msgid "default.groups.name.layoutEditor"
+msgstr "Dizayn redaktoru"
+
+msgid "default.groups.plural.layoutEditor"
+msgstr "Dizayn redaktorları"
+
+msgid "default.groups.abbrev.layoutEditor"
+msgstr "DR"
+
+msgid "default.groups.name.author"
+msgstr "Müəllif"
+
+msgid "default.groups.plural.author"
+msgstr "Müəlliflər"
+
+msgid "default.groups.abbrev.author"
+msgstr "MU"
+
+msgid "default.groups.name.translator"
+msgstr "Tərcüməçi."
+
+msgid "default.groups.plural.translator"
+msgstr "Tərcüməçilər"
+
+msgid "default.groups.abbrev.translator"
+msgstr "Tərcümə"
+
+msgid "default.groups.name.reader"
+msgstr "Oxucu"
+
+msgid "default.groups.plural.reader"
+msgstr "Oxucular"
+
+msgid "default.groups.abbrev.reader"
+msgstr "Oxuyun"
+
+msgid "default.genres.other"
+msgstr "Digər"
+
+msgid "default.genres.multimedia"
+msgstr "Multimedia"
+
+msgid "default.genres.image"
+msgstr "Şəkil"
+
+msgid "default.genres.styleSheet"
+msgstr "HTML formatı"
+
+#, fuzzy
+msgid "default.submission.step.beforeYouBegin"
+msgstr ""
+"<p>{$contextName} - ə göndərdiyiniz üçün təşəkkür edirik. Sizdən faylları "
+"yükləməyiniz, əməkdaşlarınızı təyin etməyiniz və başlıq və annotasiya kimi "
+"məlumatlar verməyiniz xahiş olunacaq.<p><p>zəhmət olmasa<a href=\""
+"{$submissionGuidelinesUrl}\" target=\"_blank\"> müraciət qaydaları </a>, "
+"əgər siz artıq bunu etməmisinizsə. Formaları doldurarkən redaktorlarımızın "
+"işinizi qiymətləndirməsinə kömək etmək üçün mümkün qədər çox məlumat verin.</"
+"p> < p> başladıqdan sonra ərizənizi saxlaya və sonra geri qayıda bilərsiniz. "
+"Göndərmədən əvvəl hər hansı bir məlumatı nəzərdən keçirə və düzəldə "
+"biləcəksiniz.</p>"
+
+#, fuzzy
+msgid "default.submission.step.uploadFiles"
+msgstr ""
+"<p>İşinizi qiymətləndirmək üçün redaksiya heyətimizə lazım ola biləcək "
+"sənədləri təqdim edin. Əsas işə əlavə olaraq, redaktorlarımız üçün faydalı "
+"olarsa, məlumat dəstləri, maraqlar toqquşması iddiaları və ya digər əlavə "
+"sənədlər göndərə bilərsiniz.</p>"
+
+#, fuzzy
+msgid "default.submission.step.details"
+msgstr ""
+"<p> zəhmət olmasa sistemimizdə göndərməyinizi idarə etməyimizə kömək etmək "
+"üçün aşağıdakı məlumatları təqdim edin.</p>"
+
+#, fuzzy
+msgid "default.submission.step.forTheEditors"
+msgstr ""
+"<p>zəhmət olmasa redaksiyamıza müraciətinizi emal etməyə kömək etmək üçün "
+"aşağıdakı məlumatları verin.</p> <p>metadata daxil edərkən, göndərməyinizi "
+"idarə edən şəxsə ən faydalı olacağını düşündüyünüz qeydləri göstərin. Bu "
+"məlumat dərc edilməzdən əvvəl dəyişdirilə bilər.</p>"
+
+#, fuzzy
+msgid "default.submission.step.contributors"
+msgstr ""
+"<p>Bu nəşrin bütün müəllifləri haqqında ətraflı məlumat əlavə edin. Buraya "
+"əlavə olunan müəlliflərə e-poçt göndərilməsinin təsdiqlənməsi, habelə bu "
+"göndərişlə bağlı qeydə alınan bütün redaksiya qərarlarının surətləri "
+"göndəriləcəkdir.</p> <p> üzvün anonim qalması və ya e-poçt hesabı olmadığı "
+"üçün e-poçtla əlaqə qurmaq mümkün deyilsə, saxta e-poçt ünvanı daxil "
+"etməyin. Göndərmə prosesinin sonrakı mərhələsində bu müəllif haqqında "
+"məlumatı redaktora mesaja əlavə edə bilərsiniz.</p>"
+
+#, fuzzy
+msgid "default.submission.step.review"
+msgstr ""
+"<p>Göndərməni tamamlamadan əvvəl daxil etdiyiniz məlumatları nəzərdən "
+"keçirin. Düyməni basaraq burada göstərilən detallardan birini dəyişə "
+"bilərsiniz dəyişdirin hər bölmənin yuxarı hissəsində.</p> <p> ərizənizi "
+"doldurduqdan sonra redaksiya heyətimizin üzvünə onu nəzərdən keçirmək "
+"tapşırılacaq. Xahiş edirəm buraya daxil etdiyiniz məlumatların mümkün qədər "
+"dəqiq olduğundan əmin olun.</p>"

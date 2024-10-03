@@ -1,0 +1,3909 @@
+# Osman Durmaz <osmandurmaz@hotmail.de>, 2023, 2024.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-20 00:03+0000\n"
+"Last-Translator: Osman Durmaz <osmandurmaz@hotmail.de>\n"
+"Language-Team: Azerbaijani <http://translate.pkp.sfu.ca/projects/pkp-lib/"
+"manager/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "manager.website.appearance"
+msgstr "Görünüş"
+
+msgid "manager.people.enrollment"
+msgstr "Qeydiyyat"
+
+msgid "manager.setup.notifications.copySubmissionAckAddress"
+msgstr "Hər kəsə məlumat verin"
+
+msgid "manager.setup.reviewOptions.reminders.submit"
+msgstr "Rəyçi xatırlatması"
+
+msgid "manager.setup.theme"
+msgstr "Tema"
+
+msgid "manager.plugins.installedVersionNewest.short"
+msgstr "Güncəl"
+
+msgid "manager.paymentMethod.currency"
+msgstr "Pul vahidi"
+
+msgid "settings.roles.stages"
+msgstr "Addım"
+
+msgid "manager.setup.genres.label"
+msgstr "Fayl növü"
+
+msgid "grid.action.createReviewForm"
+msgstr "Yeni dəyərləndirmə formu yaradın"
+
+msgid "manager.navigationMenus.form.url"
+msgstr "Url"
+
+msgid "grid.category.name"
+msgstr "Ad"
+
+msgid "stats.dateRange.untilDate"
+msgstr "{$date} tarixinə qədər"
+
+msgid "plugins.importexport.common.cliError"
+msgstr "Xəta:"
+
+msgid "mailable.reviewerReinstate.name"
+msgstr "Rəyçi yenidən təyin edildi"
+
+msgid "manager.website.information"
+msgstr "Məlumat"
+
+msgid "manager.announcements"
+msgstr "Elanlar"
+
+msgid "manager.announcements.confirmDelete"
+msgstr "Bu elanı daimi olaraq silmək istədiyinizdən əminsinizmi?"
+
+msgid "manager.announcements.create"
+msgstr "Yeni bir elan yaradın"
+
+msgid "manager.announcements.createTitle"
+msgstr "Yarat"
+
+msgid "manager.announcements.dateExpire"
+msgstr "Son tarix"
+
+msgid "manager.announcements.datePublish"
+msgstr "Nəşr olundu"
+
+msgid "manager.announcements.deleteAnnouncement"
+msgstr "Elanı silin"
+
+msgid "manager.announcements.edit"
+msgstr "Elanı redaktə edin"
+
+msgid "manager.announcements.editTitle"
+msgstr "Redaktə edin"
+
+msgid "manager.announcements.form.dateExpire"
+msgstr "Son tarix"
+
+msgid "manager.announcements.form.description"
+msgstr "Elan"
+
+msgid "manager.announcements.form.descriptionShort"
+msgstr "Qısa tərif"
+
+msgid "manager.announcements.form.saveAndCreateAnother"
+msgstr "Saxla ve Başqasını yarat"
+
+msgid "manager.announcements.form.title"
+msgstr "Başlıq"
+
+msgid "manager.announcements.form.typeId"
+msgstr "Növ"
+
+msgid "manager.announcements.title"
+msgstr "Başlıq"
+
+msgid "manager.announcements.type"
+msgstr "Növ"
+
+msgid "manager.announcementTypes"
+msgstr "Elan növləri"
+
+msgid "manager.announcementTypes.confirmDelete"
+msgstr ""
+"Xəbərdarlıq! Bu elan növü və bu növ ilə qeydiyyatlı bütün elanlar silinəcək. "
+"Davam etmək və bu elan növlərini silmək istədiyinizdən əminsinizmi?"
+
+msgid "manager.announcementTypes.create"
+msgstr "Bir elan növü yaradın"
+
+msgid "manager.announcementTypes.createTitle"
+msgstr "Yaradın"
+
+msgid "manager.announcementTypes.edit"
+msgstr "Elanın növünü redaktə edin"
+
+msgid "manager.announcementTypes.editTitle"
+msgstr "Redaktə edin"
+
+msgid "manager.announcementTypes.form.saveAndCreateAnother"
+msgstr "Saxla ve Başqasını yarat"
+
+msgid "manager.announcementTypes.form.typeName"
+msgstr "Ad"
+
+msgid "manager.announcementTypes.typeName"
+msgstr "Elan növü"
+
+msgid "manager.publication.submissionStage"
+msgstr "Məqalə"
+
+msgid "manager.publication.reviewStage"
+msgstr "İncələmə"
+
+msgid "manager.publication.editorialStage"
+msgstr "Redaksiya"
+
+msgid "manager.publication.productionStage"
+msgstr "Çap"
+
+msgid "manager.publication.emails"
+msgstr "emaillər"
+
+msgid "manager.publication.reviewerGuidance"
+msgstr "Rəyçi bələdçisi"
+
+msgid "manager.emails.addEmail"
+msgstr "Şablon əlavə edin"
+
+msgid "manager.emails.createEmail"
+msgstr "Email formalaşdırın"
+
+msgid "manager.emails.data"
+msgstr "Mesaj data şablonu"
+
+msgid "manager.emails.details"
+msgstr "Şablon detalları"
+
+msgid "manager.emails.disable"
+msgstr "Bağlayın"
+
+msgid "manager.emails.editTestExample"
+msgstr "Email test nümunəsini redaktə edin"
+
+msgid "manager.emails.emailTemplate"
+msgstr "Elektron poçt şablonu"
+
+msgid "manager.emails.emailTemplates"
+msgstr "Elektron poçt şablonları"
+
+msgid "manager.emails.otherTemplates"
+msgstr "Digər şablonlar"
+
+msgid "manager.emails.enabled"
+msgstr "Bu email şablonunu aktivləşdirin"
+
+msgid "manager.emails.enable"
+msgstr "Aktivləşdirin"
+
+msgid "manager.emails"
+msgstr "Hazırlanmış elektron poçtlar"
+
+msgid "manager.emails.resetAll"
+msgstr "Hamısını sıfırlayın"
+
+msgid "manager.emails.resetToDefault"
+msgstr "Defolt formata qayıdın"
+
+msgid "manager.emails.sentFrom"
+msgstr "adresindən göndərildi"
+
+msgid "manager.emails.sentTo"
+msgstr "adresə göndərildi"
+
+msgid "manager.export.usersToCsv.label"
+msgstr "Excel / CSV kimi ixrac edin"
+
+msgid "manager.filesBrowser"
+msgstr "Fayl brauzeri"
+
+msgid "manager.files.createDir"
+msgstr "İndeks yaradın"
+
+msgid "manager.files.indexOfDir"
+msgstr "{$dir} indeksi"
+
+msgid "manager.files.parentDir"
+msgstr "Üst indeks"
+
+msgid "manager.files.uploadedFiles"
+msgstr "Yüklənmiş fayllar"
+
+msgid "manager.files.uploadFile"
+msgstr "Faylı yükləyin"
+
+msgid "manager.groups.confirmDelete"
+msgstr "Bu qrupu silmək istədiyinizə əminsiniz?"
+
+msgid "manager.groups.createTitle"
+msgstr "Başlıq yaradın"
+
+msgid "manager.groups.editTitle"
+msgstr "Başlığı redaktə edin"
+
+msgid "manager.groups.membership.addMember"
+msgstr "Üzv əlavə edin"
+
+msgid "manager.groups.membership.confirmDelete"
+msgstr "Bu qrup üzvlüyünü silmək istədiyinizdən əminsinizmi?"
+
+msgid "manager.groups.membership"
+msgstr "Üzvlük"
+
+msgid "manager.groups.title"
+msgstr "Başlıq"
+
+msgid "manager.importExport"
+msgstr "Data almaq/vermək"
+
+msgid "manager.language.ui"
+msgstr "KA"
+
+msgid "manager.language.submissions"
+msgstr "Məqalələr"
+
+msgid "manager.language.forms"
+msgstr "Formalar"
+
+msgid "manager.language.reloadLocalizedDefaultSettings"
+msgstr "Defoltları geri yükləyin"
+
+msgid "manager.payment.timestamp"
+msgstr "Vaxt möhürü"
+
+msgid "manager.people.authSource"
+msgstr "Səlahiyyətləndirmə mənbəyi"
+
+msgid "manager.people.confirmUnenroll"
+msgstr "Bu üzv qeydiyyat xaricində qalsınmı?"
+
+msgid "manager.people.createUser"
+msgstr "Yeni bir üzv yaradın"
+
+msgid "manager.people.disable"
+msgstr "Passivləşdirin"
+
+msgid "manager.people.doNotEnroll"
+msgstr "Səlahiyyətləndirmə"
+
+msgid "manager.people.editProfile"
+msgstr "Profili redaktə edin"
+
+msgid "manager.people.editUser"
+msgstr "Üzvü redaktə edin"
+
+msgid "manager.people.emailUsers.emailSelectedUsers"
+msgstr "Seçilmiş üzvlərə email Göndər"
+
+msgid "manager.people.emailUsers.emailUsersEnrolledAs"
+msgstr "Bu formada qeydiyyatdan keçmiş üzvlərə email göndər"
+
+msgid "manager.people.emailUsers"
+msgstr "Üzvlərə email Göndər"
+
+msgid "manager.people.emailUsers.selectLocale"
+msgstr "Dil seçin"
+
+msgid "manager.people.emailUsers.selectUsers"
+msgstr ""
+"Email göndərmək istədiyiniz üzvlərin adlarının yanındakı qutuları işarələyin."
+
+msgid "manager.people.enable"
+msgstr "Aktivləşdirin"
+
+msgid "manager.people.enroll"
+msgstr "İstifadəçini qeydiyyatdan keçirin"
+
+msgid "manager.people.enrollSelected"
+msgstr "Seçilmiş üzvləri qeydiyyatdan keçirin"
+
+msgid "manager.people.enrollSyncRole"
+msgstr "Rolu sinxronlaşdırın"
+
+msgid "manager.people.enrollSync"
+msgstr "Eyni vaxtda qeydiyyat"
+
+msgid "manager.people.enrollUserAs"
+msgstr "İstifadəçini belə qeydiyyatdan keçirin"
+
+msgid "manager.people.mergeUser"
+msgstr "İstifadəçini birləşdirin"
+
+msgid "manager.people.mergeUsers"
+msgstr "Üzvləri birləşdirin"
+
+msgid "manager.people"
+msgstr "Şəxslər"
+
+msgid "manager.people.remove"
+msgstr "Sil"
+
+msgid "manager.people.saveAndCreateAnotherUser"
+msgstr "Saxla ve başqa bir üzv yaradın"
+
+msgid "manager.people.signedInAs"
+msgstr "Hazırda {$username} kimi daxil oldunuz"
+
+msgid "manager.people.signInAs"
+msgstr "Bu şəxs kimi daxil olun"
+
+msgid "manager.people.signInAsUser"
+msgstr "Üzv kimi daxil olun"
+
+msgid "manager.people.syncUsers"
+msgstr "Üzv qeydiyyatını eyni vaxtda edin"
+
+msgid "manager.people.unenroll"
+msgstr "Qeydiyyat xaricində buraxın"
+
+msgid "manager.reviewerSearch.change"
+msgstr "Dəyişdirin"
+
+msgid "manager.plugins.action"
+msgstr "Ediləcək:"
+
+msgid "manager.plugins.disable"
+msgstr "Passivləşdirin"
+
+msgid "manager.plugins.enable"
+msgstr "Aktivləşdirin"
+
+msgid "manager.plugins.pluginManagement"
+msgstr "Əlavə idarəetməsi"
+
+msgid "manager.plugins"
+msgstr "Sistem əlavələri"
+
+msgid "manager.readingTools"
+msgstr "Oxuma alətləri"
+
+msgid "manager.userSearch.searchByName"
+msgstr "Ada görə istifadəçi axtarın"
+
+msgid "manager.reviewerSearch.searchByName"
+msgstr "Adına görə rəyçi axtarma"
+
+msgid "manager.reviewerSearch.searchByName.short"
+msgstr "Ada görə axtarın"
+
+msgid "manager.reviewerSearch.interests"
+msgstr "Maraq dairəsi"
+
+msgid "manager.roles"
+msgstr "Vəzifələr"
+
+msgid "manager.statistics.reports"
+msgstr "Hesabat yaradın"
+
+msgid "manager.affiliationAndSupport"
+msgstr "Sponsor"
+
+msgid "manager.setup.dois"
+msgstr "DOI-lər"
+
+msgid "manager.setup.dois.setup"
+msgstr "Tənzim"
+
+msgid "manager.setup.dois.registration"
+msgstr "Qeydiyyat"
+
+msgid "doi.manager.settings.doiPrefix"
+msgstr "Doi prefiksi"
+
+msgid "doi.manager.setup.automaticDeposit"
+msgstr "Avtomatik köçürün"
+
+msgid "doi.manager.setup.automaticDeposit.enable"
+msgstr "Avtomatik transferi aktivləşdirin"
+
+msgid "doi.manager.settings.doiPrefix.description"
+msgstr ""
+"DOI prefiksi qeydiyyat agentlikləri (Məsələn; <a href=\"http://www.crossref."
+"org\" target=\"_new\">Crossref</a>) tərəfindən təyin edilmişdir və formatı "
+"10.xxxx şəklindədir (Məsələn; 10.1234):"
+
+msgid "doi.manager.settings.doiCreationTime.label"
+msgstr "Avtomatik DOI yaradın"
+
+msgid "doi.manager.settings.doiCreationTime.never"
+msgstr "Əsla"
+
+msgid "manager.setup.doiPrefix"
+msgstr "Doi prefiksi"
+
+msgid "doi.manager.settings.doiObjects"
+msgstr "Jurnal məzmunu"
+
+msgid "doi.manager.settings.doiSuffix"
+msgstr "DOI son əlavəsi"
+
+msgid "manager.setup.publishing"
+msgstr "Nəşr təfərrüatları"
+
+msgid "manager.setup.copyrightNotice"
+msgstr "Müəllif hüquqları bildirişi"
+
+msgid "manager.setup.additionalContent"
+msgstr "Əlavə məzmun"
+
+msgid "manager.setup.advanced"
+msgstr "İnkişaf etmiş"
+
+msgid "manager.setup.authorGuidelines"
+msgstr "Müəllif Bələdçiləri"
+
+msgid "manager.setup.disableSubmissions"
+msgstr "Məqalə göndərməyi sıradan çıxarın"
+
+msgid "manager.setup.checklist"
+msgstr "Yoxlama siyahısı"
+
+msgid "manager.setup.competingInterests"
+msgstr "Maraqların toqquşması"
+
+msgid "manager.setup.favicon"
+msgstr "Sevimli nişan"
+
+msgid "manager.setup.homepageImage"
+msgstr "Ana səhifə şəkli"
+
+msgid "manager.setup.information.descriptionTitle"
+msgstr "Təsvirlər"
+
+msgid "manager.setup.layout.sidebar"
+msgstr "Kənar çubuğu"
+
+msgid "manager.setup.loggingAndAuditing"
+msgstr "Giriş və nəzarət"
+
+msgid "manager.setup.logo"
+msgstr "Loqotip"
+
+msgid "manager.setup.notifications"
+msgstr "Müəllif təqdimat bildirişi"
+
+msgid "manager.setup.notifications.copySpecifiedAddress"
+msgstr "Bu email adresinə bir nüsxə göndər"
+
+msgid "manager.setup.submissionsNotifications"
+msgstr "Bildirişlər"
+
+msgid "manager.setup.notifications.copySubmissionAckPrimaryContact"
+msgstr "Əsas insanı məlumatlandırın"
+
+msgid "manager.setup.notifications.copySubmissionAckPrimaryContact.enabled"
+msgstr "Bəli kopyasını {$email}adresinə göndər"
+
+msgid "manager.setup.notifications.copySubmissionAckPrimaryContact.disabled"
+msgstr "Yox"
+
+msgid "manager.setup.notifications.copySubmissionAckAddress.description"
+msgstr ""
+"Təqdimat təsdiq emailinin bir surəti, buraya daxil edilən email "
+"adresilərindən hər birinə göndəriləcəkdir. Birdən çox email adresi üçün "
+"vergüllə ayırın. Nümunə: bir@example.com, iki@example.com"
+
+msgid "manager.setup.notifications.description"
+msgstr ""
+"müəlliflərə avtomatik olaraq təqdimatlarınının qəbul edildiyini bildirən bir "
+"email göndərilir. Bu emailin surətləri aşağıdakılara göndərilə bilər:"
+
+msgid "manager.setup.notifyUsers"
+msgstr "Məlumat verin"
+
+msgid "manager.setup.notifyUsers.send"
+msgstr "Emaili Göndər"
+
+msgid "manager.setup.notifyUsers.confirm"
+msgstr ""
+"{$total} ədəd istifadəçiyə email göndərirsiniz Emaili göndərmək "
+"istədiyinizdən əminsinizmi?"
+
+msgid "manager.setup.notifyUsers.sendAnother"
+msgstr "Başqa bir email Göndər"
+
+msgid "manager.setup.openAccessPolicy"
+msgstr "Açıq giriş politikası"
+
+msgid "manager.setup.pageFooter"
+msgstr "Səhifə altı"
+
+msgid "manager.setup.principalContact"
+msgstr "Əsas əlaqə"
+
+msgid "manager.setup.privacyStatement"
+msgstr "Məxfilik bildirişi"
+
+msgid "manager.setup.dateTime"
+msgstr "Tarix & saat"
+
+msgid "manager.setup.dateTime.descriptionTitle"
+msgstr "Tarix və saat formatı"
+
+msgid "manager.setup.dateTime.longDate"
+msgstr "Tarix"
+
+msgid "manager.setup.dateTime.shortDate"
+msgstr "Tarix (qısa)"
+
+msgid "manager.setup.dateTime.time"
+msgstr "Saat"
+
+msgid "manager.setup.dateTime.longDateTime"
+msgstr "Tarix və saat"
+
+msgid "manager.setup.dateTime.shortDateTime"
+msgstr "Tarix və saat (Qısa)"
+
+msgid "manager.setup.dateTime.custom"
+msgstr "Xüsusi"
+
+msgid "manager.setup.reviewOptions.defaultReviewResponseTime"
+msgstr "Defolt cavab son tarixi"
+
+msgid "manager.setup.reviewOptions.defaultReviewCompletionTime"
+msgstr "Defolt Tamamlama tarixi"
+
+msgid "manager.setup.reviewOptions.numWeeksPerReview"
+msgstr "Dəyərləndirmə üçün tamamlanan həftələr"
+
+msgid "manager.setup.reviewOptions.neverSendReminder"
+msgstr "Heç vaxt xatırlatma"
+
+msgid "manager.setup.reviewOptions.reminders.response"
+msgstr "Cavab Xatırlatma"
+
+msgid "manager.setup.reviewOptions.reviewMode"
+msgstr "Defolt incələmə rejimi"
+
+msgid "manager.setup.reviewOptions.showAnonymousReviewLink"
+msgstr ""
+"Yükləmə əsnasında<button type=\"button\">\"Anonim rəyçilik Təminetmə\"</"
+"button> başlıqlı bir link təqdim edin."
+
+msgid "manager.setup.sponsors.note"
+msgstr "Sponsor münasibətləri və Politika açıqlaması"
+
+msgid "manager.setup.technicalSupportContact"
+msgstr "Texniki dəstək əlaqəsi"
+
+msgid "manager.sections.confirmDeactivateSection"
+msgstr "Bu bölməni ləğv etmək istəyirsinizmi?"
+
+msgid "manager.sections.confirmActivateSection"
+msgstr "Bu bölməni aktivləşdirmək istədiyinizdən əminsinizmi?"
+
+msgid "manager.siteAccessOptions.siteAccessOptions"
+msgstr "Sayt Giriş Seçimləri"
+
+msgid "manager.statistics.statistics.count.value"
+msgstr "{$count} ({$percentage}%)"
+
+msgid "manager.statistics.statistics.totalNewValue"
+msgstr "{$numTotal} ({$numNew} yeni)"
+
+msgid "manager.statistics.statistics.registeredUsers"
+msgstr "Qeydiyyatdan keçmiş istifadəçilər"
+
+msgid "manager.users"
+msgstr "Üzvlər"
+
+msgid "plugins.categories.metadata"
+msgstr "Metadata əlavələri"
+
+msgid "plugins.categories.auth"
+msgstr "Səlahiyyətləndirmə əlavələri"
+
+msgid "plugins.categories.blocks"
+msgstr "Blok əlavələri"
+
+msgid "plugins.categories.gateways"
+msgstr "Keçid Əlavələri"
+
+msgid "plugins.categories.generic"
+msgstr "Ümumi Əlavələr"
+
+msgid "plugins.categories.importexport"
+msgstr "Data idxaletmə / ixracetmə Əlavələri"
+
+msgid "plugins.categories.paymethod"
+msgstr "Ödəniş Əlavələri"
+
+msgid "plugins.categories.reports"
+msgstr "Hesabat Əlavələri"
+
+msgid "plugins.categories.themes"
+msgstr "Tema Əlavələri"
+
+msgid "plugins.categories.oaiMetadataFormats"
+msgstr "OAI metadata əlavələri"
+
+msgid "plugins.categories.pubIds"
+msgstr "Ümumi müəyyənləşdirici Əlavələri"
+
+msgid "manager.plugins.delete"
+msgstr "Əlavə silin"
+
+msgid "manager.plugins.installConfirm"
+msgstr "Bu əlavəni yükləmək istədiyinizdən əminsinizmi?"
+
+msgid "manager.plugins.upgradeConfirm"
+msgstr "Bu əlavəni yeniləmək istədiyinizdən əminsinizmi?"
+
+msgid "grid.action.installPlugin"
+msgstr "Bu əlavəni yükləyin və ya yeniləyin"
+
+msgid "manager.plugins.deleteConfirm"
+msgstr "Bu əlavəni sistemdən silmək istədiyinizdən əminsinizmi?"
+
+msgid "manager.plugins.deleteSuccess"
+msgstr "\"{$pluginName}\" əlavəsi uğurla silindi"
+
+msgid "manager.plugins.doesNotExist"
+msgstr "\"{$pluginName}\" əlavəsi mövcud deyil"
+
+msgid "manager.plugins.fileSelectError"
+msgstr "Əvvəlcə bir fayl seçin"
+
+msgid "manager.plugins.upload"
+msgstr "Yeni bir əlavə yükləyin"
+
+msgid "manager.plugins.installed"
+msgstr "Quraşdırılmış əlavələr"
+
+msgid "manager.plugins.pluginGallery"
+msgstr "Əlavə qaleriyası"
+
+msgid "manager.plugins.pluginGallery.overview"
+msgstr "Ümumi görünüş"
+
+msgid "manager.plugins.pluginGallery.installation"
+msgstr "Quraşdırma"
+
+msgid "manager.plugins.pluginGallery.latestCompatible"
+msgstr "Axırıncı uyğun versiya"
+
+msgid "manager.plugins.pluginGallery.certifications.official"
+msgstr "Rəsmi"
+
+msgid "manager.plugins.pluginGallery.certifications.reviewed"
+msgstr "Dəyərləndirdi"
+
+msgid "manager.plugins.pluginGallery.certifications.partner"
+msgstr "Tərəfdaş"
+
+msgid "manager.plugins.pluginGallery.maintainer"
+msgstr "Davametdirici"
+
+msgid "manager.plugins.pluginGallery.version"
+msgstr "v{$version} {$date} tarixində nəşr edildi"
+
+msgid "manager.plugins.pluginGallery.homepage"
+msgstr "Ana səhifə"
+
+msgid "manager.plugins.pluginGallery.summary"
+msgstr "Xülasə"
+
+msgid "manager.plugins.pluginGallery.status"
+msgstr "Statuslar"
+
+msgid "manager.plugins.installedVersionNewer.short"
+msgstr "Cari versiyadan daha yeni"
+
+msgid "manager.plugins.installedVersionOlder.short"
+msgstr "Təkmilləşdirilə bilər"
+
+msgid "manager.plugins.noCompatibleVersion.short"
+msgstr "Mövcud deyil"
+
+msgid "manager.plugins.installFailed"
+msgstr "Quraşdırma uğursuzdur. {$errorString}"
+
+msgid "manager.plugins.installSuccessful"
+msgstr "Uğurla quraşdırılmış versiya {$versionNumber}"
+
+msgid "manager.plugins.settings"
+msgstr "Tənzimlər"
+
+msgid "manager.plugins.upgrade"
+msgstr "Əlavəni yeniləyin"
+
+msgid "manager.plugins.upgradeFailed"
+msgstr "Yeniləmə uğursuz oldu. {$errorString} nəfərdir)"
+
+msgid "manager.plugins.upgradeSuccessful"
+msgstr "Uğurla təkmilləşdirilən versiya: {$versionString}"
+
+msgid "manager.plugins.uploadError"
+msgstr "Fayl yükləyərkən xəta baş verdi {"
+
+msgid "manager.plugins.uploadPluginDir"
+msgstr "Əlavə faylı seçin"
+
+msgid "manager.plugins.versionFileNotFound"
+msgstr "versiya.xml əlavə indeksində tapılmadı"
+
+msgid "notification.localeSettingsCannotBeSaved"
+msgstr ""
+"Dil tənzimi yadda saxlanmadı. Hər seçim üçün ən azı bir dil "
+"aktivləşdirilməlidir."
+
+msgid "manager.distribution.license"
+msgstr "Lisenziya"
+
+msgid "manager.distribution.license.other"
+msgstr "Digər lisenziya URL-si"
+
+msgid "manager.distribution.licenseTerms"
+msgstr "Lisenziya şərtləri"
+
+msgid "manager.distribution.customHeaders"
+msgstr "Xüsusi etiketlər"
+
+msgid "manager.paymentMethod"
+msgstr "Ödənişlər"
+
+msgid "manager.paymentMethod.title"
+msgstr "Ödəmə üsulları"
+
+msgid "manager.paymentMethod.none"
+msgstr "Ödəniş metodu seçilmədi"
+
+msgid "manager.paymentMethod.method"
+msgstr "Ödəniş üsulu"
+
+msgid "settings.roles.roleOptions"
+msgstr "Rol seçimləri"
+
+msgid "settings.roles.showTitles"
+msgstr "Qatqı edənlərin siyahısında rol başlığını göstərin"
+
+msgid "settings.roles.permitSelfRegistration"
+msgstr "İstifadəçilərin öz-qeydiyyatına icazə verin"
+
+msgid "settings.roles.roleName"
+msgstr "Rol adı"
+
+msgid "settings.roles.roleAbbrev"
+msgstr "Qısaltma"
+
+msgid "settings.roles.assignedStages"
+msgstr "Təyin olunmuş addımlar"
+
+msgid "settings.roles.roleDetails"
+msgstr "Rol təfərrüatları"
+
+msgid "settings.roles.from"
+msgstr "İcazə səviyyəsi"
+
+msgid "settings.roles.removeText"
+msgstr ""
+"Bu rolu bu kontekstən çıxarırsınız. Bu əməliyyat həm də əlaqədar tənzimləri "
+"və bu rola edilən bütün istifadəçi təyinatlarını da silir. Davam etmək "
+"istəyirsinizmi?"
+
+msgid "settings.libraryFiles.category.contracts"
+msgstr "Müqavilələr"
+
+msgid "settings.libraryFiles.category.marketing"
+msgstr "Marketinq"
+
+msgid "settings.libraryFiles.category.permissions"
+msgstr "İcazələr"
+
+msgid "settings.libraryFiles.category.reports"
+msgstr "Hesabatlar"
+
+msgid "settings.libraryFiles.category.other"
+msgstr "Digər"
+
+msgid "settings.libraryFiles.public.viewInstructions"
+msgstr ""
+"<p>Bu kitabxana faylı, \"Hər kəsə Açıq Giriş\" seçimi ilə aşağıdakı adresdən "
+"girilərək endirilə bilir: <blockquote>{$downloadUrl}</blockquote></p>"
+
+msgid "settings.libraryFiles.public.selectLibraryFiles"
+msgstr "Əlavə ediləcək kitabxana sənədlərini seçin"
+
+msgid "grid.action.addGenre"
+msgstr "Bir komponent əlavə edin"
+
+msgid "grid.action.editGenre"
+msgstr "Bu komponenti redaktə edin"
+
+msgid "grid.action.deleteGenre"
+msgstr "Bu komponenti silin"
+
+msgid "grid.action.restoreGenres"
+msgstr "Komponentləri standart tənzimlərə geri yükləyin"
+
+msgid "manager.setup.genres.key"
+msgstr "Açar"
+
+msgid "manager.setup.genres.metatadata"
+msgstr "Fayl metadatası"
+
+msgid "manager.settings.wizard"
+msgstr "Tənzimlər sehrbazı"
+
+msgid "manager.website"
+msgstr "Veb sayt"
+
+msgid "manager.website.title"
+msgstr "Veb sayt tənzimləri"
+
+msgid "manager.workflow"
+msgstr "İş axını"
+
+msgid "manager.workflow.title"
+msgstr "İş axını tənzimləri"
+
+msgid "manager.distribution"
+msgstr "Paylama"
+
+msgid "manager.distribution.title"
+msgstr "Paylama tənzimləri"
+
+msgid "manager.reviewForms"
+msgstr "Dəyərləndirmə formaları"
+
+msgid "manager.reviewForms.confirmCopy"
+msgstr ""
+"Bu dəyərləndirmə formunun bir nüsxəsini yaratmaq istədiyinizdən əminsinizmi?"
+
+msgid "manager.reviewForms.completed"
+msgstr "Tamamlandı"
+
+msgid "manager.reviewForms.confirmDelete"
+msgstr "Bu dəyərləndirmə formunu silmək istədiyinizdən əminsinizmi?"
+
+msgid "manager.reviewForms.create"
+msgstr "Dəyərləndirmə formu yaradın"
+
+msgid "manager.reviewForms.description"
+msgstr "İzahat və təlimatlar"
+
+msgid "manager.reviewForms.edit"
+msgstr "Dəyərləndirmə formu"
+
+msgid "manager.reviewForms.inReview"
+msgstr "Dəyərləndirmədə"
+
+msgid "manager.reviewForms.noneChosen"
+msgstr "Xeyr / PULSUZ dəyərləndirmə formu"
+
+msgid "manager.reviewForms.preview"
+msgstr "Forma önbaxışı"
+
+msgid "manager.reviewForms.reviewFormData"
+msgstr "Dəyərləndirmə formu datası"
+
+msgid "manager.reviewForms.title"
+msgstr "Başlıq"
+
+msgid "manager.reviewFormElements"
+msgstr "Form elementləri"
+
+msgid "manager.reviewFormElements.addResponseItem"
+msgstr "Seçim əlavə edin"
+
+msgid "manager.reviewFormElements.checkboxes"
+msgstr "Təsdiq Qutuları (Bir və ya daha çox seçə bilərsiniz)"
+
+msgid "manager.reviewFormElements.chooseType"
+msgstr "Element növünü seçin"
+
+msgid "manager.reviewFormElements.copyTo"
+msgstr "Bura kopyalayın:"
+
+msgid "manager.reviewFormElements.create"
+msgstr "Yeni bir element yaradın"
+
+msgid "manager.reviewFormElements.dropdownbox"
+msgstr "Açıq qutu"
+
+msgid "manager.reviewFormElements.edit"
+msgstr "Form elementlərini redaktə edin"
+
+msgid "manager.reviewFormElements.elementType"
+msgstr "Element növü"
+
+msgid "manager.reviewFormElements.possibleResponse"
+msgstr "Seçim"
+
+msgid "manager.reviewFormElements.question"
+msgstr "Element"
+
+msgid "manager.reviewFormElements.description"
+msgstr "Açıqlama/təsvir"
+
+msgid "manager.reviewFormElements.radiobuttons"
+msgstr "Radio düymələri (yalnız birini seçin)"
+
+msgid "manager.reviewFormElements.required"
+msgstr "rəyçilərin maddələri doldurması məcburidir"
+
+msgid "manager.reviewFormElements.included"
+msgstr "Müəllif üçün mesaj daxil edin"
+
+msgid "manager.reviewFormElements.smalltextfield"
+msgstr "Bir sözlük mətn qutusu"
+
+msgid "manager.reviewFormElements.textarea"
+msgstr "Genişləndirilmiş mətn qutusu"
+
+msgid "manager.reviewFormElements.textfield"
+msgstr "Tək sətirlik mətn qutusu"
+
+msgid "manager.reviewFormElements.viewable"
+msgstr "Baxıla bilər (Müəlliflər üçün)"
+
+msgid "manager.setup.metadata.submission"
+msgstr "Məqalə formu"
+
+msgid "manager.setup.metadata.coverage"
+msgstr "Əhatə dairəsi"
+
+msgid "manager.setup.metadata.coverage.enable"
+msgstr "Əhatə metadatalarını aktivləşdirin"
+
+msgid "manager.setup.metadata.keywords.enable"
+msgstr "Açar söz metadatalarını aktivləşdirin"
+
+msgid "manager.setup.metadata.rights.enable"
+msgstr "Hüquqlar metadatasını aktivləşdirin"
+
+msgid "manager.setup.metadata.source.enable"
+msgstr "Mənbə metadatalarını aktivləşdirin"
+
+msgid "manager.setup.metadata.subjects.enable"
+msgstr "Mövzu metadatalarını aktivləşdirin"
+
+msgid "manager.setup.metadata.type.enable"
+msgstr "Növ metadatalarını aktivləşdirin"
+
+msgid "manager.setup.metadata.disciplines.enable"
+msgstr "İxtisasların metadalarını aktivləşdirin"
+
+msgid "manager.setup.metadata.agencies.enable"
+msgstr "Fond təmin edən qurumların metadalarını aktivləşdirin"
+
+msgid "manager.setup.metadata.citations.enable"
+msgstr "Referans metadatalarını aktivləşdirin"
+
+msgid "plugins.importexport.common.validationErrors"
+msgstr "Təsdiqləmə xətaları:"
+
+msgid "plugins.importexport.common.warningsEncountered"
+msgstr "Rast gəlinən xəbərdarlıqlar:"
+
+msgid "plugins.importexport.common.errorsOccured"
+msgstr "Xətalar meydana gəldi:"
+
+msgid "plugins.importexport.common.id"
+msgstr "ID: {$id}"
+
+msgid "plugins.importexport.common.error.unknownElement"
+msgstr "Naməlum element"
+
+msgid "plugins.importexport.common.error.unknownGenre"
+msgstr "Naməlum növlər"
+
+msgid "plugins.importexport.common.error.unknownEncoding"
+msgstr "Naməlum kodlaşdırma"
+
+msgid "plugins.importexport.common.error.encodingError"
+msgstr "Məzmun {$param} kimi kodlaşdırılmayıb"
+
+msgid "plugins.importexport.common.error.userGroupMissing"
+msgstr "{$param} Müəllif adı üçün istifadəçi qrupu əskikdir."
+
+msgid "plugins.importexport.common.error.unknownUploader"
+msgstr "Naməlum yükləyici: {$param}"
+
+msgid "plugins.importexport.common.error.temporaryFileFailed"
+msgstr "Müvəqqəti fayl {$dest}, {$source} mənbəyindən yaradıla bilmədi."
+
+msgid "plugins.importexport.common.error.filesizeMismatch"
+msgstr ""
+"Təmin edilən fayllar \"{$expected}\" və həqiqi fayllardakı \"{$actual}\" "
+"\"uyğun gəlmir\""
+
+msgid "plugins.importexport.common.error.duplicateRevisionForSubmission"
+msgstr ""
+"Reviziya \"{$revisionId}\", \"{$fileId}\" Məqalə faylı üçün təkrarlanan bir "
+"qeydiyyat yaradır."
+
+msgid "plugins.importexport.native.error.submissionFileImportFailed"
+msgstr "Təqdimat faylı idxal edilə bilmədi"
+
+msgid "plugins.importexport.user.importExportErrors"
+msgstr "Data idxaletmə /ixracetmə xətaları :"
+
+msgid "manager.navigationMenus.form.title"
+msgstr "Başlıq"
+
+msgid "manager.navigationMenus.form.path"
+msgstr "Yol"
+
+msgid "manager.navigationMenus"
+msgstr "Göndərmə menyuları"
+
+msgid "manager.navigationMenus.form.viewInstructions"
+msgstr ""
+"<p>Bu səhifəyə aşağıdakı adresdən girilə bilər: <blockquote>{$pagesPath}</"
+"blockquote>...harada %PATH% yuxarıda daxil edilən yoldur. <strong>Not:</"
+"strong> İki səhifə eyni yola sahib ola bilməz. Sistemdə oturuşmuş yollar "
+"istifadə etmək, önəmli funksiyalara girişinizi itirməyinizə səbəb ola "
+"bilər.</p>"
+
+msgid "manager.navigationMenus.form.content"
+msgstr "Məzmun"
+
+msgid "manager.navigationMenus.form.titleRequired"
+msgstr "Başlıq tələb olunur"
+
+msgid "manager.navigationMenuItems"
+msgstr "Göndərmə menyusu elementləri"
+
+msgid "manager.navigationMenus.assignedMenuItems"
+msgstr "Təyin olunmuş menyu elementləri"
+
+msgid "manager.navigationMenus.unassignedMenuItems"
+msgstr "Təyin edilməmiş menyu elementləri"
+
+msgid "manager.navigationMenus.form.navigationMenuArea"
+msgstr "Aktiv tema yönləndirmə sahələri"
+
+msgid "manager.navigationMenus.form.navigationMenuAreaMessage"
+msgstr "Göndərmə sahəsini seçin"
+
+msgid "manager.navigationMenus.form.customUrlError"
+msgstr "Bir URL təmin edilməlidir"
+
+msgid "manager.navigationMenus.form.navigationMenuItemType"
+msgstr "Göndərmə menyusu növü"
+
+msgid "manager.navigationMenus.form.navigationMenuItemTypeMessage"
+msgstr "Göndərmə menyusu növü seçin və ya xüsusi menyu yaradın"
+
+msgid "manager.navigationMenus.customPage"
+msgstr "Xüsusi səhifə"
+
+msgid "manager.navigationMenus.remoteUrl"
+msgstr "Uzaq url"
+
+msgid "manager.navigationMenus.about.description"
+msgstr ""
+"Tənzimlər > Jurnal qismindəki Jurnal məzmunu haqqındanı göstərən bir "
+"səhifəyə link yaradın."
+
+msgid "grid.category.add"
+msgstr "Kateqoriya əlavə edin"
+
+msgid "grid.category.edit"
+msgstr "Kateqoriya redaktə edin"
+
+msgid "grid.category.path"
+msgstr "Yol"
+
+msgid "grid.category.urlWillBe"
+msgstr "Kateqoriyanın URL-si: {$sampleUrl}"
+
+msgid "grid.category.description"
+msgstr "Açıqlama/təsvir"
+
+msgid "grid.category.parentCategory"
+msgstr "Üst kateqoriya"
+
+msgid "grid.category.removeText"
+msgstr "Bu kateqoriyanı silmək istədiyinizə əminsiniz?"
+
+msgid "grid.category.categoryDetails"
+msgstr "Kateqoriya təfərrüatları"
+
+msgid "stats.allUsers"
+msgstr "Bütün istifadəçilər"
+
+msgid "stats.city"
+msgstr "Şəhər"
+
+msgid "stats.countWithYearlyAverage"
+msgstr "{$count} ({$average}/year)"
+
+msgid "stats.daily"
+msgstr "Gündəlik"
+
+msgid "stats.dateRange"
+msgstr "Tarix aralığı J5983"
+
+msgid "stats.dateRange.allDates"
+msgstr "Bütün tarixlər"
+
+msgid "stats.dateRange.apply"
+msgstr "Tətbiq et"
+
+msgid "stats.dateRange.change"
+msgstr "Tarix aralığını dəyişdirin"
+
+msgid "stats.dateRange.customRange"
+msgstr "Xüsusi aralıq"
+
+msgid "stats.dateRange.from"
+msgstr "Etibarən"
+
+msgid "stats.dateRange.last12Months"
+msgstr "Son 12 ay"
+
+msgid "stats.dateRange.last30Days"
+msgstr "Son 30 gün"
+
+msgid "stats.dateRange.last90Days"
+msgstr "Son 90 gün"
+
+msgid "stats.dateRange.lastTwoYears"
+msgstr "Son iki il"
+
+msgid "stats.dateRange.lastYear"
+msgstr "Keçən il"
+
+msgid "stats.dateRange.sinceDate"
+msgstr "{$date} tarixindən bəri"
+
+msgid "stats.dateRange.thisYear"
+msgstr "İlin əvvəlindən bəri"
+
+msgid "stats.dateRange.to"
+msgstr "Kimə"
+
+msgid "stats.descriptionForStat"
+msgstr "{$stat} üçün açıqlama"
+
+msgid "stats.editorialActivity"
+msgstr "Redaksiya fəaliyyəti"
+
+msgid "stats.fileViews"
+msgstr "Fayl baxışları"
+
+msgid "stats.html"
+msgstr "Html"
+
+msgid "stats.monthly"
+msgstr "Aylıq"
+
+msgid "stats.pdf"
+msgstr "Pdf"
+
+msgid "stats.region"
+msgstr "Bölgə"
+
+msgid "stats.searchSubmissionDescription"
+msgstr "Başlıq, müəllif və ID-yə görə axtarıış"
+
+msgid "stats.submissionsActive"
+msgstr "Aktiv Məqalələr"
+
+msgid "stats.total"
+msgstr "Ümumi elementlər {$Generic} nəfərdir)"
+
+msgid "stats.totalWithinDateRange"
+msgstr "Tarix aralığı içindəki yekun"
+
+msgid "stats.trends"
+msgstr "Trendlər"
+
+msgid "stats.userStatistics"
+msgstr "İstifadəçi statistikaları"
+
+msgid "stats.name.submissionsReceived"
+msgstr "Qəbul edilən Məqalələr"
+
+msgid "stats.name.submissionsAccepted"
+msgstr "Qəbul edilən Məqalələr"
+
+msgid "stats.name.submissionsDeclined"
+msgstr "Rədd edilmiş Məqalələr"
+
+msgid "stats.name.submissionsDeclinedDeskReject"
+msgstr "Rədd edilmiş Məqalələr (ön incələmə rəddi)"
+
+msgid "stats.name.submissionsDeclinedPostReview"
+msgstr "Rədd edilmiş Məqalələr (rəyçi dəyərləndirməsindən sonra)"
+
+msgid "stats.name.submissionsPublished"
+msgstr "Yayımlanan Məqalələr"
+
+msgid "stats.name.daysToDecision"
+msgstr "İlk redaksiya qərar günləri"
+
+msgid "stats.name.daysToAccept"
+msgstr "Qəbul ediləcək günlər"
+
+msgid "stats.name.daysToReject"
+msgstr "Rədd edilmiş günlər"
+
+msgid "stats.name.acceptanceRate"
+msgstr "Qəbul dərəcəsi"
+
+msgid "stats.name.declineRate"
+msgstr "Rədd edilmə dərəcəsi"
+
+msgid "stats.name.declinedDeskRate"
+msgstr "Ön incələmə rədd edilmə dərəcəsi"
+
+msgid "stats.name.declinedReviewRate"
+msgstr "Rəyçidən sonra rədd dərəcəsi"
+
+msgid "plugins.importexport.native.export.submissions.results"
+msgstr "Məqalə nəticələrini ixrac edin"
+
+msgid "plugins.importexport.native.export.download.results"
+msgstr "İxrac olunan faylı endirin"
+
+msgid "plugins.importexport.native.common.any"
+msgstr "Ümumi elementlər"
+
+msgid "plugins.importexport.submission.cli.display"
+msgstr "\"{$submissionId}\" - \"{$submissionTitle}\"ir)"
+
+msgid "plugins.importexport.author.exportFailed"
+msgstr "Müəlliflər təhlil edilə bilmədi"
+
+msgid "plugins.importexport.publication.exportFailed"
+msgstr "Nəşrlər təhlil edilə bilmədi"
+
+msgid "emailTemplate.variable.context.passwordLostUrl"
+msgstr "İstifadəçinin itmiş bir şifrəni xilas edə biləcəyi bir səhifənin URL-si"
+
+msgid "emailTemplate.variable.recipient.userFullName"
+msgstr "Alıcının və ya bütün alıcıların tam adı"
+
+msgid "emailTemplate.variable.recipient.username"
+msgstr "Alıcının və ya bütün alıcıların istifadəçi adı"
+
+msgid "emailTemplate.variable.recipient.responseDueDate"
+msgstr "Rəyçinin dəyərləndirməni qəbul və ya rədd etməsi lazım olan tarix"
+
+msgid "emailTemplate.variable.recipient.reviewDueDate"
+msgstr "Dəyərləndirmənin tamamlanması lazım olan tarix"
+
+msgid "emailTemplate.variable.recipient.reviewAssignmentUrl"
+msgstr "Rəyçini təyinatının URL-si"
+
+msgid "emailTemplate.variable.sender.senderName"
+msgstr "Məqalənin tam adı"
+
+msgid "emailTemplate.variable.sender.senderEmail"
+msgstr "Göndərənin email adresi"
+
+msgid "emailTemplate.variable.sender.signature"
+msgstr "Göndərənin email imzası"
+
+msgid "emailTemplate.variable.site.siteContactName"
+msgstr "Əsas əlaqə qurulacaq şəxsin tam adı"
+
+msgid "emailTemplate.variable.site.siteContactEmail"
+msgstr "Əsas əlaqə quralacaq şəxsin email adresi"
+
+msgid "emailTemplate.variable.stageAssignment.editors"
+msgstr "Bu namizəd məqaləyə təyin edilən və qərar verə biləcək redaktorlar"
+
+msgid "emailTemplate.variable.submission.submissionTitle"
+msgstr "Namizəd məqalənin başlığı"
+
+msgid "emailTemplate.variable.submission.submissionId"
+msgstr "Namizəd məqalənin unikal şəxsiyyət nömrəsi"
+
+msgid "emailTemplate.variable.submission.submissionAbstract"
+msgstr "Namizəd məqalənin xülasəsi"
+
+msgid "emailTemplate.variable.submission.authors"
+msgstr "Müəlliflərin tam adları"
+
+msgid "emailTemplate.variable.submission.authorSubmissionUrl"
+msgstr ""
+
+msgid "emailTemplate.variable.submission.submissionUrl"
+msgstr "Redaktor ekranındakı namizəd məqalənin URL-si"
+
+msgid "emailTemplate.variable.submission.submittingAuthorName"
+msgstr ""
+
+msgid "emailTemplate.variable.passwordResetUrl"
+msgstr ""
+
+msgid "mailable.reviewerUnassign.name"
+msgstr "Rəyçidən geri alındı"
+
+msgid "mailable.validateEmailSite.name"
+msgstr "Emaili təsdiqləyin (Site)"
+
+msgid "mailable.reviewConfirm.description"
+msgstr ""
+"Bu email, Dəyərləndirmə tələbinin qəbul edildiyini və qeyd olunan tarixə "
+"qədər bitəcəyini Bölmə Redaktoruna xəbər vermək üçün cavab olaraq rəyçi "
+"tərəfindən göndərilir."
+
+msgid "mailable.reviewDecline.description"
+msgstr ""
+"Bu email gözdən keçirmə tələbinə cavab olaraq, gözdən keçirmənin rədd "
+"edildiyini bildirmək məqsədilə Bölmə Redaktoruna gözdən keçirməni edən şəxs "
+"tərəfindən göndərilir."
+
+msgid "manager.announcements.form.descriptionInstructions"
+msgstr "Elanın tam mətni."
+
+msgid "manager.announcements.form.descriptionShortRequired"
+msgstr "Elan üçün qısa bir tərif tələb olunur"
+
+msgid "manager.announcements.form.titleRequired"
+msgstr "Bir elan başlığı tələb olunur."
+
+msgid "manager.announcements.form.typeIdValid"
+msgstr "Zəhmət olmasa etibarlı bir elan növü seçin"
+
+msgid "manager.announcements.noneCreated"
+msgstr "Elan yaradılmadı."
+
+msgid "manager.announcementTypes.form.typeNameExists"
+msgstr "Bu adda elan növü var artıq"
+
+msgid "manager.announcementTypes.form.typeNameRequired"
+msgstr "Elan növü üçün bir ad tələb olunur"
+
+msgid "manager.announcementTypes.noneCreated"
+msgstr "Elan növü yaradılmadı."
+
+#, fuzzy
+msgid "manager.dois.actions.deposit.all"
+msgstr "Hamısını əmanət edin"
+
+#, fuzzy
+msgid "manager.dois.actions.deposit.label"
+msgstr "Depozit Dois"
+
+#, fuzzy
+msgid "manager.dois.actions.markRegistered.label"
+msgstr "Mark Dois qeydiyyata alındı"
+
+#, fuzzy
+msgid "manager.institutions.form.ror"
+msgstr "Ror"
+
+#, fuzzy
+msgid "manager.institutions.form.ipRangesInstructions"
+msgstr ""
+"Etibarlı dəyərlərə bir IP ünvanı (məsələn, IP diapazonu (məsələn, IP "
+"diapazonu (məsələn, IP diapazonu), IP diabruku ilə IP diabruku olan IP "
+"diabrucu '*' (e.g.) və CIDR (E.G.) 142.58.100.0/24)."
+
+#, fuzzy
+msgid "manager.institutions.deleteInstitution"
+msgstr "Təşkilatı silmək"
+
+#, fuzzy
+msgid "manager.institutions.confirmDelete"
+msgstr "Bu qurumu davam etdirmək və silmək istədiyinizə əminsiniz?"
+
+#, fuzzy
+msgid "manager.institutions.invalidIPRange"
+msgstr "Yanlış IP diapazonu"
+
+msgid "manager.publication.reviewReminders.success"
+msgstr "İncələmə xatırladıcısı detallarını yeniləyin"
+
+#, fuzzy
+msgid "manager.dois.title"
+msgstr "Doğu"
+
+#, fuzzy
+msgid "manager.emails.disable.message"
+msgstr ""
+"Bu e-poçt şablonunu deaktiv edəcəksiniz.  Bu şablondan istifadə edən sistem "
+"prosesləri olsaydı, artıq istifadə etməzdilər.  Bu əməliyyatı təsdiqləmək "
+"istəyirsiniz?"
+
+msgid "manager.emails.emailTemplate.contextRequired"
+msgstr "Bir email şablonu əlavə edərkən konteks kimliyi təmin etməlisiniz"
+
+msgid "manager.emails.form.emailKeyRequired"
+msgstr "Email üçün müstəsna bir email açarı tələb olunur."
+
+msgid "manager.export.usersToCsv.description"
+msgstr "Excel CSV olaraq çölə transfer ediləcək istifadəçiləri seçin"
+
+#, fuzzy
+msgid "manager.emails.reset.message"
+msgstr ""
+"Bu şablonu sıfırlasanız, bütün mesaj məlumatları bütün dəyişiklikləri "
+"itirərək standart olaraq sıfırlanacaq.  Bu əməliyyatı təsdiqləmək "
+"istəyirsiniz?"
+
+msgid "manager.files.emptyDir"
+msgstr "Bu indeksdə fayl tapılmadı"
+
+msgid "manager.groups.form.groupTitleRequired"
+msgstr "Bir qrup başlığı tələb olunur."
+
+msgid "manager.groups.membership.noneCreated"
+msgstr "Bu qrupda heç bir üzv qeydiyyatlı deyil"
+
+msgid "manager.groups.membership.noUsers"
+msgstr "Heç bir istifadəçi tapılmadı."
+
+msgid "manager.people.createUserGeneratePassword"
+msgstr "Təsadüfi bir şifrə yaradın."
+
+msgid "manager.people.createUserSendNotify"
+msgstr ""
+"Üzvə istifadəçi adını və şifrəsini ehtiva edən bir xoş gəldin emaili göndər"
+
+msgid "manager.people.enrollUserAsDescription"
+msgstr "Üzvlər hər hansı bir rol ilə təyin edilə bilər və ya ləğv edilə bilər."
+
+msgid "manager.people.invalidUser"
+msgstr "Bağışlayın, belə bir istifadəçi yoxdur."
+
+msgid "manager.people.mergeUsers.confirm"
+msgstr ""
+"{$oldAccountCount} adlı üzvün hesab məlumatlarını {$newUsername} adlı üzvün "
+"hesabına transfer etmək istədiyinizdən əminsinizmi? {$oldAccountCount} adlı "
+"üzv hesabı bağlanacaq və bu əməliyyatın ləğvi mümkün deyildir."
+
+msgid "manager.people.mustChooseRole"
+msgstr "\"Üzv qeydiyyatını\" klikləməzdən əvvəl zəhmət olmasa bir rol seçin"
+
+msgid "manager.people.userCreatedSuccessfully"
+msgstr "Üzv uğurla yaradıldı."
+
+msgid "manager.people.userMustChangePassword"
+msgstr "Üzv üçün növbəti daxilolmada şifrə dəyişdirməni məcburi edin"
+
+msgid "manager.plugins.sitePlugin"
+msgstr ""
+"Bu bütün saytı əlaqədar edən bir əlavədir. Sadəcə sayt idarəçisi əlavəni "
+"istifadə edə bilər."
+
+msgid "manager.representative.inUse"
+msgstr ""
+"Bu yayım üçün nümayəndə bir və ya daha çox nəşr formatı üçün bazar "
+"metadatalarına təyin edildiyinə görə bu nümayəndəni silə bilməzsiniz."
+
+#, fuzzy
+msgid "manager.setup.statistics"
+msgstr "Statistika"
+
+#, fuzzy
+msgid "manager.settings.statistics.geoUsageStats"
+msgstr "Geo istifadə statistikası"
+
+#, fuzzy
+msgid "manager.settings.statistics.geoUsageStats.description"
+msgstr ""
+"Toplamaq istədiyiniz coğrafi məlumatların hansı istifadə statistik "
+"məlumatlarını seçin. Bu, əldə edə biləcəyiniz və verilənlər bazası ölçüsünə "
+"təsir göstərə biləcəyiniz mümkün statistik xəbərlərə təsir edəcəkdir."
+
+#, fuzzy
+msgid "manager.settings.statistics.geoUsageStats.disabled"
+msgstr "Heç bir geo məlumat toplamayın"
+
+#, fuzzy
+msgid "manager.reviewerSearch.form.instructions"
+msgstr ""
+"Tapmaq istədiyiniz şərtlər üçün maksimum dəyərlər təyin etmək üçün aşağıdakı "
+"formadan istifadə edin.  Forma bu sahələrin hesablanmış ortalamaları ilə "
+"əvvəlcədən doldurulur."
+
+msgid "doi.manager.settings.doiPrefixPattern"
+msgstr "Doi prefiksi məcburidir 10.xxxx formatında olmalıdır."
+
+#, fuzzy
+msgid "doi.manager.settings.doiCreationTime.description"
+msgstr "Bir təklifi nə vaxt təyin edilməlidir?"
+
+#, fuzzy
+msgid "doi.manager.settings.doiCreationTime.publication"
+msgstr "Nəşr edildikdən sonra"
+
+#, fuzzy
+msgid "doi.manager.settings.doiPrefix.required"
+msgstr "Doi prefiksi tələb olunur"
+
+#, fuzzy
+msgid "doi.manager.settings.doiSuffix.pattern"
+msgstr "Doi şəkilçi"
+
+#, fuzzy
+msgid "doi.manager.versions.view"
+msgstr "Hamısına baxın"
+
+#, fuzzy
+msgid "doi.manager.versions.modalTitle"
+msgstr "Bütün versiyalar üçün dois"
+
+#, fuzzy
+msgid "doi.editor.doiSuffixInvalidCharacters"
+msgstr "Doi etibarsız simvol ehtiva edir."
+
+msgid "manager.setup.publishingDescription"
+msgstr ""
+"Bu detallar, üçüncü tərəf arxiv orqanlarına təmin edilən metadatalara daxil "
+"edilə bilər."
+
+msgid "manager.setup.additionalContent.description"
+msgstr "Bura daxil edilən hər şey ana səhifədə görünəcək."
+
+msgid "manager.setup.errorDeletingItem"
+msgstr "Bu element silinərkən bir xəta baş verdi"
+
+msgid "manager.setup.homepageImage.description"
+msgstr "Əsas səhifədə bariz bir şəkildə göstərmək üçün bir şəkil yükləyin"
+
+msgid "manager.setup.noTemporaryFile"
+msgstr "Yüklədiyiniz fayl tapılmadı. Zəhmət olmasa yenidən yükləməyə cəhd edin."
+
+#, fuzzy
+msgid "manager.setup.notifyAllAuthors"
+msgstr "Bütün müəllifləri bildirin"
+
+#, fuzzy
+msgid "manager.setup.notifyAllAuthors.description"
+msgstr "Bir redaksiya qərarı qeydə alındıqda kim bildiriş e-poçtu almalı?"
+
+#, fuzzy
+msgid "manager.setup.notifyAllAuthors.allAuthors"
+msgstr "Təqdimatın bütün müəlliflərinə bir e-poçt bildirişi göndər."
+
+msgid "manager.setup.notifications.copySubmissionAckAddress.invalid"
+msgstr "Bu email adreslərindən biri və ya daha çoxu etibarlı deyil."
+
+msgid "manager.setup.notifyUsers.description"
+msgstr "Emailinizi almalı olan istifadəçiləri seçin."
+
+msgid "manager.setup.notifyUsers.copyDetails"
+msgstr "Bu emailin bir surətini {$email} adresinə yəni mənə göndər"
+
+#, fuzzy
+msgid "manager.setup.notifyUsers.queued"
+msgstr "E-poçtlar uğurla ən erkən rahatlıqla göndəriləcək."
+
+msgid "manager.setup.openAccessPolicy.description"
+msgstr ""
+"Nəşr edilmiş bütün məzmuna dərhal pulsuz giriş təmin edirsinizsə, Açıq Giriş "
+"Politikanızın açıqlamasını daxil edin."
+
+msgid "manager.setup.pageFooter.description"
+msgstr ""
+"Veb saytınızın altında görünməsini istədiyiniz şəkilləri, mətnləri və ya "
+"HTML kodlarını daxil edin."
+
+msgid "manager.setup.principalContactDescription"
+msgstr ""
+"Ümumiyyətlə redaktorluğunuz , redaktorluğun rəhbərliyi və ya ümumu giriş "
+"edilə bilən veb saytınızda baxıla biləcək idarə heyəti üçün əlaqə "
+"məlumatlarını daxil edin."
+
+msgid "manager.setup.reviewOptions.numWeeksPerResponse"
+msgstr ""
+"Bir dəyərləndirmə istəyini qəbul etmə və ya rədd etmə prosesi həftələri."
+
+msgid "manager.setup.reviewOptions.reminders.response.description"
+msgstr ""
+"Rəyçi dəyərləndirmə istəyinə cavab tarixindən sonrakı günlərdə də rəyçilik "
+"istəyini cavablandırmadısa bir xatırlatma emaili göndər."
+
+msgid "manager.setup.sponsors.description"
+msgstr ""
+"Nümunələr: Elmi dərnəklər, universitet bölmələri, korporativlər, vb. "
+"Sponsorlar ictimaiyyətə açıq olaraq göstərilir."
+
+#, fuzzy
+msgid "manager.setup.institutions"
+msgstr "İnstitutlar"
+
+msgid "plugins.categories.metadata.description"
+msgstr "Metadata Əlavələri əlavə meta data standarları tətbiq edir."
+
+msgid "plugins.categories.blocks.description"
+msgstr ""
+"Blok Əlavələri, müxtəlif kənar çubuğu alətləri kimi əlavə edilib istifadə "
+"edilə bilən istifadəçi ara üzü konponentləridir."
+
+msgid "plugins.categories.gateways.description"
+msgstr "Keçid Əlavələri digər sistemlərə dərhal data təqdim edilməsi üçündür."
+
+msgid "plugins.categories.importexport.description"
+msgstr ""
+"Data idxaletmə/ixracetmə Əlavələri məzmunun başqa sistemlərə transfer "
+"edilməsi üçün istifadə edilir."
+
+msgid "plugins.categories.paymethod.description"
+msgstr ""
+"Ödəniş Metodu əlavəsi onlayn ödəniş prosesini müxtəlif yollarla dəstəkləməyi "
+"təmin edir."
+
+msgid "plugins.categories.reports.description"
+msgstr ""
+"Hesabat əlavələri müxtəlif növdə data xülasələri və hesabat təmin etmək üçün "
+"istifadə edilir."
+
+msgid "plugins.categories.themes.description"
+msgstr "Tema əlavələri sistemin görüntüsünü dəyişdirmək üçün istifadə edilir."
+
+msgid "plugins.categories.oaiMetadataFormats.description"
+msgstr "Bu fortmatdakı əlavələri OAI əlaqəsində sürətli metadata təmin edər."
+
+msgid "plugins.categories.pubIds.description"
+msgstr "Bu əlavələr, ümumi bir müəyyənləşdirici üçün dəstək təmin edir."
+
+msgid "manager.plugins.deleteDescription"
+msgstr "Sil düyməsiniz bassanız, əlavə serverin fayl sistemindən silinəcəkdir."
+
+msgid "manager.plugins.deleteError"
+msgstr ""
+"\"{$pluginName}\" əlavəsi fayl sistemindən silinə bilmədi. Bu bir icazə "
+"problemi ola bilər. Zəhmət olmasa veb serverinizin əlavə indeksinə (alt "
+"indekslə daxil) yazma səlahiyyətinin olub olmadığına əmin olun; ancaq daha "
+"sonra yazma səlahiyyətini redaktə etməyi unutmayın."
+
+msgid "manager.plugins.uploadFailed"
+msgstr "Quraşdırma üçün bir fayl seçdiyinizə əmin olun"
+
+msgid "manager.plugins.pluginGallery.certifications.official.description"
+msgstr ""
+"Bu əlavə, Public Knowledge Project komandası tərəfindən inkişaf və davam "
+"etdirilir"
+
+#, fuzzy
+msgid "manager.plugins.uploadDescription"
+msgstr ""
+"Bu forma Yeni plagini yükləməyə və quraşdırmağa imkan verir.  Plugin kimi "
+"sıxılmış əmin olun .tar.gz faylı."
+
+msgid "manager.plugins.noInstalledVersion"
+msgstr "Bu əlavə hələ quraşdırılmayıb."
+
+msgid "manager.plugins.noCompatibleVersion"
+msgstr "Hal hazırda bu əlavənin uyuşan bir versiyası yoxdur"
+
+msgid "manager.plugins.installedVersionNewer"
+msgstr "Əlavə qurulub və qaleriyada mövcud versiyadan daha yenidir"
+
+msgid "manager.plugins.installedVersionNewest"
+msgstr "Əlavə qurulub və güncəldir"
+
+msgid "manager.plugins.invalidPluginArchive"
+msgstr ""
+"Quraşdırılmış əlavə arxivi, əlavə adına uyğun gələn bir qovluq ehtiva etmir"
+
+msgid "manager.plugins.versionFileInvalid"
+msgstr "Əlavə indeksində version.xml etibarsız data ehtiva edir."
+
+msgid "notification.localeEnabled"
+msgstr "Dil aktivləşdirildi"
+
+msgid "notification.localeDisabled"
+msgstr "Dil passivləşdirildi."
+
+msgid "notification.primaryLocaleDefined"
+msgstr "{$locale} əsas dil kimi müəyyənləşdirildi"
+
+msgid "notification.localeInstalled"
+msgstr "Seçilmiş dil/dillər yükləndi və aktivləşdirildi."
+
+msgid "notification.localeUninstalled"
+msgstr "{$locale} dili çıxarıldı"
+
+msgid "notification.localeReloaded"
+msgstr "{$locale} dili yenidən yükləndi"
+
+msgid "notification.localeSettingsSaved"
+msgstr "Dil tənzimləri yadda saxlandı"
+
+msgid "notification.editedUser"
+msgstr "İstifadəçi redaktə edildi."
+
+#, fuzzy
+msgid "manager.plugins.upgradeDescription"
+msgstr ""
+"Bu forma plagini yeniləməyə imkan verir.  Plugin kimi sıxılmış əmin olun ."
+"tar.gz faylı."
+
+msgid "manager.reviewForms.confirmActivate"
+msgstr ""
+"Bu dəyərləndirmə formunu aktivləşdirmək istədiyinizdən əminsinizmi? Bir "
+"dəyərləndirməyə təyin edildiyində, artıq bunu sıradan çıxara bilməyəcəksiniz."
+
+msgid "manager.reviewForms.confirmDeactivate"
+msgstr ""
+"Bu dəyərləndirmə formunu sıradan çıxarmaq istədiyinizdən əminsinizmi? Yeni "
+"dəyərləndirmə tələbləri üçün artıq etibarlı olmayacaq."
+
+msgid "manager.reviewForms.form.titleRequired"
+msgstr "Dəyərləndirmə formu üçün bir başlıq tələb olunur"
+
+msgid "manager.reviewForms.list.description"
+msgstr ""
+"Burada yaradılan dəyərləndirmə formları hazır dəyərləndirmə formu yerinə "
+"istifadə edilir. Hazır dəyərləndirmə formu iki dənə mətn qutusu ehtiva edir "
+"və bunlardan birincisi \"redaktor və müəllif\" üçün, ikincisi \"redaktor\" "
+"üçündür. Dəyərləndirmə formları Jurnal bölmələrinə görə ayrı ayrılıqda "
+"yaradıla bilər. Yaradılan formlar rəyçi təyinatı əsnasında seçilə bilər. Hər "
+"halda, redaktorlar Müəllif ilə əlaqədar dəyərləndirmə seçiminə sahib ola "
+"biləcəklər."
+
+msgid "manager.reviewForms.noneCreated"
+msgstr "Heç bir dəyərləndirmə formu yaradılmadı"
+
+msgid "manager.reviewForms.noneUsed"
+msgstr "Dəyərləndirmə formaları istifadə olunmadı."
+
+msgid "manager.reviewFormElement.changeType"
+msgstr ""
+"Warning: Changing the review form element type from a multiple-choice type "
+"to an open-ended type will result in the deletion of the multiple choice "
+"options."
+
+msgid "manager.reviewFormElements.confirmDelete"
+msgstr "Nəşr olunmuş bir form elementinin silinməsini təsdiqləyin..."
+
+msgid "manager.reviewFormElements.form.elementTypeRequired"
+msgstr "Form elementləri üçün element növü tələb olunur."
+
+msgid "manager.reviewFormElements.form.questionRequired"
+msgstr "Form elementləri üçün bir sual tələb olunur"
+
+msgid "manager.reviewFormElements.noneCreated"
+msgstr "Heç bir dəyərləndirmə forması formalaşdırılmayıb"
+
+msgid "manager.setup.competingInterests.required"
+msgstr ""
+"Bu məqalənin dəyərləndirilməsi əsnasında bir Mənfəət Münaqişəsi bildirişi "
+"tələb edin."
+
+msgid "manager.setup.licenseURLDescription"
+msgstr "Əgər varsa, lisenziyanı təsvir edən bir veb səhifənin URL-si"
+
+msgid "manager.setup.metadata.source.noRequest"
+msgstr "Təqdimat əsnasında Müəllifdən mənbə URL-si istəməyin"
+
+msgid "manager.setup.metadata.disciplines.noRequest"
+msgstr "Müraciət əsnasında müəllifdən ixtisası haqqında məlumat tələb etməyin"
+
+msgid "manager.setup.metadata.disciplines.request"
+msgstr "Müəllifdən təqdimat əsnasında ixtisası haqqında məlumat istəyin"
+
+msgid "manager.setup.metadata.disciplines.require"
+msgstr ""
+"Müəllifin təqdimatını qəbul etməzdən əvvəl ixtisasını bildirməsini istəyin"
+
+msgid "manager.setup.metadata.agencies.description"
+msgstr ""
+"Dəstəkləyən qurumlar, təqdiqatı asanlaşdıran araşdırma sponsoru mənbəyini və "
+"ya digər korporativ dəstəyi təmin edə bilir."
+
+msgid "manager.setup.metadata.agencies.noRequest"
+msgstr ""
+"Təqdimat əsnasında müəllifdən fond dəstəyi təmin edən qurum bilgisi tələb "
+"etməyin"
+
+msgid "plugins.importexport.native.error.submissionFileSkipped"
+msgstr ""
+"{$id} nömrəli məqalə faylı, bir rəyçi təyin edildiyinə görə və ya açıq bir "
+"müzakirə olduğuna görə idxal edilə bilmədiyi üçün keçildi."
+
+#, fuzzy
+msgid "plugins.importexport.native.error.submissionFileWithoutRevision"
+msgstr "Təqdimetmə faylı {$id}, etibarlı bir düzəliş olmadığı üçün atlandı."
+
+#, fuzzy
+msgid "plugins.importexport.common.error.publicationCoverImageMissing"
+msgstr ""
+"Nəşrin örtük görüntüsünün {$id} ixrac edilmədi, onun faylı \"{$path}\" "
+"yolunda tapılmadı."
+
+msgid "manager.navigationMenus.form.pathRegEx"
+msgstr ""
+"Yol sahəsi sadəcə alfanumerik xarakterlər ilə birlikdə '.', '/', '-' ve '_' "
+"ehtiva etməlidir."
+
+msgid "manager.navigationMenus.form.duplicatePath"
+msgstr "Bu yol başqa bir naviqasiya menyusu elementi üçün artıq mövcuddur."
+
+msgid "manager.navigationMenus.form.menuAssigned"
+msgstr "Artıq bu sahəyə bir yönləndirmə menyusu təyin edilib."
+
+msgid "manager.navigationMenus.customPage.description"
+msgstr ""
+"Saytınıza məxsus bir səhifə yaradın və bir gəzinti menyusunda link "
+"formalaşdırın."
+
+msgid "manager.navigationMenus.current.description"
+msgstr "Mövcud güncəl nömrəyə link verin"
+
+msgid "manager.navigationMenus.loggedOut.conditionalWarning"
+msgstr "Bu link sadəcə ziyarətçi daxil olduğu zaman baxılacaqdır."
+
+msgid "manager.navigationMenus.form.typeMissing"
+msgstr "Zəhmət olmasa bir marşlutlaşdırma menyu növü seçin"
+
+msgid "grid.category.pathExists"
+msgstr "Kateqoriya yolu zatən var. Zəhmət olmasa unikal bir yol daxil edin"
+
+msgid "grid.category.nameRequired"
+msgstr "Zəhmət olmasa bir kateqoriya adı daxil edin"
+
+#, fuzzy
+msgid "stats.views"
+msgstr "Mənzərə"
+
+#, fuzzy
+msgid "stats.downloads"
+msgstr "Yüklər"
+
+#, fuzzy
+msgid "stats.views.timelineInterval"
+msgstr "Tarixə görə ümumi fikirlər"
+
+#, fuzzy
+msgid "stats.downloads.timelineInterval"
+msgstr "Tarixə görə ümumi yükləmələr"
+
+msgid "stats.dateRange.dateDoesNotExist"
+msgstr "Daxil edilən tarixlərdən biri mövcud deyil"
+
+msgid "stats.dateRange.instructions"
+msgstr ""
+"Hər tarixi İİİİ-AA-GG formatında daxil edin. Məsələn, 15 yanvar 2019 "
+"istəyirsinizsə 2019=01--15 daxil edin."
+
+msgid "stats.dateRange.invalidDate"
+msgstr ""
+"Tarix formatı etibarlı deyil. Hər tarixi İİİİ-AA-GG formatında daxil edin."
+
+msgid "stats.dateRange.invalidDateRange"
+msgstr "Başlanğıc tarixi bitiş tarixindən əvvəl olmalıdır"
+
+#, fuzzy
+msgid "stats.file.type.primaryFile"
+msgstr "İlkin fayl"
+
+#, fuzzy
+msgid "stats.publications.downloadReport.downloadGeographic.description"
+msgstr "Hər bir şəhər, bölgə və ya ölkə üçün fikir və yükləmə sayı."
+
+#, fuzzy
+msgid "stats.name.submissionsSkipped"
+msgstr "Digər təqdimatlar"
+
+#, fuzzy
+msgid "stats.name.submissionsInProgress"
+msgstr "Təqibçilər"
+
+#, fuzzy
+msgid "stats.name.submissionsImported"
+msgstr "İdxal olunan təqdimatlar"
+
+msgid "plugins.importexport.native.processFailed"
+msgstr ""
+"Əməliyyat uğursuz oldu. Xətalar və xəbərdarlıqlar üçün aşağını kontrol edin"
+
+msgid "plugins.importexport.native.export.completed"
+msgstr "İxrac uğurla başa çatdı."
+
+msgid "plugins.importexport.native.export.completed.downloadFile"
+msgstr "İxrac edilən faylı aşağıdakı düymə vasitəsilə endirin"
+
+msgid "plugins.importexport.native.common.error.filter.configuration.count"
+msgstr ""
+"Yanlış filtir konfiqurasiyası [{$filterName}]: {$filterCount} olmaları tək "
+"olmalıdır."
+
+msgid "plugins.importexport.common.error.unknownContext"
+msgstr "Göstərilən gündəlik yolu \"{$contextPath}\" mövcud deyil"
+
+#, fuzzy
+msgid "emailTemplate.variable.allReviewersComments"
+msgstr ""
+"Tamamlanmış rəylərdən bütün şərhlər. Rəyçi adları anonim rəylər üçün gizlidir"
+
+#, fuzzy
+msgid "emailTemplate.variable.authorsWithAffiliation"
+msgstr "Təqdimat müəlliflərinin adları və mənsubları."
+
+#, fuzzy
+msgid "emailTemplate.variable.context.submissionsUrl"
+msgstr "URL istifadəçinin hamısını təyin edilmiş təqdimatlarına baxmaq üçün."
+
+#, fuzzy
+msgid "emailTemplate.variable.decision.name"
+msgstr "Alınan qərarın adı."
+
+#, fuzzy
+msgid "emailTemplate.variable.reviewType.anonymous"
+msgstr ""
+"Bu jurnal \"anonim rəyçi\"tərəfindən nəzərdən keçirilir. Adınız və "
+"əməkdaşlarınızın adları rəyçilərə görünəcək; lakin rəyçilərin şəxsiyyətləri "
+"anonim qalacaq."
+
+#, fuzzy
+msgid "emailTemplate.variable.site.siteSignature"
+msgstr "Veb saytının avtomatlaşdırılmış e-poçtlar üçün e-poçt imzası"
+
+msgid "emailTemplate.variable.submission.authorsShort"
+msgstr "Qısaldılmış bir sərit formatında Müəllif adları"
+
+#, fuzzy
+msgid "emailTemplate.variable.submission.submissionPublishedUrl"
+msgstr "Yayımlanan təqdimata URL"
+
+#, fuzzy
+msgid "emailTemplate.variable.submission.submissionWizardUrl"
+msgstr "Təqdimat sehrbazında təqdim olunan URL"
+
+#, fuzzy
+msgid "mailable.reviewerResendRequest.name"
+msgstr "Rəyçi üçün nəzərdən keçirmə tələbini yenidən göndərin"
+
+msgid "mailable.reviewerUnassign.description"
+msgstr "Bu email, redaktor tərəfindən rəyçidən geri alındığı zaman göndərilir"
+
+#, fuzzy
+msgid "mailable.decision.revertDecline.notifyAuthor.name"
+msgstr "Rədd edilmiş təqdimatı bərpa edin"
+
+#, fuzzy
+msgid "mailable.decision.revertInitialDecline.notifyAuthor.name"
+msgstr "Təqdimatı bərpa etmədən rədd edildi"
+
+#, fuzzy
+msgid "mailable.reviewRequest.description"
+msgstr ""
+"Bölmə redaktorundan gələn bu e-poçt rəyçidən rəyçidən təqdim olunan işin "
+"nəzərdən keçirilməsi tapşırığını qəbul etməsini və ya rədd etməsini xahiş "
+"edir. "
+
+#, fuzzy
+msgid "mailable.decision.backToReview.notifyAuthor.name"
+msgstr "Təqdimat nəzərdən keçirmək üçün geri göndərildi"
+
+#, fuzzy
+msgid "mailable.decision.backToSubmission.notifyAuthor.name"
+msgstr "Təqdimat geri göndərildi"
+
+#, fuzzy
+msgid "mailable.submissionAckOtherAuthors.name"
+msgstr "Digər müəlliflərə təqdim etmək"
+
+#, fuzzy
+msgid "mailable.editorAssigned.name"
+msgstr "Təyin edilmiş redaktor (Auto)"
+
+#, fuzzy
+msgid "mailable.editorAssigned.description"
+msgstr ""
+"Bu e-poçt avtomatik olaraq təqdimata təyin edildikdə bir redaktora "
+"göndərilir."
+
+#, fuzzy
+msgid "mailable.editorAssignedManual.name"
+msgstr "Redaktoru təyin etmək"
+
+#, fuzzy
+msgid "mailable.submissionNeedsEditor.name"
+msgstr "Göndərmə redaktoru lazımdır"
+
+msgid "manager.website.imageFileRequired"
+msgstr ""
+"Bir şəkil faylı tələb olunur. Zəhmət olmasa bir fayl seçdiyinizdən və "
+"yüklədiyinizdən əmin olun."
+
+msgid "manager.announcements.form.dateExpireDayIncompleteDate"
+msgstr "Zəhmət olmasa son tarix üçün günlə birlikdə ay və il də seçin"
+
+msgid "manager.announcements.form.dateExpireInstructions"
+msgstr ""
+"Elan, bu tarixə qədər oxuculara göstərilir. Elanın davamlı baxılması üçün "
+"boş buraxın."
+
+msgid "manager.announcements.form.dateExpireMonthIncompleteDate"
+msgstr "Zəhmət olmasa son tarix üçün günlə birlikdə ay və il də seçin"
+
+msgid "manager.announcements.form.dateExpireValid"
+msgstr "Zəhmət olmasa doğru bir son elan tarixi seçin."
+
+msgid "manager.announcements.form.dateExpireYearIncompleteDate"
+msgstr ""
+"Zəhmət olmasa son tarix üçün il bilgisi ilə birlikdə son tarix üçün gün və "
+"ay da müəyyənləşdirin."
+
+msgid "manager.announcements.form.descriptionRequired"
+msgstr "Elanın tam mətni tələb olunur"
+
+msgid "manager.announcements.form.descriptionShortInstructions"
+msgstr "Elan başlığı ilə birlikdə göstəriləcək qısa təsvir"
+
+#, fuzzy
+msgid "manager.dois.actions.deposit.prompt"
+msgstr ""
+"{$count} maddələri (lər) {$registrationAgency} -ə qədər olan Doi metadata "
+"qeydləri göndərməyə hazırlaşırsınız. Bu qeydləri qoymaq istədiyinizə "
+"əminsiniz?"
+
+#, fuzzy
+msgid "manager.dois.actions.markRegistered.prompt"
+msgstr ""
+"Qeydiyyata alınan kimi {$count} maddələri (lər) üçün DOI metadata qeydlərini "
+"qeyd etmək istəyirsiniz. Bu qeydləri qeydiyyatdan keçən kimi qeyd etmək "
+"istədiyinizə əminsiniz?"
+
+#, fuzzy
+msgid "manager.dois.actions.markUnregistered.label"
+msgstr "Mark DOI-leri qeydiyyatsız"
+
+#, fuzzy
+msgid "manager.dois.actions.markUnregistered.prompt"
+msgstr ""
+"Qeydiyyatsız kimi {$count} maddəsi (lər) üçün DOI metadata qeydlərini qeyd "
+"etmək istəyirsiniz. Bu qeydləri qeydiyyatsız kimi qeyd etmək istədiyinizə "
+"əminsiniz?"
+
+#, fuzzy
+msgid "manager.dois.actions.markStale.label"
+msgstr "Mark doisin sinxronizasiyası lazımdır"
+
+#, fuzzy
+msgid "manager.dois.actions.markStale.prompt"
+msgstr ""
+"Sinxronizasiya ediləcək {$count} maddəsi (lər) üçün DOI metadata qeydlərini "
+"qeyd etməkyəsiniz. Ehtiyacların sinxron statusu yalnız əvvəlcədən təqdim "
+"edilmiş köməyə tətbiq edilə bilər. Bu qeydləri köhnəlmiş kimi qeyd etmək "
+"istədiyinizə əminsiniz?"
+
+#, fuzzy
+msgid "manager.dois.actions.export.label"
+msgstr "İxrac edin"
+
+#, fuzzy
+msgid "manager.dois.actions.export.prompt"
+msgstr ""
+"İnternet saytınızın altında görünməsini istədiyiniz şəkilləri, mətnləri və "
+"ya HTML kodlarını daxil edin."
+
+#, fuzzy
+msgid "manager.dois.actions.assign.label"
+msgstr "Dois təyin edin"
+
+#, fuzzy
+msgid "manager.dois.actions.assign.prompt"
+msgstr ""
+"Siz hələ DOI təyin edilməmiş hər hansı uyğun element üçün {$count} "
+"elementinə yeni DO təyin edəcəksiniz. Bu elementlərə DOI təyin etmək "
+"istədiyinizə əminsinizmi?"
+
+#, fuzzy
+msgid "manager.dois.actions.depositAll.label"
+msgstr "Bütün dois əmanət edin"
+
+#, fuzzy
+msgid "manager.dois.actions.depositAll.prompt"
+msgstr ""
+"{$registrationAgency} ilə depozit ediləcək bütün görkəmli doi metadata "
+"qeydlərini planlaşdırmağa hazırlaşırsınız. Yalnız bir Doi ilə nəşr olunan "
+"əşyalar yatırılacaq. Cavab alındıqda hər bir maddənin statusu "
+"yenilənəcəkdir. Bu maddələrin hamısına əmanətləri təyin etmək istədiyinizə "
+"əminsiniz?"
+
+#, fuzzy
+msgid "manager.dois.actions.description"
+msgstr "Seçilmiş element (lər) {$count} üzərində hərəkət edin."
+
+#, fuzzy
+msgid "manager.dois.actions.bulkActions"
+msgstr "Toplu hərəkətlər"
+
+#, fuzzy
+msgid "manager.dois.depositStatus"
+msgstr "Depozit statusu"
+
+#, fuzzy
+msgid "manager.dois.publicationStatus"
+msgstr "Nəşrin vəziyyəti"
+
+#, fuzzy
+msgid "manager.dois.registration.submittedDescription"
+msgstr "Bu maddə üçün metadata {$registrationAgency} -ə təqdim edilmişdir."
+
+#, fuzzy
+msgid "manager.dois.registration.manuallyMarkedRegistered"
+msgstr "Bu maddə bir qeydiyyat agentliyi ilə əl ilə qeydiyyata alınmışdır."
+
+#, fuzzy
+msgid "manager.dois.registration.notSubmittedDescription"
+msgstr "Bu maddə üçün metadata {$registrationAgency} -ə təqdim edilməmişdir."
+
+#, fuzzy
+msgid "manager.dois.registration.notPublishedDescription"
+msgstr "Bu maddə dərc olunana qədər saxlanıla bilməz."
+
+#, fuzzy
+msgid "manager.dois.registration.viewError"
+msgstr "Səhvə baxın"
+
+#, fuzzy
+msgid "manager.dois.registration.viewError.title"
+msgstr "Qeydiyyat səhv mesajı"
+
+#, fuzzy
+msgid "manager.dois.registration.viewRecord"
+msgstr "Rekord görmək"
+
+#, fuzzy
+msgid "manager.dois.registration.viewRecord.title"
+msgstr "Uğurlu qeydiyyat mesajı"
+
+#, fuzzy
+msgid "manager.dois.update.success"
+msgstr "Dois uğurla yeniləndi"
+
+#, fuzzy
+msgid "manager.dois.registration.depositDois"
+msgstr "Depozit DOI (lər)"
+
+#, fuzzy
+msgid "manager.dois.status.needsDoi"
+msgstr "Doi lazımdır"
+
+#, fuzzy
+msgid "manager.dois.status.unregistered"
+msgstr "Qeydiyyatsız"
+
+#, fuzzy
+msgid "manager.dois.status.submitted"
+msgstr "Təqdim"
+
+#, fuzzy
+msgid "manager.dois.status.registered"
+msgstr "Qeydə alınmış"
+
+#, fuzzy
+msgid "manager.dois.status.error"
+msgstr "Səhv"
+
+#, fuzzy
+msgid "manager.dois.status.error.filterTitle"
+msgstr "Səhv var"
+
+#, fuzzy
+msgid "manager.dois.status.stale"
+msgstr "Bayat"
+
+#, fuzzy
+msgid "manager.dois.filters.doiAssigned"
+msgstr "Doi təyin edildi"
+
+#, fuzzy
+msgid "manager.dois.status.needsDoi.description"
+msgstr "Doi itkin bütün əşyalar."
+
+#, fuzzy
+msgid "manager.dois.filters.doiAssigned.description"
+msgstr "Bütün maddələr bir Doi təyin etdi."
+
+#, fuzzy
+msgid "manager.dois.status.unregistered.description"
+msgstr ""
+"Yayımlanmış, lakin hələ bir qeydiyyat agentliyi ilə depozit qoyulmayan bütün "
+"əşyalar."
+
+#, fuzzy
+msgid "manager.dois.status.submitted.description"
+msgstr "Bir qeydiyyat agentliyinə təqdim olunan bütün əşyalar."
+
+#, fuzzy
+msgid "manager.dois.status.registered.description"
+msgstr ""
+"Qeydiyyat agentliyi və ya qeydiyyatdan keçmiş kimi əl ilə qeyd olunan bütün "
+"əşyalar."
+
+#, fuzzy
+msgid "manager.dois.status.error.description"
+msgstr "Qeydiyyat prosesində bir səhvlə qarşılaşan bütün əşyalar."
+
+#, fuzzy
+msgid "manager.dois.status.stale.description"
+msgstr ""
+"Sonuncu dəfə qeydiyyatdan keçənlərdən bəri yenidən qurulmuş bütün əşyalar "
+"qeydiyyat agentliyi ilə yatırıldı. Metadata qeydlərini yeniləmək üçün "
+"qeydiyyat agentliyinə yenidən göndərilməlidir."
+
+#, fuzzy
+msgid "manager.dois.update.failedCreation"
+msgstr "Doi yeniləmələri uğursuz oldu"
+
+#, fuzzy
+msgid "manager.dois.update.partialFailure"
+msgstr "Bəzi Doi (lər) yeniləməyə bilmədi."
+
+#, fuzzy
+msgid "manager.dois.notification.exportSuccess"
+msgstr "Əşyalar uğurla ixrac edildi"
+
+#, fuzzy
+msgid "manager.dois.notification.markRegisteredSuccess"
+msgstr "Əşyalar uğurla qeydiyyatdan keçdi"
+
+#, fuzzy
+msgid "manager.dois.notification.markUnregisteredSuccess"
+msgstr "Əşyalar uğurla qeydiyyatsız qeyd olundu"
+
+#, fuzzy
+msgid "manager.dois.notification.markStaleSuccess"
+msgstr "Əşyalar uğurla qeyd olunur"
+
+#, fuzzy
+msgid "manager.dois.notification.assignDoisSuccess"
+msgstr "Əşyalar uğurla yeni dois təyin edildi"
+
+#, fuzzy
+msgid "manager.dois.notification.depositQueuedSuccess"
+msgstr "ƏLAVƏ OLUNMA ÜÇÜN ƏMƏLİYYATLAR"
+
+#, fuzzy
+msgid "manager.dois.help.statuses.title"
+msgstr "DOI statusları"
+
+#, fuzzy
+msgid "manager.dois.settings.relocated"
+msgstr ""
+"DOI rəhbərliyi köçdü. Zəhmət olmasa səhifələrə baxın <a href=\""
+"{$doiManagementUrl}\">Doi</A> və <A href=\"{$doiSettingsUrl}\">Parametrlər "
+"do İ</a>."
+
+#, fuzzy
+msgid "manager.dois.settings.prefixRequired"
+msgstr ""
+"Təyin edilmiş Doi Prefiksinizi təmin etməyincə Dois təyin edilə bilməz. <a "
+"href=\"{$doiSettingsUrl}\"> DOI prefiksi əlavə edin </a>."
+
+#, fuzzy
+msgid "doi.exceptions.missingPrefix"
+msgstr ""
+"Doi yaratmağa çalışdı, ancaq kontekstdə bir yaratmaq üçün bir Doi Prefiks "
+"tələb olunur."
+
+#, fuzzy
+msgid "manager.genres.alertDelete"
+msgstr ""
+"Bu komponent silinməzdən əvvəl bütün əlaqəli təqdimetmə sənədlərini fərqli "
+"bir komponentlə əlaqələndirməlisiniz."
+
+#, fuzzy
+msgid "manager.institutions.edit"
+msgstr "Təşkilatı redaktə edin"
+
+#, fuzzy
+msgid "manager.institutions.form.ror.description"
+msgstr "Bu qurum üçün Tədqiqat Təşkilatı Qeydiyyatı ID."
+
+#, fuzzy
+msgid "manager.institutions.form.ipRanges"
+msgstr "IP aralığları"
+
+#, fuzzy
+msgid "manager.dois.registrationAgency.errorMessagePreamble"
+msgstr ""
+"Aşağıdakı səhv {$registrationAgency} ilə geri qaytarıldı və səhvin səbəbi "
+"ilə bağlı təfərrüatları ehtiva edir:"
+
+#, fuzzy
+msgid "manager.dois.registrationAgency.registeredMessagePreamble"
+msgstr ""
+"Aşağıdakı mesaj {$registrationAgency} tərəfindən qaytarıldı və qeydiyyat "
+"haqqında təfərrüatları ehtiva edir:"
+
+msgid "manager.emails.form.bodyRequired"
+msgstr "Email üçün bir mətnin formalaşdırılması tələb olunur"
+
+msgid "manager.emails.form.subjectRequired"
+msgstr "Email üçün bir mövzunun müəyyənləşdirilməsi tələb olunur"
+
+msgid "manager.files.confirmDelete"
+msgstr ""
+"Bu faylı və ya indeksi silmək istəyirsinizmi? Bu indeksin silinə bilməsi "
+"üçün boş olması lazımdır."
+
+msgid "manager.languages.alternateLocaleInstructions"
+msgstr ""
+"Bu sistem istəyə bağlı olaraq müxtəlif dillərdə bəzi önəmli məlumatların "
+"daxil edilməsinə icazə verir. Bu funksiyanı istifadə etmək üçün, alternativ "
+"dillər seçin və aşağıdakı seçimlərdən birini istifadə edin."
+
+msgid "manager.languages.supportedLocalesInstructions"
+msgstr ""
+"Bütün səhifələrdə dil seçimi imkanı ilə saytı inkişaf etdirmək üçün "
+"dəstəkləmək istədiyiniz dilləri seçin. Dil seçimi menyusu sadəcə birdən çox "
+"dil dəstəyi seçilərsə səhifələrdə təqdim olunacaqdır."
+
+msgid "manager.people.existingUserRequired"
+msgstr "Mövcud bir istifadəçi daxil edilməlidir"
+
+msgid "manager.people.mustProvideName"
+msgstr "Üzv üçün ən azı bir soyad göstərin"
+
+msgid "manager.people.noMatchingUsers"
+msgstr "Uyğun gəlməyən üzvlər."
+
+msgid "manager.people.noneEnrolled"
+msgstr "Qeydiyyatsız üzv."
+
+#, fuzzy
+msgid "manager.settings.statistics.geoUsageStats.countryLevel"
+msgstr "Ölkə"
+
+#, fuzzy
+msgid "manager.settings.statistics.geoUsageStats.regionLevel"
+msgstr "Ölkə və Rayon"
+
+#, fuzzy
+msgid "manager.settings.statistics.geoUsageStats.cityLevel"
+msgstr "Ölkə, bölgə və şəhər"
+
+#, fuzzy
+msgid "manager.settings.statistics.institutionUsageStats"
+msgstr "Təşkilatdan istifadə statistikası"
+
+#, fuzzy
+msgid "manager.settings.statistics.institutionUsageStats.description"
+msgstr ""
+"Quruluşları idarə etmək və istifadə statistikasını toplamaq istəsəniz bu "
+"seçimi seçin. Bu, əldə edə biləcəyiniz və verilənlər bazası ölçüsünə təsir "
+"göstərə biləcəyiniz mümkün statistik xəbərlərə təsir edəcəkdir."
+
+#, fuzzy
+msgid "manager.settings.statistics.institutionUsageStats.enable"
+msgstr "Təşkilat idarəetmə və istifadə statistikasını aktivləşdirin"
+
+#, fuzzy
+msgid "manager.settings.statistics.publicSushiApi"
+msgstr "İctimai api"
+
+#, fuzzy
+msgid "manager.settings.statistics.publicSushiApi.description"
+msgstr ""
+"Counter Sushi Statistikası üçün API son nöqtələrinə girişi məhdudlaşdırır və "
+"ya məhdudlaşdırılmır. Açılmadıqda, API yalnız admin və ya menecer rolları "
+"olan istifadəçilər üçün əlçatan olacaqdır."
+
+#, fuzzy
+msgid "manager.settings.statistics.publicSushiApi.public"
+msgstr "Counter Sushi Statistikasını açıq şəkildə təqdim edin"
+
+msgid "manager.statistics.reports.description"
+msgstr ""
+"Sistem, müəyyən bir müddət ərzində sayt istifadəsi və məqalələrlə bağlı "
+"detalları təqib edən hesabatlar ortaya qoyur. Hesabatlar, baxılacaq bir "
+"elektron cədvəl tətbiqi tələb edən CSV formatında yaradılır."
+
+msgid "manager.statistics.reports.month.label"
+msgstr "YYYYAA formatından istifadə edin."
+
+msgid "manager.statistics.reports.day.label"
+msgstr "YYYYAAGG formatından istifadə edin."
+
+#, fuzzy
+msgid "doi.manager.setup.automaticDeposit.description"
+msgstr ""
+"Doi qeydiyyatı və metadata, bir element olan bir maddə dərc edildikdə "
+"avtomatik olaraq seçilmiş qeydiyyat agentliyi ilə avtomatik olaraq yatırıla "
+"bilər. Avtomatik əmanət planlaşdırılan fasilələrlə baş verəcək və hər bir "
+"Doi-nin qeydiyyat statusu DOI idarəetmə səhifəsindən izlənilə bilər."
+
+#, fuzzy
+msgid "doi.manager.settings.doiSuffix.custom"
+msgstr "Xüsusi Doi Suffix nümunəsi"
+
+#, fuzzy
+msgid "doi.manager.settings.enabledDoiTypes.error"
+msgstr ""
+"Konfiqurasiya edilmiş DOI qeydiyyatı agentliyi üçün bir və ya daha çox "
+"seçilmiş DOI növünə icazə verilmir."
+
+msgid "doi.manager.settings.doiSuffixDefault"
+msgstr "Defolt nümunədən/şablondan istifadə edin"
+
+#, fuzzy
+msgid "doi.manager.settings.doiSuffixManual"
+msgstr ""
+"Heç biri - şəkilçiləri <a href=\"{$doimanagementurl}\"> Doi Management Page "
+"</a> və avtomatik olaraq yaradılmayacaq"
+
+#, fuzzy
+msgid "doi.manager.settings.doiSuffixUserDefined"
+msgstr "Xüsusi naxış (tövsiyə edilmir)"
+
+msgid "doi.manager.settings.registrationAgency"
+msgstr "Qeydiyyat Agentliyi"
+
+msgid "doi.manager.settings.registrationAgency.description"
+msgstr ""
+"Zəhmət DOI-ləri təyin edərkən istifadə etmək istədiyiniz qeydiyyat "
+"platformasını seçin"
+
+#, fuzzy
+msgid "doi.manager.settings.registrationAgency.noPluginsEnabled.label"
+msgstr "Heç bir qeydiyyat agentliyi effektiv deyil"
+
+#, fuzzy
+msgid "doi.manager.settings.registrationAgency.noPluginsEnabled.description"
+msgstr ""
+"Dois avtomatik olaraq nanə və qeydiyyat agentliyi ilə yatırıla bilər. Bu "
+"xüsusiyyətdən istifadə etmək üçün müvafiq qeydiyyat agentliyindən bir plugin "
+"tapın və quraşdırın."
+
+msgid "doi.manager.settings.registrationAgency.none"
+msgstr "Heç kim"
+
+#, fuzzy
+msgid "doi.manager.settings.doiVersioning"
+msgstr "Doi versiyası"
+
+#, fuzzy
+msgid "doi.authorization.enabledRequired"
+msgstr "Bu əməliyyatı dolandırmadan zəng edə bilməzsiniz."
+
+#, fuzzy
+msgid "doi.manager.versions.countStatement"
+msgstr "{$count} versiyaları var."
+
+msgid "manager.setup.homepageImageInvalid"
+msgstr ""
+"Giriş səhifəsi şəkli üçün etibarsız bir fayl formatıdır. Dəstəklənən fayl "
+"formatları .gif, .jpg, veya .png formatındadır."
+
+msgid "manager.setup.homeTitleImageInvalid"
+msgstr ""
+"Giriş səhifəsi şəkli üçün etibarsız bir fayl formatıdır. Dəstəklənən fayl "
+"formatları .gif, .jpg, veya .png formatındadır."
+
+msgid "manager.setup.layout.sidebar.invalidBlock"
+msgstr ""
+"{$name} bloqu tapılmadı. Zəhmət olmasa əlavənin quraşdırılmış və aktiv "
+"olduğuna əmin olun"
+
+#, fuzzy
+msgid "manager.setup.notifyAllAuthors.assignedAuthors"
+msgstr ""
+"Yalnız təqdim iş axınına təyin edilmiş müəlliflərə bir e-poçt göndər. Adətən "
+"bu, müəllifdir."
+
+msgid "manager.setup.pageHeaderLogoImageInvalid"
+msgstr ""
+"Xətalı səhifə loqotip şəkli və ya xətalı yükləmə. Qəbul edilə bilən "
+"formatlar: .gif, .jpg veya .png."
+
+msgid "manager.setup.peerReview.description"
+msgstr ""
+"rəyçi dəyərləndirmə politikasının proseslərini oxucular və Müəlliflər üçün "
+"xülasə edin. Bu tərif ümumiyyətlə bir təqdimatı dəyərləndirmədə istifadə "
+"edilən dəyərləndirmə sayını, rəyçilərin müraciətləri dəyərləndirmə "
+"meyarları, dəyərləndirməni həyata keçirmək üçün gözlənilən müddəti və "
+"dəyərləndirməni seçmək üçün istifadə edilən prinsipləri ehtiva edir."
+
+msgid "manager.setup.dateTime.description"
+msgstr ""
+"İstədiyiniz tarix və saat formatını seçin. <a href='http://php.net/manual/en/"
+"function.strftime.php#refsect1-function.strftime-parameters'>Xüsusi bir "
+"tarix və saat formatı</a> üçün xüsusi bir format daxil edə bilərsiniz."
+
+msgid "manager.setup.privacyStatement.description"
+msgstr ""
+"Bu bəyan, Müəllif Təqdimatı zamanı və hər kəsə açıq olaraq səhifədə ola "
+"bilər."
+
+msgid "manager.setup.reviewOptions.noteOnModification"
+msgstr "Defoltlar, redaksiya prosesində hər incələmə üçün dəyişdirilə bilər"
+
+msgid "manager.setup.reviewOptions.reminders.submit.description"
+msgstr ""
+"Rəyçilik edən bir şəxs, rəyçiliyin bitmə tarixindən sonra dəyərləndirməsini "
+"göndərməyibsə bir xatırlatma emaili göndər."
+
+msgid "manager.setup.styleSheetDescription"
+msgstr ""
+"Təcrübəli veb inkişaf etdiriciləri, veb saytının görüntüsünü daha da "
+"şəxsiləşdirmək üçün bir CSS faylı yükləyə bilərlər."
+
+msgid "manager.setup.technicalSupportContactDescription"
+msgstr ""
+"Redaktorlara, müəlliflərə və rəyçilərə təqdimatlarını göndərmələrini, "
+"redaktə etmələrini, gözdən keçirmələrini və ya nəşr etdirdikləri hər hansı "
+"bir materialla bağlı problemdə kömək edə biləcək əlaqə saxlanılası şəxs."
+
+msgid "manager.setup.theme.description"
+msgstr ""
+"Yeni temalar bu səhifəsinin üst qismindəki Əlavələr pəncərəsindən yüklənə "
+"bilər."
+
+msgid "manager.setup.theme.notFound"
+msgstr "Seçdiyiniz tema yüklənib ya da aktiv deyil."
+
+#, fuzzy
+msgid "manager.setup.workflow.beginSubmissionHelp.description"
+msgstr ""
+"Göndərməyə başlamazdan əvvəl aşağıdakılar müəlliflərə göstərilmişdir. "
+"Müəllifin nə gözlədiyini bilməsi üçün təqdimetmə prosesinin qısa izahını "
+"təmin edin."
+
+#, fuzzy
+msgid "manager.setup.workflow.uploadFilesHelp.description"
+msgstr ""
+"Yükləmə sənədləri zamanı müəlliflərə aşağıdakılar göstərilir. Faylların "
+"müəlliflərinin təqdim edilməsi ilə bölüşdüyü barədə qısa bir izahat verin."
+
+#, fuzzy
+msgid "manager.setup.workflow.contributorsHelp.description"
+msgstr ""
+"İştirakçılar dövründə aşağıdakılar müəlliflərə göstərilmişdir. Müəllifin "
+"özləri, həmmüəllifləri və hər hansı digər töhfə verənlərin hansı məlumatı "
+"verməli olduğu barədə qısa bir izahat verin."
+
+#, fuzzy
+msgid "manager.setup.workflow.detailsHelp.description"
+msgstr ""
+"Təfərrüatlar, mücərrəd və təqdim edilməsi barədə digər əsas məlumatları "
+"təqdim etmələri istəndikdə, təfərrüatlar zamanı müəlliflərə aşağıdakılar "
+"göstərilir."
+
+#, fuzzy
+msgid "manager.setup.workflow.forTheEditorsHelp.description"
+msgstr ""
+"Redaktorlar üçün açar sözlər, redaktora şərhlər və redaktorlara şərhlər, "
+"redaktorlara redaktorlara şərhlər və digər detallar vermək istəndikdə, "
+"redaktorlar üçün müəlliflər üçün müəlliflər üçün aşağıdakılar göstərilir."
+
+#, fuzzy
+msgid "manager.setup.workflow.reviewHelp.description"
+msgstr ""
+"İşlərini təqdim etməzdən əvvəl təqdim etdikləri bütün məlumatları nəzərdən "
+"keçirmək istəndikdə, təqdimetmə sehrbazının son pilləsi zamanı müəlliflərə "
+"aşağıdakılar göstərilmişdir."
+
+#, fuzzy
+msgid "manager.setup.workflow.guidance"
+msgstr "Müəllif rəhbərliyi"
+
+msgid "manager.setup.submissionPreparationChecklist"
+msgstr "Məqalə hazırlıq nəzarət siyahısı"
+
+msgid "manager.setup.submissionPreparationChecklistDescription"
+msgstr ""
+"jurnala müraciət edərkən, Müəlliflər əvvəlcə Müraciət Hazırlıq Yoxlama "
+"Siyahısını yoxlamalıdırlar. Yoxlama siyahısı \"Jurnal Haqqında\" altındakı "
+"\"Müəllif Bələdçisi\" bölməsindədir. Siyahı aşağıda redaktə edilə bilər, "
+"amma, siyahıdakı bütün elementlərin növbəti addıma keçə bilmək üçün "
+"Müəlliflər tərfindən işarələnməsi gərəklidir."
+
+msgid "manager.sections.form.deactivateSection"
+msgstr ""
+"Bu bölməni sıradan çıxarın və buraya yeni məqalə göndərilməsini ləğv edin."
+
+#, fuzzy
+msgid "manager.sections.form.assignEditors"
+msgstr "Redaksiya tapşırıqları"
+
+#, fuzzy
+msgid "manager.sections.form.assignEditors.description"
+msgstr ""
+"Bu hissəyə bütün yeni təqdimatlara avtomatik təyin edilməli olan redaksiya "
+"istifadəçilərini seçin."
+
+#, fuzzy
+msgid "manager.sections.form.assignEditorAs"
+msgstr "{$name} olaraq {$role} təyin edin"
+
+#, fuzzy
+msgid "manager.categories.form.assignEditors.description"
+msgstr ""
+"Bu kateqoriyaya qədər bütün yeni təqdimatlara avtomatik təyin edilməli olan "
+"redaksiya istifadəçilərini seçin."
+
+msgid "manager.plugins.copyError"
+msgstr ""
+"Əlavə kopyalana bilmədi. Bu bir səlahiyyət problemi ola bilər. Zəhmət olmasa "
+"veb serverinin əlavə indeksinə (alt indekslər daxil) yazma səlahiyyəti olub-"
+"olmadığından əmin olun; ancaq daha sonra yenidən səlahiyyətləri redaktə "
+"etməyi unutmayın."
+
+msgid "manager.plugins.description"
+msgstr ""
+"Bu səhifə, İdarəçinin hazırda quraşdırılmış əlavələri gözdən keçirməsini və "
+"potansial olaraq konfiqurasiya edilməsini təmin edir. Əlavələr, "
+"funksiyalarına görə kateqoriyalara ayırlır. Kateqoriyalar aşağıda sadalanıb "
+"və hər kateqoriya üçün əlavə dəsti mövcuddur."
+
+msgid "manager.plugins.pluginGallery.certifications.reviewed.description"
+msgstr ""
+"Bu əlavə, Public Knowledge Project komandası tərəfindən gözdən keçirildi və "
+"təsdiqləndi"
+
+msgid "manager.plugins.pluginGallery.certifications.partner.description"
+msgstr "Bu əlavə, inkişaf etdirmə şəriklərimizdən biri tərəfindən təmin edilir"
+
+msgid "manager.plugins.installedVersionOlder"
+msgstr "Əlavə qurulub, ancaq daha yeni bir versiyasına yeniləyin"
+
+msgid "manager.plugins.wrongCategory"
+msgstr ""
+"Quraşdırılmış əlavə, təkmilləşdirilmiş əlavənin kateqoriyasına uyğun gəlmir."
+
+msgid "manager.plugins.wrongName"
+msgstr ""
+"Quraşdırılmış əlavə içindəki version.xml, təkmilləşdirilmiş əlavənin adına "
+"uyğun gəlməyən bir əlavə adı ehtiva edir."
+
+msgid "manager.distribution.licenseTerms.description"
+msgstr ""
+"Nəşr olunan çalışmanın yanında göstərmək istədiyiniz hər kəsə açıq lisenziya "
+"şərtlərini daxil edin."
+
+msgid "manager.distribution.customHeaders.description"
+msgstr ""
+"Hər səhifənin başına əlavə edilməsini istədiyiniz üst etiketlər olaraq da "
+"tanınan xüsusi HTML etiketləri əlavə edin. Buraya etiket əlavə etməzdən "
+"əvvəl bir texniki məsləhətçidən soruşun."
+
+msgid "settings.roles.recommendOnly"
+msgstr ""
+"Bu rolun sadəcə bir gözdən keçirmə qərarının təklif edilməsinə icazə verilir "
+"və son bir qərarı qeyd etməsi üçün səlahiyyətli bir redaktor tələb edir."
+
+msgid "settings.roles.nameRequired"
+msgstr "Bir rol adı müəyyənləşdirməniz lazımdır."
+
+msgid "settings.roles.abbrevRequired"
+msgstr "Bir rol qısaltması müəyyənləşdirməniz lazımdır."
+
+msgid "settings.roles.uniqueName"
+msgstr "Unikal bir rol adı müəyyənləşdirməniz lazımdır."
+
+msgid "settings.roles.uniqueAbbrev"
+msgstr "Unikal bir rol qısaltması müəyyənləşdirməniz lazımdır."
+
+msgid "settings.roles.roleIdRequired"
+msgstr "Bir rol icazə səviyyəsi müəyyənləşdirməniz lazımdır."
+
+msgid "settings.roles.stageIdRequired"
+msgstr "Təyin etmək üçün bir addım müəyyənləşdirməniz lazımdır."
+
+msgid "settings.roles.permitMetadataEdit"
+msgstr "Təqdimat metadatalarının redaktə edilməsinə icazə verin"
+
+msgid "settings.libraryFiles.fileRequired"
+msgstr ""
+"Bir kitabxana faylı tələb olunur. Zəhmətolmasa bir faylı seçib yüklədiyinizə "
+"əmin olun."
+
+msgid "settings.libraryFiles.nameRequired"
+msgstr "Bu kitabxana faylı üçün bir ad tələb olunur."
+
+msgid "settings.libraryFiles.typeRequired"
+msgstr "Bu kitabxana faylı üçün bir fayl növü tələb olunur"
+
+msgid "manager.setup.genres.dependent"
+msgstr ""
+"Bunlar, bir HTML faylı tərəfindən göstərilən şəkillər kimi asılı fayllardır "
+"və yayımlanan məzmunla birliktə göstərilməyəcəkdir."
+
+msgid "manager.setup.genres.supplementary"
+msgstr ""
+"Bunlar, data dəstləri və araşdırma materialları kimi müəyyənləşdirici "
+"fayllardır və məqalə fayllarından ayrı olaraq göstəriləcəkdir."
+
+msgid "manager.setup.genres.key.description"
+msgstr "Bu növ üçün istəyə bağlı qısa simvolik müəyyənləşdirici"
+
+msgid "manager.setup.genres.key.exists"
+msgstr "Açar artıq mövcuddur."
+
+msgid "manager.setup.genres.key.alphaNumeric"
+msgstr ""
+"Açar sadəcə alfanumerik karakterlər, altdən xətt və tire ehtiva edə bilər və "
+"alfanumerik bir xarakterlə başlayıb bitməlidir."
+
+msgid "manager.setup.genres.metatadata.description"
+msgstr ""
+"Bu faylların qəbul edə biləcəyi metadata növünü seçin. Endirilə bilir PDF "
+"kimi məqalə faylları üçün sənəd seçilməlidir, beləliklə fayllar məqalənin "
+"metadatalarını təhvil alır. Əks təqdirdə, əksəriyyət fayl növünü Tamamlayıcı "
+"Məzmun kimi müəyyənləşdirin. Sənət əsəri, fərqli istinad, alt yazı və "
+"lisenziyalaşdırma metadataları tələb edən fayllar üçün uyğundur."
+
+#, fuzzy
+msgid "manager.setup.genres.submitRequired.label"
+msgstr "Təqdim etməklə tələb olunur"
+
+#, fuzzy
+msgid "manager.setup.genres.submitRequired.description"
+msgstr ""
+"Bu fayllardan ən azı hər yeni təqdimat ilə tələb olunmalıdır? Bəli seçsəniz, "
+"bu tipin ən azı bir faylını yükləyənə qədər müəlliflərə təqdim etməyə icazə "
+"verilmir."
+
+#, fuzzy
+msgid "manager.setup.genres.submitRequired.yes"
+msgstr ""
+"Bəli, bu fayllardan birini və ya bir neçəsini yükləmək üçün müəlliflərin "
+"təqdim edilməsini tələb edin."
+
+#, fuzzy
+msgid "manager.setup.genres.submitRequired.no"
+msgstr "Xeyr, bu fayllar olmadan yeni təqdimatlara icazə verin."
+
+msgid "manager.users.roleRequired"
+msgstr "Bu istifadəçi ilə əlaqələndiriləcək ən azı bir rol seçməlisiniz."
+
+msgid "manager.setup.metadata.coverage.description"
+msgstr ""
+"Əhatə sahəsi ümumiyyətlə bir çalışmanın məkan yeri/lokasiyasını (yer adı və "
+"ya coğrafi koordinatlar), müvəqqəti müddəti (dövr etiketi, tarix və ya tarix "
+"aralığı) və ya səlahiyyət sahəsini (adlandırılmış bir idari varlıq kimi) "
+"göstərir."
+
+msgid "manager.setup.metadata.coverage.noRequest"
+msgstr "Təqdimat əsnasında Müəllifdən əhatə metadalarını tələb edin."
+
+msgid "manager.setup.metadata.coverage.request"
+msgstr ""
+"Təqdimat əsnasında Müəllifdən əhatə metadatalarını tövsiyə etməsini istəyin."
+
+msgid "manager.setup.metadata.coverage.require"
+msgstr ""
+"Müəllifin təqdimatını qəbul etməzdən əvvəl əhatə metadaları tövsiyə etməsini "
+"istəyin"
+
+msgid "manager.setup.metadata.keywords.description"
+msgstr ""
+"Açar sözlər ümumiyyətlə bir təqdimatın əsas mövzularını göstərmək üçün "
+"istifadə edilən bir ilə üç sözlük ifadələrdir."
+
+msgid "manager.setup.metadata.keywords.noRequest"
+msgstr "Təqdimat əsnasında Müəllifdən açar sözlər tələb edin."
+
+msgid "manager.setup.metadata.keywords.request"
+msgstr "Müəllifdən təqdimat əsnasında açar sözlər tövsiyə etməsini istəyin"
+
+msgid "manager.setup.metadata.keywords.require"
+msgstr ""
+"Müəllifin təqdimatını qəbul etməzdən əvvəl açar sözlər tövsiyə etməsini "
+"istəyin"
+
+msgid "manager.setup.metadata.rights.description"
+msgstr ""
+"Təqdimat ilə əlaqədar olaraq Düşüncə Mülkiyyəti Hüquqları (IPR), Müəllif "
+"Hüququ və müxtəlif Mülkiyyət Hüquqlarını ehtiva edən bütün hüquqlar."
+
+msgid "manager.setup.metadata.rights.noRequest"
+msgstr ""
+"Müraciət əsnasında müəllifdən hüquqlarını açıq bir şəkildə qeyd etməsini "
+"tələb etməyin."
+
+msgid "manager.setup.metadata.rights.request"
+msgstr ""
+"Müəllifdən müraciət əsnasında əvvəlcədən giriş hüquqlarını açıqlamasını "
+"istəyin"
+
+msgid "manager.setup.metadata.rights.require"
+msgstr ""
+"Müəllifin təqdimatınə qbul etməzdən əvvəl, əvvəlcədən giriş hüquqlarını "
+"açıqlamasını istəyin"
+
+msgid "manager.setup.metadata.source.description"
+msgstr ""
+"Mənbə, təqdimatın törədildiyi başqa bir çalışmanın və ya mənbənin DOI kimi "
+"bir kimliyi ola bilər."
+
+msgid "manager.setup.metadata.source.request"
+msgstr "Müəllifdən təqdimat əsnasında mənbə URL-si təmin etməsini istəyin"
+
+msgid "manager.setup.metadata.source.require"
+msgstr ""
+"Müəllifin təqdimatını qəbul etməzdən əvvəl mənbə URL-si təmin etməsini "
+"istəyin"
+
+msgid "manager.setup.metadata.subjects.description"
+msgstr ""
+"Mövzular, bir mövzunu tərif edən açar sözlər, açar sözlər və ya "
+"təsnifatlandırma kodları olacaqdır."
+
+msgid "manager.setup.metadata.subjects.noRequest"
+msgstr "Təqdimat əsnasında müəllifdən mövzu tələb etməyin"
+
+msgid "manager.setup.metadata.subjects.request"
+msgstr "Müəllifdən müraciət əsnasında mövzu qeyd etməsini istəyin"
+
+msgid "manager.setup.metadata.subjects.require"
+msgstr "Müəllifdən təqdimatını qəbul etməzdən əvvəl mövzu verməsini tələb edin."
+
+msgid "manager.setup.metadata.type.description"
+msgstr ""
+"Təqdimatın əsas məzmununun keyfiyyəti və ya növü. Növ ümumiyyətlə \"Mətn\"dir"
+", ancaq \"Data dəsti\", \"Şəkil\" və ya <a target=\"_blank\" href=\"http"
+"://dublincore.org/documents/dcmi-type-vocabulary/#section-7-dcmi-type-"
+"vocabulary\">Dublin Core növlərindən</a> hər hansı biri də ola bilər."
+
+msgid "manager.setup.metadata.type.noRequest"
+msgstr "Təqdimat əsnasında müəllifdən növ məlumatı tələb etməyin"
+
+msgid "manager.setup.metadata.type.request"
+msgstr "Müəllifdən təqdimat əsnasında növ qeyd etməsini istəyin"
+
+msgid "manager.setup.metadata.type.require"
+msgstr ""
+"Müəllifdən təqdimatı qəbul etməzdən əvvəl növünü qeyd etməsini tələb edin."
+
+msgid "manager.setup.metadata.disciplines.description"
+msgstr ""
+"İxtisaslar, universitet fakültələri və öyrənilmiş toplumlar tərəfindən tərif "
+"edilən çalışma növləri və ya bilgi sahələridir."
+
+msgid "manager.setup.metadata.agencies.request"
+msgstr ""
+"Müəllifdən müraciət əsnasında hər hansı bir fond dəstəyi təmin edən qurum "
+"açıqlamasını istəyin"
+
+msgid "manager.setup.metadata.agencies.require"
+msgstr ""
+"Müəllifin təqdimatını qəbul etməzdən əvvəl fond təmin edən qurumlardan hər "
+"hansı birini açıq bir şəkildə qeyd etməsini tələb edin."
+
+msgid "manager.setup.metadata.citations.description"
+msgstr ""
+"Bir təqdimatın referanslarını başqa bir sahədə toplayın. Bu, Crossref kimi "
+"istinad izləmə xidmətlərinə riayət etmək üçün lazımi ola bilir."
+
+msgid "manager.setup.metadata.citations.noRequest"
+msgstr "Təqdimat əsnasında müəllifdən referans tələb etməyin"
+
+msgid "manager.setup.metadata.citations.request"
+msgstr "Müəllifdən müraciət əsnasında referans verməsini istəyin"
+
+msgid "manager.setup.metadata.citations.require"
+msgstr "Müəllifin təqdimatını qəbul etməzdən əvvəl referans verməsini istəyin."
+
+#, fuzzy
+msgid "manager.setup.metadata.dataAvailability.description"
+msgstr ""
+"Müəllif (lər) in tədqiqat məlumatlarını və ya olmamasını təsvir edən qısa "
+"bir bəyanat, oxucuların daxil olduğu təqdirdə."
+
+#, fuzzy
+msgid "manager.setup.metadata.dataAvailability.enable"
+msgstr "Məlumatların mövcudluğu bəyanatını metadata aktivləşdirin"
+
+#, fuzzy
+msgid "manager.setup.metadata.dataAvailability.noRequest"
+msgstr "Təqdimat zamanı müəllifdən məlumatların mövcudluğunu tələb etməyin."
+
+#, fuzzy
+msgid "manager.setup.metadata.dataAvailability.request"
+msgstr ""
+"Təqdimat zamanı müəllifdən məlumat mövcudluğu barədə məlumat verməsini xahiş "
+"edin."
+
+#, fuzzy
+msgid "manager.setup.metadata.dataAvailability.require"
+msgstr ""
+"Müəllifin təqdimatını qəbul etməzdən əvvəl məlumatların mövcudluğu barədə "
+"bəyanat verməsini tələb edir."
+
+msgid "plugins.importexport.common.error.unknownUserGroup"
+msgstr "Naməlum istifadəçi qrupu: {$param}"
+
+msgid "plugins.importexport.common.error.missingGivenName"
+msgstr ""
+"{$authorName} adlı Müəllifin təqdimat dilində {$authorName} adlı müəyyən bir "
+"ad yoxdur. Bu məlumat olmandan müraciət qəbul edilə bilməz."
+
+#, fuzzy
+msgid "plugins.importexport.native.error.submissionFileRevisionMissing"
+msgstr ""
+"Fayl \"{$path}\"yolu ilə tapılmadığı üçün {$revision} göndərmə faylının{$id} "
+"redaksiyası atlandı."
+
+msgid "plugins.importexport.user.error.userHasNoPassword"
+msgstr ""
+"İdxal edilən \"{$username}\" istifadəçinin şifrəsi yoxdur. İdxaletmə XML "
+"formatınızı yoxlayın. İstifadəçi idxal edilə bilmədi."
+
+msgid "plugins.importexport.user.error.passwordHasBeenChanged"
+msgstr ""
+"İdxal edilən istifadəçi \"{$username}\"şifrəsi olduğu kimi idxal edilə/içə "
+"transfer edilə bilmədi. İstifadəçi emailinə yeni bir şifrə göndərildi. "
+"İstifadəçi içə transfer edildi."
+
+msgid "plugins.importexport.user.error.plainPasswordNotValid"
+msgstr ""
+"İçəriyə transfer edilən \"{$username}\" istifadəçinin etibarsız bir şifrəsi "
+"var. İstifadəçi içəriyə transfer edilə bilmədi."
+
+msgid "plugins.importexport.user.error.usernameEmailMismatch"
+msgstr ""
+"\"{$username}\" istifadəçi adı və \"{$email}\" emaili, mövcud istifadəçi ilə "
+"eyni deyil."
+
+#, fuzzy
+msgid "plugins.importexport.common.settings.form.testMode.label"
+msgstr "Test"
+
+msgid "manager.navigationMenus.form.duplicateTitles"
+msgstr "Bu başlıq başqa naviqasiya menyusu üçün artıq mövcuddur."
+
+msgid "manager.navigationMenus.form.conditionalDisplay"
+msgstr ""
+"Bu menyu elementinin nə zaman göstəriləcəyi və ya gizlənəcəyi haqqında daha "
+"çox məlumat əldə edin."
+
+msgid "manager.navigationMenus.form.submenuWarning"
+msgstr ""
+"Bir menyu elementi bir alt menyunu açdığı zaman, link bütün cihazlarda təqib "
+"edilə bilməz. Məsələn, \"Əlaqə\" və \"Məzmun komandası\" ilə bir alt menyu "
+"açan \"Haqqında\" elementiniz varsa, \"Haqqında\" linkinə bütün cihazlardan "
+"giriş edilməyə bilər. Defolt menyuda bu, alt menyuda görünən \"Jurnal "
+"Haqqında\" adlı ikinci bir menyu elementi yaradaraq işlənir."
+
+msgid "manager.navigationMenus.remoteUrl.description"
+msgstr ""
+"https://pkp.sfu.ca kimi başqa bir saytdakı hər hansı bir URL-ə link verin."
+
+msgid "manager.navigationMenus.about.conditionalWarning"
+msgstr ""
+"Bu link sadəcə \"Tənzimlər>Jurnal\" altındakı Jurnal haqqında bölməsini "
+"doldurmusunuzsa göstərilir."
+
+msgid "manager.navigationMenus.submissions.description"
+msgstr "Məqalə təlimatlarını göstərən səhifəyə link verin"
+
+msgid "manager.navigationMenus.archives.description"
+msgstr "Nömrə arxivinizə link verin"
+
+msgid "manager.navigationMenus.announcements.description"
+msgstr "Elanlarınızı göstərən səhifəyə link verin"
+
+msgid "manager.navigationMenus.announcements.conditionalWarning"
+msgstr ""
+"Bu link, sadəcə \"Tənzimlər >Veb saytı\" altında elanları "
+"aktivləşdirdiyinizdə görünür."
+
+msgid "manager.navigationMenus.login.description"
+msgstr "İstifadəçi giriş səhifəsinə link verin"
+
+msgid "manager.navigationMenus.register.description"
+msgstr "İstifadəçi qeydiyyat səhifəsinə link verin"
+
+msgid "manager.navigationMenus.dashboard.description"
+msgstr "İdarəçi panelinə link verin"
+
+msgid "manager.navigationMenus.profile.description"
+msgstr "İstifadəçi profil səhifəsinə link verin"
+
+msgid "manager.navigationMenus.administration.description"
+msgstr "Sayt İdarəetmə Vasitələrinə link verin"
+
+msgid "manager.navigationMenus.administration.conditionalWarning"
+msgstr "Bu linkə sadəcə idarəçi səlahiyyətinə sahib olanlar baxa bilər."
+
+msgid "manager.navigationMenus.logOut.description"
+msgstr "İstifadəçinin çıxışını qeydiyyatdan keçirəcək bir link verin"
+
+msgid "manager.navigationMenus.loggedIn.conditionalWarning"
+msgstr "Bu link sadəcə ziyarətçi daxil olmadığında baxılacaqdır."
+
+msgid "manager.navigationMenus.contact.description"
+msgstr "Əlaqə məlumatlarınızın baxıla biləcəyi bir səhifəyə link verin"
+
+msgid "manager.navigationMenus.contact.conditionalWarning"
+msgstr ""
+"Bu link sadəcə \"Tənzimlər > Əlaqə\" altındakı şəxs məlumatlarını "
+"doldurmusunuzsa baxıla bilən olur."
+
+msgid "manager.navigationMenus.subscriptions.conditionalWarning"
+msgstr ""
+"Bu ödənişlər linki sadəcə \"Tənzimlər > Paylanış > Ödənişlər\" altında "
+"aktivləşdirildiyi zaman baxıla bilən olur."
+
+msgid "manager.navigationMenus.mySubscriptions.conditionalWarning"
+msgstr "Bu link sadəcə bir ziyarətçi daxil olduğunda göstəriləcək"
+
+msgid "manager.navigationMenus.search.description"
+msgstr "Axtarış səhifə linki"
+
+msgid "manager.navigationMenus.privacyStatement.description"
+msgstr "Məxfilik bəyanatını göstərən səhifəyə link verin"
+
+msgid "manager.navigationMenus.privacyStatement.conditionalWarning"
+msgstr ""
+"Bu link sadəcə Tənzimlər > İş Axışı >Təqdimatlar altında bir məxfilik "
+"bildirişi daxil etmisinizsə baxıla bilər."
+
+msgid "grid.category.pathAlphaNumeric"
+msgstr "Kateqoriya yolu sadəcə hərf və rəqəmlərdən ibarət olmalıdır."
+
+msgid "stats.dateRange.invalidEndDateMax"
+msgstr "Son tarix {$date} tarixindən sonra ola bilməz"
+
+msgid "stats.dateRange.invalidStartDateMin"
+msgstr "Başlanğıc tarixi {$date} tarixindən əvvəl ola bilməz"
+
+msgid "stats.description.acceptRejectRate"
+msgstr ""
+"Seçilən tarix aralığının faizi, bu tarix aralığında göndərilən və son bir "
+"qərar alan müraciətlər üçün hesablanır. <br><br>Məsələn, bu tarix aralığında "
+"on müraciət edildiyini diqqətə alın. Dördü qəbul edildi, dördü rədd edildi "
+"və ikisi hələ konkret qərar gözləyir. <br><br> Qəbul nisbəti %50 (8 "
+"müraciətdən 4-ü) olacaq üçünkü son qərar verilməmiş iki müraciət hesablanmır."
+
+msgid "stats.description.daysToDecision"
+msgstr ""
+"Əksər müraciətin, rəddi və ya rəyçiyə göndərmə kimi ilk nəşr qərarını alması "
+"üçün keçən gün sayı. <br><br>Bu rəqəmlər, müraciətin %80-nin verilən gün "
+"sayı içində qərar qəbul edildiyiniz göstərir. <br><br>Bu statistika, "
+"Jurnalınıza göndərilən Müəlliflərin əksəriyyətinin nə zaman bir qərar "
+"gözləyə biləcəyini açıqlamağa çalışır."
+
+#, fuzzy
+msgid "stats.description.submissionsSkipped"
+msgstr ""
+"Buraya, hələ də davam edən və idxal edilənlər kimi digər cəmi sayılmayan "
+"təqdimatlar daxildir."
+
+#, fuzzy
+msgid "stats.file.type.suppFile"
+msgstr "Əlavə fayl"
+
+#, fuzzy
+msgid "stats.geographic.ccAttribution"
+msgstr "<a href='https://db-ip.com 'tərəfindən verilən geolokasiya, db-ip </a>"
+
+#, fuzzy
+msgid "stats.geographic.tooltip.label"
+msgstr "Geolokasiya haqqında"
+
+#, fuzzy
+msgid "stats.downloadReport.betweenDates"
+msgstr "{$startDate} - {$endDate}"
+
+#, fuzzy
+msgid "stats.downloadReport.allFilters"
+msgstr "Hamısı {$filter}"
+
+#, fuzzy
+msgid "stats.publications.downloadReport.downloadFiles"
+msgstr "Faylları yükləyin"
+
+#, fuzzy
+msgid "stats.publications.downloadReport.downloadFiles.description"
+msgstr "Hər bir fayl üçün yükləmə sayı."
+
+#, fuzzy
+msgid "stats.publications.downloadReport.downloadGeographic"
+msgstr "Coğrafi yükləyin"
+
+#, fuzzy
+msgid "stats.timeline"
+msgstr "Qrafiki"
+
+#, fuzzy
+msgid "stats.timeline.downloadReport.description"
+msgstr "Hər {$interval} üçün {$type} sayı."
+
+#, fuzzy
+msgid "stats.timeline.downloadReport.downloadTimeline"
+msgstr "Download qrafiki"
+
+#, fuzzy
+msgid "stats.timelineInterval"
+msgstr "Qrafiki interval"
+
+#, fuzzy
+msgid "stats.timelineType"
+msgstr "Qrafiki növü"
+
+#, fuzzy
+msgid "stats.unique"
+msgstr "Unikal"
+
+#, fuzzy
+msgid "stats.unknown"
+msgstr "naməlum"
+
+#, fuzzy
+msgid "emailTemplate.variable.context.userProfileUrl"
+msgstr "İstifadəçi üçün profilini görmək və redaktə etmək üçün URL."
+
+#, fuzzy
+msgid "emailTemplate.variable.decision.description"
+msgstr "Alınan qərarın təsviri."
+
+#, fuzzy
+msgid "emailTemplate.variable.decision.stage"
+msgstr "Redaksiya işinin mərhələsi bu qərar qəbul edildi."
+
+#, fuzzy
+msgid "emailTemplate.variable.decision.round"
+msgstr ""
+"Bu qərarı nəzərdən keçirmə mərhələsi, qərarın araşdırılması mərhələsi ilə "
+"əlaqədar olacağı təqdirdə alındı."
+
+#, fuzzy
+msgid "emailTemplate.variable.discussion.subject"
+msgstr "Müzakirənin mövzusu"
+
+#, fuzzy
+msgid "emailTemplate.variable.discussion.content"
+msgstr "Yeni müzakirənin və ya cavabın məzmunu"
+
+#, fuzzy
+msgid "emailTemplate.variable.editorialReminder.outstandingTasks"
+msgstr "Görkəmli tapşırıqlar olan təqdimatların siyahısı"
+
+#, fuzzy
+msgid "emailTemplate.variable.editorialReminder.numberOfSubmissions"
+msgstr "Bu redaktora təyin olunan təqdimatların sayı"
+
+#, fuzzy
+msgid "emailTemplate.variable.recommendation"
+msgstr "Təqdim olunan qərar, məsələn, təqdim etmək kimi"
+
+#, fuzzy
+msgid "emailTemplate.variable.review.assignedDate"
+msgstr "Bu baxışın təyin olunduğu tarix"
+
+#, fuzzy
+msgid "emailTemplate.variable.review.method"
+msgstr "Anonim, ikiqat anonim və ya açıq kimi baxış növü"
+
+#, fuzzy
+msgid "emailTemplate.variable.review.recommendation"
+msgstr "Rəyçinin tövsiyəsi, məsələn, təqdim və ya eniş qəbul etmək kimi"
+
+#, fuzzy
+msgid "emailTemplate.variable.review.round"
+msgstr "1-ci tur və ya dəyirmi 2 kimi nəzərdən keçirmə mərhələsi"
+
+#, fuzzy
+msgid "emailTemplate.variable.review.files"
+msgstr "Rəyçi tərəfindən yüklənən sənədlər"
+
+#, fuzzy
+msgid "emailTemplate.variable.review.name"
+msgstr "Rəyçinin adı"
+
+#, fuzzy
+msgid "emailTemplate.variable.reviewType.doubleAnonymous"
+msgstr ""
+"Bu jurnal ikiqat anonim həmyaşıd araşdırması aparır. Rəyçilər sizin və ya "
+"həmmüəllifləriniz haqqında heç bir müəyyənləşdirən məlumatı görməyəcəklər. "
+"Eynilə, təqdimatınızı kiminlə tanış olmasını bilməyəcəksiniz və rəyçilərdən "
+"birbaşa eşitməyəcəksiniz."
+
+#, fuzzy
+msgid "emailTemplate.variable.reviewType.open"
+msgstr ""
+"Bu jurnal açıq həmyaşıd rəyini icra edir. Rəyçilər adınızı və "
+"mənsubiyyətinizi, həm də həmmüəlliflərinizin adlarını və mənfillərini "
+"görəcəklər. Eynilə, rəyçilərin adlarını və mənsubiyyətlərini görəcəksiniz."
+
+#, fuzzy
+msgid "emailTemplate.variable.password"
+msgstr "Yeni təsadüfi istifadəçi şifrəsi"
+
+#, fuzzy
+msgid "emailTemplate.variable.submitterName"
+msgstr "Bir təqdimat faylı yükləyən bir istifadəçinin tam adı"
+
+#, fuzzy
+msgid "emailTemplate.variable.announcementTitle"
+msgstr "Elanın adı"
+
+#, fuzzy
+msgid "emailTemplate.variable.announcementSummary"
+msgstr "Elanın qısa təsviri"
+
+#, fuzzy
+msgid "emailTemplate.variable.announcementUrl"
+msgstr "Elanın URL"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.newSubmissions"
+msgstr "Bu ayda alınan təqdimatların sayı"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.declinedSubmissions"
+msgstr "Rədd edilmiş təqdimatların sayı"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.acceptedSubmissions"
+msgstr "Qəbul edilmiş təqdimatların sayı"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.otherSubmissions"
+msgstr "Digər cəmlərə daxil olmayan təqdimatların sayı"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.totalSubmissions"
+msgstr "Alınan təqdimatların ümumi sayı"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.month"
+msgstr "Hesabat ayı"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.year"
+msgstr "Hesabat ili"
+
+#, fuzzy
+msgid "emailTemplate.variable.issue.issueIdentification"
+msgstr "Həcmi, sayı, il və başlıq da daxil olmaqla, müəyyənləşdirilməsi"
+
+#, fuzzy
+msgid "emailTemplate.variable.issue.issuePublishedUrl"
+msgstr "Dərc olunan məsələyə URL"
+
+#, fuzzy
+msgid "mailTemplate.variable.statisticsReportNotify.year"
+msgstr "Hesabat ili"
+
+#, fuzzy
+msgid "emailTemplate.variable.statisticsReportNotify.editorialStatsLink"
+msgstr "Redaksiya fəaliyyəti səhifəsinə keçid"
+
+msgid "mailable.reviewerReinstate.description"
+msgstr ""
+"Bu email, redaktor tərəfindən rəyçi yenidən təyin edildiyində göndərilir"
+
+#, fuzzy
+msgid "mailable.reviewerResendRequest.description"
+msgstr ""
+"Bu e-poçt, redaktor istəyi sıfırlamaq istədikdə, rəy sorğusunu rədd edən bir "
+"rəyçi tərəfindən göndərilir."
+
+msgid "mailable.validateEmailSite.description"
+msgstr ""
+"Bu email, saytda qeydiyyatdan keçildiyi zaman email adresinin təsdiqlənməsi "
+"üçün avtomatik olaraq göndərilir."
+
+#, fuzzy
+msgid "mailable.decision.notifyOtherAuthors.name"
+msgstr "Digər müəlliflərə məlumat verin"
+
+#, fuzzy
+msgid "mailable.decision.notifyOtherAuthors.description"
+msgstr ""
+"Bu e-poçt, bir qərar qəbul edildiyi kimi təyin olunmayan bir təqdimatın "
+"müəlliflərini bildirməyə göndərilir. Adətən bunlar bütün digərləri "
+"müəllifdən başqa."
+
+#, fuzzy
+msgid "mailable.decision.notifyOtherAuthors.variable.message.description"
+msgstr "Təqdim edən müəllifə göndərilən e-poçt mesajının bir nüsxəsi"
+
+#, fuzzy
+msgid "mailable.decision.notifyReviewer.name"
+msgstr "Rəyçi təsdiq"
+
+#, fuzzy
+msgid "mailable.decision.notifyReviewer.description"
+msgstr ""
+"Bu e-poçt bir redaktor tərəfindən bir redaktor tərəfindən nəzərdən keçirdiyi "
+"bir təqdimatla əlaqədar bir qərar verildiyi barədə məlumat vermək üçün "
+"göndərilir."
+
+#, fuzzy
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription"
+msgstr ""
+"Bu qərar haqqında rəyçilərə göndərilən bir e-poçt bildirişində paylaşılması "
+"nəzərdə tutulan bu qərarın qısa təsviri."
+
+#, fuzzy
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription.accept"
+msgstr "Bu təqdimatı düzəliş olmadan qəbul etməyi seçdik."
+
+#, fuzzy
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription.decline"
+msgstr "Bu təqdimatı rədd etməyi seçdik."
+
+#, fuzzy
+msgid ""
+"mailable.decision.notifyReviewer.variable.decisionDescription."
+"pendingRevisions"
+msgstr "Müəllifləri düzəlişlər göndərməyə dəvət etdik."
+
+#, fuzzy
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription.resubmit"
+msgstr ""
+"Müəllifləri daha da nəzərdən keçirmək üçün yenidən işlənmiş bir versiyanı "
+"təqdim etməyə dəvət etdik."
+
+#, fuzzy
+msgid ""
+"mailable.decision.notifyReviewer.variable.decisionDescription.unassigned"
+msgstr "Təqdimat üçün dəvət olunan rəyçi təyin olunmamışdır."
+
+#, fuzzy
+msgid "mailable.decision.accept.notifyAuthor.name"
+msgstr "Təqdim edildi"
+
+#, fuzzy
+msgid "mailable.decision.accept.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, onların təqdimatının nəşr üçün qəbul olunduğunu müəllifi xəbərdar "
+"edir."
+
+#, fuzzy
+msgid "mailable.decision.backToCopyediting.notifyAuthor.name"
+msgstr "Təqdimat kopyalanmasına geri göndərildi"
+
+#, fuzzy
+msgid "mailable.decision.backToCopyediting.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, onların təqdimatının kopyalama mərhələsinə göndərildiyi müəllifi "
+"xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.decision.backFromCopyediting.notifyAuthor.name"
+msgstr "Təqdimat kopyalanmadan geri göndərildi"
+
+#, fuzzy
+msgid "mailable.decision.backFromCopyediting.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, onların təqdimatının kopyalama mərhələsindən geri göndərildiyini "
+"bildirir."
+
+#, fuzzy
+msgid "mailable.decision.cancelReviewRound.notifyAuthor.name"
+msgstr "İcmal dəyirmi ləğv edildi"
+
+#, fuzzy
+msgid "mailable.decision.cancelReviewRound.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, təqdim edilməsi üçün bir baxışın ləğv edildiyi müəllifi xəbərdar "
+"edir."
+
+#, fuzzy
+msgid "mailable.decision.decline.notifyAuthor.name"
+msgstr "Təqdimat rədd edildi"
+
+#, fuzzy
+msgid "mailable.decision.decline.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt müəllifin nəzərdən keçirilməsindən sonra nəzərdən keçirilməsindən "
+"sonra rədd edildiyini bildirir."
+
+#, fuzzy
+msgid "mailable.decision.initialDecline.notifyAuthor.name"
+msgstr "Təqdimat rədd edildi"
+
+#, fuzzy
+msgid "mailable.decision.newReviewRound.notifyAuthor.name"
+msgstr "Yeni baxış turu başlatdı"
+
+#, fuzzy
+msgid "mailable.decision.newReviewRound.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, yeni bir rəyin təqdim edilməsinə başladığı müəllifi xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.decision.requestRevisions.notifyAuthor.name"
+msgstr "İstənilən düzəlişlər"
+
+#, fuzzy
+msgid "mailable.decision.requestRevisions.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, həmyaşıd rəyləri zamanı düzəliş tələb etmək qərarının müəllifini "
+"xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.decision.resubmit.notifyAuthor.name"
+msgstr "Rəy üçün yenidən göndər"
+
+#, fuzzy
+msgid "mailable.decision.resubmit.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt onların təqdim edilməsi ilə bağlı bir \"yenidən işləmə və "
+"resubmit\" qərarının müəllifini xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.decision.revertDecline.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, həmçinin nəzərdən keçirildikdən sonra əvvəlki qərarı əvvəlki "
+"qərarın rədd edilməsi barədə rədd edilməsi barədə xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.decision.revertInitialDecline.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, əvvəlki qərarı nəzərdən keçirmədən imtina etmək üçün bir əvvəlki "
+"qərarın rədd edilməsi barədə məlumat verilir."
+
+#, fuzzy
+msgid "mailable.decision.sendExternalReview.notifyAuthor.name"
+msgstr "Nəzərdən keçirmək üçün göndərildi"
+
+#, fuzzy
+msgid "mailable.decision.sendExternalReview.notifyAuthor.description"
+msgstr "Bu e-poçt müəllifin təqdimat mərhələsinə göndərildiyini bildirir."
+
+#, fuzzy
+msgid "mailable.decision.sendToProduction.notifyAuthor.name"
+msgstr "İstehsala göndərildi"
+
+#, fuzzy
+msgid "mailable.decision.sendToProduction.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, təqdimatlarının istehsal mərhələsinə göndərildiyini müəllifi "
+"xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.decision.skipReview.notifyAuthor.name"
+msgstr "Nəzərdən keçirildi"
+
+#, fuzzy
+msgid "mailable.decision.skipReview.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt müəllifinin təqdim etdiyi müəllifin birbaşa kopyalama mərhələsinə "
+"göndərildiyini və nəzərdən keçirilməyəcək."
+
+#, fuzzy
+msgid "mailable.decision.recommendation.notifyEditors.name"
+msgstr "Tövsiyə edildi"
+
+#, fuzzy
+msgid "mailable.decision.recommendation.notifyEditors.description"
+msgstr ""
+"Bu mesaj, təyin olunmuş təqdimatlardan biri ilə bağlı redaktor tövsiyəsinin "
+"edildiyi baş redaktoru və ya bölmə redaktoruna xəbər verir. Bu mesaj bir "
+"redaktorun redaksiya qərarını tövsiyə etməyə icazə verildiyi və redaksiya "
+"qərarlarını qeyd etmək üçün səlahiyyətli bir redaktor tələb etdikdə istifadə "
+"olunur. Bu seçim iştirakçıları təqdim etmək üçün təyin edərkən seçilə bilər."
+
+#, fuzzy
+msgid "mailable.reviewConfirm.name"
+msgstr "Təsdiq təsdiqləyin"
+
+#, fuzzy
+msgid "mailable.reviewDecline.name"
+msgstr "Rəy eniş"
+
+#, fuzzy
+msgid "mailable.reviewRemind.name"
+msgstr "Xatırlatma"
+
+msgid "mailable.reviewRemind.description"
+msgstr ""
+"Bu email rəyçinin dəyərləndirmə üçün qeyd olunan son tarixin bitmək üzrə "
+"olduğunu xatırlatmaq üçün Bölmə Redaktoru tərəfindən rəyçilərə göndərilir."
+
+#, fuzzy
+msgid "mailable.reviewRemindAuto.name"
+msgstr "Xatırlatma Xatırlatma (Avtomatik)"
+
+msgid "mailable.reviewRemindAuto.description"
+msgstr ""
+"Rəy üçün verilən müddət keçdiyində bu email avtomatik olaraq göndərilir. "
+"Avtomatik xatırlatma üçün müddət tənzimlərinə Dəyərləndirmə Tənzimləri "
+"qismindən çata bilərsiniz."
+
+#, fuzzy
+msgid "mailable.reviewAcknowledgement.name"
+msgstr "Təsdiq təsdiqini nəzərdən keçirin"
+
+#, fuzzy
+msgid "mailable.reviewAcknowledgement.description"
+msgstr ""
+"Bu e-poçt, tamamlanmış bir rəyin alınmasını təsdiqləmək üçün bir bölmə "
+"redaktoru tərəfindən göndərilir və onların töhfələri üçün rəyçi olun."
+
+#, fuzzy
+msgid "mailable.reviewResponseOverdueAuto.name"
+msgstr "Rəy cavabı vaxtı keçmiş (avtomatlaşdırılmış)"
+
+msgid "mailable.reviewResponseOverdueAuto.description"
+msgstr ""
+"Bu email, bir rəyçinin təsdiq tarixi keçdiyi zaman avtomatik olaraq "
+"göndərilir (Tənzimlər>İş Axışı>Gözdən keçirmə altındakı İncələmə Seçimlərinə "
+"baxın) və tək kliklə rəyçi çatma sıradan çıxarılır. Planlanmış vəzifələr "
+"aktivləşdirilməli və tənzimlənməlidir (sayt tənzimlənmə faylı bölməsinə "
+"baxın)."
+
+#, fuzzy
+msgid "mailable.reviewRequest.name"
+msgstr "Xahişimi nəzərdən keçirin"
+
+#, fuzzy
+msgid "mailable.reviewRequestSubsequent.name"
+msgstr "Baxış tələbi sonradan"
+
+msgid "mailable.reviewRequestSubsequent.description"
+msgstr ""
+"Redaktordan rəyçiyə göndərilən bu email, rəyçinin yeni bir incələmə turu "
+"üçün rəyçiliyi qəbul etməsini və ya rədd etməsini istəyər. Başlıq və xülasə, "
+"dəyərləndirmə son tarixi və namizəd məqaləyə necə çatılacağı kimi məlumatlar "
+"bu emailə daxildir."
+
+#, fuzzy
+msgid "plugins.importexport.common.error.currentPublicationNullOrMissing"
+msgstr "Təqdimatın cari nəşri yoxdur"
+
+#, fuzzy
+msgid "plugins.importexport.common.error.submissionChildFailed"
+msgstr "Təqdimatın uşağı {$child} işlənmədi"
+
+#, fuzzy
+msgid "mailable.editorialReminder.name"
+msgstr "Redaksiya xatırlatması"
+
+#, fuzzy
+msgid "mailable.editorialReminder.description"
+msgstr ""
+"Görkəmli vəzifələri olan redaktorlara göndərilən avtomatlaşdırılmış bir "
+"e-poçt"
+
+#, fuzzy
+msgid "mailable.passwordResetRequested.name"
+msgstr "Parol sıfırlama təsdiqləyin"
+
+#, fuzzy
+msgid "mailable.passwordResetRequested.description"
+msgstr ""
+"Şifrələrini unutduqları və ya daxil ola bilmədikləri zaman bu e-poçt "
+"qeydiyyatdan keçmiş istifadəçiyə göndərilir. Parollarını yenidən qurmaq üçün "
+"izləyə biləcək bir URL təmin edir."
+
+#, fuzzy
+msgid "mailable.userRegister.name"
+msgstr "İstifadəçi yaratdı"
+
+#, fuzzy
+msgid "mailable.userRegister.description"
+msgstr ""
+"Bu e-poçt, redaksiya meneceri istifadəçi parametrləri vasitəsilə istifadəçi "
+"yaratdıqda yeni yaradılan bir istifadəçiyə göndərilir. E-poçt onları sistemə "
+"salamlamalı və istifadəçi adı və şifrənizi qeyd etməlidir."
+
+#, fuzzy
+msgid "mailable.reviewerRegister.name"
+msgstr "Rəyçi qeydiyyatı"
+
+#, fuzzy
+msgid "mailable.reviewerRegister.description"
+msgstr ""
+"Bu e-poçt onları sistemə salamlamaq və istifadəçi adı və şifrənizi qeyd "
+"etmək üçün yeni qeydiyyatdan keçmiş rəyçi göndərilir."
+
+#, fuzzy
+msgid "mailable.submissionSavedForLater.name"
+msgstr "Sonradan təqdim edildi"
+
+#, fuzzy
+msgid "mailable.submissionSavedForLater.description"
+msgstr ""
+"Sonradan başa çatdırmaq üçün təqdim etdikləri zaman müəlliflərə göndərilən "
+"avtomatlaşdırılmış bir e-poçt"
+
+#, fuzzy
+msgid "mailable.submissionAck.name"
+msgstr "Təqdimat təsdiqlənməsi"
+
+#, fuzzy
+msgid "mailable.submissionAck.description"
+msgstr ""
+"Bu e-poçt avtomatik olaraq təqdimat etdikdə bir müəllifə göndərilir. Bu "
+"redaksiya prosesi vasitəsilə təqdimatı izləmək və təqdim etmək üçün müəllifə "
+"təşəkkür etmək barədə məlumat verir."
+
+#, fuzzy
+msgid "mailable.submissionAckNotAuthor.name"
+msgstr "Təqdimat təsdiqlənməsi (digər müəlliflər)"
+
+#, fuzzy
+msgid "mailable.submissionAckNotAuthor.description"
+msgstr ""
+"Bu e-poçt avtomatik olaraq müəllif təqdim etməyən bir təqdimatda "
+"adlandırılan müəlliflərə göndərilir."
+
+#, fuzzy
+msgid "mailable.discussionSubmission.name"
+msgstr "Müzakirə (təqdim etmək)"
+
+#, fuzzy
+msgid "mailable.discussionSubmission.description"
+msgstr ""
+"Bu e-poçt bir müzakirə yaradıldıqda və ya təqdim mərhələsində cavab verdikdə "
+"göndərilir."
+
+#, fuzzy
+msgid "mailable.discussionReview.name"
+msgstr "Müzakirə (baxış)"
+
+#, fuzzy
+msgid "mailable.discussionReview.description"
+msgstr ""
+"Bu e-poçt bir müzakirə yaradıldıqda və ya baxış mərhələsində cavab verdikdə "
+"göndərilir."
+
+#, fuzzy
+msgid "mailable.discussionCopyediting.name"
+msgstr "Müzakirə (Kopyalama)"
+
+#, fuzzy
+msgid "mailable.discussionCopyediting.description"
+msgstr ""
+"Bu e-poçt, bir müzakirə yaradıldıqda və ya kopyalama mərhələsində cavab "
+"verdikdə göndərilir."
+
+#, fuzzy
+msgid "mailable.discussionProduction.name"
+msgstr "Müzakirə (istehsal)"
+
+#, fuzzy
+msgid "mailable.discussionProduction.description"
+msgstr ""
+"Bu e-poçt bir müzakirə yaradıldıqda və ya istehsal mərhələsində cavab "
+"verdikdə göndərilir."
+
+#, fuzzy
+msgid "mailable.revisedVersionNotify.name"
+msgstr "Yenidən işlənmiş versiya bildirişi"
+
+#, fuzzy
+msgid "mailable.revisedVersionNotify.description"
+msgstr ""
+"Bu e-poçt, bir məqalənin yenidən işlənmiş bir versiyasını yüklədikdə "
+"avtomatik olaraq təyin olunmuş redaktora göndərilir."
+
+#, fuzzy
+msgid "mailable.announcementNotify.name"
+msgstr "Yeni elan"
+
+#, fuzzy
+msgid "mailable.announcementNotify.description"
+msgstr "Yeni bir elan yarandıqda bu e-poçt göndərilir."
+
+#, fuzzy
+msgid "mailable.statisticsReportNotify.name"
+msgstr "Statistika Hesabatı bildirişi"
+
+#, fuzzy
+msgid "mailable.editReviewNotify.name"
+msgstr "Baxış bildirişini düzəldin"
+
+#, fuzzy
+msgid "mailable.editReviewNotify.description"
+msgstr ""
+"Bu e-poçt, rəy tapşırığının təfərrüatları dəyişdirildikdə rəyçi avtomatik "
+"olaraq xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.reviewCompleteNotifyEditors.name"
+msgstr "Rəyçi redaktorlara bildirin"
+
+#, fuzzy
+msgid "mailable.reviewCompleteNotifyEditors.description"
+msgstr ""
+"Bu e-poçt avtomatik olaraq refereya tövsiyə edərkən təyin edilmiş "
+"redaktorlara göndərilir"
+
+#, fuzzy
+msgid "mailable.decision.backToReview.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, onların təqdimatlarının nəzərdən keçirmə mərhələsinə göndərildiyi "
+"müəllifi xəbərdar edir."
+
+#, fuzzy
+msgid "mailable.decision.backToSubmission.notifyAuthor.description"
+msgstr ""
+"Bu e-poçt, onların təqdimatının təqdim mərhələsinə göndərildiyi müəllifi "
+"xəbərdar edir."
+
+#, fuzzy
+msgid "manager.manageEmails"
+msgstr "E-poçtları idarə edin"
+
+#, fuzzy
+msgid "manager.manageEmailTemplates.description"
+msgstr ""
+"<p> <a href=\"{$url}\"_ sistem tərəfindən göndərilən bütün e-poçtlar üçün "
+"şablonları əlavə edin və redaktə edin. </ p>"
+
+#, fuzzy
+msgid "manager.mailables.addTemplates"
+msgstr ""
+"Bu e-poçtu göndərdikdə istifadəçiyə təqdim etmək istədiyiniz şablonları "
+"əlavə edin və redaktə edin. Defolt avtomatik yüklənəcək və istifadəçi burada "
+"əlavə etdiyiniz digər şablonları tez bir zamanda yükləyə biləcək."
+
+#, fuzzy
+msgid "manager.mailables.templates"
+msgstr "Şablon"
+
+#, fuzzy
+msgid "manager.mailables.editTemplate"
+msgstr "Şablonu düzəldin"
+
+#, fuzzy
+msgid "manager.mailables.removeTemplate"
+msgstr "Şablonu çıxarın"
+
+#, fuzzy
+msgid "manager.mailables.removeTemplate.confirm"
+msgstr "Şablonu <strong> {$template} </ strong> silmək istədiyinizə əminsiniz?"
+
+#, fuzzy
+msgid "manager.mailables.resetTemplate"
+msgstr "Şablonu yenidən qurun"
+
+#, fuzzy
+msgid "manager.mailables.resetTemplate.confirm"
+msgstr ""
+"Şablon üçün <strong> {$template} </ strong> üçün standartlarına tabe olan "
+"mövzunu və bədəni yenidən qurmaq istədiyinizə əminsiniz?"
+
+#, fuzzy
+msgid "manager.mailables.search"
+msgstr "Adı və ya Təsviri ilə axtarın"
+
+#, fuzzy
+msgid "manager.emailTemplate.name.description"
+msgstr "Bu şablonu tapmağınıza kömək etmək üçün qısa bir ad daxil edin."
+
+#, fuzzy
+msgid "manager.newSubmission"
+msgstr "Yeni təqdimat"
+
+#, fuzzy
+msgid "manager.newSubmission.description"
+msgstr ""
+"Yeni bir təqdimat edildikdə göndərmək üçün e-poçt bildirişlərini "
+"konfiqurasiya edin."
+
+#, fuzzy
+msgid "manager.submissionAck.description"
+msgstr "Yeni bir təqdimat başa çatdıqda kim bir e-poçt almalıdır."
+
+#, fuzzy
+msgid "manager.submissionAck.off"
+msgstr "Bir e-poçt göndərməyin."
+
+#, fuzzy
+msgid "manager.submissionAck.submittingAuthor"
+msgstr "Yalnız təqdim edən müəllifə bir e-poçt göndərin."
+
+#, fuzzy
+msgid "manager.submissionAck.allAuthors"
+msgstr "Bütün müəlliflərə bir e-poçt göndərin."
+
+#, fuzzy
+msgid "manager.editorialDecisions"
+msgstr "Redaksiya qərarları"
+
+#, fuzzy
+msgid "manager.editorialDecisions.description"
+msgstr ""
+"Redaksiya qərarı qeydə alındıqda müəlliflərə göndərmək üçün e-poçt "
+"bildirişlərini konfiqurasiya edin."
+
+#, fuzzy
+msgid "manager.forEditors"
+msgstr "Redaktorlar üçün"
+
+#, fuzzy
+msgid "manager.forEditors.description"
+msgstr "Redaktorlara göndərmək üçün e-poçt bildirişlərini konfiqurasiya edin."
+
+#, fuzzy
+msgid "manager.editorialStatistics"
+msgstr "Redaksiya statistikası"
+
+#, fuzzy
+msgid "manager.editorialStatistics.description"
+msgstr ""
+"Qəbul və rədd etmək kimi jurnalın redaktor statistikası ilə redaktorlara "
+"aylıq bir e-poçt göndərməyiniz və ya etməməyiniz. Redaktorlar istifadəçi "
+"profilindən bu e-poçtdan abunə ola bilərlər."
+
+#, fuzzy
+msgid "manager.editorialStatistics.on"
+msgstr "Redaktorlara aylıq bir e-poçt göndərin."
+
+#, fuzzy
+msgid "manager.editorialStatistics.off"
+msgstr "E-poçtu redaktorlara göndərməyin."
+
+#, fuzzy
+msgid "manager.submitWithCategories.description"
+msgstr ""
+"Təqdim olunan müəllifdən yeni bir təqdimat etdikdə bir kateqoriya seçmək "
+"istəməlidirmi?"
+
+#, fuzzy
+msgid "manager.submitWithCategories.yes"
+msgstr "Bəli, təqdim Sihirbazına kateqoriyalar sahəsi əlavə edin."
+
+#, fuzzy
+msgid "manager.submitWithCategories.no"
+msgstr "Xeyr, bu sahəni müəllifləri göstərməyin."
+
+#, fuzzy
+msgid "mailable.copyeditRequest.name"
+msgstr "Copediit tələbi"
+
+#, fuzzy
+msgid "mailable.editorAssign.name"
+msgstr "Redaktor təyin edildi"
+
+#, fuzzy
+msgid "mailable.layoutRequest.name"
+msgstr "İstehsal üçün hazırdır"
+
+#, fuzzy
+msgid "mailable.system"
+msgstr "Sistem"
+
+#, fuzzy
+msgid "mailable.versionCreated.name"
+msgstr "Yaradılış versiyası"
+
+#, fuzzy
+msgid "mailable.reviewComplete.name"
+msgstr "Baxış tamamlandı"
+
+#, fuzzy
+msgid "mailable.reviewEdit.name"
+msgstr "İcmal redaktə edildi"
+
+#, fuzzy
+msgid "manager.emails.enable.message"
+msgstr "Bu e-poçtu daxil edəcəksiniz.  Bu əməliyyatı təsdiqləmək istəyirsiniz?"
+
+#, fuzzy
+msgid "manager.emails.resetAll.message"
+msgstr ""
+"Bütün şablonları sıfırlasanız, e-poçt şablonlarındakı bütün dəyişikliklər "
+"itiriləcəkdir.  Bu əməliyyatı təsdiqləmək istəyirsiniz?"
+
+#, fuzzy
+msgid "manager.plugins.pleaseInstall"
+msgstr "Plugin yoxdur.  Zəhmət olmasa bunun əvəzinə quraşdırın"
+
+#, fuzzy
+msgid "manager.plugins.pleaseUpgrade"
+msgstr ""
+"Plugin artıq mövcuddur, lakin quraşdırılmış versiyadan daha yenidir.  Zəhmət "
+"olmasa bunun əvəzinə yeniləyin"
+
+msgid "manager.setup.competingInterests.requireAuthors"
+msgstr ""
+"Müəlliflərin məqalə ilə birlikdə mənfəət münaqişəsi bildirişi faylı "
+"göndərmələri gərəklidir."
+
+msgid "manager.setup.masthead"
+msgstr "İdarəçi siyahısı"
+
+msgid "plugins.importexport.common.validation"
+msgstr "İxrac və qeydiyyat əməliyyatından əvvəl XML-i təsdiqləyin"
