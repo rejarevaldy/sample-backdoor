@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /
-Disallow: /Logs/*
-Disallow: /settings/*
-Disallow: /login/*
